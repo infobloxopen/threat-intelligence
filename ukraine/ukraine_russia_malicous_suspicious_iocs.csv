@@ -270,6 +270,7 @@
 "domain","helpukraine[.]at","unavailable",""
 "domain","helpukraine[.]biz","suspicious",""
 "domain","helpukraine[.]charity","phishing",""
+"domain","helpukraine[.]direct","suspicious",""
 "domain","helpukraine[.]eu","suspicious",""
 "domain","helpukraine[.]homes","parked",""
 "domain","helpukraine[.]in","suspicious","https://parimatch.in/"
