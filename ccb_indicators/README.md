@@ -1,3 +1,3 @@
-Infoblox produces Cyber Threat Advisories to provide analysis of significant threats providing identifiers, configurations, and network flow overviews. This insight can be used to proactively prepare against threats.
+Infoblox produces Cyber Campaign Briefs to issue in real-time whenever a significant threat requires action, these briefs give you actionable details and intelligence to quickly mitigate new attacks.
 
-This folder contains IOCs related to our publications [here](https://blogs.infoblox.com/category/cyber-threat-intelligence/cyber-threat-advisory/).
+This folder contains IOCs related to our publications [here](https://blogs.infoblox.com/category/cyber-threat-intelligence/cyber-campaign-briefs/).
