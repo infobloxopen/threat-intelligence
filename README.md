@@ -23,10 +23,10 @@ created support programs operated by entities positively acknowledged by the onl
 blocked by other vendors due to their new registration or other automated analytics. 
 
 ## ccb_indicators
-This folder contains IOCs related to our cyber campaign briefs (ccb)
+This folder contains IOCs related to our [cyber campaign briefs (ccb)](https://blogs.infoblox.com/category/cyber-threat-intelligence/cyber-campaign-briefs/)
 
 ## cta_indicators
-This folder contains IOCs related to our cyber threat advisories (cta)
+This folder contains IOCs related to our [cyber threat advisories (cta)](https://blogs.infoblox.com/category/cyber-threat-intelligence/cyber-threat-advisory/)
 
 ###### Schema Table
 | Field              | Description |
