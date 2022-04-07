@@ -1,1 +1,2 @@
-palceholder
+Infoblox produces Cyber Threat Advisories about ...
+This folder contains IOCs related to our publications [here](https://blogs.infoblox.com/category/cyber-threat-intelligence/cyber-threat-advisory/)
