@@ -6,4 +6,4 @@ This folder contains IOCs related to our publications [here](https://blogs.infob
 ###### Publications
 | Date (YYYY-MM-DD) | Title | Paper URL | Data File |
 | ----------- | ----------- | ----------- | ----------- |
-| 2022-04-08 | The The Smish is Coming from Inside the House | https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/the-smish-is-coming-from-inside-the-house/ | https://github.com/nsundvall/threat-intelligence/blob/main/cta_indicators/smishing_cta_20220407_iocs.csv |
+| 2022-04-08 | The Smish is Coming from Inside the House | https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/the-smish-is-coming-from-inside-the-house/ | https://github.com/infobloxopen/threat-intelligence/blob/main/cta_indicators/smishing_cta_20220408_iocs.csv |
