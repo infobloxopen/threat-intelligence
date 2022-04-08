@@ -22,6 +22,11 @@ This includes domains belonging to well-known donation sites providing support t
 created support programs operated by entities positively acknowledged by the online community.  Many of these are
 blocked by other vendors due to their new registration or other automated analytics. 
 
+## ccb_indicators
+This folder contains IOCs related to our [Cyber Campaign Briefs (ccb)](https://blogs.infoblox.com/category/cyber-threat-intelligence/cyber-campaign-briefs/)
+
+## cta_indicators
+This folder contains IOCs related to our [Cyber Threat Advisories (cta)](https://blogs.infoblox.com/category/cyber-threat-intelligence/cyber-threat-advisory/)
 
 ###### Schema Table
 | Field              | Description |
