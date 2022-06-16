@@ -1,4 +1,7 @@
 "type","indicator","classification","references"
+"domain","007-service-ua[.]site","phishing","https://urlscan.io/result/87ba0bef-e2f5-4b98-9bdc-9edea26468c2/
+,
+https://urlscan.io/result/8bcb7ce8-8566-4646-9303-a9fffa62c57d/"
 "domain","1-helpukrainejews[.]faireee[.]com","phishing","https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/ukrainian-support-fraud/"
 "domain","101food-ukraine[.]com","parked",""
 "domain","10[.]slaveukrain[.]cc","phishing","https://urlscan.io/result/0f771920-5520-4073-a086-dd753638c04a/"
@@ -18,6 +21,10 @@
 "domain","4ukraine[.]net","phishing","https://urlscan.io/result/0f771920-5520-4073-a086-dd753638c04a/"
 "domain","4x4s4ukraine[.]net","parked",""
 "domain","789o8lm[.]xyz","malware",""
+"domain","Sortie-Crise-Economique-Ukraine[.]com","phishing","https://whois.domaintools.com/sortie-crise-economique-ukraine.com 
+
+https://www.economie.gouv.fr/ukraine-soutiens-entreprises-francaises-impactees-economiquement#
+"
 "domain","_bimi[.]godsafeukraine[.]com","phishing","https://urlscan.io/result/0f771920-5520-4073-a086-dd753638c04a/"
 "domain","_dmarc[.]godsafeukraine[.]com","phishing","https://urlscan.io/result/0f771920-5520-4073-a086-dd753638c04a/"
 "domain","a-discount-ukraine[.]store","parked",""
@@ -58,6 +65,10 @@
 "domain","aidukraine[.]net","phishing","https://urlscan.io/result/0f771920-5520-4073-a086-dd753638c04a/"
 "domain","aidukraine[.]org","phishing",""
 "domain","aidukraine[.]org[.]uk","parked",""
+"domain","aidukrainecoin[.]com","phishing","https://crystalblockchain.com/verified-ukraine-donation-programs-list/ 
+
+https://twitter.com/Luca05102882/status/1525849002302128128
+"
 "domain","aidukrainefoundation[.]com","parked",""
 "domain","airdropukraine-nft[.]com","unavailable",""
 "domain","airstore-ukraine[.]com[.]ua","suspicious","https://moshennik.eu/company.php?name=380631849875"
@@ -66,6 +77,7 @@
 "domain","akulasystems[.]com","phishing","https://urlscan.io/result/a2efecf8-340b-40b6-adb0-481ed55f8762/"
 "domain","alljob[.]org","phishing",""
 "domain","allukraine-help[.]in[.]ua","suspicious","https://urlscan.io/result/22ae2143-a1a9-477e-b8fa-0e8a657d9cb3/"
+"domain","allukraine[.]online","parked",""
 "domain","amazingukraine[.]tours","parked",""
 "domain","amberukraine[.]com","parked",""
 "domain","americaforukraine[.]org","parked",""
@@ -127,12 +139,15 @@
 "domain","basedukraine[.]com","phishing",""
 "domain","bat-ukraine[.]com","suspicious",""
 "domain","battleforukraine[.]com","suspicious",""
+"domain","bazarukraine[.]com","parked",""
 "domain","beautytravelukraine[.]com","parked",""
 "domain","beersforukraine[.]com","suspicious",""
 "domain","beforukraine[.]be","parked",""
 "domain","beforukraine[.]com","parked",""
 "domain","bel-ukraine[.]com","parked",""
+"domain","belaruswithukraine[.]com","suspicious",""
 "domain","bend[.]javastrong[.]biz","suspicious","https://research.domaintools.com/iris/investigations/896649/search/7f71f422-e8e1-4bae-a752-98257f2cc7d6/56f21ec5-ccb0-4997-a942-7f1381e3603b"
+"domain","benefitukrainefundriser[.]com","suspicious","https://www.virustotal.com/gui/url/1f651882df4dc2863e9dbc6d5cd5075ae084a9c2af43ac0fc627fee90c4d20e3"
 "domain","bernercookiesdespensary[.]com","phishing","https://www.blockchain.com/btc/address/3GfDiyq77ThF3wGwKoZYeULE95bj9ATsdP"
 "domain","bertshbt32[.]xyz","malware",""
 "domain","bestukraine[.]org","malware","https://www.virustotal.com/gui/domain/bestukraine.org,https://research.domaintools.com/iris/investigations/892054/search/c45448d6-7211-4da9-91a5-8c5f3a71baf7/cc03caad-19e5-4b74-9417-8c6558412e38"
@@ -167,6 +182,7 @@
 "domain","cannabiswithukraine[.]org","suspicious",""
 "domain","captain-ukraine[.]com","parked",""
 "domain","captainukraine[.]com","suspicious","https://www.virustotal.com/gui/domain/sweet.tv/relations,https://urlscan.io/result/8bfe072c-5f93-4fc7-bc6c-3fdf8c653a3c/,https://urlscan.io/result/3f46872e-7d1f-4210-b9cd-3044e0289eeb/#summary,https://www.microsoft.com/en-us/p/sweettv-tv-and-movies/9pfmsh4nh6zn?activetab=pivot:overviewtab#"
+"domain","car4ukraine[.]com","suspicious",""
 "domain","careforukraine[.]org","unavailable",""
 "domain","carrieamie[.]com","phishing","https://urlscan.io/result/0f771920-5520-4073-a086-dd753638c04a/"
 "domain","ccukraine[.]com","unavailable",""
@@ -180,6 +196,7 @@
 "domain","coinbase-invest[.]us","phishing","https://urlscan.io/result/42f4b39c-0d6f-4117-9470-fd1f8e96d1ac/"
 "domain","cointukraine[.]site","unavailable",""
 "domain","collabukraine[.]com","parked",""
+"domain","columbia-ukraine[.]site","unavailable",""
 "domain","conciergeukraine[.]com","unavailable",""
 "domain","cookforukraine[.]com","parked",""
 "domain","costcoproof[.]co","phishing","https://urlscan.io/result/bf6c8e68-9abd-4068-867d-34f9fbcb6a33/"
@@ -223,6 +240,11 @@
 "domain","desiswxmasala[.]com","malware","https://www.virustotal.com/gui/domain/airxanada.com/details"
 "domain","desisxmasala[.]com","malware","https://www.virustotal.com/gui/domain/airxanada.com/details"
 "domain","devsforukraine[.]io","suspicious",""
+"domain","diagnostika-pc[.]ru","phishing","https://urlscan.io/result/344fb66d-e9c0-4f3c-8466-f7c18aef075e/
+,
+https://urlscan.io/result/805ad4b5-1cfe-48c0-b496-8f5e581da39e/
+, https://urlscan.io/result/4495bbce-8df3-4cf5-bb2a-3c7bf4002d72/
+, https://urlscan.io/result/4cc60531-2d3f-4983-8717-8f59f9c8f6a6/"
 "domain","dienste-email[.]eu","phishing","https://latestpagenews.com/technology/phishing-attacks-russian-hackers-disguised-themselves-as-ukrainian-military-personnel/"
 "domain","dinniihr[.]cam","suspicious","https://www.virustotal.com/gui/url/3abd155e7f8a64729dc6c9479a9c5c1b698430e330a21ed7702a8b55b6b859c8"
 "domain","directhelpforukraine[.]info","suspicious",""
@@ -261,6 +283,7 @@
 "domain","donation-for-ukraine[.]com","phishing","https://mobile.twitter.com/DonPasci/status/1510912819146993664"
 "domain","donations-to-ukraine[.]org","phishing","https://urlscan.io/result/0f771920-5520-4073-a086-dd753638c04a/"
 "domain","donationukraine[.]io","parked",""
+"domain","dopomoga-ukraine-official[.]com","phishing",""
 "domain","doterraukraine[.]biz","unavailable",""
 "domain","dripwatt[.]co","phishing","https://urlscan.io/result/bf6c8e68-9abd-4068-867d-34f9fbcb6a33/"
 "domain","dronesforukraine[.]fund","suspicious",""
@@ -306,6 +329,7 @@
 "domain","foodukraine[.]org[.]culturecareintl[.]com","suspicious",""
 "domain","foody[.]razonforukraine[.]com","phishing","https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/ukrainian-support-fraud/"
 "domain","footballforukraine[.]com","phishing",""
+"domain","for-victory-ukraine[.]org[.]ua","suspicious",""
 "domain","forkscenter[.]fr","malware","https://cert.gov.ua/article/37704"
 "domain","fornativeukraine[.]com","parked",""
 "domain","fortuskan[.]ru","malware","https://www.virustotal.com/gui/domain/fortuskan.ru/details"
@@ -404,6 +428,7 @@
 "domain","hatzalaukraine[.]com","parked",""
 "domain","hatzalhaukraine[.]org","parked",""
 "domain","hatzallahukraine[.]com","parked",""
+"domain","havasukraine[.]com[.]ua","parked",""
 "domain","haverussiainvadedukraineyet[.]com","parked",""
 "domain","health4ukraine[.]pl","parked",""
 "domain","healukraine[.]org","unavailable",""
@@ -448,6 +473,7 @@
 "domain","helpsaveukrainenow[.]net","phishing","https://urlscan.io/result/0f771920-5520-4073-a086-dd753638c04a/"
 "domain","helpsaveukrainetoday[.]com","phishing","https://urlscan.io/result/3a46d6ec-9907-4f6a-8a0c-22dfa67e5a5f/"
 "domain","helpsforukraine[.]com","phishing","https://urlscan.io/result/0f771920-5520-4073-a086-dd753638c04a/"
+"domain","helpsukraine[.]net","suspicious",""
 "domain","helpsupportukraine[.]org","phishing","https://urlscan.io/result/e536287c-3618-4efd-896b-623de84d6058/dom/"
 "domain","helptheukraine[.]nl","parked",""
 "domain","helptheukrainian[.]com","phishing","https://mobile.twitter.com/DonPasci/status/1511440952254160905"
@@ -492,6 +518,8 @@
 "domain","herlandsport[.]com","malware","https://www.virustotal.com/gui/domain/airxanada.com/details"
 "domain","heroofukraine[.]com","parked",""
 "domain","heroofukraine[.]org","parked",""
+"domain","herz-fuer-ukraine[.]de","phishing","https://urlscan.io/result/47451ab2-60cf-4fa4-94b0-3c8969c7974b/
+"
 "domain","hf39q48[.]xyz","malware",""
 "domain","hilfe-ukraine[.]com","suspicious",""
 "domain","hkforukraine[.]com","suspicious","https://research.domaintools.com/iris/investigations/892054/search/c45448d6-7211-4da9-91a5-8c5f3a71baf7/75101bf9-da33-4625-9129-4a3c47d7f207"
@@ -541,6 +569,11 @@
 "domain","istandwithukraine[.]us","suspicious",""
 "domain","istandwithukrainepin[.]com","phishing",""
 "domain","isukraine[.]com","suspicious","https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/ukrainian-support-fraud/"
+"domain","it98[.]ru","phishing","https://urlscan.io/result/344fb66d-e9c0-4f3c-8466-f7c18aef075e/
+,
+https://urlscan.io/result/805ad4b5-1cfe-48c0-b496-8f5e581da39e/
+, https://urlscan.io/result/4495bbce-8df3-4cf5-bb2a-3c7bf4002d72/
+, https://urlscan.io/result/4cc60531-2d3f-4983-8717-8f59f9c8f6a6/"
 "domain","jasonroyalbamconstruction[.]us","malware","https://www.virustotal.com/gui/domain/airxanada.com/details"
 "domain","jazz4ukraine[.]org","suspicious",""
 "domain","jobaidukraine[.]de","unavailable",""
@@ -559,6 +592,7 @@
 "domain","legendpotencyx[.]co","phishing","https://urlscan.io/result/bf6c8e68-9abd-4068-867d-34f9fbcb6a33/"
 "domain","legionukraine[.]com","propaganda","https://legionukraine.com/#:~:text=Canada-,Featured%20on,-join%40ukrainianlegion.com"
 "domain","lelekafoundation[.]com","phishing","https://urlscan.io/result/e0caf659-3a0a-4272-9cd7-9caf7f5944b4/dom/"
+"domain","letsloveukraine[.]com","suspicious",""
 "domain","lettersfromukraine[.]org","phishing","https://www.virustotal.com/gui/domain/lettersfromukraine.org/detection"
 "domain","lettersukraine[.]com","parked",""
 "domain","letterukraine[.]com","parked",""
@@ -604,6 +638,7 @@
 "domain","muskukraine[.]com","unavailable",""
 "domain","my2000stv[.]com","malware","https://www.virustotal.com/gui/domain/airxanada.com/details"
 "domain","mypuppy[.]com[.]au","malware","https://www.virustotal.com/gui/domain/airxanada.com/details"
+"domain","narbonneukraine[.]com","parked",""
 "domain","nasrtravel[.]com","suspicious","https://www.virustotal.com/gui/domain/ukraine.nasrtravel.com"
 "domain","networkukraine[.]eu","unavailable",""
 "domain","newremc22[.]ddns[.]net","malware","https://blogs.infoblox.com/cyber-threat-intelligence/cyber-campaign-briefs/ukraine-war-malspam-delivers-remcos/"
@@ -667,6 +702,11 @@
 "domain","pritto4523463[.]xyz","malware",""
 "domain","pritto456123[.]xyz","malware",""
 "domain","pritto4563[.]xyz","malware",""
+"domain","privat-service[.]online","phishing","https://urlscan.io/result/344fb66d-e9c0-4f3c-8466-f7c18aef075e/
+,
+https://urlscan.io/result/805ad4b5-1cfe-48c0-b496-8f5e581da39e/
+, https://urlscan.io/result/4495bbce-8df3-4cf5-bb2a-3c7bf4002d72/
+, https://urlscan.io/result/4cc60531-2d3f-4983-8717-8f59f9c8f6a6/"
 "domain","projecthopeinukraine[.]com","phishing","https://urlscan.io/result/0f771920-5520-4073-a086-dd753638c04a/"
 "domain","projectsunflowerukraine[.]com","suspicious",""
 "domain","projectukrainenow[.]org","phishing",""
@@ -686,6 +726,9 @@
 "domain","razomfourukraine[.]org","parked",""
 "domain","razonforukraine[.]com","phishing","https://www.virustotal.com/gui/domain/razonforukraine.com"
 "domain","reconstructionofukraine[.]org","parked",""
+"domain","red-service-ukraine[.]online","phishing","https://urlscan.io/result/87ba0bef-e2f5-4b98-9bdc-9edea26468c2/
+,
+https://urlscan.io/result/8bcb7ce8-8566-4646-9303-a9fffa62c57d/"
 "domain","redcrosssupportukrainecrisis[.]org","parked",""
 "domain","redcrossukraine[.]org","phishing",""
 "domain","reiki-sessions-ukraine[.]epizy[.]com","other","https://urlscan.io/result/965c7ba7-8a88-4fd4-ac81-5aed0c218aa5/content/"
@@ -709,6 +752,10 @@
 "domain","safeukrainian[.]live","phishing","https://urlscan.io/result/0f771920-5520-4073-a086-dd753638c04a/"
 "domain","sarahkringe[.]de","suspicious","https://urlscan.io/result/0a449273-3823-4b49-a90a-3e63cef95e27/"
 "domain","satmarukraine[.]com","phishing","https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/ukrainian-support-fraud/"
+"domain","save-ukraine-coin[.]com","suspicious","https://crystalblockchain.com/verified-ukraine-donation-programs-list/ 
+
+https://www.blockchain.com/eth/address/0x9a9e668e8d74ec17d3f3ffda73a2a51b1b28ed33
+"
 "domain","savelife-ukraine[.]com","phishing",""
 "domain","savelife[.]ukraine[.]au[.]hashinq24[.]com","phishing","https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/ukrainian-support-fraud/"
 "domain","savelifeukraine[.]org","phishing","https://urlscan.io/result/0f771920-5520-4073-a086-dd753638c04a/"
@@ -718,6 +765,7 @@
 "domain","savethekidsukraine[.]com","parked",""
 "domain","savetheukrainekids[.]com","phishing",""
 "domain","saveukraine-website[.]margosolution[.]com","phishing",""
+"domain","saveukraine2022[.]com[.]ua","suspicious",""
 "domain","saveukraine[.]app","parked","dig ptr 204.23.161.107.in-addr.arpa"
 "domain","saveukraine[.]art","suspicious",""
 "domain","saveukraine[.]ca","parked",""
@@ -733,6 +781,7 @@
 "domain","saveukraine[.]top","suspicious",""
 "domain","saveukraine[.]xyz","suspicious","https://etherscan.io/address/0xee76c598d111f58d93ee77d78aeda12daba8e768, https://urlscan.io/result/ee74e80a-602d-4bd6-8f33-467d32afd3c2/"
 "domain","saveukraineassistance[.]com","parked",""
+"domain","saveukrainecoin[.]com","suspicious",""
 "domain","saveukrainenow[.]info","unavailable",""
 "domain","saveukraineraid[.]org","phishing",""
 "domain","saveukrainewelfare[.]com","phishing","https://urlscan.io/result/d2935a6a-88ea-4b17-b4b8-e1a51bbb926b/,https://urlscan.io/result/f8507b53-dd0d-4a7e-a288-c30d482df9f2/,https://urlscan.io/result/394cc634-cce5-4a2e-a30a-c4d63f1e1fb9/"
@@ -759,6 +808,10 @@
 "domain","smtp[.]prayforukraine[.]online","phishing","https://www.blockchain.com/btc/address/bc1qqhp50p9z3r4shyyu6ptuwupcyswla3zlaa69hx"
 "domain","sobornaukraine[.]org","phishing",""
 "domain","solidarity4ukraine[.]com[.]ua","suspicious",""
+"domain","sortie-crise-economique-ukraine[.]com","phishing","https://whois.domaintools.com/sortie-crise-economique-ukraine.com 
+
+https://www.economie.gouv.fr/ukraine-soutiens-entreprises-francaises-impactees-economiquement#
+"
 "domain","sosukraine[.]ca","suspicious",""
 "domain","soulofukraine[.]io","suspicious",""
 "domain","spandanindianoil[.]co[.]in","malware","https://www.virustotal.com/gui/domain/airxanada.com/details"
@@ -771,6 +824,7 @@
 "domain","standtogetherwithukraine[.]org","suspicious",""
 "domain","standupukraine[.]com","phishing",""
 "domain","standwithukraine2022[.]com","suspicious",""
+"domain","standwithukraine22[.]com","unavailable",""
 "domain","standwithukraine[.]blog","parked",""
 "domain","standwithukraine[.]com","unavailable",""
 "domain","standwithukraine[.]com[.]pl","unavailable",""
@@ -797,7 +851,9 @@
 "domain","sunflowerforukraine[.]co[.]uk","parked",""
 "domain","sunvn[.]net","malware","https://twitter.com/h2jazi/status/1500859722475442178"
 "domain","support-ukraine[.]ca","suspicious",""
+"domain","support-ukraine[.]com","suspicious",""
 "domain","support-ukraine[.]eu","phishing","https://news.trendmicro.com/2022/03/18/ongoing-charity-scams-what-to-watch-out-for/"
+"domain","support4ukraine[.]com","parked",""
 "domain","support4ukraine[.]info","phishing",""
 "domain","support4ukraine[.]net","suspicious",""
 "domain","supportcrsordonatedonateukraine[.]com","phishing","https://urlscan.io/result/0f771920-5520-4073-a086-dd753638c04a/"
@@ -841,10 +897,16 @@
 "domain","togetherforukraine[.]us","suspicious",""
 "domain","tokenukraine[.]com","phishing","https://www.welivesecurity.com/2022/02/27/beware-charity-scams-exploiting-war-ukraine/,https://msrc-blog.microsoft.com/2022/02/28/analysis-resources-cyber-threat-activity-ukraine/,https://www.komando.com/security-privacy/how-to-spot-fake-ukrainian-aid-sites/827951/,https://www.tomsguide.com/news/ukraine-charity-scams,https://twitter.com/ESETresearch/status/1497194165561659394"
 "domain","tradeline[.]top","malware","https://twitter.com/JAMESWT_MHT/status/1503713382305779712"
+"domain","truckstoukraine[.]co[.]uk","suspicious",""
 "domain","truthaboutukraine[.]com","parked",""
 "domain","tshirts4ukraine[.]com","suspicious","hxxps[://]www[.]youtube[.]com/watch?v=YAIouIsKYVU"
 "domain","ubunto[.]ru","malware","https://twitter.com/500mk500/status/1497520375932108801"
 "domain","ukraina[.]ru","propaganda",""
+"domain","ukraine-404-ua[.]site","phishing","https://urlscan.io/result/344fb66d-e9c0-4f3c-8466-f7c18aef075e/
+,
+https://urlscan.io/result/805ad4b5-1cfe-48c0-b496-8f5e581da39e/
+, https://urlscan.io/result/4495bbce-8df3-4cf5-bb2a-3c7bf4002d72/
+, https://urlscan.io/result/4cc60531-2d3f-4983-8717-8f59f9c8f6a6/"
 "domain","ukraine-appeal[.]com","phishing",""
 "domain","ukraine-assist[.]org","phishing","https://mobile.twitter.com/DonPasci/status/1510013761582776329"
 "domain","ukraine-carrier[.]online","parked",""
@@ -853,7 +915,9 @@
 "domain","ukraine-europe[.]info","parked",""
 "domain","ukraine-foundation[.]org","suspicious",""
 "domain","ukraine-goods2[.]store","parked",""
+"domain","ukraine-gta[.]com[.]ua","suspicious",""
 "domain","ukraine-help-izumiitcompany[.]com","phishing",""
+"domain","ukraine-help[.]site","phishing","https://www.virustotal.com/gui/domain/ukraine-help.site"
 "domain","ukraine-helpers[.]org","unavailable",""
 "domain","ukraine-hilfe[.]asb-hamburg[.]de","suspicious","https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/ukrainian-support-fraud/"
 "domain","ukraine-hilfe[.]net","unavailable",""
@@ -948,6 +1012,7 @@
 "domain","ukrainehelp[.]info","parked","https://urlscan.io/result/e9800120-17f9-4081-8700-cf8cd1d0eb17/"
 "domain","ukrainehelpfund[.]com","phishing",""
 "domain","ukrainehelphub[.]com","suspicious",""
+"domain","ukrainehelpinghands[.]org","suspicious",""
 "domain","ukrainehelps[.]org","suspicious","https://www.virustotal.com/gui/domain/ukrainehelps.org"
 "domain","ukrainehilfenotfall[.]com","suspicious",""
 "domain","ukraineicare[.]com","unavailable",""
@@ -964,6 +1029,7 @@
 "domain","ukrainelive5[.]tk","unavailable",""
 "domain","ukrainelives[.]org","suspicious",""
 "domain","ukrainemade[.]com","parked","https://dan.com/buy-domain/ukrainemade.com"
+"domain","ukrainemaker[.]com[.]ua","suspicious",""
 "domain","ukrainemedsupport[.]com","parked",""
 "domain","ukrainemercy[.]com","phishing",""
 "domain","ukrainemetaverse[.]site","suspicious",""
@@ -972,9 +1038,11 @@
 "domain","ukrainenewslink[.]com","suspicious","https://urlscan.io/result/1538dc91-2fda-42ce-aa81-ecdd46adf337/"
 "domain","ukrainenotalone[.]com","suspicious",""
 "domain","ukrainenrescue[.]com","parked",""
+"domain","ukrainensfreedom[.]com","parked",""
 "domain","ukraineofficial[.]xyz","suspicious","https://www.virustotal.com/gui/domain/ukraineofficial.xyz/details"
 "domain","ukraineonfire[.]com","propaganda",""
 "domain","ukraineops[.]online","parked",""
+"domain","ukraineorphanage[.]com","unavailable",""
 "domain","ukrainepayments[.]com","parked",""
 "domain","ukrainepetrescue[.]com","parked",""
 "domain","ukrainepool[.]org","unavailable",""
@@ -991,10 +1059,12 @@
 "domain","ukrainerise[.]com","phishing","https://urlscan.io/result/0f771920-5520-4073-a086-dd753638c04a/"
 "domain","ukrainerising[.]nl","suspicious",""
 "domain","ukrainerunners[.]org","suspended",""
+"domain","ukrainerussia[.]co[.]uk","unavailable",""
 "domain","ukrainerussianwar[.]net","suspicious","https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/ukrainian-support-fraud/"
 "domain","ukrainerussiapeacefund[.]info","parked",""
 "domain","ukrainerussiawarnews[.]com","suspicious","https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/ukrainian-support-fraud/"
 "domain","ukraines[.]foundation","phishing","https://urlscan.io/result/0f771920-5520-4073-a086-dd753638c04a/"
+"domain","ukrainesales[.]com","suspicious",""
 "domain","ukrainesexdates[.]com","parked",""
 "domain","ukrainesocial[.]site","parked",""
 "domain","ukrainesolidarity[.]org","phishing","https://www.welivesecurity.com/2022/02/27/beware-charity-scams-exploiting-war-ukraine/,https://msrc-blog.microsoft.com/2022/02/28/analysis-resources-cyber-threat-activity-ukraine/,https://www.komando.com/security-privacy/how-to-spot-fake-ukrainian-aid-sites/827951/,https://www.tomsguide.com/news/ukraine-charity-scams"
@@ -1035,6 +1105,7 @@
 "domain","unitedwithukraine[.]org","unavailable",""
 "domain","unitedwithukraine[.]org[.]uk","suspicious",""
 "domain","unitingforukraine[.]com","suspicious",""
+"domain","unitingforukrainerv[.]com","suspicious",""
 "domain","unlockguts[.]biz","phishing","https://urlscan.io/result/bf6c8e68-9abd-4068-867d-34f9fbcb6a33/"
 "domain","urgence-ukraine[.]org","parked",""
 "domain","us-ukraine-org1[.]ml","spam","https://www.virustotal.com/gui/domain/us-ukraine-org1.ml/detection"
@@ -1085,6 +1156,7 @@
 "domain","weloveukraine[.]org","parked",""
 "domain","weprayforukraine[.]com","phishing",""
 "domain","wesaveukraine[.]com","unavailable",""
+"domain","wesaveukraine[.]org","unavailable",""
 "domain","weseeukraine[.]com","phishing",""
 "domain","west-and-with-ukraine[.]com","suspicious",""
 "domain","west-ukraine[.]com","unavailable",""
@@ -1124,6 +1196,7 @@
 "domain","you-help-ukraine[.]com","suspicious",""
 "domain","youkraine[.]com","parked",""
 "domain","youngukraineporn[.]com","suspicious",""
+"domain","yurist-ukraine[.]com","suspicious","https://urlscan.io/result/f0e323c7-6432-42e3-b6ec-86add5b02b2a/"
 "domain","zelenskyprayforukraine[.]com","unavailable",""
 "domain","znakomstva[.]ru[.]com","malware","https://www.virustotal.com/gui/domain/airxanada.com/details"
 "domain","zsercemnaukraine[.]pl","parked",""
