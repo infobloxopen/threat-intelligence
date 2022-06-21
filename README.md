@@ -6,6 +6,10 @@ related to threats that are of high interest to the cyber security community thr
 The following contains descriptions about the contents of each dataset (i.e data folder). All files are csv formatted 
 and [MISP](https://www.misp-project.org/) compatible.
 
+This material is being provided by Infoblox under the Creative Commons CC BY 4.0 license. This license allows you to 
+share and adapt the material, in particular to use it for both commercial and non-commercial security purposes, under 
+the terms of: attribution to Infoblox and the license. For more details, see the LICENSE file in our repo or visit 
+https://creativecommons.org/licenses/by/4.0/
 
 ## ukraine
 This folder contains IOCs related to the Russian invasion of Ukraine. 
