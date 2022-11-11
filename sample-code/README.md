@@ -7,3 +7,4 @@ Infoblox publications:
 ###### Publications
 | Date (YYYY-MM-DD) | Title | Paper URL | Data File |
 | ----------- | ----------- | ----------- | ----------- |
+| 2022-11-01 | Reliable Reputation Scoring | https://blogs.infoblox.com/cyber-threat-intelligence/reliable-reputation-scoring/ | `reputation-scoring-mwe.py` |
