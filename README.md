@@ -31,10 +31,10 @@ This folder contains IOCs related to the earthquake that struck Türkiye and par
 The majority of the content is based on Infoblox internal analytics and validation analysis, though some OSINT is also
 included.  Our references should clearly indicate indicators that originated in OSINT.
 
-The file `turkiye_earthquake_legitimate_iocs.csv` contains malicious and suspicious IOCs that can cause harm to
+The file `turkiye_earthquake_malicious_suspicious_iocs.csv` contains malicious and suspicious IOCs that can cause harm to
 businesses and innocent users. Infoblox recommends blocking traffic from network indicators described in this file.
 
-The `turkiye_earthquake_malicious_suspicious_iocs.csv` file contains confirmed indicators that,
+The `turkiye_earthquake_legitimate_iocs.csv` file contains confirmed indicators that,
 at the time of review, were not evidently associated with malicious activity. The related websites did not show indications
 of hosted malware or fraudulent behavior, but may host content that is not wanted by some users.
 This includes domains belonging to well-known donation sites providing support to Turkish civilians, or newly 
