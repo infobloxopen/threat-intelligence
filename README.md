@@ -37,7 +37,7 @@ businesses and innocent users. Infoblox recommends blocking traffic from network
 The `turkiye_earthquake_legitimate_iocs.csv` file contains confirmed indicators that,
 at the time of review, were not evidently associated with malicious activity. The related websites did not show indications
 of hosted malware or fraudulent behavior, but may host content that is not wanted by some users.
-This includes domains belonging to well-known donation sites providing support to Turkish civilians, or newly 
+This includes domains belonging to well-known donation sites providing support to Turkish civilians, or newly
 created support programs operated by entities positively acknowledged by the online community.  Many of these are
 blocked by other vendors due to their new registration or other automated analytics.
 
@@ -65,7 +65,9 @@ The indicators in this repo include those relevant to our publications on the th
 
 [Ukraine Support Fraud](https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/cyber-threat-advisory-ukrainian-support-fraud/)
 
+[Scammers First on the Scene for Türkiye's “Disaster of the Century”](https://blogs.infoblox.com/cyber-threat-intelligence/scammers-first-on-the-scene-for-turkiyes-disaster-of-the-century/)
+
 ### Additional Information
 
-Infoblox customers can find additional detailed inforamtion about the decision criteria for a given indicator in the `notes`
+Infoblox customers can find additional detailed information about the decision criteria for a given indicator in the `notes`
 field within the Threat Intelligence Data Exchange (TIDE) database.
