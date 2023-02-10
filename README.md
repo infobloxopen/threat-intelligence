@@ -27,7 +27,7 @@ created support programs operated by entities positively acknowledged by the onl
 blocked by other vendors due to their new registration or other automated analytics.
 
 ## turkiye
-This folder contains IOCs related to the earthquake that struck Turkey and parts of Syria in early February, 2023.
+This folder contains IOCs related to the earthquake that struck Türkiye and parts of Syria in early February, 2023.
 The majority of the content is based on Infoblox internal analytics and validation analysis, though some OSINT is also
 included.  Our references should clearly indicate indicators that originated in OSINT.
 
