@@ -41,6 +41,10 @@ This includes domains belonging to well-known donation sites providing support t
 created support programs operated by entities positively acknowledged by the online community.  Many of these are
 blocked by other vendors due to their new registration or other automated analytics.
 
+
+## decoy_dog 
+This folder contains IOCs and artifacts related to our whitepaper  [Decoy Dog is No Ordinary Pupy](https://www.infoblox.com/resources/whitepaper/decoy-dog-is-no-ordinary-pupy-distinguishing-malware-via-dns ). A detailed overview of the files can be found in the [Readme](https://github.com/infobloxopen/threat-intelligence/tree/main/decoy_dog/README.md)
+
 ## ccb_indicators
 This folder contains IOCs related to our [Cyber Campaign Briefs (ccb)](https://blogs.infoblox.com/category/cyber-threat-intelligence/cyber-campaign-briefs/)
 
@@ -66,6 +70,8 @@ The indicators in this repo include those relevant to our publications on the th
 [Ukraine Support Fraud](https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/cyber-threat-advisory-ukrainian-support-fraud/)
 
 [Scammers First on the Scene for Türkiye's “Disaster of the Century”](https://blogs.infoblox.com/cyber-threat-intelligence/scammers-first-on-the-scene-for-turkiyes-disaster-of-the-century/)
+
+
 
 ### Additional Information
 
