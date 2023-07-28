@@ -69,6 +69,21 @@ def check_references(references: str) -> bool:
         return False
 
 
+def defang_indicator(indicator: str) -> str:
+    """
+    Defang and also switch "hxxp[s]" to "http[s]"
+    Also removes underscores as the validators package does not allow
+    underscores in domains.
+    """
+    return indicator.replace('[.]', '.').replace(
+        'hxxp:', 'http:'
+    ).replace(
+        'hxxps:', 'https:'
+    ).replace(
+        "_", ""
+    )
+
+
 def validate_csv(file_path: Path):
     """
     Performs various checks on the CSV file containing indicators.
@@ -81,16 +96,15 @@ def validate_csv(file_path: Path):
         )
         for line in reader:
             indicator_type = line["type"]
-            indicator_value = line["indicator"]
+            indicator_value = defang_indicator(line["indicator"])
             validation_func = VALIDATION_FUNCS.get(indicator_type)
             if not validation_func:
                 logger.warning("Incorrect type - '%s'", line)
                 valid_csv = False
             else:
-                try:
-                    validation_func(indicator_value)
-                except validators.ValidationFailure as err:
-                    logger.warning("Invalid indicator - '%s' - '%s'", line, err)
+                valid = validation_func(indicator_value)
+                if isinstance(valid, validators.ValidationFailure):
+                    logger.warning("Invalid indicator - '%s'", line["indicator"] )
                     valid_csv = False
 
             if not check_references(line["references"]):
