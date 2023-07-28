@@ -1,0 +1,24 @@
+name: "Check CSV indicator files"
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "**.csv"
+    types: [opened, synchronize, reopened, closed]
+
+jobs:
+  csv_validate:
+    name: csv_validate
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - run: pip install validators==0.20.0
+
+      - run: python .github/actions/csv_validate/csv_validate.py
