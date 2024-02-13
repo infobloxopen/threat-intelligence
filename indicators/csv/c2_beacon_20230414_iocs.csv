@@ -1,7 +1,7 @@
-type,indicator,classification,notes
-domain,claudfront.net,malware,"Domain associated with c2 beacon of unknown malware. These domains use custom name servers geolocated in Russia, or leverage free dynamic DNS services."
-domain,allowlisted.net,malware,"Domain associated with c2 beacon of unknown malware. These domains use custom name servers geolocated in Russia, or leverage free dynamic DNS services."
-domain,atlas-upd.com,malware,"Domain associated with c2 beacon of unknown malware. These domains use custom name servers geolocated in Russia, or leverage free dynamic DNS services."
-domain,ads-tm-glb.click,malware,"Domain associated with c2 beacon of unknown malware. These domains use custom name servers geolocated in Russia, or leverage free dynamic DNS services."
-domain,cbox4.ignorelist.com,malware,"Domain associated with c2 beacon of unknown malware. These domains use custom name servers geolocated in Russia, or leverage free dynamic DNS services."
-domain,hsdps.cc,malware,"Domain associated with c2 beacon of unknown malware. These domains use custom name servers geolocated in Russia, or leverage free dynamic DNS services."
+type,indicator,classification,notes,detected_date
+domain,claudfront[.]net,malware,"Domain associated with c2 beacon of unknown malware. These domains use custom name servers geolocated in Russia, or leverage free dynamic DNS services.",2023-02-08
+domain,allowlisted[.]net,malware,"Domain associated with c2 beacon of unknown malware. These domains use custom name servers geolocated in Russia, or leverage free dynamic DNS services.",2023-04-07
+domain,atlas-upd[.]com,malware,"Domain associated with c2 beacon of unknown malware. These domains use custom name servers geolocated in Russia, or leverage free dynamic DNS services.",2023-03-15
+domain,ads-tm-glb[.]click,malware,"Domain associated with c2 beacon of unknown malware. These domains use custom name servers geolocated in Russia, or leverage free dynamic DNS services.",2022-11-25
+domain,cbox4[.]ignorelist[.]com,malware,"Domain associated with c2 beacon of unknown malware. These domains use custom name servers geolocated in Russia, or leverage free dynamic DNS services.",2023-04-07
+domain,hsdps[.]cc,malware,"Domain associated with c2 beacon of unknown malware. These domains use custom name servers geolocated in Russia, or leverage free dynamic DNS services.",2023-04-11
