@@ -1,1 +1,1649 @@
-"{\"uuid\": \"ee19ba5d-e9af-4762-9578-da91cff8adb2\", \"Attribute\": [{\"uuid\": \"d58ba0a6-e4f1-48d6-888c-299e7739e8a5\", \"type\": \"domain\", \"value\": \"bridgetoturkey.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e8998698-c7d6-419b-b341-700df9a5fecc\", \"type\": \"domain\", \"value\": \"monteverdepremiumrealestate.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0e398ae5-6ad1-454b-861f-fd1a4dacb3a9\", \"type\": \"domain\", \"value\": \"afadacilyardim.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5fc13a79-754c-4b5f-8893-b8c0de3b4dec\", \"type\": \"domain\", \"value\": \"depremihtiyaci.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"879bc2fc-0e5b-46b4-acff-667f910c5cea\", \"type\": \"domain\", \"value\": \"obeyclothing.sk\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c3e781f8-3d86-46d2-9c6a-0fd3b2129e7d\", \"type\": \"domain\", \"value\": \"afadzede.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fa291848-8168-4442-b352-91b0623e3303\", \"type\": \"domain\", \"value\": \"xn--hataygvenotomasyon-r6b.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d07e64ee-43cb-41bd-b00f-1993c511da2a\", \"type\": \"domain\", \"value\": \"depremedirenclievler.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"eeee6c1b-ddc6-46f3-a47c-ac4ef55a5a69\", \"type\": \"domain\", \"value\": \"afadhemenyardim.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b82b3db8-2c2d-43bc-933f-9f948e4cbd7d\", \"type\": \"domain\", \"value\": \"wladimirfoundatation.co\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5d55e889-5c67-41e8-902d-2ab854ebe582\", \"type\": \"domain\", \"value\": \"ropaobeychlie.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0e348304-d4d5-465b-b35c-0b88a4150c30\", \"type\": \"domain\", \"value\": \"arabaozelcekilisi.website\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f4014524-3cf3-45dc-8dbd-0f77514a095d\", \"type\": \"domain\", \"value\": \"turkeyevisaservices.online\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"29097ee5-040d-4818-ae3c-a5409f56c695\", \"type\": \"domain\", \"value\": \"kriptobagis.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bfb71a67-f237-4dbb-a4e9-c79c79f64e27\", \"type\": \"domain\", \"value\": \"help-turkiye.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3a51c88c-1802-4fc1-90e7-142251eabbab\", \"type\": \"domain\", \"value\": \"earthquaketurkey.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"46eca2eb-3bca-4505-b66a-86326b0e036f\", \"type\": \"domain\", \"value\": \"zorluvakiflari-destek-burs.site\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"94cb9b02-3604-4da3-b646-7b52032636ed\", \"type\": \"domain\", \"value\": \"arabacekilisisizlereozel.website\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"63a69f65-1f08-4dc3-be05-5913e65eee78\", \"type\": \"domain\", \"value\": \"zedeyardim.online\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f2c399cd-0ee5-4945-ac72-f4852b1b76a4\", \"type\": \"domain\", \"value\": \"preppers-turkiye.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"53de301d-359e-421b-86c7-ffb804f1b7cc\", \"type\": \"domain\", \"value\": \"arabaozelcekilisi.digital\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7164fc63-7977-4498-a6a4-5a5fe31f9ee4\", \"type\": \"domain\", \"value\": \"afad-online-odeme-bagis.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"86c65e67-7dbc-4580-bafc-d35900abfb7e\", \"type\": \"domain\", \"value\": \"arabaozelcekilisi.online\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9eb97e73-4b96-4362-a97b-51045a6fcaaa\", \"type\": \"domain\", \"value\": \"kizllay.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a6242a32-a2de-4ac2-8ad3-533ff4adbd68\", \"type\": \"domain\", \"value\": \"internetkampanyalari-basvuru.online\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b465ffa2-77ac-446e-bae7-083ec67dc44f\", \"type\": \"domain\", \"value\": \"destekdeprem.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1bf43322-f25d-45d8-8985-9b4b6ef31d57\", \"type\": \"domain\", \"value\": \"ahbap.digital\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c388f81e-febe-4795-abd4-c53f25ca1422\", \"type\": \"domain\", \"value\": \"dizaynturkiye.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"61ba7ee6-3ce8-477f-a279-600c6356f6aa\", \"type\": \"domain\", \"value\": \"x-rnfvcvu.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e029b5c3-4d39-4848-baf8-4d6eb622fd74\", \"type\": \"domain\", \"value\": \"trdeprem6223.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5a7b5856-9ef0-460c-84af-8ee1cc956388\", \"type\": \"domain\", \"value\": \"depremzede.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2d27b710-c64e-4d3a-9a1d-0ca7863045ec\", \"type\": \"domain\", \"value\": \"turkey-foundation.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"37f30d1f-c31c-4e3a-82ae-44e3a22fc483\", \"type\": \"domain\", \"value\": \"zorlu-vakif-destek.site\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0563a57d-fb85-4aa4-9319-ec8e086d329a\", \"type\": \"domain\", \"value\": \"afadbagisyap.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"77481ae6-e0c8-4191-ba5d-41e02af06858\", \"type\": \"domain\", \"value\": \"turkiyeneedsyou.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"cbf01775-6f88-4b31-9ac6-fd3fca16f72b\", \"type\": \"domain\", \"value\": \"xn--6ubatdepremi-4mc.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"28533802-c6ea-4c6e-94e7-a0f278bf6da0\", \"type\": \"domain\", \"value\": \"turkiyedeprem.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"309ad5be-4da6-4e16-9152-cb23805891c0\", \"type\": \"domain\", \"value\": \"depremzedelere-yardim.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ade2d111-027c-453a-97ad-ac3eb6d37e26\", \"type\": \"domain\", \"value\": \"accounts-turkiyefinans.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"47122972-6de3-4f0d-86b2-54e509470265\", \"type\": \"domain\", \"value\": \"depremyardim.me\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2c2cffcb-fae6-4b51-a3ed-af800896234e\", \"type\": \"domain\", \"value\": \"yardimbagis.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"72523b6f-9a4d-429b-9891-ae6973e7fff2\", \"type\": \"domain\", \"value\": \"turkey-gofundme.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e1ad9873-85b1-48a0-98bd-86a848a65290\", \"type\": \"domain\", \"value\": \"depremacil.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3a92bc5c-f824-48d6-a26a-792cb81b2e90\", \"type\": \"domain\", \"value\": \"turkiyeneedsyou.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"144e454f-b319-412f-a7d3-40df72aef1c9\", \"type\": \"domain\", \"value\": \"zorluvakfi-bursvedestek-al.site\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7818ffa0-585b-4638-893c-0c52f744b182\", \"type\": \"domain\", \"value\": \"helpturkey.world\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"635755c2-8340-465d-9324-238e0decb419\", \"type\": \"domain\", \"value\": \"helptk.bar\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"de49104c-2ef3-4fcd-aa14-330da202efeb\", \"type\": \"domain\", \"value\": \"enkazyardim.online\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bf808211-632c-465b-85fc-16189750bf00\", \"type\": \"domain\", \"value\": \"afad-bagis.epizy.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7421806e-8362-4ffe-af26-261ce896544a\", \"type\": \"domain\", \"value\": \"helpforturkey.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"221da652-a568-42f9-803d-88231b76ca2a\", \"type\": \"domain\", \"value\": \"afad-yardimerkezi.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9d47d47a-6918-4fff-81d8-ed85e825c886\", \"type\": \"domain\", \"value\": \"trustwalletdestek.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"31ff1729-bea5-445a-ae25-0a2cce1f0eb5\", \"type\": \"domain\", \"value\": \"helpturkey.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fada5e73-ca6e-4fbb-8321-ab77cac90c68\", \"type\": \"domain\", \"value\": \"tarjetaciudadanafuengirola.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e485a2f8-9be1-4925-bd5c-186ad8ddc7b8\", \"type\": \"domain\", \"value\": \"resmiyardim.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"89d4a8ca-004f-4e0b-a12f-386163e1ae38\", \"type\": \"domain\", \"value\": \"donateforturkey.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c6867270-009d-43e0-b13b-53b6fe16c3ae\", \"type\": \"domain\", \"value\": \"turkeyandsyriadisasterresponse.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4288280b-6624-4e9f-ab1b-69b526c90e96\", \"type\": \"domain\", \"value\": \"zorlu-vakfi-destek.site\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"27230265-1c2d-4634-a7da-bff1ba584ca0\", \"type\": \"domain\", \"value\": \"acilyolyardimturkiye.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6e978f4d-95ed-4980-bc3c-ef312aa8fbe5\", \"type\": \"domain\", \"value\": \"arabaozelcekilisi.shop\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"96915e4c-86af-4e48-a8ba-6c8348d24f98\", \"type\": \"domain\", \"value\": \"umbroturkiyetr.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f893255c-68e2-4b6e-a1ef-636c588aa702\", \"type\": \"domain\", \"value\": \"fiberkampanyalari-basvuru.online\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"090b5934-d012-47e6-bb54-05ad769d713f\", \"type\": \"domain\", \"value\": \"turkeyhelp.world\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"03de80f3-7fc4-4375-abdb-b90fc4c0eec4\", \"type\": \"domain\", \"value\": \"obeysouthafrica.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7c209cc1-3872-483a-852a-8b02ac43eb58\", \"type\": \"domain\", \"value\": \"arabaozelcekilisi.tech\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"56be050d-712b-49e7-b171-0d3657b24cf1\", \"type\": \"domain\", \"value\": \"afaddestek.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"71a888be-9718-4256-a47c-8ce309c8097e\", \"type\": \"domain\", \"value\": \"hataydeprem.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a8c8feaa-1c89-4181-8ad5-2795afe7f231\", \"type\": \"domain\", \"value\": \"depremdenkorun.online\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e04d2f83-9b52-4ff1-84c7-0eea7b12c64b\", \"type\": \"domain\", \"value\": \"afetacilyardim.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f8c1dd4e-5635-4cf1-9fba-6cc1d2d1b35a\", \"type\": \"domain\", \"value\": \"help-family-earthquake.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2152e248-c29f-4567-85e6-a46e6a4d37e1\", \"type\": \"domain\", \"value\": \"afetmarket.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e9468f2b-0ff8-4378-ba5c-d641944d12c5\", \"type\": \"domain\", \"value\": \"obeyargentina.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3074ff98-5624-40b5-8c94-d5f07ea58ae9\", \"type\": \"domain\", \"value\": \"turkeyrelieftoken.help\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bfe56a8f-99ab-4c9c-9f20-f225528b8650\", \"type\": \"domain\", \"value\": \"akut.303.si\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5fa87bbb-3c2e-475c-b561-3572128585fa\", \"type\": \"domain\", \"value\": \"ladanayevo.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"05ad97e2-5efa-47d8-b031-acbf49e9c0ea\", \"type\": \"domain\", \"value\": \"deprem-bagislarim.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a61b70ac-05cb-45b8-88bf-46cabde0b056\", \"type\": \"domain\", \"value\": \"earthquake-insurance-19585.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6b5e2cb6-5c6d-4c0c-bb87-3891339cda9d\", \"type\": \"domain\", \"value\": \"afetzedeyardim.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"faa50919-38a6-4e48-9e94-87a77056a9c8\", \"type\": \"domain\", \"value\": \"afad-kizilay.yardim-yap.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"14a187a4-fd16-4fdd-99bb-2379430e1fbc\", \"type\": \"domain\", \"value\": \"denizcekilisbank.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fd3c0231-ad51-44c9-a00e-833d79ae4a2d\", \"type\": \"domain\", \"value\": \"zorluvakif-destek-burs.site\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"51992c89-7eee-4d54-b538-2bd8b5ef463e\", \"type\": \"domain\", \"value\": \"scotchandsodaturkiye.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d2553608-797e-4d4a-8d51-e9d3c9712214\", \"type\": \"domain\", \"value\": \"depremdeyanyana.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2cdcebac-1065-4442-892f-ab622d6e54d3\", \"type\": \"domain\", \"value\": \"nigdeyolyardim.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"60b8dd8a-c748-4dfa-8e3b-7c756615e2f3\", \"type\": \"domain\", \"value\": \"turkeyreliefdao.notion.site\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1cd6a521-47d6-49ee-a76c-4d94252d303a\", \"type\": \"domain\", \"value\": \"afadvdestek.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3386eaea-a8b4-4df1-b781-8f1f451c25d3\", \"type\": \"domain\", \"value\": \"afed-co.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4687eaf5-db50-419c-b7d7-bec4334d4fda\", \"type\": \"domain\", \"value\": \"afad.omagarwal.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d62c4e5f-4bda-4415-926e-a5e858873c21\", \"type\": \"domain\", \"value\": \"turkiyeyardim.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a69f4968-d0eb-4676-850f-1cdf8d001334\", \"type\": \"domain\", \"value\": \"depremyardim.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f3483d56-5b3b-4784-836e-f2bbe6b70b92\", \"type\": \"domain\", \"value\": \"turkeydonate.world\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f4df3bf3-62ee-4583-ad93-fc63f47c2d5b\", \"type\": \"domain\", \"value\": \"afadyardimyap.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"41a95c3a-d123-4c0d-802a-f2840359f5a8\", \"type\": \"domain\", \"value\": \"bagislama.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1aac1699-b98f-46c2-b023-757c4a5a2e1d\", \"type\": \"domain\", \"value\": \"zorlu-vakfi-egitime-destek.site\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a024240f-4f13-4b90-8a76-ee5c1f4e0256\", \"type\": \"domain\", \"value\": \"arabacekilisinehemenkatil.website\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d0b936f3-a3d1-4154-83f6-2f31fa8cf21b\", \"type\": \"domain\", \"value\": \"depremdestek.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fd3f6979-3e3e-4804-b37a-32b91696826a\", \"type\": \"domain\", \"value\": \"kampanyamiz-online-basvuru-giris-aktarim.com.tr\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7b298273-469b-41d7-b479-2f51894f3b0b\", \"type\": \"domain\", \"value\": \"depremvergileri.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e09bf297-7bcf-459b-9630-51f43b6250f4\", \"type\": \"domain\", \"value\": \"afad-kahramanmaras.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ce7fd822-c70b-43a8-9151-6e1be9fe57c1\", \"type\": \"domain\", \"value\": \"earthquakealerts.world\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"67fd7173-305c-456e-8d43-bb04c7d7a22f\", \"type\": \"domain\", \"value\": \"afetacilyardim.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"72f78161-80e2-46f6-86f1-dcdaabea7479\", \"type\": \"domain\", \"value\": \"bagis-yap.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"32e46a59-077c-401d-9772-421c54380166\", \"type\": \"domain\", \"value\": \"earthquake2023.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6f0732cf-d8a9-48c9-ac14-1bb8d59d6aae\", \"type\": \"domain\", \"value\": \"donatecryptoforturkey.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0058a6b6-66b3-4c4d-8b98-83ee4a0ab646\", \"type\": \"domain\", \"value\": \"zorlu-vakiflari-burs-destek.site\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c4ad8b2d-082b-46da-9d08-9d188fccf7e8\", \"type\": \"domain\", \"value\": \"enferdeprem.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"040450ce-07ec-4535-9a89-ee516f2292f7\", \"type\": \"domain\", \"value\": \"toplumsalyardimlasma.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"05f27783-2d26-4d13-9f88-692007a6bd0a\", \"type\": \"domain\", \"value\": \"egitime-destek-zorlu-vakfi.site\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ac1d4331-f55f-4cff-bd44-e11d188406cf\", \"type\": \"domain\", \"value\": \"depremkonum.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"13e79be0-5161-4f59-b76e-502bd2d6080d\", \"type\": \"domain\", \"value\": \"afetbagis.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"36e6c7dc-4230-420e-a2a2-876b7f3914a4\", \"type\": \"domain\", \"value\": \"zorluvakfi-destek-burs.site\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1a10b698-c345-47aa-bd06-4a8c02cd902b\", \"type\": \"domain\", \"value\": \"fihgdjhfdhffdf.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1e09b2bd-baad-41b9-97d0-a8ce4c7d9da4\", \"type\": \"domain\", \"value\": \"turkeyearthquakefund.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c0a72b80-b41b-47c7-86d8-acd5996b2410\", \"type\": \"domain\", \"value\": \"obeychile.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"73ecf39c-2974-4da3-a149-7f65f64dcc04\", \"type\": \"domain\", \"value\": \"ropaobeychile.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"58ac6c82-079b-4805-9e0a-d616d89197ef\", \"type\": \"domain\", \"value\": \"arabaozelcekilisi.life\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"37969c4a-e77e-4b6e-bf0e-04b81a9b79cc\", \"type\": \"domain\", \"value\": \"egitime-destek-zorluvakfi.site\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2ab22318-dd38-4cdf-8b30-220afb218cb7\", \"type\": \"domain\", \"value\": \"turkeyearthquake.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4ab55849-b1fc-44ca-a044-adf6889d75b4\", \"type\": \"domain\", \"value\": \"depremyardimlasma.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"22d056ee-0ef4-4fd2-9451-122325aaf17b\", \"type\": \"domain\", \"value\": \"charityforturkey.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f053bb36-15ac-44b3-a3b7-46dab85e8bec\", \"type\": \"domain\", \"value\": \"ngo-turkey.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f7281ece-3976-4434-867e-ea0863e5cb8b\", \"type\": \"domain\", \"value\": \"arabaozelcekilisi.pro\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1525b484-2c18-475a-ae48-dc86273b2eb9\", \"type\": \"domain\", \"value\": \"afadbagislari.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"adbf69a5-992e-42e1-9852-e10039763d37\", \"type\": \"domain\", \"value\": \"haydi-bakalim-900tl-kampanyamizz-online.com.tr\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3571d17e-a25a-41cf-8f55-50dce6a4befd\", \"type\": \"domain\", \"value\": \"scotchandsodawien.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a4348215-7a69-40c2-8f92-629f8a382b6d\", \"type\": \"domain\", \"value\": \"earthquake-insurance-59040.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"dfab7bec-b65d-4edd-a8e7-e9dfd96e15ae\", \"type\": \"domain\", \"value\": \"llbeanturkey.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d9a6b3b0-b7ce-4ee8-9a65-b9dcdb0f7d93\", \"type\": \"domain\", \"value\": \"depremzedeyardimlarixdxme5.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7360fac5-f555-4b6a-b84e-d163591b5efb\", \"type\": \"domain\", \"value\": \"turkeyearthquakefund.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ce24cae1-3ff7-4c00-bcb0-91a2b2a0f8cc\", \"type\": \"domain\", \"value\": \"deprembagis.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"619555b9-67b3-49e5-bbc0-26d2db5a26fe\", \"type\": \"domain\", \"value\": \"depremkahini.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"93e4affa-3bf1-49b3-9552-15302d2eba40\", \"type\": \"domain\", \"value\": \"h1uhatay3.sbs\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a01be7b1-ac2f-43e3-b96e-d823daafc831\", \"type\": \"domain\", \"value\": \"depremihbar.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7b333eb5-80f2-4f90-9c61-aae4e8f2fbfa\", \"type\": \"domain\", \"value\": \"obeysingapore.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bf1cffb3-c65d-472f-ac0e-498f2016d115\", \"type\": \"domain\", \"value\": \"arabaozelcekilisi.site\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"99656402-22db-45c4-92ed-8f1628a76aad\", \"type\": \"domain\", \"value\": \"depremraporum.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3376da03-541c-41c0-bf61-063a96649a9a\", \"type\": \"domain\", \"value\": \"zorlu-vakiflari-destek-burs.site\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0b298e64-f61b-441d-a042-1133b60fb6ac\", \"type\": \"domain\", \"value\": \"depremtr.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f1b4726f-9d7c-460e-aa8c-fb70ad95c991\", \"type\": \"domain\", \"value\": \"deprem.wesdteam.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d4b36260-8156-4ab7-8cf7-aed7c4424c23\", \"type\": \"domain\", \"value\": \"turkiyeaviskiralama.online\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4beb45b8-a99d-45c4-b465-bb35b8c1ffff\", \"type\": \"domain\", \"value\": \"arabaozelcekilisi.agency\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1d13c067-b83a-4fab-8a28-8fd63dc89c8e\", \"type\": \"domain\", \"value\": \"earthquaketurkey.world\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fbcb0199-5d54-4f03-8bae-ad0a4ec54137\", \"type\": \"domain\", \"value\": \"helphatay.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"98312dee-83fa-417b-83eb-350dd9cde0e8\", \"type\": \"domain\", \"value\": \"depremzedeara.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a3aea11c-2800-4f3c-b4ce-d6e44765eead\", \"type\": \"domain\", \"value\": \"depremcagri.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"aa4e44f4-ff1f-4f4a-b52f-7c8b16d294f5\", \"type\": \"domain\", \"value\": \"iaearthquake.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"017022c8-ca54-423e-8136-89e27335ec7d\", \"type\": \"domain\", \"value\": \"supergaayakkabiturkiye.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ef97d56f-3c70-4225-a172-5101049ef5cf\", \"type\": \"domain\", \"value\": \"fossilbagmalaysia.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3eb85ccc-6730-4284-a263-f3156f66b8f7\", \"type\": \"domain\", \"value\": \"helpturkeyandsyria.life\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"61348d2d-a0ad-48a7-9083-d7bcf061c4eb\", \"type\": \"domain\", \"value\": \"afaddeprembagis.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f095c804-2b1a-4ca0-a8f3-afe4b5fa9ef4\", \"type\": \"domain\", \"value\": \"betturkey7840.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"dbebdef0-6277-443a-acd5-d5d28284237e\", \"type\": \"domain\", \"value\": \"turkiyeneedsyou.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f2d4cdb0-c1ec-45fd-af23-52e7a55cd6bc\", \"type\": \"domain\", \"value\": \"afadestek.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"af03b464-e479-4cbb-b526-88ea8093bfd8\", \"type\": \"domain\", \"value\": \"obeyturkiye.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b2fbf9ca-2057-4a8e-ad70-0f456ada9ea5\", \"type\": \"domain\", \"value\": \"afadtr.bagislama.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a8c44e1b-1ba9-4782-91bb-a098301189d6\", \"type\": \"domain\", \"value\": \"arabaozelcekilisi.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f2a4c1eb-e002-4661-940c-3621263cdd23\", \"type\": \"domain\", \"value\": \"binanceneweventkampanyalarilebirliktesorgula.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"925ec5d3-9980-41c7-96a8-124b01668314\", \"type\": \"domain\", \"value\": \"sanliurfakoltukyikama.online\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ef46e676-4fb5-42b3-8ffa-bb7e02dbc22d\", \"type\": \"domain\", \"value\": \"xn--depremyardm-8zb.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a0a60eab-1d35-446a-b7f3-e7779ac2029e\", \"type\": \"domain\", \"value\": \"donateturkey.world\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d9d7c23c-6629-4096-9c98-a92fbacb1da4\", \"type\": \"domain\", \"value\": \"yardim.b-cdn.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1b0b6ed5-71a7-4cec-aec1-3bf30b697765\", \"type\": \"domain\", \"value\": \"afad-kizilay.yardimbagis.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"473863e3-7527-452c-bbe0-e66462e8d8c9\", \"type\": \"domain\", \"value\": \"depremkontrol.com.tr\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7ce7dcb0-bace-45f3-9364-0a9f91793a54\", \"type\": \"domain\", \"value\": \"depremproje.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c721f028-f60f-4348-aada-952b3c7f2c36\", \"type\": \"domain\", \"value\": \"depremacilyardim.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"658a6e38-caa8-436d-ba67-748e65ef3961\", \"type\": \"domain\", \"value\": \"deprem.link\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5550cc3f-7754-4c7e-95ca-c57e6e127872\", \"type\": \"domain\", \"value\": \"yardim-yap.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3ada9bf9-f444-4d3d-876d-2e0fa96067fb\", \"type\": \"domain\", \"value\": \"depremnerede.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d49d7c7c-f66f-4fd3-9a4a-7c00469a357a\", \"type\": \"domain\", \"value\": \"denizlideprem.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f1503fce-bb0d-4014-92ae-bdf48c9413b4\", \"type\": \"domain\", \"value\": \"nbaglass.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1719a1e8-0544-4d3f-821f-70114f572f7e\", \"type\": \"domain\", \"value\": \"depremulasim.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d9d3b795-70d4-48c6-93a2-454a8a40d667\", \"type\": \"domain\", \"value\": \"deprembot.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"244598e8-5fdc-43df-a7ad-6b25ce311128\", \"type\": \"domain\", \"value\": \"depremyardimbursa.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6a97b88b-8f0c-455f-b5ba-51a14859417d\", \"type\": \"domain\", \"value\": \"afad.online\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7aa1f9ad-622d-4d87-9ce8-557e857337d5\", \"type\": \"domain\", \"value\": \"depremafetacilyardim.online\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c60c7be9-6c86-4a2e-9c95-9b7192b7d6ab\", \"type\": \"domain\", \"value\": \"deprem-info.online\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9f55dec7-fe8b-4c62-a4f3-e9296a13699c\", \"type\": \"domain\", \"value\": \"depremtr.com.tr\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"60535ce7-356a-4ec5-8842-689be84279c6\", \"type\": \"domain\", \"value\": \"depremteshis.online\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ffb6c7fe-f443-4ff0-9d77-31f939ffa7a3\", \"type\": \"domain\", \"value\": \"deprem.tech\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"25fe72b7-ae5c-476c-8dbc-b5a4d7378740\", \"type\": \"domain\", \"value\": \"turk-help.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"8625b256-2676-4633-8495-781da42eab0b\", \"type\": \"domain\", \"value\": \"helpturkeysyria.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2af33e2b-15d0-4181-b194-cd95e61bf591\", \"type\": \"domain\", \"value\": \"beltturkey785.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5b5634fd-a592-4bbd-8b1c-7a691302ee33\", \"type\": \"domain\", \"value\": \"aid4turkey.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"37aec3d4-759d-4ca5-a282-b0cdcbe72f26\", \"type\": \"domain\", \"value\": \"annekleinturkiye.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"98c5d6b2-041e-410f-81f4-9cca04f601df\", \"type\": \"domain\", \"value\": \"aidturkey.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7c410b6e-5632-4d48-9758-3c25cb5a79bd\", \"type\": \"domain\", \"value\": \"evimiz-turkiye.biz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"8c5d095c-b832-4222-bc9e-1a56dda92362\", \"type\": \"domain\", \"value\": \"turkiyeavis.online\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7929162f-a765-4266-bccd-1cde6004e7e8\", \"type\": \"domain\", \"value\": \"turkiyeyegetir.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b760eb14-9b5d-4fed-9681-234b9e725e29\", \"type\": \"domain\", \"value\": \"epermit-turkey.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b0485a8f-04a5-4f50-b231-fafa52fd5abf\", \"type\": \"domain\", \"value\": \"helpforturkey.online\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b32c6277-c885-4a9d-8e4b-fe73c37c2f6a\", \"type\": \"domain\", \"value\": \"support4turkeynow.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a7c492e4-9374-4fe1-a60c-5559f5303751\", \"type\": \"domain\", \"value\": \"redcrossturkiye.cc\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b1552fb5-dcdc-492f-b359-b65eec70061a\", \"type\": \"domain\", \"value\": \"depremdirenclisehirler.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c47aa090-603a-40fd-990f-a897dd8465ca\", \"type\": \"domain\", \"value\": \"turkeyearthquake2023.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"527c9f63-1969-4b49-98f5-e9d04d4a55af\", \"type\": \"domain\", \"value\": \"support4turkeynow.asia\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"55b05ea3-eab4-47fb-9e16-301b252f04ee\", \"type\": \"domain\", \"value\": \"ralphlaurenturkiye.top\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bb7b79d1-8d37-4140-b231-8fe71e33581f\", \"type\": \"domain\", \"value\": \"depremmobilya.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0b4188e3-8879-4507-b6af-33bddf756e0a\", \"type\": \"domain\", \"value\": \"turkeyearthquakeaid.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1c874140-241d-49c7-992b-7455f018aa73\", \"type\": \"domain\", \"value\": \"loaketurkiye.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d86dd714-7321-4b89-b919-a8189db4bcf2\", \"type\": \"domain\", \"value\": \"evimiz-turkiye.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"113ee1e0-fedd-4558-99f8-a62110751281\", \"type\": \"domain\", \"value\": \"otoavisturkiye.online\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"33542cba-261f-4d97-ae65-3360b7b81a08\", \"type\": \"domain\", \"value\": \"depremhukuku.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5716810f-4a80-487a-a1bc-50834936a959\", \"type\": \"domain\", \"value\": \"depremzedeler.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5d041551-b714-4da5-aafa-ce6133fb9a86\", \"type\": \"domain\", \"value\": \"turkey-earthquake.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"177fe41c-a702-41c5-8b7c-4396cefafb7d\", \"type\": \"domain\", \"value\": \"helpturkeyandsyria.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}], \"Orgc\": {\"name\": \"Infoblox\", \"orgc\": \"D1C6A726-F132-4DDC-8180-CE3A5B778E65\"}}"
+{
+  "uuid": "5e7eaa6b-70c8-4011-ac84-83b620267c9a",
+  "Attribute": [
+    {
+      "uuid": "4a84d02f-00bd-4e30-b9f6-8e083dfbd18e",
+      "type": "domain",
+      "value": "bridgetoturkey.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "86cd84fb-880e-4433-8bca-0a2562c9c4b3",
+      "type": "domain",
+      "value": "monteverdepremiumrealestate.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "871dd5b0-6d49-460c-8f57-3f82138f9a0a",
+      "type": "domain",
+      "value": "afadacilyardim.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9c811d1f-9737-4b2e-8683-2751de1f5d22",
+      "type": "domain",
+      "value": "depremihtiyaci.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7f8a7c39-e183-4be9-afe6-371300a5274f",
+      "type": "domain",
+      "value": "obeyclothing.sk",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "72612ecf-4034-4f03-972e-33cc09222326",
+      "type": "domain",
+      "value": "afadzede.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "869cd566-45b7-4b64-9d07-20d1e2f3461b",
+      "type": "domain",
+      "value": "xn--hataygvenotomasyon-r6b.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d7cade67-fc37-4bef-a771-30fd2cf6f24a",
+      "type": "domain",
+      "value": "depremedirenclievler.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "42e72c3e-1208-42e0-b1da-e68744fc7983",
+      "type": "domain",
+      "value": "afadhemenyardim.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "de1eef20-9fc4-4d2d-bf4e-7e6cba7a9c19",
+      "type": "domain",
+      "value": "wladimirfoundatation.co",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c7b9a5a9-522f-4b58-960c-ea9f95c04452",
+      "type": "domain",
+      "value": "ropaobeychlie.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0b1f624e-0c0c-46e0-bc2d-773084e7c40a",
+      "type": "domain",
+      "value": "arabaozelcekilisi.website",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1f219f90-415a-4930-bbf5-4b8cadafcd60",
+      "type": "domain",
+      "value": "turkeyevisaservices.online",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f60999fb-5c5f-46ee-b148-ca6bd34a6947",
+      "type": "domain",
+      "value": "kriptobagis.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2903acf8-e813-42bc-90dd-f4305befd6ac",
+      "type": "domain",
+      "value": "help-turkiye.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f65e98d7-6acb-40af-a16b-f87a9a1eeb9b",
+      "type": "domain",
+      "value": "earthquaketurkey.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5a919d15-e52b-4173-bae5-b3c6fb60b332",
+      "type": "domain",
+      "value": "zorluvakiflari-destek-burs.site",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a73e457f-a94d-4c82-8668-06d9abe3e437",
+      "type": "domain",
+      "value": "arabacekilisisizlereozel.website",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "aacf185d-1e09-446b-86f1-1f1e266992f4",
+      "type": "domain",
+      "value": "zedeyardim.online",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f4e71e94-ae8c-44ff-86e9-420ac173176a",
+      "type": "domain",
+      "value": "preppers-turkiye.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "87d368bd-f1b1-4e21-be07-e3e443871630",
+      "type": "domain",
+      "value": "arabaozelcekilisi.digital",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a537e763-d658-4775-b8c6-a48b5a501467",
+      "type": "domain",
+      "value": "afad-online-odeme-bagis.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "16d0a3a6-fcca-4b9d-be73-0f6914b57610",
+      "type": "domain",
+      "value": "arabaozelcekilisi.online",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "492e2e76-54c1-47ca-b8ff-2d84de947c28",
+      "type": "domain",
+      "value": "kizllay.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d68ab403-91d3-4aae-a3c5-d32b72f64c1c",
+      "type": "domain",
+      "value": "internetkampanyalari-basvuru.online",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "737faf9a-7ac4-4230-81b4-04f290beb2ec",
+      "type": "domain",
+      "value": "destekdeprem.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "107b62ac-2109-4759-8fed-e05de12762c1",
+      "type": "domain",
+      "value": "ahbap.digital",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "33435090-580b-4434-8434-a43a1f358282",
+      "type": "domain",
+      "value": "dizaynturkiye.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ea02ae9b-6797-47ce-8c3d-d42a3744ce9c",
+      "type": "domain",
+      "value": "x-rnfvcvu.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b44fb4b8-519e-4785-9c4a-fcf38a8cf9c5",
+      "type": "domain",
+      "value": "trdeprem6223.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b0b11545-c40c-45d8-adc4-5363dac00281",
+      "type": "domain",
+      "value": "depremzede.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6ce7c5e1-fe31-4d0e-9e6b-e902d80874a3",
+      "type": "domain",
+      "value": "turkey-foundation.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6fd17e37-cc06-4d47-94e2-7f98e9c6eaad",
+      "type": "domain",
+      "value": "zorlu-vakif-destek.site",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "786a2018-5352-4fbb-b681-6ca8e8e915ee",
+      "type": "domain",
+      "value": "afadbagisyap.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1a1aeb08-2805-4e67-a648-eee6df927509",
+      "type": "domain",
+      "value": "turkiyeneedsyou.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "81b1505e-58bf-4378-8e44-612249d16688",
+      "type": "domain",
+      "value": "xn--6ubatdepremi-4mc.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c9e997be-44cd-4422-b226-25f23db8eb47",
+      "type": "domain",
+      "value": "turkiyedeprem.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "554faad3-e85f-44ce-98ce-87180c785d5a",
+      "type": "domain",
+      "value": "depremzedelere-yardim.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3a79b542-6ffe-40fe-bc5b-527db535b6d5",
+      "type": "domain",
+      "value": "accounts-turkiyefinans.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "342792bc-79af-42c9-a6f5-3dbea7a6ed5a",
+      "type": "domain",
+      "value": "depremyardim.me",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "556be4b1-1a35-47f9-ba0b-81d2f0ad5b81",
+      "type": "domain",
+      "value": "yardimbagis.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9777827b-9296-4430-b6bf-2f1cf0285f80",
+      "type": "domain",
+      "value": "turkey-gofundme.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "152e83d8-67b8-4988-81e8-0eb0b33a81b0",
+      "type": "domain",
+      "value": "depremacil.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "bbd90524-fef1-4fc5-9f11-51e5f0eb1e76",
+      "type": "domain",
+      "value": "turkiyeneedsyou.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ec4531e4-2d63-4ce8-b1f5-2acfb2211af3",
+      "type": "domain",
+      "value": "zorluvakfi-bursvedestek-al.site",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4e43de11-bd61-4369-b21e-ca64b4aa9cce",
+      "type": "domain",
+      "value": "helpturkey.world",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "bcb96875-fb04-4530-bb9b-507f40a7c02d",
+      "type": "domain",
+      "value": "helptk.bar",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9121dc07-e50e-4ed5-b37d-2859025aa34f",
+      "type": "domain",
+      "value": "enkazyardim.online",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2336c1d6-02dd-4ae0-a19f-0cfebdd78c6a",
+      "type": "domain",
+      "value": "afad-bagis.epizy.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b325320f-bef5-4628-9131-1fb5e95fe70d",
+      "type": "domain",
+      "value": "helpforturkey.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c18117f6-7b4a-43ec-bc7d-989f350f091f",
+      "type": "domain",
+      "value": "afad-yardimerkezi.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "44762af3-5bd8-4b36-a71f-82662695ad70",
+      "type": "domain",
+      "value": "trustwalletdestek.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "efc68732-6ecf-479a-a535-c3f74cdc7d25",
+      "type": "domain",
+      "value": "helpturkey.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1d2bfe58-12a0-4672-9833-8f684729c047",
+      "type": "domain",
+      "value": "tarjetaciudadanafuengirola.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9d332d12-518a-4b97-b8b6-90c310ac0bd6",
+      "type": "domain",
+      "value": "resmiyardim.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9e2d47b6-dad1-4916-8c9e-a359d99f96c8",
+      "type": "domain",
+      "value": "donateforturkey.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3eb9e7f7-3fae-4582-ba24-264247d79bff",
+      "type": "domain",
+      "value": "turkeyandsyriadisasterresponse.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "260ebac5-40ce-476c-bcd5-f45711a22fda",
+      "type": "domain",
+      "value": "zorlu-vakfi-destek.site",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6899bb97-de2a-4311-a4db-9e0bfc5e0fc6",
+      "type": "domain",
+      "value": "acilyolyardimturkiye.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4849eeda-7b1d-4793-9f20-89ac51906bda",
+      "type": "domain",
+      "value": "arabaozelcekilisi.shop",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c9142a0e-84d2-456e-8f63-39d6adbde7dc",
+      "type": "domain",
+      "value": "umbroturkiyetr.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "31dd9eba-87ec-4529-b6d7-89090984a3c6",
+      "type": "domain",
+      "value": "fiberkampanyalari-basvuru.online",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5abcea84-5114-4393-aeb4-f021e5a2ae0a",
+      "type": "domain",
+      "value": "turkeyhelp.world",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "94620a91-8573-406e-a7fb-8b9001986624",
+      "type": "domain",
+      "value": "obeysouthafrica.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6d31a958-d458-4f39-9355-7ddd521f1aed",
+      "type": "domain",
+      "value": "arabaozelcekilisi.tech",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b286f847-cdbe-4eac-846c-ba4d88dc14e4",
+      "type": "domain",
+      "value": "afaddestek.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "237e1494-78b2-4845-98a6-0ef8a5777df2",
+      "type": "domain",
+      "value": "hataydeprem.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e04d0977-9bb8-4cdd-8a09-b699c37ccad8",
+      "type": "domain",
+      "value": "depremdenkorun.online",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f372457a-3110-47f1-a72f-308ef305dd00",
+      "type": "domain",
+      "value": "afetacilyardim.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7763ac2d-7821-4c5d-844b-0e58dee4a0d9",
+      "type": "domain",
+      "value": "help-family-earthquake.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "20743e41-bc5b-42cc-8e34-6286edca7005",
+      "type": "domain",
+      "value": "afetmarket.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8cc9b003-910d-4513-acc3-9e29759d5f3c",
+      "type": "domain",
+      "value": "obeyargentina.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5e830adc-b854-4d96-8200-aa446b745a5b",
+      "type": "domain",
+      "value": "turkeyrelieftoken.help",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "18bac141-791b-4e87-b074-d04b5933056d",
+      "type": "domain",
+      "value": "akut.303.si",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e5c1fd8a-9661-43d8-9b15-26310faf9b67",
+      "type": "domain",
+      "value": "ladanayevo.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "977c4884-b524-44a2-a83a-85450c559a84",
+      "type": "domain",
+      "value": "deprem-bagislarim.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "252f1f77-1d2d-4aa9-8fc7-c3c55e4e834d",
+      "type": "domain",
+      "value": "earthquake-insurance-19585.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d5e2fdf7-ee33-4675-b397-0e200f2b44f5",
+      "type": "domain",
+      "value": "afetzedeyardim.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7c16af53-1428-4883-a18f-867af8577844",
+      "type": "domain",
+      "value": "afad-kizilay.yardim-yap.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7b9c03b7-9e9a-4b5c-ad4d-a4530b7bfe55",
+      "type": "domain",
+      "value": "denizcekilisbank.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c839b751-a83e-4686-8cb3-bc6cb0fe8718",
+      "type": "domain",
+      "value": "zorluvakif-destek-burs.site",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c4e87bdd-c2e2-45e1-b0e5-7753eefb90e6",
+      "type": "domain",
+      "value": "scotchandsodaturkiye.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "88f2710c-5ff2-480f-8f03-4d58f91a071c",
+      "type": "domain",
+      "value": "depremdeyanyana.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0fd44327-af60-4b6d-95c8-2b8ffd1b3469",
+      "type": "domain",
+      "value": "nigdeyolyardim.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8e872bbc-5d7c-4aee-af28-a4e98731bd9f",
+      "type": "domain",
+      "value": "turkeyreliefdao.notion.site",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0b6633f3-ab37-478d-8201-863225bdeefc",
+      "type": "domain",
+      "value": "afadvdestek.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4ab1e88e-d65c-4185-a520-e7828edfd3a7",
+      "type": "domain",
+      "value": "afed-co.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "464da349-13c6-4672-8eed-bc5a6a27a1c1",
+      "type": "domain",
+      "value": "afad.omagarwal.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d2e1430d-c4d3-4468-8d9a-b48175dd98bf",
+      "type": "domain",
+      "value": "turkiyeyardim.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "82fc630f-d541-48d0-8058-e7b5437f7ca5",
+      "type": "domain",
+      "value": "depremyardim.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5759f2ef-2cc0-475c-890e-74f0b6eb025f",
+      "type": "domain",
+      "value": "turkeydonate.world",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7c3867be-5216-4c7f-8b6a-ad5b10233a5d",
+      "type": "domain",
+      "value": "afadyardimyap.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "19584055-becf-4839-93ad-8fff74a4d0b5",
+      "type": "domain",
+      "value": "bagislama.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2f0f6882-d157-482c-b293-5b8656808fd0",
+      "type": "domain",
+      "value": "zorlu-vakfi-egitime-destek.site",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "591a906e-490d-49a1-b2ea-39feba52c35e",
+      "type": "domain",
+      "value": "arabacekilisinehemenkatil.website",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3c753b79-8607-4976-a21b-31876d45290e",
+      "type": "domain",
+      "value": "depremdestek.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "db5c2f32-39c1-4c2f-8ddd-79fc55e03f6d",
+      "type": "domain",
+      "value": "kampanyamiz-online-basvuru-giris-aktarim.com.tr",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d9751299-8972-4d2a-97b0-355ee9df8788",
+      "type": "domain",
+      "value": "depremvergileri.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0fe5a1f2-ee98-4576-a349-2c077db60238",
+      "type": "domain",
+      "value": "afad-kahramanmaras.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "bf5013bf-0015-43c3-a8ed-656c7c071649",
+      "type": "domain",
+      "value": "earthquakealerts.world",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "db75ba52-8329-4b9e-b3bf-c937a127f51a",
+      "type": "domain",
+      "value": "afetacilyardim.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "390edaa7-24fb-498f-b5a0-60e742a82626",
+      "type": "domain",
+      "value": "bagis-yap.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c8f3afca-d5ba-47c8-a0e5-d29570b5de07",
+      "type": "domain",
+      "value": "earthquake2023.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "89410673-df1c-4fa2-ac36-18f5865db1fa",
+      "type": "domain",
+      "value": "donatecryptoforturkey.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "018d9269-e394-4157-8a14-1333a7d999bc",
+      "type": "domain",
+      "value": "zorlu-vakiflari-burs-destek.site",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a830869f-e8b4-435e-b29b-037db3e6f473",
+      "type": "domain",
+      "value": "enferdeprem.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3f1fc3b8-2e42-4407-a24d-c8bd1e727815",
+      "type": "domain",
+      "value": "toplumsalyardimlasma.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "458a4f9f-602e-4c4e-ab8e-ddeeb5d3e9c8",
+      "type": "domain",
+      "value": "egitime-destek-zorlu-vakfi.site",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a2b3bb1c-e15e-41ed-9aa0-fce7f4f2707d",
+      "type": "domain",
+      "value": "depremkonum.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4772d9f2-3aca-425c-8713-b2618f5682e5",
+      "type": "domain",
+      "value": "afetbagis.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7288a618-d96f-4373-8fc3-4b5efa683fd8",
+      "type": "domain",
+      "value": "zorluvakfi-destek-burs.site",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4f2f636b-7bbd-4494-9fef-1e22e12ba511",
+      "type": "domain",
+      "value": "fihgdjhfdhffdf.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "041fea86-3cff-4505-b14d-1df9ec662f52",
+      "type": "domain",
+      "value": "turkeyearthquakefund.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "cda36912-fe7a-4982-b1bc-76bd32e95982",
+      "type": "domain",
+      "value": "obeychile.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "82d3ef92-f3af-4b81-9917-f1bad1e36a49",
+      "type": "domain",
+      "value": "ropaobeychile.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d28cad32-f14e-4db1-bfe1-fb7604a0d826",
+      "type": "domain",
+      "value": "arabaozelcekilisi.life",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b3e771c6-dfde-4dba-9334-597235f1fbf1",
+      "type": "domain",
+      "value": "egitime-destek-zorluvakfi.site",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fe688219-a8fd-49dc-b0bd-3be98d40a531",
+      "type": "domain",
+      "value": "turkeyearthquake.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "acc72e90-e0d5-4d28-8e10-d0e24b898a4d",
+      "type": "domain",
+      "value": "depremyardimlasma.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "06ebb72e-ee64-4e02-935e-20c712fb1d84",
+      "type": "domain",
+      "value": "charityforturkey.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b38f4dd1-33ce-4e7f-bfe9-63e75915b4c3",
+      "type": "domain",
+      "value": "ngo-turkey.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e4fa86b7-ff2d-4035-b7ab-6bb5e5458289",
+      "type": "domain",
+      "value": "arabaozelcekilisi.pro",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7c727869-6628-422c-8839-a54c99fd1eb5",
+      "type": "domain",
+      "value": "afadbagislari.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a8d99389-48e8-43d4-bef7-a156895dd5e0",
+      "type": "domain",
+      "value": "haydi-bakalim-900tl-kampanyamizz-online.com.tr",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "86f836a1-29be-4455-99f5-ca87dc588f6b",
+      "type": "domain",
+      "value": "scotchandsodawien.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6617f962-638c-48f9-b864-0e6cdc8251b5",
+      "type": "domain",
+      "value": "earthquake-insurance-59040.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ed9c8538-54e0-4320-9a7f-b8b96a115316",
+      "type": "domain",
+      "value": "llbeanturkey.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9b34b02e-a1aa-4951-aea2-c67efba6fc6b",
+      "type": "domain",
+      "value": "depremzedeyardimlarixdxme5.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1860a9e3-7df0-43f5-8436-0e8b79428c6b",
+      "type": "domain",
+      "value": "turkeyearthquakefund.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6a3205d5-ea22-43b0-8bdb-1cc1947b0b78",
+      "type": "domain",
+      "value": "deprembagis.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fb522e3d-8c4e-4be8-9160-3be82c1b945e",
+      "type": "domain",
+      "value": "depremkahini.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c0c08f31-b727-4727-a244-8d955499f1c9",
+      "type": "domain",
+      "value": "h1uhatay3.sbs",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2144572c-5d92-40ee-9d1a-5c2b5a71f9ca",
+      "type": "domain",
+      "value": "depremihbar.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b474500c-0552-43d9-82a5-d17618ab3aa8",
+      "type": "domain",
+      "value": "obeysingapore.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b51d1845-e57b-4288-aa7b-4fb4b89e33f3",
+      "type": "domain",
+      "value": "arabaozelcekilisi.site",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "60c1e490-9e80-4b50-ac1c-3ad1b9d90c72",
+      "type": "domain",
+      "value": "depremraporum.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "710aabec-3169-4ac1-895a-4a1df15b7db0",
+      "type": "domain",
+      "value": "zorlu-vakiflari-destek-burs.site",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b0d0a261-f3fd-46cc-8b56-2ebb07772da4",
+      "type": "domain",
+      "value": "depremtr.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f374089f-8765-49ae-ac58-0943ab9a97bc",
+      "type": "domain",
+      "value": "deprem.wesdteam.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ec033426-a8ad-46a9-9d4d-44533ba09cf5",
+      "type": "domain",
+      "value": "turkiyeaviskiralama.online",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "34a533f0-66ae-49e5-b191-ab4c02317ab5",
+      "type": "domain",
+      "value": "arabaozelcekilisi.agency",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6a15b15f-bf33-47bb-b0ae-9f90abe4236d",
+      "type": "domain",
+      "value": "earthquaketurkey.world",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "02470e5d-1e91-4865-b02a-84db2cd1ff65",
+      "type": "domain",
+      "value": "helphatay.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "71dcbd48-bfab-4603-8d6b-4300f9c83058",
+      "type": "domain",
+      "value": "depremzedeara.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c37b8210-090e-442d-a93a-b7d6167a8a89",
+      "type": "domain",
+      "value": "depremcagri.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "28614bbd-1784-43d0-bb08-635a0109ed4f",
+      "type": "domain",
+      "value": "iaearthquake.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "cedc9d52-4a1c-4bf4-8bef-8d95112d4d1c",
+      "type": "domain",
+      "value": "supergaayakkabiturkiye.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "99e6f00b-d5dc-48f1-88c7-5c5cbb989c09",
+      "type": "domain",
+      "value": "fossilbagmalaysia.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6ba0f79c-63b7-4bed-816b-35c30b7a1d3e",
+      "type": "domain",
+      "value": "helpturkeyandsyria.life",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "045063e0-9378-4ead-8575-b9448ee1413d",
+      "type": "domain",
+      "value": "afaddeprembagis.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c69b4815-bb4e-493b-b88b-07f8c94af7b9",
+      "type": "domain",
+      "value": "betturkey7840.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "eccbc95e-0458-4f4c-8ab5-140f5457c567",
+      "type": "domain",
+      "value": "turkiyeneedsyou.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6429429a-d2e2-4eff-be0c-46a909f79154",
+      "type": "domain",
+      "value": "afadestek.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0c57885f-2e8c-4508-8ec2-e5611f871dec",
+      "type": "domain",
+      "value": "obeyturkiye.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4a81231b-95fc-4f76-8a70-d911222276a5",
+      "type": "domain",
+      "value": "afadtr.bagislama.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c45d2245-5150-49ea-b4ed-1a1fe79672d8",
+      "type": "domain",
+      "value": "arabaozelcekilisi.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "eef8810f-841b-45c1-9387-6c02bf792063",
+      "type": "domain",
+      "value": "binanceneweventkampanyalarilebirliktesorgula.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "64690844-ea49-4c98-83ee-408f7f778eb9",
+      "type": "domain",
+      "value": "sanliurfakoltukyikama.online",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a31b8d2f-bd7b-491b-9857-c63bfb5205fd",
+      "type": "domain",
+      "value": "xn--depremyardm-8zb.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "68314cdb-c096-4915-9442-817a4cc05f59",
+      "type": "domain",
+      "value": "donateturkey.world",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7eb2f4fd-ba92-4d1d-8791-c5e9dd55c310",
+      "type": "domain",
+      "value": "yardim.b-cdn.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "17fa96ab-7804-4cd1-803a-8e38fc926ece",
+      "type": "domain",
+      "value": "afad-kizilay.yardimbagis.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "661ce677-a3ce-4fd4-98e5-d25e45ad0b5e",
+      "type": "domain",
+      "value": "depremkontrol.com.tr",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7079d894-f74f-4345-99db-dc6a4de2f5fd",
+      "type": "domain",
+      "value": "depremproje.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "63b37b30-133e-42c0-b946-23f2c97170c7",
+      "type": "domain",
+      "value": "depremacilyardim.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6dc523a6-bb79-471e-a53c-f18e48d0f165",
+      "type": "domain",
+      "value": "deprem.link",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d539db0e-076a-4734-97c1-81951b83815c",
+      "type": "domain",
+      "value": "yardim-yap.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d5b4f0c6-db24-4368-a043-df75f317db38",
+      "type": "domain",
+      "value": "depremnerede.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "bbe23679-7bea-4d65-992e-8ad01c6b7def",
+      "type": "domain",
+      "value": "denizlideprem.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5ef8847f-08d5-4d40-8763-f91a9a737cbd",
+      "type": "domain",
+      "value": "nbaglass.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b64063f7-4ced-4eb2-9ec6-678c2dca44bc",
+      "type": "domain",
+      "value": "depremulasim.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d2fedba0-a1e9-498e-aff2-106af84f1d07",
+      "type": "domain",
+      "value": "deprembot.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f0d11ac4-d759-4e2e-b699-03333c09e4af",
+      "type": "domain",
+      "value": "depremyardimbursa.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "114246be-25e4-4cf7-9921-a79a4f2ad70e",
+      "type": "domain",
+      "value": "afad.online",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "48ac7aaa-f43b-4e2a-8c07-a9d915ec0851",
+      "type": "domain",
+      "value": "depremafetacilyardim.online",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "45755994-10a2-4f41-87e5-70018bad3087",
+      "type": "domain",
+      "value": "deprem-info.online",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "25668e57-2c7d-40f7-a2cf-e4518331c257",
+      "type": "domain",
+      "value": "depremtr.com.tr",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3f629a21-f532-453e-97aa-3e48b9e6f51a",
+      "type": "domain",
+      "value": "depremteshis.online",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "be2e5022-0a41-4940-b57e-36c158c70a71",
+      "type": "domain",
+      "value": "deprem.tech",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2e3a0564-b975-47f9-9f08-f35737703ce6",
+      "type": "domain",
+      "value": "turk-help.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "aa13ecb1-8084-43d7-b9ea-3a01b33fc1bf",
+      "type": "domain",
+      "value": "helpturkeysyria.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d86e64bf-d75a-4f28-b69d-1d584d6b2323",
+      "type": "domain",
+      "value": "beltturkey785.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ff99082b-017a-406d-913d-d5122f59380f",
+      "type": "domain",
+      "value": "aid4turkey.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b2139012-d458-4a23-afac-b374f2f5184d",
+      "type": "domain",
+      "value": "annekleinturkiye.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f5e2fe4a-d3c7-4fa7-974b-5dcb206020c4",
+      "type": "domain",
+      "value": "aidturkey.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d204e64b-98cc-46ef-9eb6-c05752108a1b",
+      "type": "domain",
+      "value": "evimiz-turkiye.biz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "60e5db4b-c989-45bc-bf1b-ba5204f122cf",
+      "type": "domain",
+      "value": "turkiyeavis.online",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "59a36ac2-0ab1-406a-a825-2002e78bc9d0",
+      "type": "domain",
+      "value": "turkiyeyegetir.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8fbafb79-ea9f-4a88-a905-b3ca4ecbf4ac",
+      "type": "domain",
+      "value": "epermit-turkey.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c5c28031-9db6-4e9b-8e89-e12b1da4d559",
+      "type": "domain",
+      "value": "helpforturkey.online",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9aacc689-85e1-477e-bf6f-d67a11a42ddd",
+      "type": "domain",
+      "value": "support4turkeynow.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5ff50066-ef09-4839-bd37-768137531125",
+      "type": "domain",
+      "value": "redcrossturkiye.cc",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4dab16db-9b7f-49ac-b2d5-74b4e376f1ff",
+      "type": "domain",
+      "value": "depremdirenclisehirler.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3287a127-c4be-4dc8-9caf-e5a2664c2f94",
+      "type": "domain",
+      "value": "turkeyearthquake2023.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ac161bee-b8b6-49e5-98d6-d85a1a4ba052",
+      "type": "domain",
+      "value": "support4turkeynow.asia",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9c629371-4d02-40d4-80d9-aaf3fef85b6f",
+      "type": "domain",
+      "value": "ralphlaurenturkiye.top",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d3fdfc20-f433-4af3-85d9-77e85e34300e",
+      "type": "domain",
+      "value": "depremmobilya.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3c89501d-2896-4def-b81b-210a06eefd2a",
+      "type": "domain",
+      "value": "turkeyearthquakeaid.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "75413979-1663-4451-8c13-208151a7afc3",
+      "type": "domain",
+      "value": "loaketurkiye.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "af98087d-5fd9-4581-b109-cc739df93194",
+      "type": "domain",
+      "value": "evimiz-turkiye.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5e4ceb3b-4c7d-4a7f-9d2a-c9b1addf2260",
+      "type": "domain",
+      "value": "otoavisturkiye.online",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "108d6990-0627-4485-bef8-99449a687e7e",
+      "type": "domain",
+      "value": "depremhukuku.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d2204a5d-b3ec-47d4-8985-d77a55889671",
+      "type": "domain",
+      "value": "depremzedeler.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "91e52240-a724-4ae1-a805-e179a82c2d5e",
+      "type": "domain",
+      "value": "turkey-earthquake.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ca1fcd3b-fdf3-4156-b4f8-1c40b73144f4",
+      "type": "domain",
+      "value": "helpturkeyandsyria.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    }
+  ],
+  "Orgc": {
+    "name": "Infoblox",
+    "orgc": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+  }
+}

@@ -1,1 +1,337 @@
-"{\"uuid\": \"cfa7e6fa-62d3-4575-b24d-4d6aa72949c5\", \"Attribute\": [{\"uuid\": \"2ec631f2-3b86-44fb-8c52-08d5eff7d5ec\", \"type\": \"domain\", \"value\": \"mtbwebverif3.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bb2d0b41-76a5-4016-baf3-96828b605d36\", \"type\": \"domain\", \"value\": \"mtb3mobiie.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"68a4f8e7-e1cb-44c5-a87a-327b96e4e837\", \"type\": \"domain\", \"value\": \"mtb1t0psupp0rtz.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ca759963-f2f8-4cd4-9659-2a90aaae2c22\", \"type\": \"domain\", \"value\": \"mt3bsupports.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1afbd85d-b69a-4f17-bf77-9a66ee4a4b19\", \"type\": \"domain\", \"value\": \"allowedvillage.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"64b00808-1f48-4122-a1f4-9440d8f19b46\", \"type\": \"domain\", \"value\": \"aimdaddy.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bee50f1a-64c0-4d9d-9986-28b9cee4a244\", \"type\": \"domain\", \"value\": \"mtbsuportz4.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"77d1dbbd-8886-4a86-aed0-b94866ac08be\", \"type\": \"domain\", \"value\": \"citizensverly0.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"aaf31cc8-25d5-4309-9cb0-db844e2b79fe\", \"type\": \"domain\", \"value\": \"qadriyasubhaniya.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5e45896e-e734-4fa2-9e02-176525a14aa3\", \"type\": \"domain\", \"value\": \"samcrte.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"43869cb0-0d71-4a68-bf8b-bb7658a7a21f\", \"type\": \"domain\", \"value\": \"mtbsuportz865.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"8d8b0119-3c6c-4925-b641-144866295cac\", \"type\": \"domain\", \"value\": \"ato-mygov1.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"34ddaf65-834c-4bc1-ae78-78ba6b777d6a\", \"type\": \"domain\", \"value\": \"mtb10reviews.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f85eaa8a-d9cd-47d6-ad52-dbf1f674feb4\", \"type\": \"domain\", \"value\": \"mtb-customer.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f409e179-f47d-4e54-a02f-33bb37087897\", \"type\": \"domain\", \"value\": \"apexebank.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a53c94c9-148a-4d78-b9bd-0bace113d6c7\", \"type\": \"domain\", \"value\": \"mtb3quickverif.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a9439de9-5488-4357-9192-e3673190e4a8\", \"type\": \"domain\", \"value\": \"mtbsuportz9264.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f92ea914-f986-4dfe-a36f-a8ef25b6b6dd\", \"type\": \"domain\", \"value\": \"mtb-securem0bile.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d6cbf720-b1b9-4c3a-8bf8-f6d1dabec38a\", \"type\": \"domain\", \"value\": \"allignmentstyles.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"cc93d926-53e4-4842-bd43-b5d53716e91c\", \"type\": \"domain\", \"value\": \"mycitibankunion.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"af1540d1-c1a9-4070-86a1-716b619a6775\", \"type\": \"domain\", \"value\": \"mtbsuportz661.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d8295242-5160-4d96-a5bd-c70cb84d12d4\", \"type\": \"domain\", \"value\": \"mtbonlinesupports3.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d5b6ef11-9ba3-4bdb-8d99-0f4c24aef923\", \"type\": \"domain\", \"value\": \"mtbsup0rtsonllne.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3ce48db2-b6c5-4655-8603-7d5de8253640\", \"type\": \"domain\", \"value\": \"mtbonllnesup0rts.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"360493bf-6531-4fc3-a76f-bc9ae6cd02fe\", \"type\": \"domain\", \"value\": \"mtbsupoprtsonlines00.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5cf932d2-4b15-4f6b-825f-7a80e11d95c8\", \"type\": \"domain\", \"value\": \"mtb0nlinewebverifl3.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"84ac69df-57b9-43fd-b8c6-9ede050d58d9\", \"type\": \"domain\", \"value\": \"mtbsuportz05.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2e067380-331f-4572-89be-c5745513bb87\", \"type\": \"domain\", \"value\": \"nbtsupp0rt2.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7896e0f0-e9f1-47c3-b530-6048f26e7d82\", \"type\": \"domain\", \"value\": \"americanfirstsupporrts30.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bd978380-5007-4565-ad4f-addff042b7d0\", \"type\": \"domain\", \"value\": \"hostergeek.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"033e0bd1-4a43-4b5f-8d1c-7d13ad243a3e\", \"type\": \"domain\", \"value\": \"americafirstsup0rrtz.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5eecee0b-e430-49ca-85c1-27f765b5bcf8\", \"type\": \"domain\", \"value\": \"americanfirstsupporrts22.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"465da9c4-6a09-4566-906b-5fe238be9143\", \"type\": \"domain\", \"value\": \"americafirstsuporrts112.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d0a482be-d5b4-47bd-94d9-2f6b47815a6a\", \"type\": \"domain\", \"value\": \"mtbsuportz912.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9b0bf03b-aea9-4e5c-b626-a29a87d5519f\", \"type\": \"domain\", \"value\": \"americanfirstsupporrts69.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b3ad4e8b-0dd3-4237-8fa2-473ff9bc51c2\", \"type\": \"domain\", \"value\": \"nbtsupp0rt1.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5ccce776-9c72-4b14-ab8e-fa26bdea2dfd\", \"type\": \"domain\", \"value\": \"nbtsupp0rt07.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2806a13b-b689-401c-8b1a-e1e57da0c983\", \"type\": \"domain\", \"value\": \"mtbsuportz92.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5c8f9180-649d-4441-a723-7ca9020b9f3b\", \"type\": \"domain\", \"value\": \"mtbsuportz385.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3ddbd38b-d555-4ec7-bd2a-8dc846ba02e8\", \"type\": \"domain\", \"value\": \"americafirstsup0rts247.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f72f0827-05e3-48cd-973b-73d5cef36a00\", \"type\": \"domain\", \"value\": \"mtbsuportz642.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}], \"Orgc\": {\"name\": \"Infoblox\", \"orgc\": \"D1C6A726-F132-4DDC-8180-CE3A5B778E65\"}}"
+{
+  "uuid": "7178959a-f84c-4a4b-b37e-6905b926d7ca",
+  "Attribute": [
+    {
+      "uuid": "1f55ff93-725c-4037-be20-7d3e81d3ddab",
+      "type": "domain",
+      "value": "mtbwebverif3.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e1e15ebd-3a87-4162-a745-b99a0f8ceab8",
+      "type": "domain",
+      "value": "mtb3mobiie.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f391d84f-5fc6-4234-9350-f9ac96ffc0ab",
+      "type": "domain",
+      "value": "mtb1t0psupp0rtz.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "443130ab-5104-426e-8d25-69a71f1038c2",
+      "type": "domain",
+      "value": "mt3bsupports.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f2861926-d311-4507-b190-cfd9269e296b",
+      "type": "domain",
+      "value": "allowedvillage.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6cefc795-36fe-44ba-a33f-f84e8cc2ec7f",
+      "type": "domain",
+      "value": "aimdaddy.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "bd2de17f-3bc5-4c3b-b109-6ec2dbfc9ed9",
+      "type": "domain",
+      "value": "mtbsuportz4.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3b692176-7a4c-409e-9f8c-c280c85baa4a",
+      "type": "domain",
+      "value": "citizensverly0.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c8e77668-2f23-46fc-bb62-4451deaac8ae",
+      "type": "domain",
+      "value": "qadriyasubhaniya.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e22a9739-380b-45bf-94d7-9936ea096298",
+      "type": "domain",
+      "value": "samcrte.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "98891296-5989-4a17-b175-e0bf85a3ee5a",
+      "type": "domain",
+      "value": "mtbsuportz865.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "006cdd59-6f07-4c7f-956d-6304f5bc4c9f",
+      "type": "domain",
+      "value": "ato-mygov1.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1332f7dc-ba28-4456-94ee-02fc9a2d5bb4",
+      "type": "domain",
+      "value": "mtb10reviews.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "30eea5c4-3430-43cd-844f-6cb26659c1fc",
+      "type": "domain",
+      "value": "mtb-customer.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "22fc124a-851f-4c21-a2b5-0033046781f1",
+      "type": "domain",
+      "value": "apexebank.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0b87e402-e51b-4e6c-9507-5e46842dd37d",
+      "type": "domain",
+      "value": "mtb3quickverif.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3ea7973b-43f8-4002-9d82-0a848ec288b1",
+      "type": "domain",
+      "value": "mtbsuportz9264.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c35d4d8a-d98b-4622-b6a5-e1723786074b",
+      "type": "domain",
+      "value": "mtb-securem0bile.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "de01aee4-96e9-4907-942f-b88d7ff09c9e",
+      "type": "domain",
+      "value": "allignmentstyles.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1352a0d9-1c48-43b1-917c-3e3861cafc46",
+      "type": "domain",
+      "value": "mycitibankunion.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6091cb9d-cc95-4a88-b7b1-58ce6cde35f4",
+      "type": "domain",
+      "value": "mtbsuportz661.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4bb7e99e-188b-4a06-af97-b3870951367d",
+      "type": "domain",
+      "value": "mtbonlinesupports3.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "05218b48-f2d2-4e09-9a1e-14cc0e37b036",
+      "type": "domain",
+      "value": "mtbsup0rtsonllne.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f80b3268-b5f7-4f46-9a5c-4a780582ab35",
+      "type": "domain",
+      "value": "mtbonllnesup0rts.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "14982546-3778-46a3-9920-1793fa6cc76e",
+      "type": "domain",
+      "value": "mtbsupoprtsonlines00.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3c8e411c-d323-48c5-a66e-4657d1c18b2c",
+      "type": "domain",
+      "value": "mtb0nlinewebverifl3.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "69078ea5-ff55-4748-9ebf-2cfe41f812e6",
+      "type": "domain",
+      "value": "mtbsuportz05.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f0f4b8b3-7a76-4a09-ac6a-955ab0fda26d",
+      "type": "domain",
+      "value": "nbtsupp0rt2.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7910ce00-f8b5-419e-885e-92f17a700e52",
+      "type": "domain",
+      "value": "americanfirstsupporrts30.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b85f348d-9b9e-49da-95b7-a1d38ee1f2f2",
+      "type": "domain",
+      "value": "hostergeek.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "48863a6f-c853-4cdb-af4a-5e66fcd7e3ea",
+      "type": "domain",
+      "value": "americafirstsup0rrtz.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6ba182a6-bdd0-4d46-a051-24b6f38c0d50",
+      "type": "domain",
+      "value": "americanfirstsupporrts22.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d437ddbe-df35-4fde-ae54-8ab4586deeb2",
+      "type": "domain",
+      "value": "americafirstsuporrts112.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2f42034f-4f7e-4c59-81e0-6770c2d96809",
+      "type": "domain",
+      "value": "mtbsuportz912.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8e808696-1c50-4a14-aa24-bb8f8078318f",
+      "type": "domain",
+      "value": "americanfirstsupporrts69.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0f67fcea-a68b-469c-8980-2154f10c3423",
+      "type": "domain",
+      "value": "nbtsupp0rt1.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "dfb13dce-c2ac-4f10-a7a9-6288da9fd705",
+      "type": "domain",
+      "value": "nbtsupp0rt07.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a5ecd63f-0cb9-463b-8ca9-70d7e6050e94",
+      "type": "domain",
+      "value": "mtbsuportz92.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "723f6982-4a28-4805-aa07-235889dc373e",
+      "type": "domain",
+      "value": "mtbsuportz385.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "173ab1c0-b2f3-49db-affe-64e51dbc0c41",
+      "type": "domain",
+      "value": "americafirstsup0rts247.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3098c9ee-88bd-4dce-9f90-2f3e67dbc47b",
+      "type": "domain",
+      "value": "mtbsuportz642.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    }
+  ],
+  "Orgc": {
+    "name": "Infoblox",
+    "orgc": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+  }
+}

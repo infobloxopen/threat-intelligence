@@ -1,1 +1,57 @@
-"{\"uuid\": \"e897a1f8-adac-425d-94e9-6bf560dcaf61\", \"Attribute\": [{\"uuid\": \"9c0efdc6-60af-4e1e-b468-765b1e7ea6bf\", \"type\": \"domain\", \"value\": \"claudfront.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"88b376e5-b3ae-433a-8ef9-4b3e9df9f488\", \"type\": \"domain\", \"value\": \"allowlisted.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"66972b05-58ea-434c-a447-dc7cb3720f0b\", \"type\": \"domain\", \"value\": \"atlas-upd.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"40b99af8-1fb3-4c47-9145-e2f83685b68a\", \"type\": \"domain\", \"value\": \"ads-tm-glb.click\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"df09ad92-079d-4027-a48f-44222b141c9c\", \"type\": \"domain\", \"value\": \"cbox4.ignorelist.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e4849b4f-6aab-47b4-9353-6990957d8d10\", \"type\": \"domain\", \"value\": \"hsdps.cc\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}], \"Orgc\": {\"name\": \"Infoblox\", \"orgc\": \"D1C6A726-F132-4DDC-8180-CE3A5B778E65\"}}"
+{
+  "uuid": "136f27c8-34a6-4fe2-8811-1ac45d908a03",
+  "Attribute": [
+    {
+      "uuid": "dd7aef3f-2a52-41f5-8dac-17536bb91b67",
+      "type": "domain",
+      "value": "claudfront.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "63331706-6daa-4770-b3cd-604ba3ab6bc1",
+      "type": "domain",
+      "value": "allowlisted.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b0e976d3-e740-4407-83de-d8c7db500906",
+      "type": "domain",
+      "value": "atlas-upd.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "25f18ede-f1df-4058-ae11-f682615126b4",
+      "type": "domain",
+      "value": "ads-tm-glb.click",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8ab95220-00e1-4f5d-9f26-4fee09d26756",
+      "type": "domain",
+      "value": "cbox4.ignorelist.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c9ead943-e824-4cc8-84fc-f251251fe82a",
+      "type": "domain",
+      "value": "hsdps.cc",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    }
+  ],
+  "Orgc": {
+    "name": "Infoblox",
+    "orgc": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+  }
+}

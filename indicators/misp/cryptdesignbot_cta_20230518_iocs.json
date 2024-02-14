@@ -1,1 +1,3673 @@
-"{\"uuid\": \"744ea670-3a0c-481d-85f1-4b70ede8d539\", \"Attribute\": [{\"uuid\": \"0fbb3c25-d201-4188-9a2c-87fbe53df0ff\", \"type\": \"domain\", \"value\": \"twitter-promotion.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e174535c-43b6-40fc-abcd-8136cbc0e8c7\", \"type\": \"domain\", \"value\": \"testtdomainname.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d1d1a71e-49b8-44a9-a0b3-1fd7e1c7011d\", \"type\": \"domain\", \"value\": \"arkelon22.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0cca07b8-e4a2-485c-84d8-751bc8adec54\", \"type\": \"domain\", \"value\": \"teslabonus.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"118f5045-1063-414b-9390-b13233dbb66b\", \"type\": \"domain\", \"value\": \"youtubetesla.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e53540b9-5d4e-4d93-aa5f-db44f76298b6\", \"type\": \"domain\", \"value\": \"xrpglobal-event.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"49f7c780-8178-4f0a-99a1-55f7515bcf8c\", \"type\": \"domain\", \"value\": \"xrpglobal-event.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ad30970b-6fed-42c1-8c20-9600ac1eee02\", \"type\": \"domain\", \"value\": \"xrpfinance-info.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"264b87f1-8c91-4c26-8162-b6b5dd3a80a4\", \"type\": \"domain\", \"value\": \"xrpdouble-promotion.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e3e8a0d5-dadd-4f22-a5c9-86d51ecd6d0b\", \"type\": \"domain\", \"value\": \"xrpdouble-event.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"be26dcfa-3fcd-47df-a405-d5a8f39edd9b\", \"type\": \"domain\", \"value\": \"xrpairdrop-live.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"147e614f-9b10-4f69-9aef-17bd81499f9d\", \"type\": \"domain\", \"value\": \"xrp2x-double.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f63d38f6-ac08-488a-aab3-43e481035b9d\", \"type\": \"domain\", \"value\": \"xrp2x-double.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"82438b0c-5c7c-4e9a-9e4d-4a7a0c87bbcc\", \"type\": \"domain\", \"value\": \"xrp-promotion.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a48def14-210b-48ab-bb16-48c20b860645\", \"type\": \"domain\", \"value\": \"xrp-info.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5d7a18bc-0ad4-4d0b-9c08-2cb889766839\", \"type\": \"domain\", \"value\": \"xrp-give23.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"554e30f9-e2e0-45fb-b4b9-2850916ae796\", \"type\": \"domain\", \"value\": \"xrp-foundation.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"09082be3-98b4-408c-ae1f-02459eb35386\", \"type\": \"domain\", \"value\": \"xrp-finance.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"897b3fd2-967b-49d8-8724-ac7c9ab0eb8c\", \"type\": \"domain\", \"value\": \"x2years.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a98601de-451d-4f82-9740-b1be430216bd\", \"type\": \"domain\", \"value\": \"x2twitter.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c9a7da69-ceb3-4ea0-b317-cc170da323b5\", \"type\": \"domain\", \"value\": \"x2crash.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"41e07be7-f68f-4e57-8d26-36c5c08e59ab\", \"type\": \"domain\", \"value\": \"weripple.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ab9ab8dd-3009-4d70-8975-67c62b0969f6\", \"type\": \"domain\", \"value\": \"twit-usd.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fcf0648a-6eb6-4db5-ad24-7b22f8baa7e3\", \"type\": \"domain\", \"value\": \"tweetmusk.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2645a6fc-c7f5-480d-b0e6-41585f07f265\", \"type\": \"domain\", \"value\": \"tslaonline.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6f990ca3-9e84-422f-b129-5609a09bfc9d\", \"type\": \"domain\", \"value\": \"tslanow.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3ac5641a-3703-45d8-a5c5-5b4106e8c4a9\", \"type\": \"domain\", \"value\": \"tsl2x.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"66cabe74-c010-490d-bc1a-f964f79cdc5f\", \"type\": \"domain\", \"value\": \"teslaus-event.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"490130c4-7ab7-4aa1-91f8-6764c1f5c2b8\", \"type\": \"domain\", \"value\": \"teslatv.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fdaf570d-d8bd-4d50-a65a-389254783707\", \"type\": \"domain\", \"value\": \"teslatake2023.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2b20ca26-f09f-4d67-86fb-225e526fd303\", \"type\": \"domain\", \"value\": \"teslaq3.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"05836b9c-5532-47a4-8e94-570288c4c260\", \"type\": \"domain\", \"value\": \"teslaq3.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9d8df4e6-6d57-41fb-b6f5-50e1dde8b4ac\", \"type\": \"domain\", \"value\": \"teslapromotion.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2d9b4935-fb37-47d1-b149-6cb8a63df610\", \"type\": \"domain\", \"value\": \"teslapromotion.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c3d4cf42-b257-4df7-bddf-8c91df4f92c7\", \"type\": \"domain\", \"value\": \"teslapromo.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b7121dc0-d545-49be-a0ba-57419d89fb14\", \"type\": \"domain\", \"value\": \"teslapromo-2023.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"288b9377-53d8-448a-93ba-95f38e6b0327\", \"type\": \"domain\", \"value\": \"teslapromo-2023.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"727f8c6b-9af6-45cd-9e77-044aeb863b1e\", \"type\": \"domain\", \"value\": \"teslaone.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"98f7f011-e6b1-4075-ab2a-703204458270\", \"type\": \"domain\", \"value\": \"teslaofficial.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3bf09bac-4b0f-4b5a-9cc6-88b82184c797\", \"type\": \"domain\", \"value\": \"teslamusk-promo.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ebfcd024-7dc5-41bd-ab8c-4584c857c9df\", \"type\": \"domain\", \"value\": \"teslalife.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"8d36cc83-01e4-4160-849e-f07c8d5a483b\", \"type\": \"domain\", \"value\": \"teslainc2023.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"db9d3fe1-1670-4c9e-82c7-d335552e46d1\", \"type\": \"domain\", \"value\": \"teslagives2023.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3864f52b-342c-4d40-9eef-739eebcd89c5\", \"type\": \"domain\", \"value\": \"teslafinance-promo.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"81de39ae-b1d0-406e-9255-50d14813efc6\", \"type\": \"domain\", \"value\": \"teslaevent23.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"03a2b867-6c6e-43d6-ab43-99dd0af6deeb\", \"type\": \"domain\", \"value\": \"teslaevent-promo.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7b606d5c-2992-4b1d-b119-8a3cd278de4f\", \"type\": \"domain\", \"value\": \"tesladouble.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6faeb7ef-d388-47d7-bec9-9a010f805cb2\", \"type\": \"domain\", \"value\": \"teslacrypto2023.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d79b198b-de20-4a27-938c-ffc943b6a63c\", \"type\": \"domain\", \"value\": \"teslacrash.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"842ac09c-dc73-4292-a909-1ca4637b6ec8\", \"type\": \"domain\", \"value\": \"teslacoins2023.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"103c5419-9c94-475b-9b71-4c698db3a1cc\", \"type\": \"domain\", \"value\": \"teslacashyt.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d7118142-d79d-4e91-b6b5-64f105ed616c\", \"type\": \"domain\", \"value\": \"teslacashyt.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7ee592a8-cbda-47be-a491-1d9bcac31642\", \"type\": \"domain\", \"value\": \"teslacash2023.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1f1959e4-5c4b-4589-8bb9-e79ce78a59fc\", \"type\": \"domain\", \"value\": \"teslabonus23.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b202dc45-9b82-4aa8-8ef8-f9b4ad6aeafb\", \"type\": \"domain\", \"value\": \"tesla23bonus.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e6b2abf0-c54f-4544-ba28-2ca493572618\", \"type\": \"domain\", \"value\": \"tesla-pump.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b73137dc-0c1f-4279-9359-d104c8306e7b\", \"type\": \"domain\", \"value\": \"tesla-promotion.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"17e0fdc0-c4da-464e-9cf5-8c10f2afacc1\", \"type\": \"domain\", \"value\": \"tesla-now.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"27945ead-fa39-4115-8d2f-8e80f9f6c909\", \"type\": \"domain\", \"value\": \"tesla-motors.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"380a24b1-92bf-4f91-b709-58bed5f9804e\", \"type\": \"domain\", \"value\": \"tesla-life.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b8505de3-8c39-48f8-89c4-15c54ae65356\", \"type\": \"domain\", \"value\": \"tesla-give22.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"17b1c1cd-7026-4233-9590-98684f25c623\", \"type\": \"domain\", \"value\": \"tesla-eventx2.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0ab88e26-d67e-43b4-abad-970562e5c2de\", \"type\": \"domain\", \"value\": \"tesla-elonx2.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4a051db6-67b2-4724-96f3-001b4ffa3336\", \"type\": \"domain\", \"value\": \"tesla-double23.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"66270751-715a-4da9-81aa-4e6819ddf2d2\", \"type\": \"domain\", \"value\": \"tesla-bonus23.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ae87d44a-9204-4bf1-bf2c-6df7171f07a7\", \"type\": \"domain\", \"value\": \"tesla-airdrop.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"701294c0-f6b8-4529-9102-ecf3b6ba7d36\", \"type\": \"domain\", \"value\": \"tatehustlers.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e9ebe6fa-cac3-45d5-a005-7829c319c022\", \"type\": \"domain\", \"value\": \"tatedouble.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ab2861b0-9a52-4e6a-b1e0-3eb002fbf6e5\", \"type\": \"domain\", \"value\": \"tatebonus.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a4200365-c15f-4003-a3e8-714ddcdd8a78\", \"type\": \"domain\", \"value\": \"tate6ix9ine.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f53bcb8c-4e40-4e4d-8d80-3c933a2d4c41\", \"type\": \"domain\", \"value\": \"spacexlaunch.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ada715dd-629f-493c-8429-0f725ee6eaa5\", \"type\": \"domain\", \"value\": \"spacex23.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4c3ad416-420a-4f72-82a7-573ce540e391\", \"type\": \"domain\", \"value\": \"spacex-mission.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1a3b79f3-a6c4-49ae-acc7-6dc3a8baf208\", \"type\": \"domain\", \"value\": \"space22give.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"572f9a4d-3969-49e9-98fb-6f7599e9e4bf\", \"type\": \"domain\", \"value\": \"space2022x.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3328278a-4d7a-497d-87c1-81c71162021d\", \"type\": \"domain\", \"value\": \"space-strarlink.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"87de173b-6fa1-4666-8011-f15653e18ff8\", \"type\": \"domain\", \"value\": \"rippleglobal-event.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b97041a0-ec84-4e1a-a4c1-da1a661fc468\", \"type\": \"domain\", \"value\": \"rippledouble.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3e528c10-afaa-445d-93c2-642b2d9992bd\", \"type\": \"domain\", \"value\": \"ripple-money.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"012a803a-6da2-4cff-9369-388ece738b5f\", \"type\": \"domain\", \"value\": \"ripple-live.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"89d99f03-62ae-4acc-b26a-c3d5a368a9e7\", \"type\": \"domain\", \"value\": \"qrmusk.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b46bf40f-a29e-415b-8b2a-2d1bf2a9c2d2\", \"type\": \"domain\", \"value\": \"promotion-x2.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e076456b-290d-49a3-a813-535fc54b5494\", \"type\": \"domain\", \"value\": \"promo-xrp2022.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"acb1e755-4cfc-4dc3-8f2e-8070c0f09ec6\", \"type\": \"domain\", \"value\": \"promo-tesla.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f00f8ad3-b04e-41c6-9133-83cbc3d59ca5\", \"type\": \"domain\", \"value\": \"promo-musk.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"13aa7b0a-bf84-423c-8dc5-44d610f15892\", \"type\": \"domain\", \"value\": \"promo-musk.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"17186d7a-2be3-4877-875f-5db7687dd0c7\", \"type\": \"domain\", \"value\": \"prizetesla.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"615a39cb-2b24-471c-a4f3-0f5926b710d0\", \"type\": \"domain\", \"value\": \"news-tesla.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a0329553-f42a-4d68-8c86-fec0a329a553\", \"type\": \"domain\", \"value\": \"muskevents.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2a687ee3-1ffd-4035-8cce-73f80c53327f\", \"type\": \"domain\", \"value\": \"muskevent.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"850f5da9-1899-43ad-909b-16566095570e\", \"type\": \"domain\", \"value\": \"musk-pump.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e6241b11-8e89-4987-b29a-a46a9fe9e823\", \"type\": \"domain\", \"value\": \"musk-promotion.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9556229f-2f65-45dd-8d47-569bd222ac8c\", \"type\": \"domain\", \"value\": \"musk-prize.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b25b34fe-d45d-4eb0-9ffe-039daabc238f\", \"type\": \"domain\", \"value\": \"musk-get-x2.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5ac1f404-828f-4098-b2be-b8e6b478a143\", \"type\": \"domain\", \"value\": \"musk-foundation.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d9e37e46-7c90-4791-905a-414c2b70a308\", \"type\": \"domain\", \"value\": \"misson-live.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6be0d82c-a175-468d-ac35-9ffc74e58992\", \"type\": \"domain\", \"value\": \"ltcpromo.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ab8051b7-b2fa-4423-894c-6b83590b764e\", \"type\": \"domain\", \"value\": \"liketesla.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"012316b3-5e1b-41e3-a9f0-a826fb18d884\", \"type\": \"domain\", \"value\": \"invest-elon.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1a1bae2d-4229-464d-9e16-b2ce96eb3c19\", \"type\": \"domain\", \"value\": \"grew4tesla.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b9327746-62aa-42cf-9a36-1731dc89ee1b\", \"type\": \"domain\", \"value\": \"gifts-tesla.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e13766b8-17cb-4022-8a60-ca8bd20493ae\", \"type\": \"domain\", \"value\": \"get-x2bonus.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0c34d0cb-a052-4142-a46b-5fa9d14395a0\", \"type\": \"domain\", \"value\": \"geminiearn.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3d2802c7-081e-4f25-a0bf-8147a0b09f41\", \"type\": \"domain\", \"value\": \"ftxbinance.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e6331638-36d2-4264-91b4-57827c69bd21\", \"type\": \"domain\", \"value\": \"freetate23.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c8ccc26d-e89e-44b2-86b9-8676b7897a0f\", \"type\": \"domain\", \"value\": \"foundation-tesla.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bc9564bd-ae5d-4f97-bd61-69facee7a85a\", \"type\": \"domain\", \"value\": \"forbesbtc.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"37bb9a4d-02b0-4d75-a8dc-41697369fd11\", \"type\": \"domain\", \"value\": \"finance-xrp.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"47e8fedd-9a88-47f8-b05b-369d17279bc8\", \"type\": \"domain\", \"value\": \"ethereum-rise.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1c4a74cf-2e3a-4751-aa3c-6b6a9086fecb\", \"type\": \"domain\", \"value\": \"ethereum-promotion.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"35ef2efa-2560-4677-9f2b-c450bc738226\", \"type\": \"domain\", \"value\": \"eth2x-info.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7dadfde5-fc41-4c36-b5f5-4db0854a1300\", \"type\": \"domain\", \"value\": \"elonusa.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e73232a8-5214-43e3-be7a-5af3b5f1ac0b\", \"type\": \"domain\", \"value\": \"elonus.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1be0b0eb-6e30-45e2-b11e-4a0f457d1e0f\", \"type\": \"domain\", \"value\": \"elonshare.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"19b9871e-f449-4008-ad9b-798496862027\", \"type\": \"domain\", \"value\": \"elonmuskevent.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"8e600081-f59d-49e0-9994-5d15f2c9cde8\", \"type\": \"domain\", \"value\": \"elonmuskcash.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"8c3b397b-6cfa-4e37-a073-320c3b28f4b9\", \"type\": \"domain\", \"value\": \"elondrop22.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f85ce9d0-e357-424b-981a-27cad8a17e2c\", \"type\": \"domain\", \"value\": \"elonark22.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3e363642-12de-44ca-a7eb-9c9f82f39fd8\", \"type\": \"domain\", \"value\": \"elon-promotion.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"544cfb0a-a613-4bbb-9abe-ac4586ebb125\", \"type\": \"domain\", \"value\": \"elon-investx2.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"67afb0dd-519c-4519-b194-9f7f4b23c43b\", \"type\": \"domain\", \"value\": \"elon-gets.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f2f60345-a122-4ec1-beb7-d32a9628f97e\", \"type\": \"domain\", \"value\": \"elon-gets.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c969fa7b-11b1-4785-bf79-a0dc09421f16\", \"type\": \"domain\", \"value\": \"elon-gets.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"efc8587e-098e-4c9c-aa5d-2acaba8a774e\", \"type\": \"domain\", \"value\": \"e-musk.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ca74a3c5-b948-4ec5-8afb-48d831bb055c\", \"type\": \"domain\", \"value\": \"draketesla.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fc0dc478-2e64-4519-bfa5-b7abc24b4a4d\", \"type\": \"domain\", \"value\": \"dot-pump.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d41e15af-2343-493f-b534-e2032e77cf2c\", \"type\": \"domain\", \"value\": \"cryptobottemplates.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"8f1509df-426f-4d6f-9170-bd22f8ef6db4\", \"type\": \"domain\", \"value\": \"crypto-tesla.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c4dc78ff-3659-49ca-8409-175d2f620128\", \"type\": \"domain\", \"value\": \"cryptgive23.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9a00fc76-cbde-465c-bd81-65f2c09a17e8\", \"type\": \"domain\", \"value\": \"crew5tesla.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2584b731-8d66-47e1-90d0-57d15f636cec\", \"type\": \"domain\", \"value\": \"crash-tesla.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"55efb290-7c49-47f9-a9d7-e1a8c9efe4cc\", \"type\": \"domain\", \"value\": \"cathie-live.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f6875edc-07f3-4c96-a51f-96668fc4b845\", \"type\": \"domain\", \"value\": \"cashtesla2023.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"cadf34e8-2369-47f2-af57-74437da10797\", \"type\": \"domain\", \"value\": \"buterin2x.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"17029d93-e426-4677-9fe5-0073f6f5e00c\", \"type\": \"domain\", \"value\": \"buterin-promo.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bb9fd093-3b6e-4a55-9960-fc9713180994\", \"type\": \"domain\", \"value\": \"bonustesla.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3cb4bdf7-8482-4698-a670-2a74b3fa4716\", \"type\": \"domain\", \"value\": \"bonus-xrp.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ebd33dd7-48b4-4335-b9d6-d17d35dbf48a\", \"type\": \"domain\", \"value\": \"bonus-xrp.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"16952250-0511-4b99-bb96-c5e319b13cd5\", \"type\": \"domain\", \"value\": \"arkspace.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"30019a7a-a1cb-46dd-8df3-9882277575c4\", \"type\": \"domain\", \"value\": \"arkgives2022.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f01ad1e8-99d6-4267-ba73-8adddb4b08ff\", \"type\": \"domain\", \"value\": \"ark22double.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7d587a1c-e547-40eb-8954-cb762136a431\", \"type\": \"domain\", \"value\": \"airdrop-xrp.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4e318d52-2ba9-48eb-91a6-424834999366\", \"type\": \"domain\", \"value\": \"airdrop-ripple.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3391bd84-6752-4bd7-b037-93b34a0ef0d4\", \"type\": \"domain\", \"value\": \"2x-tsla.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1149b290-d120-48f4-88c3-0c27cf53d2f3\", \"type\": \"domain\", \"value\": \"22tesla.io\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fdbf79ad-e896-4e54-abe5-ecc9134784b7\", \"type\": \"domain\", \"value\": \"22spacex.space\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e3cb1cfe-a2ee-4b10-af0e-8328dbdef1f1\", \"type\": \"domain\", \"value\": \"2023-tesla.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"05906478-6ca0-4cbb-aa76-f47ba24e1e5d\", \"type\": \"domain\", \"value\": \"2023-ripple.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c538a3e5-9ad8-4ded-925b-f4e372487c5a\", \"type\": \"domain\", \"value\": \"xrpfinance-live.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"256d37d1-89ec-4757-b590-6e549bdfd53d\", \"type\": \"domain\", \"value\": \"xrpdouble-promotion.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a67c253f-d49e-419b-853a-c63b0381aeff\", \"type\": \"domain\", \"value\": \"xrpdouble-promo.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ace2f288-2a9d-4873-a078-48832c83a1ce\", \"type\": \"domain\", \"value\": \"xrp2x-prize.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d414f4b3-e817-400c-ae6f-f3d08c5055f6\", \"type\": \"domain\", \"value\": \"xrp-bonus2022.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c79dd386-8bb2-4154-b07f-e81f51238ce2\", \"type\": \"domain\", \"value\": \"xrp-airdrop.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e878b894-10f2-4a13-b4fe-ecdd6569f4c5\", \"type\": \"domain\", \"value\": \"xrp-airdrop.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"504d71ab-27da-4b6c-b830-b4347178aae8\", \"type\": \"domain\", \"value\": \"promotion-prize.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9e285736-50f0-426d-91fd-92e615882ede\", \"type\": \"domain\", \"value\": \"promo-prize.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ed0644a3-9ebb-43ea-a139-d13812a1c1e5\", \"type\": \"domain\", \"value\": \"xrpfinance-promotion.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a5b558c3-3ebd-4ba6-88f0-95321a27b881\", \"type\": \"domain\", \"value\": \"xrpevent-promotion.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ba92d4f3-eda1-4e64-b8ae-428bb588016e\", \"type\": \"domain\", \"value\": \"xrp-doubled.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"dbf56e9e-6cf7-43d1-b917-32b05ead0b52\", \"type\": \"domain\", \"value\": \"xrp-ceo.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c77770d1-dc79-4e81-b3fb-81c8890372ef\", \"type\": \"domain\", \"value\": \"tesla-weelgives.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f7d96518-5d7a-4049-939f-8414faec41b7\", \"type\": \"domain\", \"value\": \"tesla-weekgives.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9c00eed5-36e9-433e-bc39-6fe918cc6cb7\", \"type\": \"domain\", \"value\": \"get-prize.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fec58dc2-1f9d-4029-88c2-61a5228b218b\", \"type\": \"domain\", \"value\": \"find-prize.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"73dbf3f5-fe02-41c8-bf26-c36798aeb84e\", \"type\": \"domain\", \"value\": \"event-xrp.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c43c4c84-59d4-47b7-b178-81babd83d3b5\", \"type\": \"domain\", \"value\": \"teslagivesx2week.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fc0906e6-563d-47b9-bc58-18ad9a34bd7c\", \"type\": \"domain\", \"value\": \"teslagives23.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c0fb2f08-4083-4898-b01d-acd2ff26da69\", \"type\": \"domain\", \"value\": \"tesla-wellgives.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4180cbae-6f14-4db6-a8f4-2c768b2de526\", \"type\": \"domain\", \"value\": \"tesla-givesweek.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"12f6e56c-2511-4d38-adcb-ea7293c28980\", \"type\": \"domain\", \"value\": \"ripplesec.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e71ca955-bff6-4b6f-abf3-5ca40a7386cc\", \"type\": \"domain\", \"value\": \"ripplelabs-live.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"311d19ef-bc73-4a26-a1d1-db19babc3bcc\", \"type\": \"domain\", \"value\": \"ripple-sec.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"56e7f068-458b-4966-ae07-5c0e90ccf7fa\", \"type\": \"domain\", \"value\": \"ripple-live.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"554812db-591a-418e-aff2-9a51243b7044\", \"type\": \"domain\", \"value\": \"ripple-finance.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"36202f58-7ff6-4f89-8a0d-e5814d445f38\", \"type\": \"domain\", \"value\": \"promotion-xrp.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b65c409b-f41e-474a-a88c-bcd9d6f4860f\", \"type\": \"domain\", \"value\": \"eth-airdrop.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ab6643d1-63f9-4b64-9763-7cab6f79109d\", \"type\": \"domain\", \"value\": \"bigxrp.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fc0676b1-d793-4b17-92a2-1e0fdcea6768\", \"type\": \"domain\", \"value\": \"ark-giveaway-x2.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e3a43c78-a89d-49d3-9a58-ba15b45f0e5a\", \"type\": \"domain\", \"value\": \"xrpevent-official.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1944b2a5-fbfd-45cd-8288-f369ed38f43f\", \"type\": \"domain\", \"value\": \"world-xrp.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a6a14941-8794-4379-aa9a-3860fab59ca2\", \"type\": \"domain\", \"value\": \"weripple.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d86d35c0-085b-42dd-bd5b-2d134a377409\", \"type\": \"domain\", \"value\": \"ripplevent-live.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1f767b73-961c-4733-897e-16d46dd1b1c2\", \"type\": \"domain\", \"value\": \"ftxbonus.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"dd1f52ea-7f16-4d1b-a84e-6a67f4e4affc\", \"type\": \"domain\", \"value\": \"ethereum-bonus.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c8e73928-6649-454f-bf75-5358e0d9ecd4\", \"type\": \"domain\", \"value\": \"elon-live.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"eeb182be-00e8-4866-94d6-48363528b163\", \"type\": \"domain\", \"value\": \"czftx.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"8cbfe740-2d1f-4239-934e-84b2c28aa71b\", \"type\": \"domain\", \"value\": \"ark-invest-2022.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7d1da920-0885-465b-b0c9-ae8c59de7791\", \"type\": \"domain\", \"value\": \"xrpdouble-event.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4a4f2783-8c0c-45e1-b158-93cbdc54c65d\", \"type\": \"domain\", \"value\": \"teslagives2x.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"302acf9d-309b-48ec-a385-5dc23dd6f2de\", \"type\": \"domain\", \"value\": \"tesla-celebration.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2dbadebe-046a-46b9-9f37-246d3104d2e3\", \"type\": \"domain\", \"value\": \"money-teslagives.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b1f5a487-2813-4a36-8d95-01873b0be8b2\", \"type\": \"domain\", \"value\": \"get-x2prize.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"de7b640a-a967-4fa2-b11e-5b3db15daf04\", \"type\": \"domain\", \"value\": \"gain-x2bonus.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0f579226-270f-48b6-9791-8cb80eecae0d\", \"type\": \"domain\", \"value\": \"ethx2-info.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fde22a4c-ff85-4464-a3f0-a881d1cd1e0b\", \"type\": \"domain\", \"value\": \"btc70k.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"38937cae-79f0-4a27-808c-27a0b2524579\", \"type\": \"domain\", \"value\": \"binance-worldcup.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e4b93301-5897-478c-8660-84564a189990\", \"type\": \"domain\", \"value\": \"ark2022btc.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"98c044d7-62d5-4cb5-ab9f-d2c02b2c0a59\", \"type\": \"domain\", \"value\": \"teslalive2023.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"22ac0461-d07e-4654-a924-7b5d15873f2d\", \"type\": \"domain\", \"value\": \"space-bitcoin.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9192b53e-987b-4f29-9a62-c89e89a17bd1\", \"type\": \"domain\", \"value\": \"shib23.io\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"47b5c7aa-9838-4821-aea2-da19454efa84\", \"type\": \"domain\", \"value\": \"promotion-tesla.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3e2c438b-7701-4553-9007-a5b75798a369\", \"type\": \"domain\", \"value\": \"gifts-tesla.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d99fa15a-a3e8-4e79-88d0-2adf0211814f\", \"type\": \"domain\", \"value\": \"ethereum23.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2821d98e-c5c2-4bb3-9c97-c44ed7cc5601\", \"type\": \"domain\", \"value\": \"ark22btc.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d48d7732-6a2d-47c3-9892-daa0c5dff722\", \"type\": \"domain\", \"value\": \"zksync-airdrop.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"70c39290-7206-4e0b-b41f-6f5ff7dae2a3\", \"type\": \"domain\", \"value\": \"xrp-finance.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6eec8264-1c8a-4404-9ae3-7d39477d1baa\", \"type\": \"domain\", \"value\": \"x2-promo.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"745f65b0-b6c4-4105-8d53-723997296286\", \"type\": \"domain\", \"value\": \"teslax23.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"8bfb8d15-0f52-4479-b43c-df94ad480e86\", \"type\": \"domain\", \"value\": \"teslagift2023.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1a6d56d9-1497-4175-b8ab-5d231f883488\", \"type\": \"domain\", \"value\": \"tesla3.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"15858400-ba04-4b94-931b-b697ecb77074\", \"type\": \"domain\", \"value\": \"promo-ethereum.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1bfc8093-92f6-43c6-91b9-0c534f5af655\", \"type\": \"domain\", \"value\": \"btcark22.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"97309cb5-f79a-4321-a9af-ac30f57eb099\", \"type\": \"domain\", \"value\": \"astralis2x.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9b6f4143-d692-4857-816b-366d6bec3d37\", \"type\": \"domain\", \"value\": \"xrp-event2022.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2c57ab0b-3e86-4eca-8ce1-9d7aa11ce2c9\", \"type\": \"domain\", \"value\": \"topgoalnft.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f1382df7-bcd8-4f08-9e30-8a14f66b5b37\", \"type\": \"domain\", \"value\": \"teslagives.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4262d7da-8d78-4122-8608-5a59735b1264\", \"type\": \"domain\", \"value\": \"tesla-day.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a366f16c-ca6a-48d4-b488-16e92fba6820\", \"type\": \"domain\", \"value\": \"tesla-day.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"119a4a5b-5e94-4d5b-89b1-7b8c82aa92a6\", \"type\": \"domain\", \"value\": \"tesla-bonus.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"63072caf-b562-4a4f-bb05-1ac8a1063c45\", \"type\": \"domain\", \"value\": \"tesla-airdrop.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"78e75aad-00e3-42e7-996a-4f850caff2ae\", \"type\": \"domain\", \"value\": \"promo-tesla.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5f421eea-d7d5-4dcc-8c16-fa163bb4c3e2\", \"type\": \"domain\", \"value\": \"poseth.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4781ca34-08e6-4205-84f3-48fbc62ab782\", \"type\": \"domain\", \"value\": \"give-arkx2.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d4dcb82c-2137-4e84-8f09-c8dcfed34725\", \"type\": \"domain\", \"value\": \"geminibtc.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5c64ef70-e753-4a52-9092-1911dfdee75e\", \"type\": \"domain\", \"value\": \"ethereum-promotion.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7237ae5b-ba17-4831-b31b-ca976d8bacff\", \"type\": \"domain\", \"value\": \"btcdrop.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"28cd5114-823c-493d-8d11-72c792004794\", \"type\": \"domain\", \"value\": \"bonustesla.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ba8b36ab-8ec8-4277-b806-d8c0dd594aa7\", \"type\": \"domain\", \"value\": \"bonustesla.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0f362cca-3ad4-4d6e-b171-0a2fa445bc38\", \"type\": \"domain\", \"value\": \"ark2022give.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5640146f-6c9f-46e4-957d-2dad625e7586\", \"type\": \"domain\", \"value\": \"uppumpspace.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"60af9253-f5c2-4766-a0f9-b3bc36d88f84\", \"type\": \"domain\", \"value\": \"teslabonus.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5b27a8ea-3e92-48ae-b084-9f69381ba8c1\", \"type\": \"domain\", \"value\": \"tesla-up.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"edbf0b53-c6aa-4732-becf-b79353cf798d\", \"type\": \"domain\", \"value\": \"tesla-news.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5eaa3d48-ad07-4057-b94a-e31345ebdd6a\", \"type\": \"domain\", \"value\": \"rippledouble-promo.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a953aee8-8cae-40ef-b0df-eb3d602db734\", \"type\": \"domain\", \"value\": \"give-today.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bf7fa388-2a59-4d85-8018-6ff90d1c8dff\", \"type\": \"domain\", \"value\": \"event-tesla.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"382149fe-2ef5-4de9-922a-a88b76e63f6f\", \"type\": \"domain\", \"value\": \"elon-news.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f432f93e-d6a6-4a60-9592-8e892696fee7\", \"type\": \"domain\", \"value\": \"cryprkdjwns.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7f63c90a-0466-47ec-85aa-cab8ae7c2ccf\", \"type\": \"domain\", \"value\": \"arkeevent-x2.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"91b29239-ab63-45d0-82a4-83bed03a2bfe\", \"type\": \"domain\", \"value\": \"airdrop-xrp.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"14e88466-a172-4360-9d92-bca3322a1a47\", \"type\": \"domain\", \"value\": \"vitalik2x.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3d84b080-9e3f-483d-bb2a-fcaec89611bb\", \"type\": \"domain\", \"value\": \"teslaventweek.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"69ce21bb-f708-4084-b4fc-cdb937a8f502\", \"type\": \"domain\", \"value\": \"teslaufccash.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a7c36e22-cc6e-4699-a087-9db76ae7f46b\", \"type\": \"domain\", \"value\": \"q3tesla.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"31bc940b-0165-4be9-b8d1-b2d4f30f0302\", \"type\": \"domain\", \"value\": \"potatoz-memeland.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1d745ed9-ba6e-4c68-a429-b2f2a22050c6\", \"type\": \"domain\", \"value\": \"nftblackboom.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"52309d78-4aaf-4cf7-83e2-d3cc3cde7e91\", \"type\": \"domain\", \"value\": \"btc-arkinvest.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3a8b4682-5291-486e-9d72-68803fb70de5\", \"type\": \"domain\", \"value\": \"ark-event2022.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ca3da600-d739-49ab-8b38-f03f50c98e1a\", \"type\": \"domain\", \"value\": \"vitalik-promotion.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"8bd700f9-6823-494d-838b-ac54466798a5\", \"type\": \"domain\", \"value\": \"spacex-usd.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e1b03b72-b2a7-434f-b3c7-69444880f872\", \"type\": \"domain\", \"value\": \"shib23.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b8b0c8cb-84d5-443b-ab66-9f99c6e4556e\", \"type\": \"domain\", \"value\": \"q3tsla.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5bf6077c-0ffd-4709-a7e4-d055aacf6717\", \"type\": \"domain\", \"value\": \"ilongives.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4565fb4c-1385-4aeb-836d-eedacd8f43f8\", \"type\": \"domain\", \"value\": \"elon-qr.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e4e612ab-b6f2-4534-87f6-a01430c26c48\", \"type\": \"domain\", \"value\": \"elon-ark22.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1d747e2a-c580-4931-b8fe-18f5dd4c9e1c\", \"type\": \"domain\", \"value\": \"arkforyou22.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"cd3251ba-83e5-4701-8ec8-cb9d1997c9aa\", \"type\": \"domain\", \"value\": \"vitalik-promo.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ba8e09fe-fda1-4348-ba7d-8d49ecb122da\", \"type\": \"domain\", \"value\": \"tslainc.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b0879d36-26b6-4739-b38b-303aa5ca3d00\", \"type\": \"domain\", \"value\": \"ripple-get.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"384e4d61-534b-4c0a-b5c3-81b9444aacf8\", \"type\": \"domain\", \"value\": \"promo-x2.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"983d0745-f74b-4479-8f67-6f9e5ccbfb40\", \"type\": \"domain\", \"value\": \"previewforcryptdesignbot.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6deab88c-107f-4975-9104-1354480345b5\", \"type\": \"domain\", \"value\": \"ceo-xrp.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"749715dc-4efc-48df-be2f-05a1513db928\", \"type\": \"domain\", \"value\": \"teslayoutube.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"123787de-d5b9-403b-b198-23d0b0e34e25\", \"type\": \"domain\", \"value\": \"teslagive.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"27762630-a316-4ed4-bc0f-d98ca2db6031\", \"type\": \"domain\", \"value\": \"tesladayevent.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c26b500c-3297-4094-ad82-ec41269afc98\", \"type\": \"domain\", \"value\": \"teslabonus.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e94063b0-993e-4fe5-b106-63262af016c6\", \"type\": \"domain\", \"value\": \"ripplelabs-live.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"64c1ae13-d76f-49b1-8721-1cc1e4fed51c\", \"type\": \"domain\", \"value\": \"promotion-buterin.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6a32e7f8-bea0-4c3f-8121-85051e2d761e\", \"type\": \"domain\", \"value\": \"muskpromotion.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a4672e82-ee15-4adc-8295-e7c1c2e205b5\", \"type\": \"domain\", \"value\": \"event-ripple.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"dc989696-63a6-43b8-af22-2ce55a0560ff\", \"type\": \"domain\", \"value\": \"buterin-promo.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"560943b8-c1f0-49d0-a3b3-ee20370c39fd\", \"type\": \"domain\", \"value\": \"ark-x2-invest.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"72980673-b034-476b-a845-7c3c2578bc3d\", \"type\": \"domain\", \"value\": \"andrewtatecash.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a09e1803-bb7b-4760-9b94-bce5f2ad61f5\", \"type\": \"domain\", \"value\": \"andrewtatecash.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"710f5ade-5048-473c-b0b2-d800931a7085\", \"type\": \"domain\", \"value\": \"akiprotocol.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"216b7802-f2fe-42ee-8637-38609874ece3\", \"type\": \"domain\", \"value\": \"tesla-yt.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4dd55a77-ba6d-4a13-8a48-c44e21467542\", \"type\": \"domain\", \"value\": \"promo-buterin.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6ad38ea4-1396-4641-b02e-aa387818a48f\", \"type\": \"domain\", \"value\": \"news-tesla.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b56fe65e-f181-446f-b3df-b8491537797d\", \"type\": \"domain\", \"value\": \"msgets.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"cb6de52e-0e7b-450f-afb4-e79e54bebf8f\", \"type\": \"domain\", \"value\": \"elon-kanye.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"87858078-f930-451f-ad81-3d88267e7e04\", \"type\": \"domain\", \"value\": \"elon-event.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fb3c03ca-8f49-4b0d-8c0d-013deb68eeb3\", \"type\": \"domain\", \"value\": \"cryptdesignproject.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f59578ae-9ff4-40ee-a283-a5c8441ad16e\", \"type\": \"domain\", \"value\": \"tateinvest.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"03cf3f94-a92a-42ce-b9c0-5f97ddf3f709\", \"type\": \"domain\", \"value\": \"tatecashyt.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"49b76504-37de-409e-bde7-7930f41b9675\", \"type\": \"domain\", \"value\": \"potatoz-memeland.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"13f9ae13-6ba4-4656-91dd-d309c3e9da09\", \"type\": \"domain\", \"value\": \"msdrop.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c152f428-2ea0-43da-a130-d7ec4bfe41bc\", \"type\": \"domain\", \"value\": \"ethmerges.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d9932c3d-c345-472c-a11c-e287eea88a36\", \"type\": \"domain\", \"value\": \"cryptodesignproject.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e8607c62-b9c7-4b0c-8156-f6ba90fe2dd9\", \"type\": \"domain\", \"value\": \"conorcashyt.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"672991b6-ef9e-49ab-81e1-03a99e4b9975\", \"type\": \"domain\", \"value\": \"tesladrop.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6cb07f17-2666-4caa-a8b7-459aa209ca79\", \"type\": \"domain\", \"value\": \"zil.today\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b2bc0810-e17d-4116-b940-fe94267fede3\", \"type\": \"domain\", \"value\": \"x2years.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0a4c34fa-1bde-4459-a7b9-761ac6a2156f\", \"type\": \"domain\", \"value\": \"x2-promotion.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d038d0db-0a66-4978-a501-367deac00507\", \"type\": \"domain\", \"value\": \"wefpump.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1efa3586-4899-4148-aa69-76bea67b7efb\", \"type\": \"domain\", \"value\": \"vitalikbuterin-event.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"30fc7e55-1ce9-4fe3-a89d-cc3c5ce27c8f\", \"type\": \"domain\", \"value\": \"vitalik-eth.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d44f7a18-8333-49b8-a202-28cd995a0a19\", \"type\": \"domain\", \"value\": \"twitterdeal.pro\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"29e93bc8-d445-4c9d-b2e3-ea0559553636\", \"type\": \"domain\", \"value\": \"tslabrand.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"514f7967-f365-4eda-b426-5e9525a3c30b\", \"type\": \"domain\", \"value\": \"teslax2.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3c46e34e-4d91-47d4-8557-19682c08b96b\", \"type\": \"domain\", \"value\": \"teslapromotion.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"42db7a25-6b0d-4933-b9b5-fe2b08e46bc9\", \"type\": \"domain\", \"value\": \"teslamusk-promo.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b4bc37eb-1a95-445e-99bc-3fc948390eb5\", \"type\": \"domain\", \"value\": \"teslagives.pro\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9b8887d4-3935-44a8-91b6-be4ad3d1c320\", \"type\": \"domain\", \"value\": \"tesla-event.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4f9ec6a7-f1f0-4fec-8532-529495717763\", \"type\": \"domain\", \"value\": \"tesla-ceo.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"40293f7f-5ebf-4736-a70b-4e4dde9dccb1\", \"type\": \"domain\", \"value\": \"tesla-ceo.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"48259c94-ed8f-4a90-80a2-01c6bcd9795e\", \"type\": \"domain\", \"value\": \"telsadouble.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"61c11537-4bb9-48f8-a9e8-007f31e2cac5\", \"type\": \"domain\", \"value\": \"tategives.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ea59a326-4524-4214-910f-4c75a95c0adb\", \"type\": \"domain\", \"value\": \"tatecoins.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c32539b6-de36-4291-b502-29fbb97ea7c1\", \"type\": \"domain\", \"value\": \"tate2023.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7111f944-72e6-4501-b4f9-2f831ffb7a92\", \"type\": \"domain\", \"value\": \"takesol.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c4f59b5b-e9ce-40c4-a729-b2846b843c2e\", \"type\": \"domain\", \"value\": \"takesol.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d7ac40ec-1f29-44ef-b1ee-035cb6536cca\", \"type\": \"domain\", \"value\": \"spacex-launch.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1296ee54-8605-4320-bf15-d9d654bba806\", \"type\": \"domain\", \"value\": \"shiba2023.pro\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6f6c1cf9-06d3-40bc-ad4b-b68221541ee7\", \"type\": \"domain\", \"value\": \"shib23.pro\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0ff54c5f-e1b0-4b6e-97fa-fb9c6a0be589\", \"type\": \"domain\", \"value\": \"ripplefoundation.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2c10cf1c-560d-4990-b320-eb6baf790bee\", \"type\": \"domain\", \"value\": \"ripple-invest.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a7fc7af0-9b1c-4fae-954b-06daada3f594\", \"type\": \"domain\", \"value\": \"richtesla.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"94dad8f1-5dd6-46ef-95f1-91b4530744a6\", \"type\": \"domain\", \"value\": \"promotion-musk.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"cd5cf3f2-58d0-4042-8747-982ee2355ec9\", \"type\": \"domain\", \"value\": \"promo-buerin.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"04b87ee1-e5f6-42c1-8121-4155ac079bd9\", \"type\": \"domain\", \"value\": \"otheresidemeta.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a78e07e1-6883-4997-b82f-2fd569c1c857\", \"type\": \"domain\", \"value\": \"mcstrategy.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6ac43122-9bb6-4080-8790-da040ebe2883\", \"type\": \"domain\", \"value\": \"mcgregorcash.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0bc464a1-9aa5-4093-8d97-bd0cbd625ed7\", \"type\": \"domain\", \"value\": \"mcconorcash.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"355d9133-8dbf-427b-9de6-e42d41bbed64\", \"type\": \"domain\", \"value\": \"kanye-elon.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"24ca7617-8833-4976-abfc-3081943c3f06\", \"type\": \"domain\", \"value\": \"kanye-elon.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"eb910c7e-a792-40c5-a934-b92df20a357a\", \"type\": \"domain\", \"value\": \"investmstr.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1a454d1b-542f-42be-85ef-1c4ea70b5b26\", \"type\": \"domain\", \"value\": \"gift2023.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"cece7864-1b3b-4869-b7d7-7911c1ebbeaa\", \"type\": \"domain\", \"value\": \"gavin.gifts\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"181f762f-24df-4413-8486-90176af74992\", \"type\": \"domain\", \"value\": \"forbesyt.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6f9a933a-67ab-436e-bcc9-5bcb18cd2b29\", \"type\": \"domain\", \"value\": \"eventx2ark.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"db1c9d30-ecfc-49c1-8152-0291f2888ae1\", \"type\": \"domain\", \"value\": \"event-musk.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"88471970-8000-4986-96cd-93909266b2fd\", \"type\": \"domain\", \"value\": \"ethergets.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"77d12701-3f3c-4c2c-9f07-f13da68197e3\", \"type\": \"domain\", \"value\": \"ethdrop.pro\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"74de8bf3-07b7-4729-8db4-7655f87dfba4\", \"type\": \"domain\", \"value\": \"elonmusk-event.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fe97bfca-ab5a-4f27-92a0-1d91f583936f\", \"type\": \"domain\", \"value\": \"elon-gives.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6299bcbb-82c7-480e-ab4b-68a4d05491ed\", \"type\": \"domain\", \"value\": \"cryptosdesignmoneybot.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"35505d3c-b712-460e-8cf2-673fa7ebe1c8\", \"type\": \"domain\", \"value\": \"cryptosark.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"16dd8bb6-4a42-49c4-9453-1378b7bb7d02\", \"type\": \"domain\", \"value\": \"cryptobottempl.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ceab380b-8e11-4bad-a16d-fa2b9eccb0d9\", \"type\": \"domain\", \"value\": \"ceotesla.pro\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0d174508-cfa0-48f1-a4ac-370b07b26c78\", \"type\": \"domain\", \"value\": \"cardanovasil.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bcd07873-ce90-49ed-82d8-2f060b3b8453\", \"type\": \"domain\", \"value\": \"cardanofork.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"82ac78f8-b6ea-4d22-811c-6ed2b95e5389\", \"type\": \"domain\", \"value\": \"cardano-get.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bf5707fd-9507-4917-b687-c7fc6ef9602f\", \"type\": \"domain\", \"value\": \"buterin-event.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2afc3a8b-9ac5-4920-89fe-ab9a7056cdd7\", \"type\": \"domain\", \"value\": \"buterin-2x.promo\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c8107320-add7-458d-9450-ec706f4f4c4c\", \"type\": \"domain\", \"value\": \"brad-yt.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"275a7302-6166-4568-8a76-2ab517f8554e\", \"type\": \"domain\", \"value\": \"arkx2event.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"42f1150c-5369-4a03-b870-7a02fe3b3cbe\", \"type\": \"domain\", \"value\": \"arkhigh.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1d117c9a-45bd-493f-b010-1fb173e8cc5f\", \"type\": \"domain\", \"value\": \"tate-free23.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"dea61417-1809-448a-ada1-dd8a56caef09\", \"type\": \"domain\", \"value\": \"telsabonus.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a6ade8e5-6a26-4ec2-a94c-458763a4f471\", \"type\": \"domain\", \"value\": \"arkcrypt.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6c24cf8c-f94e-420f-9643-a0625d30c4e8\", \"type\": \"domain\", \"value\": \"teslabonus23.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9914e29f-0937-43c9-acea-f19fe0d70b56\", \"type\": \"domain\", \"value\": \"doge2022-elon.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2063fed1-09e7-4eee-99e3-22c239bdc6e5\", \"type\": \"domain\", \"value\": \"crypto2023.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"77a8d20c-6905-4697-a93d-d9bcad0e51fe\", \"type\": \"domain\", \"value\": \"conormccash.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"775f567e-2463-4be1-a8b9-6dcd6bf7238e\", \"type\": \"domain\", \"value\": \"ethereum-elon.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"cf09c79c-ed73-406f-a00c-bae6f4c0ded6\", \"type\": \"domain\", \"value\": \"arkceo2022.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5cd85f28-3b22-4d70-bed6-57b9e6e5abb8\", \"type\": \"domain\", \"value\": \"tesla22event.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ec10046a-eb94-49cc-aa5a-364061e175dd\", \"type\": \"domain\", \"value\": \"teslapromo23.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e964de76-0d46-4a7f-83f7-5ef985a916a3\", \"type\": \"domain\", \"value\": \"twitter-event.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4603a25b-8d3c-43e6-89d8-53c113d0e5c6\", \"type\": \"domain\", \"value\": \"doubletesla.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c25e0129-e107-4471-b361-c99f1afca8ce\", \"type\": \"domain\", \"value\": \"double-ethereum.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d80366aa-de6b-40ce-96e0-0d49902c2e1f\", \"type\": \"domain\", \"value\": \"adidas-drop.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1b58eca6-7a14-4044-ade8-7efb843bde8f\", \"type\": \"domain\", \"value\": \"chatgptbonus.live\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3506a20c-6df2-454b-89b6-f01574d3d584\", \"type\": \"domain\", \"value\": \"algo2x.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b910323d-112d-40c8-a35b-110a549ee789\", \"type\": \"domain\", \"value\": \"algo2x.store\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f875a1c0-81f9-4c01-a87a-b3cffaf5c046\", \"type\": \"domain\", \"value\": \"aptosx2.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"06f80cad-a635-49c3-9a85-0bc4d2b67fe3\", \"type\": \"domain\", \"value\": \"bittrex2x.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"656d24ec-ac39-4c22-9dbe-9998a837e0e6\", \"type\": \"domain\", \"value\": \"bittrex2x.store\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a3def974-2ba9-4eb6-8378-c7f35beb0047\", \"type\": \"domain\", \"value\": \"btcmicro.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"35fe757b-19b6-4f41-8522-1072d5865f3a\", \"type\": \"domain\", \"value\": \"buterin23.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4f1e0642-a0e3-4fc2-bfa8-58dbfff3d5c0\", \"type\": \"domain\", \"value\": \"cardanolive.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"327bb3a6-3e92-476a-978d-d53d171dd1f1\", \"type\": \"domain\", \"value\": \"cardanoyt.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fbac67bb-73db-418a-8e87-af0d1c3aa283\", \"type\": \"domain\", \"value\": \"chess2x.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"17dafb23-ff90-4aa6-a19d-7f351af672a4\", \"type\": \"domain\", \"value\": \"chess2x.store\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6f17902a-63f4-4b4c-aa74-85318d08d999\", \"type\": \"domain\", \"value\": \"doublexrp.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6ac97c69-ccff-4503-a35a-a9c28d6a97df\", \"type\": \"domain\", \"value\": \"elon2023double.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2f0d46fe-3489-468e-8f07-d29e1b9a35a4\", \"type\": \"domain\", \"value\": \"elon2double.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3d1c9882-9f94-4fc4-acb3-1e20eca6072f\", \"type\": \"domain\", \"value\": \"elon2drop.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0463f6a2-0a39-46c7-a98c-d1f01fb35a24\", \"type\": \"domain\", \"value\": \"elon2drop.store\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"482148be-64ef-42fa-8acd-4983438dcda0\", \"type\": \"domain\", \"value\": \"elon2xdrop.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"144e8ebf-1f20-4ffe-8dff-c63e7c3113fa\", \"type\": \"domain\", \"value\": \"elonbtc2x.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"19da27a9-6b96-4b34-b493-ff2f0fe278a6\", \"type\": \"domain\", \"value\": \"elondouble23.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"00261049-234a-470b-bcaa-a78f8e3d2888\", \"type\": \"domain\", \"value\": \"elondrop2x.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0d503bb2-14cd-4119-91a1-ca9477dd3dca\", \"type\": \"domain\", \"value\": \"elonlive2x.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3adcf0a9-1085-469f-a499-db3e896bdc94\", \"type\": \"domain\", \"value\": \"elonlive2x.store\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e1cb9411-0486-423f-a2a8-5c0436f31979\", \"type\": \"domain\", \"value\": \"elonmusk2x.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6865bb66-946b-427e-bbd9-8b4700cca8ee\", \"type\": \"domain\", \"value\": \"ethdrop2x.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"98aecad2-3191-4c6a-90a4-64dd3d7f6f6a\", \"type\": \"domain\", \"value\": \"ethdrop2x.store\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1cd7173b-e5a5-4d69-a22a-16b7360f1d8e\", \"type\": \"domain\", \"value\": \"exgold.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9e3a62bb-60d5-4a27-86da-b5a8dcc87f17\", \"type\": \"domain\", \"value\": \"microdouble.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"535c31d7-a7a5-4f3a-956b-327d6663657c\", \"type\": \"domain\", \"value\": \"msaylor2x.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bea697d1-ed2a-4534-9622-2aefaed23787\", \"type\": \"domain\", \"value\": \"msaylor2x.store\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f52cc934-ea42-4bb0-b141-510913a87357\", \"type\": \"domain\", \"value\": \"muskdrop2x.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2adc0168-0a13-4740-8c44-0178264a0967\", \"type\": \"domain\", \"value\": \"muskdrop2x.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b494bdf5-e900-4b0a-bf85-8cfc2b494286\", \"type\": \"domain\", \"value\": \"musknew.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"466f072a-4d09-4c54-8399-38c7dc61410a\", \"type\": \"domain\", \"value\": \"new23tesla.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fa4eb466-b1c3-4ddd-8f80-ef5fe466930e\", \"type\": \"domain\", \"value\": \"newtesla.pro\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3af1a7ad-3b58-4179-be4d-e475a30e2b07\", \"type\": \"domain\", \"value\": \"newtesla23.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a2abaaee-b778-41cb-ab9e-328bcd27cf17\", \"type\": \"domain\", \"value\": \"newtesla23.pro\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7db3621a-2aaa-45df-809c-4c95f00f8ccd\", \"type\": \"domain\", \"value\": \"newteslapump.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"667dfec7-cb26-4df4-bee8-359fcab52ee9\", \"type\": \"domain\", \"value\": \"newunipump.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"dfb375a4-f728-4ba3-ab60-6176f22a9609\", \"type\": \"domain\", \"value\": \"newuniswap.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9d6e9734-5fa7-45da-9417-13d7b0a9faa8\", \"type\": \"domain\", \"value\": \"openai45.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e6428293-9279-411e-82f5-fb4f4e95d140\", \"type\": \"domain\", \"value\": \"openai45.store\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9c05524b-3080-4846-a68b-a39cd5b79fa8\", \"type\": \"domain\", \"value\": \"openaibtc.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b30f90ac-94ac-413c-b889-2818d8eb4955\", \"type\": \"domain\", \"value\": \"pumpspace.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"93e336bb-e698-43d1-89f7-c7e43dff7306\", \"type\": \"domain\", \"value\": \"ripple23drop.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"75857ea3-15c0-447f-9bbd-75dffeeee9e7\", \"type\": \"domain\", \"value\": \"ripple2x.tech\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f2943f11-3e2f-4283-8962-296d1a6f39b7\", \"type\": \"domain\", \"value\": \"rlpple.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9134c9ab-fe84-4272-8795-989e68ffc4bf\", \"type\": \"domain\", \"value\": \"rlpple.pro\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"aae9d641-1cfe-406b-bcf2-31638b91236b\", \"type\": \"domain\", \"value\": \"sapcexlaunch.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9b5ed771-49f6-4ab9-83ba-1e0ae4ba25a3\", \"type\": \"domain\", \"value\": \"sapcexlaunch.store\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"76e9f8f2-09c7-4d0b-abae-786066e1d52a\", \"type\": \"domain\", \"value\": \"softbyware.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"8a234242-bbc5-43e1-ae0e-b7690a124725\", \"type\": \"domain\", \"value\": \"spacecoins.info\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"cf526975-8e41-464c-9734-338b4d53b8a5\", \"type\": \"domain\", \"value\": \"spacelives.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bb489f0e-485d-45dd-8f7f-0af4acd4c91a\", \"type\": \"domain\", \"value\": \"spacex-live.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ea85b2ed-e62b-4549-b53c-352fe5f83925\", \"type\": \"domain\", \"value\": \"spacex23drop.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"598bc405-7091-403c-adce-b73ce273f19b\", \"type\": \"domain\", \"value\": \"spacex2live.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fa44f4b1-92b4-4f88-bf4e-afb186185d95\", \"type\": \"domain\", \"value\": \"spacex2live.store\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a087577b-32e9-4a4f-8080-59f0f7687711\", \"type\": \"domain\", \"value\": \"spacexbtc.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"da5ab7f4-d818-488f-9497-ba96914f0068\", \"type\": \"domain\", \"value\": \"spacexlive23.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bc4aadcc-d0fe-476b-bc9a-f4811a25ea17\", \"type\": \"domain\", \"value\": \"spacexlive23.store\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"58554b54-1691-47fc-b6bc-f2a10f44701b\", \"type\": \"domain\", \"value\": \"spacexlive2x.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e1eb4e21-0a2e-432d-844b-4cc58e404e53\", \"type\": \"domain\", \"value\": \"spacexlive2x.store\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"91fd0ccc-bcce-4e30-89e1-a385f76e2fd1\", \"type\": \"domain\", \"value\": \"spacexlives.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1c3e76b2-ff5d-433f-86ea-9228fdbcc736\", \"type\": \"domain\", \"value\": \"spacexlives.net\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"96d8cd8d-bbcd-4dbf-865a-d6626bce4c34\", \"type\": \"domain\", \"value\": \"spacexlives.store\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c434268b-ea74-4a7d-b74a-bfa1ca872faa\", \"type\": \"domain\", \"value\": \"spacexonthemoon.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b71788cd-cf59-4040-9802-1fadae89e98a\", \"type\": \"domain\", \"value\": \"spacexpump.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2ce1cfab-a42c-4923-b055-ca64f2e0ba69\", \"type\": \"domain\", \"value\": \"spacexpump23.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5b8acdc9-19f1-449e-88e7-1362fb48d593\", \"type\": \"domain\", \"value\": \"tatecrypto2x.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6e5c87d0-8c1f-4d9a-9bb2-324ab3fcbb2e\", \"type\": \"domain\", \"value\": \"tatelive23.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"97e77b52-79b1-48d0-b686-da210aeb2fa1\", \"type\": \"domain\", \"value\": \"tatelive23.store\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bdc3fae6-8b00-4d8d-87aa-6a039779c5c8\", \"type\": \"domain\", \"value\": \"tesla23drop.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4bea17ce-ab25-4a3b-8f2a-05de32e083e3\", \"type\": \"domain\", \"value\": \"tesla23drop.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"73fa1e9f-1e15-40de-b719-18f24c02f9b8\", \"type\": \"domain\", \"value\": \"tesla23live.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"37753c1d-4415-4c73-b353-dc41730ad180\", \"type\": \"domain\", \"value\": \"tesla23new.pro\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"78f53caa-8a61-45ac-a420-f630251d125d\", \"type\": \"domain\", \"value\": \"tesla2live.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"8b8d5db4-01e0-49b8-8bbf-eb4a90ebc4e1\", \"type\": \"domain\", \"value\": \"tesla2xdrop.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bbf3787c-edb3-4a31-b288-57b2602aaf49\", \"type\": \"domain\", \"value\": \"tesla2xdrop.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ec2ff9dc-8231-4e32-8420-7283e6a690b0\", \"type\": \"domain\", \"value\": \"teslachess24.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c818be10-f8fb-4526-8617-3acf273bf130\", \"type\": \"domain\", \"value\": \"tesladrop2x.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"aa101d17-5c4a-4780-9114-5e128dd27c69\", \"type\": \"domain\", \"value\": \"tesladrop2x.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c7e97bd5-07f9-4608-a36e-5cea37c56daf\", \"type\": \"domain\", \"value\": \"teslalive23.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e7d893fe-bb79-46e5-afb5-476ebdc94955\", \"type\": \"domain\", \"value\": \"teslanew.pro\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e897d9c4-ab58-49cf-afb6-e635775191c8\", \"type\": \"domain\", \"value\": \"teslanew23.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"97205ee2-404a-4136-8593-cc9035979c17\", \"type\": \"domain\", \"value\": \"ukraine23help.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d8124816-2764-466d-877e-7ce3fd05d740\", \"type\": \"domain\", \"value\": \"ukraine23help.store\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"747e94da-c38c-4125-bf31-5f2e903380fc\", \"type\": \"domain\", \"value\": \"ukraine2x.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2fb30006-a781-43d3-9114-b217cc423410\", \"type\": \"domain\", \"value\": \"ukraine2x.store\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"027546b2-e0df-41e1-b54f-87362b2894a1\", \"type\": \"domain\", \"value\": \"x2ada.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2ef38e8a-fbbf-43f3-aeef-2200e58de45c\", \"type\": \"domain\", \"value\": \"x2droptesla.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6ea890c7-1ad5-4a90-96c7-382c2dc7d59f\", \"type\": \"domain\", \"value\": \"x2elonmusk.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"49239a8d-1e6a-440c-ac20-a35927f24d27\", \"type\": \"domain\", \"value\": \"x2flare.org\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"84e5f35f-c509-42b5-80b6-12cdd0aa9233\", \"type\": \"domain\", \"value\": \"x2teslapump.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2ebd5087-3cc1-4f2a-bed2-5c1e7df1aae8\", \"type\": \"domain\", \"value\": \"xrpdouble23.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4cd2f827-65b9-48fb-b32b-08e4a8de2ea4\", \"type\": \"domain\", \"value\": \"xrpdouble23.store\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}], \"Orgc\": {\"name\": \"Infoblox\", \"orgc\": \"D1C6A726-F132-4DDC-8180-CE3A5B778E65\"}}"
+{
+  "uuid": "83786538-d53e-470e-80ed-4ea3525aad5b",
+  "Attribute": [
+    {
+      "uuid": "02739695-6c4f-47a2-a5cf-9141cd0416a0",
+      "type": "domain",
+      "value": "twitter-promotion.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "63ab973a-7141-4776-bb5b-ffedf9b6e611",
+      "type": "domain",
+      "value": "testtdomainname.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7d094b14-1dba-42e8-b080-02514dccbe69",
+      "type": "domain",
+      "value": "arkelon22.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f0a9b759-e6ae-4e9b-b19b-6af027f383de",
+      "type": "domain",
+      "value": "teslabonus.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "bc02d493-a90c-4c65-af92-89f5e3eb6655",
+      "type": "domain",
+      "value": "youtubetesla.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "58b742f5-2c7d-44a8-a5e6-31ca2a8635d3",
+      "type": "domain",
+      "value": "xrpglobal-event.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "89fe5000-c0b5-4e9f-99cf-268c97897810",
+      "type": "domain",
+      "value": "xrpglobal-event.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b80f65aa-b9f7-42f8-b395-baaa5fa71537",
+      "type": "domain",
+      "value": "xrpfinance-info.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0a6ffde9-8bd3-4e27-a196-0edb3eff55a2",
+      "type": "domain",
+      "value": "xrpdouble-promotion.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "da1e5005-c77b-4ee9-940c-a6fd04eca127",
+      "type": "domain",
+      "value": "xrpdouble-event.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6b6a0eed-4400-4432-a36f-54155df0a1e0",
+      "type": "domain",
+      "value": "xrpairdrop-live.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "022c060b-b9d7-4165-a9c9-a648529a8249",
+      "type": "domain",
+      "value": "xrp2x-double.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "742b5a29-b6d5-41c6-b779-4c789a9dcd05",
+      "type": "domain",
+      "value": "xrp2x-double.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "759bc2aa-1d81-40a4-8ec8-2e7661d82bdb",
+      "type": "domain",
+      "value": "xrp-promotion.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "379dbb11-ac6c-4ffa-8777-f7c86b5acc1d",
+      "type": "domain",
+      "value": "xrp-info.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "205e6dfd-f3c9-4109-b183-50b6faa4f370",
+      "type": "domain",
+      "value": "xrp-give23.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f821a56e-02b7-442c-8e84-569f01722bdf",
+      "type": "domain",
+      "value": "xrp-foundation.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4fa89398-b35a-476a-8ffd-22a62ccd4f80",
+      "type": "domain",
+      "value": "xrp-finance.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "36c5e953-c043-4442-b459-7b2b7eee3fe4",
+      "type": "domain",
+      "value": "x2years.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8059a602-3c1b-480f-919e-3c219bf5a390",
+      "type": "domain",
+      "value": "x2twitter.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "24557d3b-06e2-4aaf-bbf0-8e01850cecc7",
+      "type": "domain",
+      "value": "x2crash.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "da2b63af-ceea-4ea2-ba88-4d7c30a06464",
+      "type": "domain",
+      "value": "weripple.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "999151f9-c2d3-40e6-843d-ab1f4cee54f7",
+      "type": "domain",
+      "value": "twit-usd.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f856866d-7d52-4e1a-87c4-c9e277550af6",
+      "type": "domain",
+      "value": "tweetmusk.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "689e0672-52d6-4c07-b27b-ef80899a1323",
+      "type": "domain",
+      "value": "tslaonline.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "97107b47-1f96-4404-91f1-16e12f59b31c",
+      "type": "domain",
+      "value": "tslanow.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7d2d0efc-2d19-4d7e-89c3-8252e6bc5934",
+      "type": "domain",
+      "value": "tsl2x.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "24659243-8878-4960-82ac-6d702356e370",
+      "type": "domain",
+      "value": "teslaus-event.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "bcbcfce1-b857-4e70-9d4f-9d1e15331e3f",
+      "type": "domain",
+      "value": "teslatv.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8c2ac939-7bdf-466e-b9be-5d80ede3e5da",
+      "type": "domain",
+      "value": "teslatake2023.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9ded2aca-5df9-4d52-916c-833a6ef6718f",
+      "type": "domain",
+      "value": "teslaq3.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8e9c1f40-8621-4d35-b5e6-4e736baaec31",
+      "type": "domain",
+      "value": "teslaq3.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ef686f06-8b62-4273-9122-5b275b236c2a",
+      "type": "domain",
+      "value": "teslapromotion.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "632557fb-80ab-4a10-a04f-3ff3c0ec20f7",
+      "type": "domain",
+      "value": "teslapromotion.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "692e3e68-df57-46c7-88d4-50c6616ce43a",
+      "type": "domain",
+      "value": "teslapromo.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4dee3445-b428-441a-87ae-ec565f13c15b",
+      "type": "domain",
+      "value": "teslapromo-2023.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "803ded3b-3c5a-42b6-9ad6-f83b431268f6",
+      "type": "domain",
+      "value": "teslapromo-2023.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9c4b8750-3649-4e01-aa59-85018373234f",
+      "type": "domain",
+      "value": "teslaone.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fbd8903d-f9f6-4c2e-b1d2-f363778a4064",
+      "type": "domain",
+      "value": "teslaofficial.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4c7881e7-bf6f-4f54-90c9-d277fe615f14",
+      "type": "domain",
+      "value": "teslamusk-promo.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e868d3ac-4514-4e7c-a27c-beb540cd0797",
+      "type": "domain",
+      "value": "teslalife.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e7a03c81-a21a-4bc4-99ae-e9d0bd150c28",
+      "type": "domain",
+      "value": "teslainc2023.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a7a0919b-21a3-43c0-a014-e35bcc3e9284",
+      "type": "domain",
+      "value": "teslagives2023.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "cd3efb80-f752-40b2-833a-ae0e08b6ebcb",
+      "type": "domain",
+      "value": "teslafinance-promo.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ce00b6dc-d7c9-4387-a4c2-bb30a9f8816c",
+      "type": "domain",
+      "value": "teslaevent23.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3ca96fe1-b31f-4cf2-a6b2-131b968f5e61",
+      "type": "domain",
+      "value": "teslaevent-promo.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7aa53016-d925-4e4b-8f08-e6b9118c362c",
+      "type": "domain",
+      "value": "tesladouble.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "41649021-3aeb-43f7-8f9a-f9c28ad8f234",
+      "type": "domain",
+      "value": "teslacrypto2023.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7fefd3f5-5e98-42ca-b1e2-4f592a7e3847",
+      "type": "domain",
+      "value": "teslacrash.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c83e2964-ebcd-40f9-b029-d5f9c03e3e02",
+      "type": "domain",
+      "value": "teslacoins2023.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5c40a256-63cb-4dc9-ac39-16a013ee7304",
+      "type": "domain",
+      "value": "teslacashyt.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "87358154-3c6c-4c6f-aee1-1f3861aceec7",
+      "type": "domain",
+      "value": "teslacashyt.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fd0e8653-8f46-4c95-aed0-ee5df11ced02",
+      "type": "domain",
+      "value": "teslacash2023.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2802ce64-d283-4aeb-ab24-70b54638f2c0",
+      "type": "domain",
+      "value": "teslabonus23.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "cac7a36c-d867-4cca-9b4f-74cc99d25ab1",
+      "type": "domain",
+      "value": "tesla23bonus.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fd9abe16-61c0-4d7c-bf92-eeef95a743a6",
+      "type": "domain",
+      "value": "tesla-pump.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3622b34b-5746-4504-895e-0e345725b0ff",
+      "type": "domain",
+      "value": "tesla-promotion.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "79617759-731c-4697-864d-2e37ec91f607",
+      "type": "domain",
+      "value": "tesla-now.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "83d8bc67-f0d7-4c06-bc95-8bfa72313c78",
+      "type": "domain",
+      "value": "tesla-motors.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "168719b6-673e-4747-8e94-b852d8c9a36b",
+      "type": "domain",
+      "value": "tesla-life.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "97c4e296-abea-4cc4-923c-9aebc1721b62",
+      "type": "domain",
+      "value": "tesla-give22.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "529e8cf6-92ae-41ea-8f90-3ca6b78f3d1e",
+      "type": "domain",
+      "value": "tesla-eventx2.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3c308fb6-f5f2-48d7-b676-70c6e40c8e54",
+      "type": "domain",
+      "value": "tesla-elonx2.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b49adbcf-6eec-44b6-bb49-c63ecce3f85e",
+      "type": "domain",
+      "value": "tesla-double23.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d0363db9-64d6-436a-bbc6-4a26419122c9",
+      "type": "domain",
+      "value": "tesla-bonus23.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c7b43b1a-f584-4119-acd1-03e4a868a844",
+      "type": "domain",
+      "value": "tesla-airdrop.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1c44b3d8-a002-4b4f-b3a6-7f82db41bcb9",
+      "type": "domain",
+      "value": "tatehustlers.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2c65e869-aa71-498f-b4e9-e523d67b45a0",
+      "type": "domain",
+      "value": "tatedouble.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "27dc66c0-7d78-4a07-aa8a-8d09e219dd9c",
+      "type": "domain",
+      "value": "tatebonus.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "759b300b-d03d-4683-a0a4-8ad2246ddfdc",
+      "type": "domain",
+      "value": "tate6ix9ine.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a495e661-ffc2-4dfb-9015-51f83257ac93",
+      "type": "domain",
+      "value": "spacexlaunch.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "61001135-029f-4837-bb67-cdcda5dd5bad",
+      "type": "domain",
+      "value": "spacex23.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2fd79f70-6098-4189-9b01-b70d3c25c8e6",
+      "type": "domain",
+      "value": "spacex-mission.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1ce4bc08-1ad9-44a3-ade6-e2552fd28f44",
+      "type": "domain",
+      "value": "space22give.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b138757b-f927-4c22-9d81-0f110fbf0e7f",
+      "type": "domain",
+      "value": "space2022x.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5b0d0bb4-2359-4717-85f1-142f94c2acf2",
+      "type": "domain",
+      "value": "space-strarlink.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "414c6a26-082b-4d9c-a80b-b907d33ff89a",
+      "type": "domain",
+      "value": "rippleglobal-event.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a1bee838-f268-4b1b-a559-d033f9a45b12",
+      "type": "domain",
+      "value": "rippledouble.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ff343ec7-a639-48fe-881d-777030342aac",
+      "type": "domain",
+      "value": "ripple-money.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e427cdb7-141d-4ddb-b016-6fa1b32283ef",
+      "type": "domain",
+      "value": "ripple-live.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d9363ea7-e170-42d9-a130-e924499b02c6",
+      "type": "domain",
+      "value": "qrmusk.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3f8b1532-7a4a-4116-8620-f431548cb4fe",
+      "type": "domain",
+      "value": "promotion-x2.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "034c2cda-0d78-427e-b58a-fac126679c2d",
+      "type": "domain",
+      "value": "promo-xrp2022.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9398cc19-62ec-4427-9aeb-dcea8b7ce020",
+      "type": "domain",
+      "value": "promo-tesla.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "12df465f-adbf-4dbf-bb69-e159648e4315",
+      "type": "domain",
+      "value": "promo-musk.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d0398055-33e3-4b57-a8bf-c768519fd490",
+      "type": "domain",
+      "value": "promo-musk.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0fee52d5-7c3e-4a68-bb3f-8710c5bb2f5e",
+      "type": "domain",
+      "value": "prizetesla.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "afb123f6-6edc-4b24-b80a-92b16196ba1b",
+      "type": "domain",
+      "value": "news-tesla.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1da9dc6a-0207-4e3d-b6a2-6b356de38a25",
+      "type": "domain",
+      "value": "muskevents.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5149480f-e880-482e-8918-a80d134672c5",
+      "type": "domain",
+      "value": "muskevent.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7eea8fa1-ed6b-4d65-aa58-ac44483f11bf",
+      "type": "domain",
+      "value": "musk-pump.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2afe8753-55d0-450b-8e69-e32dc3ab10cd",
+      "type": "domain",
+      "value": "musk-promotion.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1809d702-091e-4f27-bef8-54e57a9a93ed",
+      "type": "domain",
+      "value": "musk-prize.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "82f07bf8-15b8-42c2-afdb-9243d760f3ab",
+      "type": "domain",
+      "value": "musk-get-x2.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "86ba2318-cf53-4906-a108-9d25251c0fce",
+      "type": "domain",
+      "value": "musk-foundation.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0d7a48cd-e11c-45ff-9470-99b73905d1a1",
+      "type": "domain",
+      "value": "misson-live.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c492b39d-0862-4640-ab42-a4d1af208593",
+      "type": "domain",
+      "value": "ltcpromo.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "08ccdec6-016c-4daf-bb8b-95d11c075d7e",
+      "type": "domain",
+      "value": "liketesla.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "85f6d58d-a30e-4157-bfce-e5a6b465f44a",
+      "type": "domain",
+      "value": "invest-elon.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b03d428a-d696-45a4-b145-d0b2026ec986",
+      "type": "domain",
+      "value": "grew4tesla.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f97d76c4-fa03-484d-9c7b-908ca04f60fb",
+      "type": "domain",
+      "value": "gifts-tesla.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "931b7c48-fa13-417f-b97b-f7b7a74ec4a6",
+      "type": "domain",
+      "value": "get-x2bonus.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0a861460-f183-497c-9fac-f6692209fe2a",
+      "type": "domain",
+      "value": "geminiearn.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "138b2582-0b5e-4e80-8006-a55446ed67c3",
+      "type": "domain",
+      "value": "ftxbinance.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "dfda9432-90b3-43ab-899d-ede8a36cd70f",
+      "type": "domain",
+      "value": "freetate23.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "333a2a28-776e-4e4a-92fb-dfbcba2d186c",
+      "type": "domain",
+      "value": "foundation-tesla.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ee8a0212-0ef1-46ce-b451-fd1da8ffc32a",
+      "type": "domain",
+      "value": "forbesbtc.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7c2147f9-da65-4623-9e8b-352a577e1a9c",
+      "type": "domain",
+      "value": "finance-xrp.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "21561b50-993d-4a5e-b0c9-09ea40fd4b33",
+      "type": "domain",
+      "value": "ethereum-rise.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "bc13d76e-91d1-44c5-b824-a691bd3f42da",
+      "type": "domain",
+      "value": "ethereum-promotion.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "cfa2345c-18fb-45b5-95d7-52483d425236",
+      "type": "domain",
+      "value": "eth2x-info.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9f30b794-80ec-43bb-9db2-ff2dbc0c380d",
+      "type": "domain",
+      "value": "elonusa.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d8fdc3c2-2fd7-4bf6-82fe-c46916454bc5",
+      "type": "domain",
+      "value": "elonus.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "37e46b82-620f-43d9-8208-f9eedceb58e2",
+      "type": "domain",
+      "value": "elonshare.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "99db3f2d-2b82-4580-97cc-da43b09258e8",
+      "type": "domain",
+      "value": "elonmuskevent.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "83c41444-7bbe-4d66-8b83-774c43a9ac77",
+      "type": "domain",
+      "value": "elonmuskcash.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8c8c28ac-c906-44d6-9f51-18866c4b5853",
+      "type": "domain",
+      "value": "elondrop22.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b8fbb8cd-6158-4fb2-bb1f-38bd5c0d5de8",
+      "type": "domain",
+      "value": "elonark22.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d841118e-c7b1-4823-bd3d-0f64f49db460",
+      "type": "domain",
+      "value": "elon-promotion.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "28696825-235b-4a56-be6d-eecc6e4b0f49",
+      "type": "domain",
+      "value": "elon-investx2.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "13f9dc9c-ccff-4645-acc6-37aee4ad122e",
+      "type": "domain",
+      "value": "elon-gets.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "36597108-67cf-467f-98f0-57b618c7eef1",
+      "type": "domain",
+      "value": "elon-gets.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ff61dc15-c4b3-472f-a976-4c68b010d4e9",
+      "type": "domain",
+      "value": "elon-gets.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c96658ed-b616-4b7c-8b09-211fc4ab8d37",
+      "type": "domain",
+      "value": "e-musk.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b7065fc1-0f8a-4771-9d21-b0029cd054c2",
+      "type": "domain",
+      "value": "draketesla.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b46d67e8-756e-4278-b4e5-c8bb9191deee",
+      "type": "domain",
+      "value": "dot-pump.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5ee2cd3a-ee3f-4f84-8409-556920032de1",
+      "type": "domain",
+      "value": "cryptobottemplates.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9fe47ece-f6ed-462d-9d49-50f3c8f95c4d",
+      "type": "domain",
+      "value": "crypto-tesla.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b1c5936c-5d2f-4d9c-a0ca-e7ff303cdf86",
+      "type": "domain",
+      "value": "cryptgive23.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f92b84d4-26ad-4456-b61c-e32abd0f3a09",
+      "type": "domain",
+      "value": "crew5tesla.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f3bd07b0-598f-464a-8db1-eeda85e13312",
+      "type": "domain",
+      "value": "crash-tesla.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "595f613c-ff0e-4ce3-ac57-5c5fced9e9d5",
+      "type": "domain",
+      "value": "cathie-live.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3a57f660-eefc-4190-b5e4-3372f54e5c2c",
+      "type": "domain",
+      "value": "cashtesla2023.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b46d45c5-09d6-4779-bcad-8397a2c52c46",
+      "type": "domain",
+      "value": "buterin2x.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7a307d96-dc36-4604-91aa-94de47c4fbff",
+      "type": "domain",
+      "value": "buterin-promo.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ae28728e-461a-4e56-b3b6-7b1b569df407",
+      "type": "domain",
+      "value": "bonustesla.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "08ba5324-af85-43ba-b431-0514e7498fa2",
+      "type": "domain",
+      "value": "bonus-xrp.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9fca83bf-4c57-4631-b5ac-f4fe6c4c81e8",
+      "type": "domain",
+      "value": "bonus-xrp.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e79c5014-9b5c-4a3e-b191-5e98f79dd161",
+      "type": "domain",
+      "value": "arkspace.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6284f59b-4aeb-4d43-bbec-7875de5c275b",
+      "type": "domain",
+      "value": "arkgives2022.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ca3b3263-3cc5-415e-88c0-1059c8d11bfc",
+      "type": "domain",
+      "value": "ark22double.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "80878362-45e0-41a1-8a1e-13d098c892e7",
+      "type": "domain",
+      "value": "airdrop-xrp.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "93caefe3-ce1f-4818-ad33-47f57aa8e2da",
+      "type": "domain",
+      "value": "airdrop-ripple.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c440c778-5bf5-4331-ba20-7e6fe306496c",
+      "type": "domain",
+      "value": "2x-tsla.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "757d785c-ad5d-4e08-bdc8-3ec55d7b2bda",
+      "type": "domain",
+      "value": "22tesla.io",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f8f53976-4ffd-4c6f-abf1-ef9cf0679c93",
+      "type": "domain",
+      "value": "22spacex.space",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "62e3a66a-8e4c-40be-905f-f49741cf319b",
+      "type": "domain",
+      "value": "2023-tesla.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a1319fbe-5dd3-4f7a-a2c9-5e65617d42b0",
+      "type": "domain",
+      "value": "2023-ripple.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5c0766f5-7d68-40cd-9e03-77a358ad203c",
+      "type": "domain",
+      "value": "xrpfinance-live.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fbbb0b4d-e8e3-4665-bfc3-e0750edd7ea7",
+      "type": "domain",
+      "value": "xrpdouble-promotion.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "dd6fb812-5e03-4af2-a501-e33e2b33fa64",
+      "type": "domain",
+      "value": "xrpdouble-promo.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3f7b14d9-0919-4a64-9ce3-b9e498e74cc7",
+      "type": "domain",
+      "value": "xrp2x-prize.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "dcccd724-7d6a-4e39-a2bc-164b873c3b67",
+      "type": "domain",
+      "value": "xrp-bonus2022.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2fbedea3-7e4d-477c-9547-85687b1002c8",
+      "type": "domain",
+      "value": "xrp-airdrop.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "dd050014-1cb7-4163-8661-68bdea51db78",
+      "type": "domain",
+      "value": "xrp-airdrop.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a5900243-4d49-4710-a83b-a32ea280e68a",
+      "type": "domain",
+      "value": "promotion-prize.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "020ca09a-11c8-4747-a686-0c814e5de5f0",
+      "type": "domain",
+      "value": "promo-prize.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "db1bff20-c32e-430c-a9bd-e2253d43a520",
+      "type": "domain",
+      "value": "xrpfinance-promotion.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ab4bb590-b9e1-41f7-a371-24ffbe1e8f21",
+      "type": "domain",
+      "value": "xrpevent-promotion.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ab59f7a6-bb88-49ce-bd00-1b58cf7ba83e",
+      "type": "domain",
+      "value": "xrp-doubled.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "778faab1-6932-4341-8de2-f8253c746d85",
+      "type": "domain",
+      "value": "xrp-ceo.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d8b92b35-2051-4d4d-816a-c0304840f08b",
+      "type": "domain",
+      "value": "tesla-weelgives.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0a0f7d94-79fe-4e9c-9fda-b7d7fd5a25a6",
+      "type": "domain",
+      "value": "tesla-weekgives.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3f71d2b7-f959-46bf-af52-a01b12eb6864",
+      "type": "domain",
+      "value": "get-prize.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b219606f-667e-4487-8d8d-eb35212c853b",
+      "type": "domain",
+      "value": "find-prize.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "152c1ac3-a4c4-4b0e-be99-89abccfbf1dc",
+      "type": "domain",
+      "value": "event-xrp.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ba0329b5-02bf-434d-b4a1-378f0b86c981",
+      "type": "domain",
+      "value": "teslagivesx2week.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5cd650d0-f43a-4830-84bd-73296a4e58cc",
+      "type": "domain",
+      "value": "teslagives23.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "10ab3fda-c03f-4f31-8e1e-9835b8182c02",
+      "type": "domain",
+      "value": "tesla-wellgives.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "819cc01e-e86f-43e4-b1d4-7cfd1745ddcd",
+      "type": "domain",
+      "value": "tesla-givesweek.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fbb599f8-76fb-402d-ac4b-b78d9c05bcbc",
+      "type": "domain",
+      "value": "ripplesec.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8cef36a7-b6b9-4c7a-ba4f-bf4733f72481",
+      "type": "domain",
+      "value": "ripplelabs-live.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f0147abf-fd11-4636-8d8c-3af1832dbb7e",
+      "type": "domain",
+      "value": "ripple-sec.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8c4b3767-1725-444d-a4a6-1c020c9ef87a",
+      "type": "domain",
+      "value": "ripple-live.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ea425f28-f143-456d-8589-372693694a96",
+      "type": "domain",
+      "value": "ripple-finance.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9032e4ca-1b1a-4bb6-90ff-5e01a42b19a7",
+      "type": "domain",
+      "value": "promotion-xrp.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d1459467-0ee3-4089-b133-cb3b97704b9d",
+      "type": "domain",
+      "value": "eth-airdrop.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "20a56eef-fb19-4df8-8992-d8938071d585",
+      "type": "domain",
+      "value": "bigxrp.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9b3b3532-fbb9-4d8f-9659-1ca11a4a5804",
+      "type": "domain",
+      "value": "ark-giveaway-x2.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "76214556-9017-485c-961a-0499dc980e9a",
+      "type": "domain",
+      "value": "xrpevent-official.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b0da7cfd-6a3a-4e59-b5df-8e878fd7384c",
+      "type": "domain",
+      "value": "world-xrp.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "556c30fe-741d-495f-8eb0-056b6957b0db",
+      "type": "domain",
+      "value": "weripple.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7a43a440-de97-453a-9c35-fdcd009d022b",
+      "type": "domain",
+      "value": "ripplevent-live.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "be2f0d39-aaae-41f4-b39b-3a875f075b91",
+      "type": "domain",
+      "value": "ftxbonus.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "37e97136-f5ef-4789-84fc-dce491981600",
+      "type": "domain",
+      "value": "ethereum-bonus.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "cf15093c-78d1-46e3-9c7e-d522b3fd6ef5",
+      "type": "domain",
+      "value": "elon-live.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0b5f0169-2f36-49c5-a814-12c2a3c446d9",
+      "type": "domain",
+      "value": "czftx.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "83d8b90f-a056-46e3-b1fd-f7eb738d5245",
+      "type": "domain",
+      "value": "ark-invest-2022.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "467dc7d3-3029-4667-be11-a94f0aedd1cb",
+      "type": "domain",
+      "value": "xrpdouble-event.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4630ebfd-bef4-4111-aa31-a6e5f6425c92",
+      "type": "domain",
+      "value": "teslagives2x.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e371bb0f-f08b-48dc-b5c5-6be799c8d7c1",
+      "type": "domain",
+      "value": "tesla-celebration.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "41b3658d-fdd8-424c-9914-1064955a82b1",
+      "type": "domain",
+      "value": "money-teslagives.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1b8fd5e1-570f-4088-b44a-7b154f87dca5",
+      "type": "domain",
+      "value": "get-x2prize.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "728595d3-8a67-4688-8a69-21e2d52722da",
+      "type": "domain",
+      "value": "gain-x2bonus.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2ee1a574-4240-4a60-b9f4-b7e738fac56f",
+      "type": "domain",
+      "value": "ethx2-info.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1666f430-d6ea-49f6-a321-803883aa729a",
+      "type": "domain",
+      "value": "btc70k.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e81d873f-f19d-465c-99d5-594402a7ab98",
+      "type": "domain",
+      "value": "binance-worldcup.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "97e92d9f-5a7c-4753-94ff-f5894066e9b9",
+      "type": "domain",
+      "value": "ark2022btc.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "75880c63-e8c8-44aa-8575-f77b3c7d8cc2",
+      "type": "domain",
+      "value": "teslalive2023.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "44bf0518-bddd-4164-8133-584d0a6f9d6e",
+      "type": "domain",
+      "value": "space-bitcoin.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6bd82dd9-69c1-44d2-8f95-5507a9b3a831",
+      "type": "domain",
+      "value": "shib23.io",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a21a3333-8a30-4704-a9b5-ba9fe1b02801",
+      "type": "domain",
+      "value": "promotion-tesla.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4c2f84f3-c9e1-4410-bf08-5d2b118cc4b6",
+      "type": "domain",
+      "value": "gifts-tesla.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f73b3e9f-3ec6-4354-8b80-0a3c99fd6cd5",
+      "type": "domain",
+      "value": "ethereum23.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "99f24e20-c328-4b2d-b2ca-aacc67504f51",
+      "type": "domain",
+      "value": "ark22btc.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8cc1bf8f-feab-4c53-af54-3d6be5c7de22",
+      "type": "domain",
+      "value": "zksync-airdrop.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5d0146fe-911a-4ae0-986e-d183ce1ea8f6",
+      "type": "domain",
+      "value": "xrp-finance.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "382edb9c-9db5-4ad2-9ffe-a20646632750",
+      "type": "domain",
+      "value": "x2-promo.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fef41afd-a035-4e81-8e74-dc487dd23403",
+      "type": "domain",
+      "value": "teslax23.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f2f40d2b-5398-44b0-8c87-aab1592fda22",
+      "type": "domain",
+      "value": "teslagift2023.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2f57f101-dd76-4bd9-bbaa-c8a758045ec3",
+      "type": "domain",
+      "value": "tesla3.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b9a17f3a-80c7-46c6-98b6-257bc7d940db",
+      "type": "domain",
+      "value": "promo-ethereum.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "35abc720-73aa-44e3-8ed7-1e7601f31103",
+      "type": "domain",
+      "value": "btcark22.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "99db4e04-2052-4c05-976f-2f10e3221cc5",
+      "type": "domain",
+      "value": "astralis2x.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6bef632d-ba48-4a34-8a8b-8db4aadfc435",
+      "type": "domain",
+      "value": "xrp-event2022.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "95d540dd-d4c1-41cd-8c1b-1778bdc363eb",
+      "type": "domain",
+      "value": "topgoalnft.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0c668b95-4460-4505-ab28-d4ff071be1cb",
+      "type": "domain",
+      "value": "teslagives.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "31b9cc1f-deb8-493d-96d6-96263c2dea55",
+      "type": "domain",
+      "value": "tesla-day.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ecbc30ad-da7a-4451-ab32-9fd99887aefd",
+      "type": "domain",
+      "value": "tesla-day.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5dd7c712-f29f-4fd2-a5c8-90303bcd7380",
+      "type": "domain",
+      "value": "tesla-bonus.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7a7beeb8-0a3d-4f1d-b2a1-e84850d02352",
+      "type": "domain",
+      "value": "tesla-airdrop.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b85c34bb-4ded-433c-abdd-f4b923352cde",
+      "type": "domain",
+      "value": "promo-tesla.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "22f89bf9-3731-441e-9796-3dec46266c44",
+      "type": "domain",
+      "value": "poseth.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5aa70a9b-09fd-47eb-a08a-c010f3b38990",
+      "type": "domain",
+      "value": "give-arkx2.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "61b487fc-6594-4beb-9494-c0f769c80548",
+      "type": "domain",
+      "value": "geminibtc.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "90cca1d6-65fb-43d0-a947-b286e41566a3",
+      "type": "domain",
+      "value": "ethereum-promotion.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "17ef95bb-2372-4e69-b2bd-ae456d1e7643",
+      "type": "domain",
+      "value": "btcdrop.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a634f9af-b347-4cee-b1be-b8fa0e18c232",
+      "type": "domain",
+      "value": "bonustesla.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2458a084-5242-47e9-b300-4ecf5ca3fd35",
+      "type": "domain",
+      "value": "bonustesla.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ad0855e6-3da3-47b7-a92c-ac0ccfec8dde",
+      "type": "domain",
+      "value": "ark2022give.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fe192d44-b4c9-467c-b0bc-f928ccda7ab2",
+      "type": "domain",
+      "value": "uppumpspace.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5e13f554-14d1-4f41-b0b4-569f1b6cab07",
+      "type": "domain",
+      "value": "teslabonus.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d4399ebb-4237-451e-92b8-13f4bf1c23dd",
+      "type": "domain",
+      "value": "tesla-up.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d0c2d475-0ca2-47eb-9ce4-c0854d87f4ad",
+      "type": "domain",
+      "value": "tesla-news.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "574e5bdb-d92f-4174-aee1-ffcb8608a6ff",
+      "type": "domain",
+      "value": "rippledouble-promo.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7dcc48b6-51f3-4c8e-9368-5a0cd840098a",
+      "type": "domain",
+      "value": "give-today.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "02eb8129-d749-4fd9-a99b-e01fdb724598",
+      "type": "domain",
+      "value": "event-tesla.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "61b8b568-f2e4-4c49-adee-d1099ee37acf",
+      "type": "domain",
+      "value": "elon-news.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7605aec7-a675-4901-83b1-3b42c7fbeaff",
+      "type": "domain",
+      "value": "cryprkdjwns.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "affc0729-84b4-4008-8933-b3ffd0303164",
+      "type": "domain",
+      "value": "arkeevent-x2.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ed2fc8c8-5dc3-42f5-a280-46258b6af6dd",
+      "type": "domain",
+      "value": "airdrop-xrp.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2c3ff624-938b-49bc-8a51-4fb80e0ede9b",
+      "type": "domain",
+      "value": "vitalik2x.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a8ad5bf3-c98f-466a-9b1c-97be3f3e1395",
+      "type": "domain",
+      "value": "teslaventweek.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5f57b4bd-b612-435d-8fe8-4db3735c1941",
+      "type": "domain",
+      "value": "teslaufccash.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "891ee48f-6ca7-4116-9506-b6ea39afd8fa",
+      "type": "domain",
+      "value": "q3tesla.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6b57a2ee-54ff-404a-b36e-53ffc65b5289",
+      "type": "domain",
+      "value": "potatoz-memeland.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ec430eb7-d186-44c1-97b7-03536bd249ce",
+      "type": "domain",
+      "value": "nftblackboom.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a20978fa-776b-4f72-b08f-8200878adf88",
+      "type": "domain",
+      "value": "btc-arkinvest.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1ac8e7f8-ada3-432a-a36e-3ef1296ed959",
+      "type": "domain",
+      "value": "ark-event2022.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "547ed249-6d2c-4118-a170-f700f0efbf95",
+      "type": "domain",
+      "value": "vitalik-promotion.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b8658388-09de-4154-a64d-ec7046d19ed5",
+      "type": "domain",
+      "value": "spacex-usd.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "84d5f29d-8e1d-4aba-aa1a-11064ad5f19a",
+      "type": "domain",
+      "value": "shib23.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f01aa9a2-f88d-4377-b95e-460cdd7193ba",
+      "type": "domain",
+      "value": "q3tsla.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fe437273-a11c-49ff-920f-be71a528a856",
+      "type": "domain",
+      "value": "ilongives.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5d7856ed-6526-412b-84e1-5e6fc9e6f7f9",
+      "type": "domain",
+      "value": "elon-qr.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "453b3ac8-1881-4af2-b428-1a3f04bfe84d",
+      "type": "domain",
+      "value": "elon-ark22.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e03d51b4-0964-4a56-bfd8-4a4fc401d11f",
+      "type": "domain",
+      "value": "arkforyou22.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c6219b24-e3e5-4249-af26-16a5dd751728",
+      "type": "domain",
+      "value": "vitalik-promo.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "707d4d0a-0205-4fd0-9dbb-d9b487016b67",
+      "type": "domain",
+      "value": "tslainc.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "254f3b23-5b59-49e2-9fa2-5829e2611602",
+      "type": "domain",
+      "value": "ripple-get.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9abafe6e-a706-4c0f-96bb-d4587f9b67bc",
+      "type": "domain",
+      "value": "promo-x2.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e0f4e2c6-f286-4bad-b24b-274aac559a99",
+      "type": "domain",
+      "value": "previewforcryptdesignbot.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "53dcabc8-c18c-44a0-a963-0bd2273b826b",
+      "type": "domain",
+      "value": "ceo-xrp.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0d280f0a-3ad5-4ea4-976b-89f430d5876a",
+      "type": "domain",
+      "value": "teslayoutube.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "074eec5c-dac5-48e3-8c27-53509ae14d47",
+      "type": "domain",
+      "value": "teslagive.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "514d09ab-bae4-4ec4-a5ee-4ccc24606074",
+      "type": "domain",
+      "value": "tesladayevent.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8748b8dc-7f2d-44bf-b56c-4ad8351306b1",
+      "type": "domain",
+      "value": "teslabonus.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2af8a7dc-5001-44f5-9aea-27ddc2fcb6c4",
+      "type": "domain",
+      "value": "ripplelabs-live.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "871f4838-57de-4959-b4d0-a4e9e1f27a1f",
+      "type": "domain",
+      "value": "promotion-buterin.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a44b811d-2d18-4725-897f-1e0cfa941b43",
+      "type": "domain",
+      "value": "muskpromotion.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b6c8be74-10d9-42f1-b983-307fcb870f6f",
+      "type": "domain",
+      "value": "event-ripple.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7756fdaa-2e3a-4d49-b844-5154496634df",
+      "type": "domain",
+      "value": "buterin-promo.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7d0a877c-cd46-4191-bdc1-bd4885df754e",
+      "type": "domain",
+      "value": "ark-x2-invest.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "87a3cbe4-d706-42f9-b7bd-5a3f616661c7",
+      "type": "domain",
+      "value": "andrewtatecash.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "db06063d-7b86-4f6c-9f4a-f021b8ed3c94",
+      "type": "domain",
+      "value": "andrewtatecash.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7653a2c2-9e0c-44e0-84b2-e461d59311f0",
+      "type": "domain",
+      "value": "akiprotocol.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0455c5bd-1c6a-49b2-b2bc-bc9434b846d4",
+      "type": "domain",
+      "value": "tesla-yt.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d01bd99b-2dcc-4840-9c98-0e093e7d648e",
+      "type": "domain",
+      "value": "promo-buterin.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6d77739b-6c2b-4e21-bb0b-5d5a1dcd7d51",
+      "type": "domain",
+      "value": "news-tesla.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d6577f67-e337-400c-96b1-b10369c390af",
+      "type": "domain",
+      "value": "msgets.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "509aac17-9e15-4f8a-8074-653bc36b688d",
+      "type": "domain",
+      "value": "elon-kanye.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e1bb7b59-fd52-4053-a18f-2e5a6883d95c",
+      "type": "domain",
+      "value": "elon-event.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a5830e12-962c-4935-9be3-1d6dc970eb56",
+      "type": "domain",
+      "value": "cryptdesignproject.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "21057344-6471-4d32-bb84-722a61c3afd2",
+      "type": "domain",
+      "value": "tateinvest.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1c3f77ed-1fda-49ac-9268-d8c59fcca10b",
+      "type": "domain",
+      "value": "tatecashyt.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "eb904625-bb73-41a0-9772-27ff0681740e",
+      "type": "domain",
+      "value": "potatoz-memeland.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b00cd1f5-5bf5-4669-8ce6-84096a8e64bd",
+      "type": "domain",
+      "value": "msdrop.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b83ad93d-0c96-409f-a12d-7fa3475e405f",
+      "type": "domain",
+      "value": "ethmerges.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4f98fb12-b70a-4a60-9659-33dc4e9604a9",
+      "type": "domain",
+      "value": "cryptodesignproject.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "86347aea-bb68-4419-9e34-95e46a3d454d",
+      "type": "domain",
+      "value": "conorcashyt.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1350123f-ce61-425a-b6be-37c1584da805",
+      "type": "domain",
+      "value": "tesladrop.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6c9a816d-6e63-459a-b999-45ef981715b2",
+      "type": "domain",
+      "value": "zil.today",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "be14187f-8ddb-4b0c-921d-c84c4f4a8a34",
+      "type": "domain",
+      "value": "x2years.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ee1ac5fb-2538-4d4f-b3cc-fc2edd6bf18d",
+      "type": "domain",
+      "value": "x2-promotion.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4434b80c-fb4a-4242-abe3-0d972f8b155b",
+      "type": "domain",
+      "value": "wefpump.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e7b2ea21-3724-4d27-8da5-b64428e9a812",
+      "type": "domain",
+      "value": "vitalikbuterin-event.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fdb42d48-85e3-43e4-918e-c48f94345f88",
+      "type": "domain",
+      "value": "vitalik-eth.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7725af2b-628d-4f80-8a3d-fa04d3d09cd0",
+      "type": "domain",
+      "value": "twitterdeal.pro",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "94667f91-2193-4567-919c-d3790da38df0",
+      "type": "domain",
+      "value": "tslabrand.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f304fc42-6af8-47d3-86cd-1c41127af23a",
+      "type": "domain",
+      "value": "teslax2.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "dd111ff6-4921-4136-bd89-6600f1d7909d",
+      "type": "domain",
+      "value": "teslapromotion.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "392fa4b6-12f4-4590-8293-41929aa56315",
+      "type": "domain",
+      "value": "teslamusk-promo.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "909c0925-76b3-45bd-9fbe-db0f21814fb4",
+      "type": "domain",
+      "value": "teslagives.pro",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "411e094f-1e13-4d69-bbec-ec3c0efbf196",
+      "type": "domain",
+      "value": "tesla-event.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d9a4352c-32ca-49e3-b7b9-407e34605a23",
+      "type": "domain",
+      "value": "tesla-ceo.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4ba78094-4963-46e9-a735-1802a932f1e7",
+      "type": "domain",
+      "value": "tesla-ceo.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a485d294-0380-4a2f-b91b-adcb9dd93e9f",
+      "type": "domain",
+      "value": "telsadouble.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "33209dd4-9c5d-409a-ae5b-60f866b63f30",
+      "type": "domain",
+      "value": "tategives.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1741aa53-1f96-47fd-be4a-03864bb8ebad",
+      "type": "domain",
+      "value": "tatecoins.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c579e797-9cc7-416a-8b6e-8c66edaf2532",
+      "type": "domain",
+      "value": "tate2023.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ab368862-1be4-498b-b0d6-31a2aa778b44",
+      "type": "domain",
+      "value": "takesol.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "eb20ec40-a21c-4986-9b06-8c4e5e96156c",
+      "type": "domain",
+      "value": "takesol.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a88609c8-2589-4fcd-82b0-bef007d1ebae",
+      "type": "domain",
+      "value": "spacex-launch.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8189c19c-fada-4e9a-bec2-772c6a25844b",
+      "type": "domain",
+      "value": "shiba2023.pro",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6ca69303-468b-47f4-a44f-0f0ec94f9e29",
+      "type": "domain",
+      "value": "shib23.pro",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "efda158f-dd75-4f33-b460-57191a9508e2",
+      "type": "domain",
+      "value": "ripplefoundation.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8405e70d-557c-45a7-b39f-c9291978d223",
+      "type": "domain",
+      "value": "ripple-invest.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2c6384a4-8b07-4cc6-954c-c8ad18db053a",
+      "type": "domain",
+      "value": "richtesla.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f9493772-5289-4aec-a2b1-e319a44f73e1",
+      "type": "domain",
+      "value": "promotion-musk.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "08b0e114-756e-42eb-bfcb-80741bc3ec87",
+      "type": "domain",
+      "value": "promo-buerin.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7b7ccc00-1980-453e-b057-bc96d39c25a1",
+      "type": "domain",
+      "value": "otheresidemeta.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "351695d0-b19a-4ac7-b4ba-3cf852b32425",
+      "type": "domain",
+      "value": "mcstrategy.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e4d7f947-77cd-4804-a310-d60ebe43ed58",
+      "type": "domain",
+      "value": "mcgregorcash.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "45d10269-f00b-4bb7-8a09-504b47e164f7",
+      "type": "domain",
+      "value": "mcconorcash.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "aee96668-c80a-4d0b-bcee-34377913a852",
+      "type": "domain",
+      "value": "kanye-elon.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "76e3e267-7de5-4fc7-a1ed-c124676ab33b",
+      "type": "domain",
+      "value": "kanye-elon.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7cb321dc-f8e6-4976-a524-60efe833edad",
+      "type": "domain",
+      "value": "investmstr.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7b58e6ae-0510-4d05-847b-e3f234c383bb",
+      "type": "domain",
+      "value": "gift2023.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d79f9450-f391-4aa8-ae0f-38afe6bc62e0",
+      "type": "domain",
+      "value": "gavin.gifts",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "62343f59-aada-4725-ad4a-d1bddc69da01",
+      "type": "domain",
+      "value": "forbesyt.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4b67d850-4f5b-4fee-a8a5-80ba76f0858b",
+      "type": "domain",
+      "value": "eventx2ark.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7a491304-0f0f-496f-a841-ecb54267291e",
+      "type": "domain",
+      "value": "event-musk.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "120224c3-0649-45f4-8c6d-2aa9d1b8e0f3",
+      "type": "domain",
+      "value": "ethergets.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4b3edc35-bd0a-4d88-a40e-4869fda29d5c",
+      "type": "domain",
+      "value": "ethdrop.pro",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0b1a5b78-3d24-4b7a-a96d-c8ec20e1bb7e",
+      "type": "domain",
+      "value": "elonmusk-event.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "998c52cc-8f0e-496e-85f5-5ec283b6a2b0",
+      "type": "domain",
+      "value": "elon-gives.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8e69c8a7-c9e7-44af-96d6-2140cb54f1b1",
+      "type": "domain",
+      "value": "cryptosdesignmoneybot.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8968c4ad-d545-4a5a-8a75-54c48ef18eca",
+      "type": "domain",
+      "value": "cryptosark.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "31e0bd6f-e44e-4dde-9e6f-06d045247c68",
+      "type": "domain",
+      "value": "cryptobottempl.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f9042c65-bcc7-40bd-9134-f9c618469aa1",
+      "type": "domain",
+      "value": "ceotesla.pro",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f6b6589d-dc7d-474d-a1a9-fc95640558b4",
+      "type": "domain",
+      "value": "cardanovasil.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "46fca34a-bf52-4413-afb0-148e2a6c6d33",
+      "type": "domain",
+      "value": "cardanofork.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c07c3544-15ba-4011-bd2d-a29c2713a374",
+      "type": "domain",
+      "value": "cardano-get.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "12e37aa3-d8a4-45c5-a923-266acb1e6b02",
+      "type": "domain",
+      "value": "buterin-event.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "190830f6-7372-45fe-9945-a87ea790bd89",
+      "type": "domain",
+      "value": "buterin-2x.promo",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "dab42a91-3dc6-4e1b-b2d3-709056b943b7",
+      "type": "domain",
+      "value": "brad-yt.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d1a53754-8f17-4d66-a71f-23f65a409851",
+      "type": "domain",
+      "value": "arkx2event.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "bf0014d0-5b88-4645-a693-4a011bb0d3f0",
+      "type": "domain",
+      "value": "arkhigh.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e5c5bc47-258a-41bf-bd07-e8ad5b73ab94",
+      "type": "domain",
+      "value": "tate-free23.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "40e808ef-5649-4437-bb34-c88b71614d53",
+      "type": "domain",
+      "value": "telsabonus.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "80a2f670-c8f2-4c50-ad31-f8e6f4d61d43",
+      "type": "domain",
+      "value": "arkcrypt.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "356fc324-74b6-4890-8be8-c033e48c1a40",
+      "type": "domain",
+      "value": "teslabonus23.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0270af89-a71e-455d-a1b9-985e8648fa60",
+      "type": "domain",
+      "value": "doge2022-elon.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "19f1f4e8-e0eb-4af3-a14d-b863a35329bf",
+      "type": "domain",
+      "value": "crypto2023.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5de03079-c568-44d2-b446-3e2221637ec4",
+      "type": "domain",
+      "value": "conormccash.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "efb6a624-7eb1-42c4-8e64-971d0ddce3a4",
+      "type": "domain",
+      "value": "ethereum-elon.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c6ae2832-4672-4f91-8737-a40287760a36",
+      "type": "domain",
+      "value": "arkceo2022.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2914c75c-9951-47ea-8b91-ab8007a61cee",
+      "type": "domain",
+      "value": "tesla22event.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6e06cd21-cf62-4546-8e65-e325c55bc587",
+      "type": "domain",
+      "value": "teslapromo23.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2d64dbcb-7fc1-440e-8d86-28aceb9ef604",
+      "type": "domain",
+      "value": "twitter-event.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9868f447-e8da-416c-8854-501c83037ee4",
+      "type": "domain",
+      "value": "doubletesla.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a753f283-33ea-4dcf-bafe-cfeb78bc3305",
+      "type": "domain",
+      "value": "double-ethereum.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1e33c7a4-bcd8-4dfc-a2a9-67020cee8a89",
+      "type": "domain",
+      "value": "adidas-drop.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "bd7686ac-e21c-494e-9505-84757c61a1db",
+      "type": "domain",
+      "value": "chatgptbonus.live",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a3251135-0e6d-4728-a7ee-db9ef962501d",
+      "type": "domain",
+      "value": "algo2x.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d0d7bb91-98ab-4ea3-a7fb-2ec6f5c926d5",
+      "type": "domain",
+      "value": "algo2x.store",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "22f0c552-cd12-41b2-8dff-f091fc642e78",
+      "type": "domain",
+      "value": "aptosx2.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "cee2c3a4-bad5-40f9-a36e-1d4c4b082041",
+      "type": "domain",
+      "value": "bittrex2x.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ecf1fb79-6fef-4b06-a4b4-0b769e67be3d",
+      "type": "domain",
+      "value": "bittrex2x.store",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8ecb49b7-1f33-4479-bdbf-42c757e1faff",
+      "type": "domain",
+      "value": "btcmicro.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "531a5a5d-2428-4b2b-972b-6bda0e02520c",
+      "type": "domain",
+      "value": "buterin23.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "cd38e6e6-1afd-4e90-91b3-104d78a81b78",
+      "type": "domain",
+      "value": "cardanolive.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "43b08e8a-3fb7-4383-a713-dd0f55d142e3",
+      "type": "domain",
+      "value": "cardanoyt.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ea2baf5d-4119-4cc7-a7dc-c343710d1e48",
+      "type": "domain",
+      "value": "chess2x.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "32723017-d7c3-4ec8-86d7-aa35eac57554",
+      "type": "domain",
+      "value": "chess2x.store",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "05773c28-f866-48dc-ba0f-6b558e75c9f3",
+      "type": "domain",
+      "value": "doublexrp.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "018fc9af-a06a-4685-9d96-79f1f342ca34",
+      "type": "domain",
+      "value": "elon2023double.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "58824d21-0f02-4766-a021-beb2f67775d5",
+      "type": "domain",
+      "value": "elon2double.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "90441f85-9657-4354-b56f-37a2ef05bc96",
+      "type": "domain",
+      "value": "elon2drop.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3c7d0b3b-5a78-4a42-b0c8-4bac0e999289",
+      "type": "domain",
+      "value": "elon2drop.store",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "89cb5c94-375e-45b5-994d-a4634bf15924",
+      "type": "domain",
+      "value": "elon2xdrop.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5de51146-e14f-4ba6-be11-76ff154ea66b",
+      "type": "domain",
+      "value": "elonbtc2x.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ac3b5538-6e41-43bf-88dc-14ebee3ec820",
+      "type": "domain",
+      "value": "elondouble23.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "bd12f94e-96bb-4996-bd1a-4ff31448d9c2",
+      "type": "domain",
+      "value": "elondrop2x.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ebcaacb4-7ca0-4042-ba24-0b65bf4b4f03",
+      "type": "domain",
+      "value": "elonlive2x.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "623dc1f3-42d2-4401-8ae5-2ef1550450a4",
+      "type": "domain",
+      "value": "elonlive2x.store",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e8f98406-9122-4c53-b377-fed5e1a87888",
+      "type": "domain",
+      "value": "elonmusk2x.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "034ca3fb-b29c-4bbc-acd2-293f987f93b2",
+      "type": "domain",
+      "value": "ethdrop2x.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7c99656f-0407-49bf-86df-71337dcdea16",
+      "type": "domain",
+      "value": "ethdrop2x.store",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3181e579-bebf-419f-927f-de0f2ff2fa08",
+      "type": "domain",
+      "value": "exgold.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "afb0cd00-f25e-4d64-97f9-dbdf46ae90b7",
+      "type": "domain",
+      "value": "microdouble.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b10c85ce-9413-4b92-927c-8c8b2e825116",
+      "type": "domain",
+      "value": "msaylor2x.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "04220b1c-277d-4f26-a85b-202ef9556aec",
+      "type": "domain",
+      "value": "msaylor2x.store",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5a9a35b7-796a-4179-86b7-01e47d9e2e4b",
+      "type": "domain",
+      "value": "muskdrop2x.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0e55bd27-0d43-4bbf-9ec7-e6b4cc27250c",
+      "type": "domain",
+      "value": "muskdrop2x.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "41ddad0e-1265-40d0-b4ca-9dd0ea3503f6",
+      "type": "domain",
+      "value": "musknew.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d93d64e0-8097-44bb-90a4-4c03b8699554",
+      "type": "domain",
+      "value": "new23tesla.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f3a03c89-b28f-4388-9010-0ec8a7b0930f",
+      "type": "domain",
+      "value": "newtesla.pro",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "405ed2a8-ea18-41b9-ba95-c7118df615c0",
+      "type": "domain",
+      "value": "newtesla23.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "65c08127-c417-4ee0-a9d7-67ffb6c0356a",
+      "type": "domain",
+      "value": "newtesla23.pro",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "520b5301-d2e9-46d9-8343-1abf1fd88186",
+      "type": "domain",
+      "value": "newteslapump.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7dfb0a3f-bebf-4250-9feb-8b4a43ed17c6",
+      "type": "domain",
+      "value": "newunipump.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "be02abbe-2dc2-4c3d-8851-d41ad028790c",
+      "type": "domain",
+      "value": "newuniswap.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5b4dfa7d-c1fd-4a02-87b3-ffc8c7a5fc09",
+      "type": "domain",
+      "value": "openai45.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "88575d30-a6c4-4b6d-ab2a-d2e9e820e836",
+      "type": "domain",
+      "value": "openai45.store",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7df2af42-5f70-4e87-b8af-9ba3e5ebc9ab",
+      "type": "domain",
+      "value": "openaibtc.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "bdab56d2-4c93-43c9-b858-ed0a4feae37f",
+      "type": "domain",
+      "value": "pumpspace.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9245219b-30a7-49e3-ad9e-36926c1906bb",
+      "type": "domain",
+      "value": "ripple23drop.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c6304ffc-ff00-43c6-aeef-62efac04c525",
+      "type": "domain",
+      "value": "ripple2x.tech",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ae2f22fb-be63-4bb5-9726-c81e8d4213b6",
+      "type": "domain",
+      "value": "rlpple.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2707f09e-d1ff-455c-afb3-67d72dc021ad",
+      "type": "domain",
+      "value": "rlpple.pro",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ac5148a0-d9a2-4072-bdfc-84a862d44651",
+      "type": "domain",
+      "value": "sapcexlaunch.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "05b36574-0472-4680-a7a2-a9e125158b6c",
+      "type": "domain",
+      "value": "sapcexlaunch.store",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "84dca018-c862-440e-b682-c76af2eaf1bd",
+      "type": "domain",
+      "value": "softbyware.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6e2aed61-3b96-4c8e-a049-c98faf4f8334",
+      "type": "domain",
+      "value": "spacecoins.info",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2bfd9ca4-6691-4ff4-a65c-930323e7678c",
+      "type": "domain",
+      "value": "spacelives.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f93f79f1-dbca-45ff-9ff6-7bd437bd6f47",
+      "type": "domain",
+      "value": "spacex-live.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d0bf52d7-c991-41b1-a3f4-dda31433c9ac",
+      "type": "domain",
+      "value": "spacex23drop.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2d815910-65b3-4939-89dd-f5b8a4c65dd2",
+      "type": "domain",
+      "value": "spacex2live.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "77ce6c46-0579-48e0-9bac-9701d6ab4196",
+      "type": "domain",
+      "value": "spacex2live.store",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "760f99da-7fe9-41a1-b319-d0b5022942b6",
+      "type": "domain",
+      "value": "spacexbtc.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "220e1d83-bb53-418f-8aa9-74e8b5ebddf0",
+      "type": "domain",
+      "value": "spacexlive23.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0d744003-2cd6-46c2-a187-3ef9c2134f15",
+      "type": "domain",
+      "value": "spacexlive23.store",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e4fcb82a-c95c-451b-b433-c653d24a63fe",
+      "type": "domain",
+      "value": "spacexlive2x.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "44ab358c-583b-443a-a15f-f441e837ce72",
+      "type": "domain",
+      "value": "spacexlive2x.store",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f87b8c53-0236-4a51-b220-e56baa8f2213",
+      "type": "domain",
+      "value": "spacexlives.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f0b13c5a-378d-461c-b022-291a9bc21acd",
+      "type": "domain",
+      "value": "spacexlives.net",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "507b2089-b822-41b6-9437-22cb97872a71",
+      "type": "domain",
+      "value": "spacexlives.store",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "23937142-fb6d-480f-a1eb-97060b7f2b04",
+      "type": "domain",
+      "value": "spacexonthemoon.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "150f051a-46f6-4503-8474-59dac4d2bd47",
+      "type": "domain",
+      "value": "spacexpump.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "38bf1494-545e-4645-a8ac-4bbf2aeac9f2",
+      "type": "domain",
+      "value": "spacexpump23.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fa799aa3-2e08-4cf2-b693-f1648bc05504",
+      "type": "domain",
+      "value": "tatecrypto2x.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "af1a7dff-9425-4ff0-9439-621f258e5a34",
+      "type": "domain",
+      "value": "tatelive23.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e3563d24-2e8b-49ef-9d9d-dcd537d68d5a",
+      "type": "domain",
+      "value": "tatelive23.store",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7cf0db70-13f5-4326-ae27-c3b05dad456b",
+      "type": "domain",
+      "value": "tesla23drop.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1fcd2a15-a679-4149-bc6a-c1900118431d",
+      "type": "domain",
+      "value": "tesla23drop.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4f210a17-3946-4b31-8495-b259f25de9bf",
+      "type": "domain",
+      "value": "tesla23live.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "881e7fa8-2c4c-4340-85af-18d30735ae9c",
+      "type": "domain",
+      "value": "tesla23new.pro",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "16abbef2-8ea2-453d-9eb9-a8b0b4d6856a",
+      "type": "domain",
+      "value": "tesla2live.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a3b697f3-8fa3-4690-a279-dcd31a1b060d",
+      "type": "domain",
+      "value": "tesla2xdrop.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b99fa5f2-2154-4acd-b0fd-92841e7f726a",
+      "type": "domain",
+      "value": "tesla2xdrop.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "50d29613-ca19-4281-8d62-94c4e15cc8f7",
+      "type": "domain",
+      "value": "teslachess24.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b759c706-4f1d-4a57-b613-122adac9ef19",
+      "type": "domain",
+      "value": "tesladrop2x.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "84d7cd72-c808-454f-b88a-399efe6c2b5f",
+      "type": "domain",
+      "value": "tesladrop2x.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c1792141-d206-41f4-9724-467012cb8bd7",
+      "type": "domain",
+      "value": "teslalive23.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b13f5a0a-0432-4076-928f-2bdc41cab071",
+      "type": "domain",
+      "value": "teslanew.pro",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7be265bf-126d-4772-8f33-867c8cc596ac",
+      "type": "domain",
+      "value": "teslanew23.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3f334ed0-bdef-48ee-8e03-5e566991faa2",
+      "type": "domain",
+      "value": "ukraine23help.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "83f459b2-0809-4207-ab67-f2a6902f89ff",
+      "type": "domain",
+      "value": "ukraine23help.store",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8cc98530-38a3-46dd-a3cb-02d01216c2d9",
+      "type": "domain",
+      "value": "ukraine2x.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2a662b6a-343c-465e-a7cd-b302e3c6f323",
+      "type": "domain",
+      "value": "ukraine2x.store",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "794f8815-4332-45f1-95db-12e429b4a0d7",
+      "type": "domain",
+      "value": "x2ada.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "02abf441-0653-4651-8b31-4017e9b82fd1",
+      "type": "domain",
+      "value": "x2droptesla.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6e449aa5-e6ec-4872-bd70-63bebdf32529",
+      "type": "domain",
+      "value": "x2elonmusk.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7c0395c3-4886-4783-b302-1528d7cee6ce",
+      "type": "domain",
+      "value": "x2flare.org",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "cbda2208-cf57-489c-9160-d9e42a63d36b",
+      "type": "domain",
+      "value": "x2teslapump.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8f10b2ba-6c16-4a0e-b183-d7d32cac9135",
+      "type": "domain",
+      "value": "xrpdouble23.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d110f772-ba76-43af-9fb8-6d97677b5a9f",
+      "type": "domain",
+      "value": "xrpdouble23.store",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    }
+  ],
+  "Orgc": {
+    "name": "Infoblox",
+    "orgc": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+  }
+}

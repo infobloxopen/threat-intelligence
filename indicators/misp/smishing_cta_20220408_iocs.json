@@ -1,1 +1,2153 @@
-"{\"uuid\": \"20166188-8567-4fc9-a454-327da794e978\", \"Attribute\": [{\"uuid\": \"a2271278-47ed-4e07-a34d-1bc5651afbf2\", \"type\": \"domain\", \"value\": \"smsw1.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"387a5eec-f417-47ae-9094-7f369beb40b2\", \"type\": \"domain\", \"value\": \"mfso1.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e7031e5c-caf5-4ef6-87b4-58a6e19d312e\", \"type\": \"domain\", \"value\": \"pely2.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d050d019-37a0-494b-a3e7-1da629c31656\", \"type\": \"domain\", \"value\": \"wtwx2.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"80903238-61e4-497a-a16b-9bedcab974a5\", \"type\": \"domain\", \"value\": \"khed3.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"466508a0-525a-4cdd-b07c-5dfc599ea4f5\", \"type\": \"domain\", \"value\": \"mgdi3.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b7b3b1cf-c623-4922-9768-0860d6dc55e0\", \"type\": \"domain\", \"value\": \"laea4.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9199fa0c-40c9-41e1-8b7a-ad374e94858a\", \"type\": \"domain\", \"value\": \"omyq4.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d1f1502b-f20a-4cb5-9a88-29e6b02f1730\", \"type\": \"domain\", \"value\": \"qyef5.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"872c1bc6-5e55-4775-9d71-4f83579a3bcd\", \"type\": \"domain\", \"value\": \"idvk5.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"84ac69b3-1f20-4cfc-939d-2632b28dc912\", \"type\": \"domain\", \"value\": \"dqvy6.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"392955ec-f151-49d3-832c-6296bcc06930\", \"type\": \"domain\", \"value\": \"dnmc6.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0bc31f5a-7345-4893-ab64-b3a89c62c982\", \"type\": \"domain\", \"value\": \"igtf7.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"40f3ba54-7c55-4521-ac89-bb833223cfd9\", \"type\": \"domain\", \"value\": \"kiwv7.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"27b4de35-bb79-4bcd-a587-a379e090c188\", \"type\": \"domain\", \"value\": \"jjao8.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c384adc4-1271-402c-a30f-5c1cee827d42\", \"type\": \"domain\", \"value\": \"kvde8.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c0ee94bb-c0dd-4ef4-b7eb-158f3fc00f32\", \"type\": \"domain\", \"value\": \"okil9.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"50cda8e3-a65c-4c58-8970-7bc192167563\", \"type\": \"domain\", \"value\": \"harn9.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9cde7eaa-06c8-44cb-9c41-b84e3aac2011\", \"type\": \"domain\", \"value\": \"nill10.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0ed1e52d-0043-4549-a0a0-d8003b4ead04\", \"type\": \"domain\", \"value\": \"ulht10.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a914f9ec-d8c9-4326-926d-c9429e372862\", \"type\": \"domain\", \"value\": \"nijf11.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a602f114-4e7f-4697-87ae-da699d3817c1\", \"type\": \"domain\", \"value\": \"qgjt11.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"605530ce-6095-43a1-b992-8476567da3c6\", \"type\": \"domain\", \"value\": \"hcip12.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"166c4aae-29e5-487d-8c9d-69c9822f770b\", \"type\": \"domain\", \"value\": \"jcal12.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"dbdd0b2c-fc8f-46e3-9d88-ef283830f2e7\", \"type\": \"domain\", \"value\": \"rezb13.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0e35ca06-51c1-4a3c-bd19-548f047785cc\", \"type\": \"domain\", \"value\": \"tslz13.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7b4b26ae-1884-4177-a5df-261999e493c2\", \"type\": \"domain\", \"value\": \"hlns14.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7248a37a-15c6-4c00-b0d5-447cca12002e\", \"type\": \"domain\", \"value\": \"izhm14.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"28077448-c49d-4e83-a978-d2ff8d1f2305\", \"type\": \"domain\", \"value\": \"bgfv15.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0db91b71-f947-4791-abf0-59f57e38b943\", \"type\": \"domain\", \"value\": \"jbeq15.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f06c49df-a60e-466e-a574-0d9234b8bad4\", \"type\": \"domain\", \"value\": \"mbdq16.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0b46d43c-99a2-4527-b0fa-90c3237e0f45\", \"type\": \"domain\", \"value\": \"acgv16.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4d8f07f9-03c6-4b29-8a83-58debc48124e\", \"type\": \"domain\", \"value\": \"nkeh17.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e56ab48e-0277-4f84-9dc2-7e012b778f9e\", \"type\": \"domain\", \"value\": \"wzae17.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"205f5a09-ef04-4193-8bfb-ca0a247754c2\", \"type\": \"domain\", \"value\": \"rtpe18.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5a81b687-17a7-465f-b19a-a30b1f549dae\", \"type\": \"domain\", \"value\": \"yhan18.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9ad02f56-eedf-4892-8ffb-16d8577cfaae\", \"type\": \"domain\", \"value\": \"yamn19.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0c55bc47-c317-4a77-95e8-c70984d07ecc\", \"type\": \"domain\", \"value\": \"sjwf19.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5b728a4b-6348-486a-9ef2-0e3cd84ed1e0\", \"type\": \"domain\", \"value\": \"zdip20.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"72f3235a-c700-4842-afa3-5147efeade0c\", \"type\": \"domain\", \"value\": \"culs20.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7500906c-ec9d-4c44-8f16-2ee304e92f66\", \"type\": \"domain\", \"value\": \"ezks21.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"160cdc04-6e1b-4c75-8ddf-20be2a05eeb9\", \"type\": \"domain\", \"value\": \"ysfz21.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0936427e-db28-41cf-9dc0-651968aa0df2\", \"type\": \"domain\", \"value\": \"cmrc22.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e9eb552d-a050-4bf0-91c5-9f6f3fef82ec\", \"type\": \"domain\", \"value\": \"vuau22.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"04607f77-de6a-4f44-8f66-83331cbbb3c1\", \"type\": \"domain\", \"value\": \"jqiz23.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0f769b11-25d9-4467-8dd1-541404593636\", \"type\": \"domain\", \"value\": \"hadq23.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ba46b68d-b682-492a-9e1a-83ab2408faf0\", \"type\": \"domain\", \"value\": \"ixyv24.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2713607f-645f-4a4e-b9c3-a446b6afbc22\", \"type\": \"domain\", \"value\": \"lhkp24.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"cf17af67-5e67-49f8-a111-c1b87626c5a6\", \"type\": \"domain\", \"value\": \"hpfd25.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"06a49ad2-1b0e-4bd9-a41c-9d11982841e7\", \"type\": \"domain\", \"value\": \"vjhk25.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"18a7f594-9f37-47e5-b92b-10717ad33c38\", \"type\": \"domain\", \"value\": \"uyqb26.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"159b70e0-0c4d-4d0b-bd0b-b67707e88127\", \"type\": \"domain\", \"value\": \"chkn26.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2e738bc6-3649-4b44-83b8-f8b8748eb523\", \"type\": \"domain\", \"value\": \"aust27.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"60878d1e-fdd0-4263-b6e6-175c6a70da32\", \"type\": \"domain\", \"value\": \"ltsg27.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"36aa7352-7509-4d4b-b684-607b61202338\", \"type\": \"domain\", \"value\": \"lcsh28.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"94fa14a5-1b81-4bcb-b228-0608f7b306cf\", \"type\": \"domain\", \"value\": \"aqfo28.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"019a6be1-b526-4bf5-b1a6-047db720e508\", \"type\": \"domain\", \"value\": \"erae29.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f4580aa2-fa22-476d-b33c-4ecaf9150427\", \"type\": \"domain\", \"value\": \"mgjg29.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"241eecb0-5351-43d5-a542-015faa12e580\", \"type\": \"domain\", \"value\": \"ithn30.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"be2735cc-3c55-4ecf-b534-0fa300deff34\", \"type\": \"domain\", \"value\": \"qinh30.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6c5f6451-7335-4714-98b3-1a35efb663a0\", \"type\": \"domain\", \"value\": \"mszp31.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"945b8530-c124-46f1-8dd5-918e2c1f9541\", \"type\": \"domain\", \"value\": \"pomz31.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3b898ed2-d3ec-4707-b554-32744a431a93\", \"type\": \"domain\", \"value\": \"ciww32.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"14d8022e-b1a8-4982-acd5-a87ca9ab8fe2\", \"type\": \"domain\", \"value\": \"nooa32.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"90d1a552-638c-4f1c-b7ec-f9cca9167233\", \"type\": \"domain\", \"value\": \"mvfe33.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"127d51bb-e734-4c12-99e6-6abdb27be1e9\", \"type\": \"domain\", \"value\": \"zmtt33.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"821b9f7c-48f4-41f4-bc92-49b506e84761\", \"type\": \"domain\", \"value\": \"jzwc34.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"437c75ed-7991-4bc6-90fc-f9a2e52cca2b\", \"type\": \"domain\", \"value\": \"ktfu34.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e1b18ec7-b632-448c-90a0-5fac51fa8f20\", \"type\": \"domain\", \"value\": \"opdb35.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"30d0d09c-7fbb-46a0-9f65-5f398e0287cb\", \"type\": \"domain\", \"value\": \"rrhn35.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9a291528-f854-4fba-9de7-9d7db2e3b2bc\", \"type\": \"domain\", \"value\": \"gptp36.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b04de585-93d7-4333-b2df-e588f2a77473\", \"type\": \"domain\", \"value\": \"dtus36.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e77f9d6b-41ce-41aa-97d8-d95f1dc71438\", \"type\": \"domain\", \"value\": \"qjag37.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ba179639-95c2-4e80-94c1-44db36c42f69\", \"type\": \"domain\", \"value\": \"swbt37.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f093bee6-1f83-4b66-8073-7904ed5c4163\", \"type\": \"domain\", \"value\": \"upah38.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"75fb2dcd-6620-431d-a521-6bf924190a8e\", \"type\": \"domain\", \"value\": \"ixbc38.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"87efbc74-799b-4add-b536-08e3f1cf8911\", \"type\": \"domain\", \"value\": \"qfac39.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f8deefda-048c-41ad-9abd-3c9dc90a4631\", \"type\": \"domain\", \"value\": \"xifj39.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a9b85055-abed-447d-b758-2271f4d4e511\", \"type\": \"domain\", \"value\": \"aped40.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e815b149-2359-45e6-bc7c-6e8bdf04e4b3\", \"type\": \"domain\", \"value\": \"jaig40.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"218cb2f9-9854-462e-9089-7ac27b5c57b7\", \"type\": \"domain\", \"value\": \"ckex41.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6f3d52bd-af0a-48a5-8544-97ad8f93d43f\", \"type\": \"domain\", \"value\": \"wgrp41.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"db195cc6-911c-4e0b-a101-51383f31996a\", \"type\": \"domain\", \"value\": \"hegz42.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"eed0975d-1419-409b-a6f6-529e7e311e65\", \"type\": \"domain\", \"value\": \"ciuu42.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f679fe37-fd79-4ff0-9b01-6c58a1fa88f5\", \"type\": \"domain\", \"value\": \"lawn43.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1839b921-7d49-44fc-ba3d-39bc72464651\", \"type\": \"domain\", \"value\": \"zoqw43.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"77765d67-adab-4ef3-91f7-be305cbd7b2d\", \"type\": \"domain\", \"value\": \"zcyj44.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4fe5e64d-3b1d-45fa-84fd-f583569331e6\", \"type\": \"domain\", \"value\": \"qbas44.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"427ed6f0-f6e9-4e26-a2c4-b1bbb3d4b867\", \"type\": \"domain\", \"value\": \"usha45.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9a3b0d8b-065b-4c1a-a323-248be40e7c57\", \"type\": \"domain\", \"value\": \"zvlg45.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"10ac08d0-9428-4bf5-92f3-bce7cedd6f0b\", \"type\": \"domain\", \"value\": \"zlxg46.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1d4fb92d-a5db-476b-ac6d-2f40f5070840\", \"type\": \"domain\", \"value\": \"qhrq46.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"decdcb2b-65a7-4fde-a1c1-a1a874319f19\", \"type\": \"domain\", \"value\": \"fuir47.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f8421d32-569a-4f7f-a520-5c1f5adef0fe\", \"type\": \"domain\", \"value\": \"ixsf47.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"cbea8c3e-8221-4703-bb6d-af4ee6404851\", \"type\": \"domain\", \"value\": \"vtpf48.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"79c98ee5-0fcc-45b2-bc2f-5f85829cccd9\", \"type\": \"domain\", \"value\": \"ejia48.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"63295fd8-679e-4115-a160-4b5b4d10d91e\", \"type\": \"domain\", \"value\": \"pvut49.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9b9e144a-f17a-4cbb-b6be-76da33c42378\", \"type\": \"domain\", \"value\": \"sgqz49.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"54ea6e04-0c58-48d3-98d4-c2b52c5c34e7\", \"type\": \"domain\", \"value\": \"glju50.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5f807d55-554b-4a9d-ab50-838ae3c1ee82\", \"type\": \"domain\", \"value\": \"zmxu50.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ea355522-5e8e-40b4-84e6-59f9d6ac8218\", \"type\": \"domain\", \"value\": \"hggq1.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"cccf9e79-580b-4b75-bc79-3f2f946e7936\", \"type\": \"domain\", \"value\": \"wkcq2.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7f8db09f-2bb7-4f72-8f8a-843ea49904e3\", \"type\": \"domain\", \"value\": \"vfar3.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"44949c13-ee4b-44fd-b9c1-004142ae41a4\", \"type\": \"domain\", \"value\": \"svgd4.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"87b95f93-1d29-4c15-8e4e-a826411b4abc\", \"type\": \"domain\", \"value\": \"fgoy5.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c7593246-ed4c-4933-ba4e-67007887e689\", \"type\": \"domain\", \"value\": \"gvhj6.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4dfa3f01-a1a8-423d-88fe-57fdf803f8d4\", \"type\": \"domain\", \"value\": \"bepf7.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e663cc2c-b206-4ede-9419-c4dadbf5eaf4\", \"type\": \"domain\", \"value\": \"vkri8.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a13216e7-c8cf-4649-ad95-8e25fb2ee4f3\", \"type\": \"domain\", \"value\": \"eknz9.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5860b5d7-6487-4470-bb6c-fa110621ed3d\", \"type\": \"domain\", \"value\": \"mslx10.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"df692ced-b82a-4cef-b819-654699b828b8\", \"type\": \"domain\", \"value\": \"dfys11.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7902047f-ce83-4c36-be21-ed34cfa9886b\", \"type\": \"domain\", \"value\": \"djzy12.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a9cf234c-53b5-423e-aba6-3123675bae49\", \"type\": \"domain\", \"value\": \"gytr13.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"aa763d00-e073-4b34-bea9-9e815b5ae6f4\", \"type\": \"domain\", \"value\": \"qhdd14.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"df4c1295-582e-4267-85d9-cca64bfb684b\", \"type\": \"domain\", \"value\": \"sbqs15.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"612b3579-24ee-406c-9932-d2a8faebddae\", \"type\": \"domain\", \"value\": \"pmlx16.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a7b275f2-18b6-4211-b5b9-b2238f925aaa\", \"type\": \"domain\", \"value\": \"iphk17.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a450b557-17ae-41ce-9574-2a4139c18df2\", \"type\": \"domain\", \"value\": \"opqk18.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"268d775a-0617-48ee-96ca-fcbd1e8f3108\", \"type\": \"domain\", \"value\": \"ntfr19.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"83364549-ad83-4668-b413-14e6ec0e8ec6\", \"type\": \"domain\", \"value\": \"cvwm20.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e8a293a8-1640-4be0-88d6-6cb77dd0b4f6\", \"type\": \"domain\", \"value\": \"wtmz1.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"aac62676-2336-4d99-aa65-c8daf2bc847c\", \"type\": \"domain\", \"value\": \"xwjv1.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7a943306-35f3-4271-abea-832c83d9dff6\", \"type\": \"domain\", \"value\": \"nyxk2.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"93f76287-ab00-444e-a177-e66257161118\", \"type\": \"domain\", \"value\": \"pwnx2.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d7eca4db-8a0a-4388-9d7f-8fb1961ce332\", \"type\": \"domain\", \"value\": \"dbmy3.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"aa63dbd3-2a85-4905-a74d-934ec103baae\", \"type\": \"domain\", \"value\": \"nvso4.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"472df5f8-d97f-4f17-87f9-d3675af87a58\", \"type\": \"domain\", \"value\": \"vooy4.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a8f0a765-9629-4b98-b3c3-9a73423e53af\", \"type\": \"domain\", \"value\": \"hzkr5.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3bc20111-96b9-4f2b-a745-78ab57e66d82\", \"type\": \"domain\", \"value\": \"gddr6.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c48ae9ba-ed9b-4978-a382-f2b60c3172ff\", \"type\": \"domain\", \"value\": \"hhjx7.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5f99b7e6-8709-4ca2-bfee-cdc581792c65\", \"type\": \"domain\", \"value\": \"shcw7.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5acc2996-6345-4842-95f4-f73958c68db4\", \"type\": \"domain\", \"value\": \"oxwe8.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c029d803-7028-4b99-b6c2-a90321bda8d7\", \"type\": \"domain\", \"value\": \"rpws8.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d2846da0-5897-4dac-b159-170ea77ad10b\", \"type\": \"domain\", \"value\": \"aqsz9.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5ad0d959-333b-4750-8ea5-77732e62fe8c\", \"type\": \"domain\", \"value\": \"ijph9.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"af4ed29f-be80-4bb7-be32-7c1df7e86f26\", \"type\": \"domain\", \"value\": \"sqyc10.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4f41a722-662d-46df-a047-ec712d3f0c83\", \"type\": \"domain\", \"value\": \"wszd10.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"48f520ff-6753-40e2-9718-cf06f324dc9f\", \"type\": \"domain\", \"value\": \"cegs11.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ed380833-a434-4b52-9301-bdf1da4998dd\", \"type\": \"domain\", \"value\": \"odkp11.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"63fc808c-6e80-4c7a-ae12-fb2a2d1e5ba8\", \"type\": \"domain\", \"value\": \"gshu12.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c5fed6e6-56b5-4d2b-803b-31318f9ba07f\", \"type\": \"domain\", \"value\": \"tfll12.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b925922f-d5dc-4dc3-a5dc-96f88347f9a7\", \"type\": \"domain\", \"value\": \"dysj13.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2bc4ca51-09bb-4e14-90b6-37790bf90361\", \"type\": \"domain\", \"value\": \"tbsb13.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a7e594ae-d711-45c2-b6c2-db2adc1fbd6c\", \"type\": \"domain\", \"value\": \"ccpt14.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5a7c02f1-c9f2-43fe-a825-03384e7ca627\", \"type\": \"domain\", \"value\": \"oyfn14.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f06b589e-1cac-40cb-b5c3-f81f2581c429\", \"type\": \"domain\", \"value\": \"fgvz15.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c83baa9f-17ee-4e54-bf0c-ede123c319a1\", \"type\": \"domain\", \"value\": \"hquu15.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6eea47d4-28ba-436e-bfd0-c696c36ac4de\", \"type\": \"domain\", \"value\": \"jenh16.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b691e0d2-4e7c-4c05-ba0f-74b91ebeb437\", \"type\": \"domain\", \"value\": \"nrfe16.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3f88baa7-82f8-4ac3-a72a-2f499f7765c4\", \"type\": \"domain\", \"value\": \"fjow17.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3b09d6be-c2cd-43e3-b0d4-52fdbf7d3850\", \"type\": \"domain\", \"value\": \"flgk17.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6197dc9c-597e-4a1a-b6ec-d6f7315b9241\", \"type\": \"domain\", \"value\": \"anwa18.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7096e586-f2d3-4126-b3bd-27993a2b5d4e\", \"type\": \"domain\", \"value\": \"dtxp18.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"acc05511-ebe4-486d-a6f9-f0a3db29c363\", \"type\": \"domain\", \"value\": \"inen19.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6b2ee281-a65e-436a-916f-db893ef31ea3\", \"type\": \"domain\", \"value\": \"ozhn19.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e3a4a960-dc9a-4dad-b033-103b61e7fca1\", \"type\": \"domain\", \"value\": \"avyc20.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"24ef1923-2e04-42e0-b2c0-120006ded37c\", \"type\": \"domain\", \"value\": \"oifc21.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6f9013a5-e1af-4d36-a3eb-135ff0adb4cb\", \"type\": \"domain\", \"value\": \"ukuu21.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ef7e7d7c-d933-42f7-90cb-00114cf06b6b\", \"type\": \"domain\", \"value\": \"dcdh22.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"11ee745d-6d46-4035-b5f4-0282993f33b9\", \"type\": \"domain\", \"value\": \"htur22.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d620329a-4f99-4682-9d63-1283e7755748\", \"type\": \"domain\", \"value\": \"ohmv23.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"8182ef8a-475c-47e9-9fa8-2f8ad3df89aa\", \"type\": \"domain\", \"value\": \"qflr24.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b86ce116-e5fe-48ce-8ff0-f70a10a2638e\", \"type\": \"domain\", \"value\": \"xnrh24.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b727ff41-98cf-429c-a939-e2811aed064c\", \"type\": \"domain\", \"value\": \"snqu25.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ab5a64ce-a47c-4537-a81e-9ee6dd637435\", \"type\": \"domain\", \"value\": \"hklk26.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9d1cd428-2b3c-4e51-93e4-69f016e12ba3\", \"type\": \"domain\", \"value\": \"vqsr26.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a0eb91e5-0395-48e2-b442-d15670e34a99\", \"type\": \"domain\", \"value\": \"ahct27.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f9f30620-52d7-41f0-9fb7-0ad0ab93a57d\", \"type\": \"domain\", \"value\": \"umlp27.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"666fb923-8671-4c4d-bce0-dcd3532e7e1c\", \"type\": \"domain\", \"value\": \"kdvi28.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b50eb13d-2c02-4bb7-ab40-94769e56959d\", \"type\": \"domain\", \"value\": \"xuuv28.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"bf5cd2fd-f426-474e-854e-42a4ff4c6bc5\", \"type\": \"domain\", \"value\": \"lefx29.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"679e02c5-3e67-46fa-8b69-77ba156ddd9c\", \"type\": \"domain\", \"value\": \"atsk30.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a644e24a-3ceb-4bc3-95bc-08000f7c64e4\", \"type\": \"domain\", \"value\": \"vflu31.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0ca83189-7829-4ed4-aea5-7e00778b4ea9\", \"type\": \"domain\", \"value\": \"zhnv32.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"8df9089f-8af2-4fc9-ba7c-381fffa450b2\", \"type\": \"domain\", \"value\": \"xdhh33.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c77ffdb4-a3c4-4375-9c1a-a2e62b8cde2e\", \"type\": \"domain\", \"value\": \"refp34.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"29b23791-f08d-46a7-86c6-a3797354db72\", \"type\": \"domain\", \"value\": \"rczt35.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a7aaab4f-d1dc-4127-8378-b73a73a3f780\", \"type\": \"domain\", \"value\": \"gxkk36.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"97f90a88-e084-4640-abc8-e5f858270a92\", \"type\": \"domain\", \"value\": \"gmec37.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1dcb13b5-7e09-4c3a-a051-bbe83d007f2f\", \"type\": \"domain\", \"value\": \"ahur38.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e5fe5981-0fd7-41d6-a6fe-427c7a930541\", \"type\": \"domain\", \"value\": \"asqb39.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"045cbeab-74ba-44ce-bf86-0b8de8b87350\", \"type\": \"domain\", \"value\": \"bjas40.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9e0dc41b-af8e-46a4-a53c-eeaa21cd8911\", \"type\": \"domain\", \"value\": \"jnmj41.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1ddbe6c6-d1d1-4ee7-b41a-1fdb0729b7d2\", \"type\": \"domain\", \"value\": \"mfis42.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a6fd6d24-e51f-430d-bb5a-12d34d02a01d\", \"type\": \"domain\", \"value\": \"tyer43.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1d3bae42-7f71-4fe1-a9a8-29763326f830\", \"type\": \"domain\", \"value\": \"spmu44.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"802364a6-2600-4428-9fd6-f6fd58df7ddd\", \"type\": \"domain\", \"value\": \"bxqi45.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"90ee06f5-81d9-4897-9e1b-b55ab09e4f48\", \"type\": \"domain\", \"value\": \"islf46.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b23bbaec-9fb7-45d0-a98d-f99e3df9819c\", \"type\": \"domain\", \"value\": \"gjdl47.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5e3974c8-5cc5-48d6-9797-5ab20555bb85\", \"type\": \"domain\", \"value\": \"ztib48.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1437ac5c-4f8c-4b19-ad34-af9532275b8a\", \"type\": \"domain\", \"value\": \"ytqk49.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c27fbfe9-3034-4777-94a5-3ec84c51552f\", \"type\": \"domain\", \"value\": \"cepf50.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0f184419-8aca-47c6-ad73-5dbff347c2b7\", \"type\": \"domain\", \"value\": \"kcap51.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"cbdf2a81-c99f-4c02-85e3-9e77d9e8eb89\", \"type\": \"domain\", \"value\": \"dfeo52.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a7f6ba52-ed46-4439-9be9-fb7928666384\", \"type\": \"domain\", \"value\": \"lcrn53.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ccd0b629-df78-4f3f-8039-8a5a5f3494fc\", \"type\": \"domain\", \"value\": \"tgav54.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0b0fda7a-c4f5-4856-83f6-d3be66b6caad\", \"type\": \"domain\", \"value\": \"sctn56.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"79d93002-1c1a-47c8-ae0b-ba1a474fced9\", \"type\": \"domain\", \"value\": \"cfzb57.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"fb26239b-70ab-43cf-ad5b-efb8c423fad6\", \"type\": \"domain\", \"value\": \"lpdl60.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ec13a9ad-3534-4016-9d6d-2a37b20419bc\", \"type\": \"domain\", \"value\": \"bikm61.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"21bc3966-1578-4002-adbf-7af7b7a15705\", \"type\": \"domain\", \"value\": \"doif62.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"832e5879-2a14-4c47-b67b-c2747b4cb3ff\", \"type\": \"domain\", \"value\": \"ovel63.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"612b6a0d-d0a2-4aad-be52-3b4af23e0f73\", \"type\": \"domain\", \"value\": \"bkhr64.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a48971a0-f6ec-4d86-8fca-1d7364090cc8\", \"type\": \"domain\", \"value\": \"vhjp65.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b8a2b22c-2be1-4749-b037-60b4e000701e\", \"type\": \"domain\", \"value\": \"guxv66.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9b77689f-95ac-4ac5-8951-d19725cb2187\", \"type\": \"domain\", \"value\": \"qgud67.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"acf77146-402c-4ddf-9ce0-9f9cabfe6d3f\", \"type\": \"domain\", \"value\": \"ngkl68.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5bf1c6ac-d4f7-4956-b16f-0fb264c8d323\", \"type\": \"domain\", \"value\": \"wfug69.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"970a512e-4d1c-45a0-8410-3ee29bb8ce16\", \"type\": \"domain\", \"value\": \"rhlw70.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"86ccc28a-d58a-47bc-9aee-8a4870c16411\", \"type\": \"domain\", \"value\": \"eaiys1.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5be09e62-aef7-4271-b1bd-8f5ec3c51731\", \"type\": \"domain\", \"value\": \"upxut2.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"1913bfb0-869d-4d47-9b08-4cba951da00c\", \"type\": \"domain\", \"value\": \"obkom3.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"cc6da47c-a868-419f-b51f-66dad5ee8f36\", \"type\": \"domain\", \"value\": \"bsqnt4.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"a077c000-9cc9-4bde-8118-5d11e006e08e\", \"type\": \"domain\", \"value\": \"rninf5.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"911c823b-1836-403e-8fcc-3a470c4ff957\", \"type\": \"domain\", \"value\": \"lrcoq6.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"acec1350-8bb0-427a-86af-f674e9aa24a5\", \"type\": \"domain\", \"value\": \"hacpg7.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e5b12ac9-8227-488b-a507-0f3140862df6\", \"type\": \"domain\", \"value\": \"dfooh8.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"3e81aa65-4c4b-4941-b181-e583498070fc\", \"type\": \"domain\", \"value\": \"slsvv9.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b34dc0dd-dc94-4122-be91-1f5c8c12403d\", \"type\": \"domain\", \"value\": \"eiwku10.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2a1c3f01-8e3e-4359-afbf-1972dab75d1d\", \"type\": \"domain\", \"value\": \"tuafv11.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"d671d184-390b-4afe-b0c9-890965f25cc1\", \"type\": \"domain\", \"value\": \"pvtcb12.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"7eefcd66-06dc-4c84-b07e-79474b6af257\", \"type\": \"domain\", \"value\": \"aekse13.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"dc94da16-d411-4484-bc15-c23bd5c5f729\", \"type\": \"domain\", \"value\": \"sbbwr14.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ed3344ff-8520-4443-a242-f0619f325bd5\", \"type\": \"domain\", \"value\": \"iiddf15.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ac490c39-4b55-4a1e-8dc5-8b37eb1ae8ee\", \"type\": \"domain\", \"value\": \"nqldt16.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2a79e56c-e648-43bb-88e2-a78ca3de05ef\", \"type\": \"domain\", \"value\": \"ceewi17.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b08ce703-6aaf-4857-a400-a1085cd26df9\", \"type\": \"domain\", \"value\": \"uzzau18.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"15f9bc49-1f7e-460c-be96-ab58cba8d5f5\", \"type\": \"domain\", \"value\": \"vnaeg19.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"df691097-4978-469f-ba07-620a7a700fc4\", \"type\": \"domain\", \"value\": \"bpdmk20.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"283165d5-83b4-46ad-9d15-d45ca513aae9\", \"type\": \"domain\", \"value\": \"dyzhu21.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"011af71c-024b-4b16-a59a-e768f25ff443\", \"type\": \"domain\", \"value\": \"yhqxk22.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"dd1e18a0-9d39-4b13-b8fe-afd064373804\", \"type\": \"domain\", \"value\": \"ebtxe23.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"372f9240-b6dd-4273-88e1-db1b66395c9c\", \"type\": \"domain\", \"value\": \"lutod24.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"8a7cb3dd-a6ad-4b46-946f-bc727fd34554\", \"type\": \"domain\", \"value\": \"fxzzc25.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6761ec74-be65-434c-860a-5b55175a7a6e\", \"type\": \"domain\", \"value\": \"rjebg26.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"5dc9bb59-1fe7-4bca-810d-a7618ca50e7c\", \"type\": \"domain\", \"value\": \"ibjme27.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"07f65431-5ca8-4706-83cf-a9d21234a9d3\", \"type\": \"domain\", \"value\": \"svjem28.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"89c11698-44ec-461c-b52b-d80c3aabb424\", \"type\": \"domain\", \"value\": \"jbbsg29.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"0ef4adb7-7c1e-43ce-ae1b-3afa8cbd0fd4\", \"type\": \"domain\", \"value\": \"qodmu30.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"9389e456-6d7b-4b72-91fc-303337b458d5\", \"type\": \"domain\", \"value\": \"yyaad31.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f7254d9a-eff4-4138-b2f1-fb9301a6abb3\", \"type\": \"domain\", \"value\": \"plzjc32.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"780fbd8f-7e2a-4e3f-bcda-0590474b4c4d\", \"type\": \"domain\", \"value\": \"velfu33.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b0fa6cb0-46ef-499c-b9a4-b7885f744cbe\", \"type\": \"domain\", \"value\": \"kxyps34.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"6f1c2e09-6b60-4cbf-8b1b-37719e9a7e20\", \"type\": \"domain\", \"value\": \"cnwfz35.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"da40413a-d3f7-4851-a61d-f8597918591e\", \"type\": \"domain\", \"value\": \"zhgsb36.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4521b29b-67f8-402e-a201-33843d04695e\", \"type\": \"domain\", \"value\": \"bypmz37.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"8a38c196-687f-45d7-9c5d-376a441712f0\", \"type\": \"domain\", \"value\": \"xnqno38.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"29cb21f0-64c8-47eb-a874-4c7620a9b2f4\", \"type\": \"domain\", \"value\": \"ccpxd39.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"11bfaa81-76cb-421f-abb8-5d57abe9577c\", \"type\": \"domain\", \"value\": \"qsbhi40.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"52975b3a-e43a-4a76-b98b-5192a8693232\", \"type\": \"domain\", \"value\": \"qhacw41.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c6f9db7b-093e-44ab-9d2f-8e1a0fbf1948\", \"type\": \"domain\", \"value\": \"iwbxe42.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"37af8f63-6118-4408-b8db-a7f0ef3ac210\", \"type\": \"domain\", \"value\": \"snqwr43.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ab6e10c2-eb7c-417c-8055-acb8c0de8902\", \"type\": \"domain\", \"value\": \"gxrgf44.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"89cb31c2-d0f8-4c56-91ae-beb725d86f39\", \"type\": \"domain\", \"value\": \"jfbku45.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"34291a36-57a0-44d2-8804-4c5b392f07a2\", \"type\": \"domain\", \"value\": \"einsj46.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ff396f1c-fe36-413a-97b3-ce691011e764\", \"type\": \"domain\", \"value\": \"sirdt47.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"248f9e9f-6085-40e1-9cea-45820eb7710f\", \"type\": \"domain\", \"value\": \"gcfed48.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"e44ab3c9-03a0-4ad2-b75d-4383eebac57e\", \"type\": \"domain\", \"value\": \"hnxxd49.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"b287145d-7ed4-4e40-877c-125978632a15\", \"type\": \"domain\", \"value\": \"jpjhz50.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4e77c7b0-a841-4180-a800-2eb85b758b78\", \"type\": \"domain\", \"value\": \"pycrm2.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c84efd04-7bdf-4b70-a85d-319facb117ff\", \"type\": \"domain\", \"value\": \"easyechoes.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"eee83e63-ff0e-4076-8574-40507a51f381\", \"type\": \"domain\", \"value\": \"flagshipsteak.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"f3b69d6e-3c82-45da-83bb-30b6f74530d4\", \"type\": \"domain\", \"value\": \"glittersisgold.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"ef581f16-1cab-4231-81ee-6b7946ec312b\", \"type\": \"domain\", \"value\": \"goodasgold.shop\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"103087d9-fcfd-4b3a-b9a9-9995fd42d6b2\", \"type\": \"domain\", \"value\": \"takeoneforlove.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"2146e40c-678e-484e-9a2a-4a81b3258349\", \"type\": \"domain\", \"value\": \"u30487.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"c91c4855-9b55-460a-b866-8d34da9487f5\", \"type\": \"domain\", \"value\": \"eshatl.xyz\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}, {\"uuid\": \"4c3aa13a-f4c1-4f95-ba4b-e0f4853f2bcf\", \"type\": \"domain\", \"value\": \"smartfashiondaily.com\", \"category\": \"Network activity\", \"to_ids\": true, \"disable_correlation\": false}], \"Orgc\": {\"name\": \"Infoblox\", \"orgc\": \"D1C6A726-F132-4DDC-8180-CE3A5B778E65\"}}"
+{
+  "uuid": "c328247c-5a5e-4b1d-bdd2-240705607d5c",
+  "Attribute": [
+    {
+      "uuid": "4cf426ed-2d28-4485-8ab5-1f162799dd35",
+      "type": "domain",
+      "value": "smsw1.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c917901c-c83e-4f2e-99c8-4cc4c9e9f3ca",
+      "type": "domain",
+      "value": "mfso1.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8962f59f-7835-4329-985c-8682d1e83b6e",
+      "type": "domain",
+      "value": "pely2.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "72542ab6-5c44-4c30-90e2-f15229ff3766",
+      "type": "domain",
+      "value": "wtwx2.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ba7cabf4-32c4-4b75-ae3f-64c6b0ba602d",
+      "type": "domain",
+      "value": "khed3.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d61efe20-b0aa-45fb-9142-c44ccd46c0d9",
+      "type": "domain",
+      "value": "mgdi3.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "db67a7a0-ec11-4194-8354-8b45284cbb86",
+      "type": "domain",
+      "value": "laea4.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f7ee377c-cee2-4aa6-b4f7-ecd093ffdb54",
+      "type": "domain",
+      "value": "omyq4.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fbb310e7-10ef-42b7-bb2d-35f4b7760e05",
+      "type": "domain",
+      "value": "qyef5.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3353a4f7-1383-4ec0-9408-41cc92397c57",
+      "type": "domain",
+      "value": "idvk5.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "cd2864cd-ff31-4fca-b509-f07a3439fb76",
+      "type": "domain",
+      "value": "dqvy6.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "14d4f461-cc97-4617-9b1c-f2e0823eec4e",
+      "type": "domain",
+      "value": "dnmc6.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "50ede276-b9e1-4cf4-b4da-44b8e821cdfb",
+      "type": "domain",
+      "value": "igtf7.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "913dfca0-2644-4f4d-8bd8-8c75ed611e01",
+      "type": "domain",
+      "value": "kiwv7.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ce55cbb9-8cae-4bc4-b496-73423623b2ba",
+      "type": "domain",
+      "value": "jjao8.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fefdfa4d-4f7c-4c59-8e81-fbbaae5a99a7",
+      "type": "domain",
+      "value": "kvde8.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c7d678fa-1271-4f82-9e14-d40b73957092",
+      "type": "domain",
+      "value": "okil9.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c0773703-c9f4-4da3-a832-a1ff77cc97eb",
+      "type": "domain",
+      "value": "harn9.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "59579715-591b-4e92-8b68-e6b37ca24345",
+      "type": "domain",
+      "value": "nill10.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b5bbf0ab-5d89-4bc4-a7cc-c673afc81cda",
+      "type": "domain",
+      "value": "ulht10.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fcbee602-b65a-4b1f-99fb-ddd0a0b0c1f8",
+      "type": "domain",
+      "value": "nijf11.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7c6d83e3-f67f-4e11-a754-3b3f7136c605",
+      "type": "domain",
+      "value": "qgjt11.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1248ba58-9849-4ff9-a467-be46a3a95e02",
+      "type": "domain",
+      "value": "hcip12.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "aa206629-39c1-4a62-afdf-b3d95c08d298",
+      "type": "domain",
+      "value": "jcal12.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f2a1b811-411b-4287-9c98-a69e865f2176",
+      "type": "domain",
+      "value": "rezb13.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0a5a45d6-32ec-4921-aff2-46b6fba757c1",
+      "type": "domain",
+      "value": "tslz13.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "07b3ec59-4c5d-4642-afc7-4913a4ad198c",
+      "type": "domain",
+      "value": "hlns14.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "32ccdd0e-f7e7-4340-bf91-66be8c26ec78",
+      "type": "domain",
+      "value": "izhm14.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2e171e50-498f-4d25-a0e0-6c54e39ac53f",
+      "type": "domain",
+      "value": "bgfv15.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "96da7c18-172e-4055-aff7-92dd0d916368",
+      "type": "domain",
+      "value": "jbeq15.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "04bd210f-2ad1-4733-b041-fb24ec354411",
+      "type": "domain",
+      "value": "mbdq16.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "dec6349f-fda5-411a-829d-b03c8898b852",
+      "type": "domain",
+      "value": "acgv16.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b01257ab-92fd-4bf1-9cfd-da0861eb0f06",
+      "type": "domain",
+      "value": "nkeh17.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0429b5d9-091b-483b-90c9-baf191c8f5df",
+      "type": "domain",
+      "value": "wzae17.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "dcf256c6-4218-4351-924d-1b2d717e387d",
+      "type": "domain",
+      "value": "rtpe18.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "db2c176a-c086-4517-8ecb-a1f7fdf22ffa",
+      "type": "domain",
+      "value": "yhan18.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2c950338-b0ae-403b-8178-9d3fce7f4a5e",
+      "type": "domain",
+      "value": "yamn19.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a428696e-fa5c-4c01-942a-a8be312acdaa",
+      "type": "domain",
+      "value": "sjwf19.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7cf588e8-2862-46db-b957-b40da8d38494",
+      "type": "domain",
+      "value": "zdip20.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b7e6dd0c-11bd-4ddf-b7e9-e28d920fb967",
+      "type": "domain",
+      "value": "culs20.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "867fbb65-60cc-477d-9258-ddfe9a2d79ec",
+      "type": "domain",
+      "value": "ezks21.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1625f53e-3759-48dc-bd76-0ca354320243",
+      "type": "domain",
+      "value": "ysfz21.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e7d88c84-5233-4399-92d2-2c3a4ecf6cbc",
+      "type": "domain",
+      "value": "cmrc22.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2160d7c4-6265-429b-ae02-296d5f52457e",
+      "type": "domain",
+      "value": "vuau22.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "053a2df9-a078-4189-8ab9-fc0cfce89556",
+      "type": "domain",
+      "value": "jqiz23.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6d233eb6-7b80-435c-b90d-ffc0694bf0a0",
+      "type": "domain",
+      "value": "hadq23.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d0e75853-e63b-443d-9463-451b30f370ec",
+      "type": "domain",
+      "value": "ixyv24.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "59f2ec11-e769-42a9-81fd-4722b54cf16a",
+      "type": "domain",
+      "value": "lhkp24.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b83e60c9-9359-4ead-86fe-2bd2758c04c2",
+      "type": "domain",
+      "value": "hpfd25.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6ccfec91-698a-434f-8375-803e73e32c47",
+      "type": "domain",
+      "value": "vjhk25.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3ce4a302-e55e-4473-97f1-b1256bd9d07d",
+      "type": "domain",
+      "value": "uyqb26.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6bc20c9a-533c-4cd1-b36f-bc8f1480e713",
+      "type": "domain",
+      "value": "chkn26.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "59d6ad44-47cd-4c50-8317-0e5fbad74420",
+      "type": "domain",
+      "value": "aust27.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "349e55d7-76b2-4563-ba0d-c1b52b7ebefe",
+      "type": "domain",
+      "value": "ltsg27.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "68c4589f-d5c3-4daa-8e14-5fc7a3887fdf",
+      "type": "domain",
+      "value": "lcsh28.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "77c16b13-daa6-4569-8c8a-25a4e788de50",
+      "type": "domain",
+      "value": "aqfo28.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9a186db9-5d9c-4b1b-ad13-23ddce409228",
+      "type": "domain",
+      "value": "erae29.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "51e59a78-a0cb-474c-a490-5dba7bd91163",
+      "type": "domain",
+      "value": "mgjg29.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1fdc524f-bff5-43df-9a23-ea5949616271",
+      "type": "domain",
+      "value": "ithn30.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "bc150494-ebe5-45ae-8cdf-a2ddaca82f95",
+      "type": "domain",
+      "value": "qinh30.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1869fabb-3337-44fe-94b5-a683bf522d32",
+      "type": "domain",
+      "value": "mszp31.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0f04f6a4-e738-4b67-8232-5bcf3a3bac3a",
+      "type": "domain",
+      "value": "pomz31.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "22ccead6-4446-4329-a6a4-f05a85c20953",
+      "type": "domain",
+      "value": "ciww32.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6023bab1-1c9a-48bf-94b6-11f7ae57984b",
+      "type": "domain",
+      "value": "nooa32.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "09ae1ca6-52fc-4f08-a3fd-1a354b609d74",
+      "type": "domain",
+      "value": "mvfe33.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "051bd7be-1171-4f7e-acc2-4bcb83b2aaf1",
+      "type": "domain",
+      "value": "zmtt33.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a273e899-42d5-4a07-bf00-731455d60c4b",
+      "type": "domain",
+      "value": "jzwc34.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7229e6b0-1154-475d-b088-8f9a709a0285",
+      "type": "domain",
+      "value": "ktfu34.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "506561a7-e93c-4c29-a34d-c2156b274089",
+      "type": "domain",
+      "value": "opdb35.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "91d9ce76-6268-4690-9041-1fe50415f567",
+      "type": "domain",
+      "value": "rrhn35.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e8555ad9-e522-42cc-b948-72c1f4041418",
+      "type": "domain",
+      "value": "gptp36.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "647685d5-05b9-46d8-9913-e9cea09a220d",
+      "type": "domain",
+      "value": "dtus36.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6ac589a6-473c-4f35-a547-3a3d706bc295",
+      "type": "domain",
+      "value": "qjag37.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e165d0b4-12d7-44ab-9994-9700e087ab26",
+      "type": "domain",
+      "value": "swbt37.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "19bccf69-4d4e-4bcc-8894-60f78c8a2a02",
+      "type": "domain",
+      "value": "upah38.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0485a991-c768-4bf0-b3f8-0a46f8aa346a",
+      "type": "domain",
+      "value": "ixbc38.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c1ee68e8-4c97-490e-b744-b58f69c29eaa",
+      "type": "domain",
+      "value": "qfac39.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "43cee6f9-eb42-4d98-8ae3-e59dd539e478",
+      "type": "domain",
+      "value": "xifj39.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1acc3c45-5d1c-400a-87d8-6a1c2820b8e3",
+      "type": "domain",
+      "value": "aped40.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "443c159b-4ae4-4d36-9406-9b13bc2afead",
+      "type": "domain",
+      "value": "jaig40.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f6fed91c-c2c0-4a20-8824-4f691238b942",
+      "type": "domain",
+      "value": "ckex41.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "92b2c4e9-b388-454b-9c79-5b58df3698b3",
+      "type": "domain",
+      "value": "wgrp41.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "60ee83c0-2719-4c7d-a31a-23d1eb710096",
+      "type": "domain",
+      "value": "hegz42.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5d83a586-7a06-428c-97a8-59b8682ed890",
+      "type": "domain",
+      "value": "ciuu42.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "29298810-e946-4fa7-9c10-d159aabf53b2",
+      "type": "domain",
+      "value": "lawn43.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f38e13d0-462b-4e1d-8ffb-66d682458a8b",
+      "type": "domain",
+      "value": "zoqw43.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0fa14055-2db2-43c8-b514-3134298d9264",
+      "type": "domain",
+      "value": "zcyj44.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "96ad52e8-edaf-45a0-a89e-4216b6df95b6",
+      "type": "domain",
+      "value": "qbas44.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "045ad273-9d36-4645-84af-5fa9162258c5",
+      "type": "domain",
+      "value": "usha45.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "53a20a9a-e500-45f9-99ad-34c9c698044d",
+      "type": "domain",
+      "value": "zvlg45.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "543c8b8d-2f7b-43ce-9146-460a76fc304f",
+      "type": "domain",
+      "value": "zlxg46.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fd012f77-9dc9-4f62-a9b0-bac18fe67e6d",
+      "type": "domain",
+      "value": "qhrq46.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "57ff6d2f-edf1-4db8-9203-d19c5f78284e",
+      "type": "domain",
+      "value": "fuir47.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e6c32bd3-e814-4311-a7ad-ab4641dd304a",
+      "type": "domain",
+      "value": "ixsf47.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "be70a876-da18-4445-8aac-d57d2725b432",
+      "type": "domain",
+      "value": "vtpf48.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1020eca3-7e06-4c39-9e16-21feadea7a14",
+      "type": "domain",
+      "value": "ejia48.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "aa186b68-fb78-4eed-819c-7d12313d285a",
+      "type": "domain",
+      "value": "pvut49.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "dffd5715-8298-4508-9739-7c3da3254556",
+      "type": "domain",
+      "value": "sgqz49.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "51b59588-6172-49ce-beac-b1fd3ccf773d",
+      "type": "domain",
+      "value": "glju50.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "83d3133a-ff4c-4081-ae17-cde790e01b0a",
+      "type": "domain",
+      "value": "zmxu50.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "254bd217-dbf3-42cb-ae79-965d47096316",
+      "type": "domain",
+      "value": "hggq1.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6afa13ae-19a8-4f88-afaf-ebde7fc0b477",
+      "type": "domain",
+      "value": "wkcq2.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "06cda998-177c-4e47-b589-b90a3fea9a41",
+      "type": "domain",
+      "value": "vfar3.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8ae963c3-15b0-48bb-8347-3cdfbb02566f",
+      "type": "domain",
+      "value": "svgd4.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a347e801-65e7-4093-8ce0-f1b383614bde",
+      "type": "domain",
+      "value": "fgoy5.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "39775b46-9fb0-48f6-9a44-b94b84e011c0",
+      "type": "domain",
+      "value": "gvhj6.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "da436745-c50e-40c0-b4ee-8cdc0e493080",
+      "type": "domain",
+      "value": "bepf7.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "52ead9c8-cf8a-43f8-b4f7-2cf07fa89d07",
+      "type": "domain",
+      "value": "vkri8.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0249941e-4e3b-47d5-9c90-6cbf7385f95e",
+      "type": "domain",
+      "value": "eknz9.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0766ed6b-c09d-47ad-a723-c30a5f67df06",
+      "type": "domain",
+      "value": "mslx10.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1f0a2bd3-49e9-4375-b399-76fad02c0a45",
+      "type": "domain",
+      "value": "dfys11.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7320a54b-92e3-426b-a0da-4a2ab5c3fa7e",
+      "type": "domain",
+      "value": "djzy12.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "d48d800c-ef93-4268-84ec-1441a23c31df",
+      "type": "domain",
+      "value": "gytr13.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1a691dde-1fbd-4c9c-98dd-b821a3af74b0",
+      "type": "domain",
+      "value": "qhdd14.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "da490a08-6ddd-4eda-8194-0a743a703557",
+      "type": "domain",
+      "value": "sbqs15.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0e3784f1-d0b5-4b90-9df9-4f10915c3913",
+      "type": "domain",
+      "value": "pmlx16.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "450c3ccc-daed-4b34-887a-08c738b06fc2",
+      "type": "domain",
+      "value": "iphk17.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b35fcc77-f042-40ca-a514-b75f58e6b6b8",
+      "type": "domain",
+      "value": "opqk18.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "23aa79c3-03db-4fbb-9b8e-559cab77a19a",
+      "type": "domain",
+      "value": "ntfr19.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ae259fb5-069a-4bd8-b63e-1eabe31cccd6",
+      "type": "domain",
+      "value": "cvwm20.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "736be6d0-6a73-4989-b18e-576a3a36956c",
+      "type": "domain",
+      "value": "wtmz1.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "da32c0d3-186c-4d32-b93c-e936c1fa63e8",
+      "type": "domain",
+      "value": "xwjv1.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "236e2f91-28bf-4a5d-89d4-7514b65a6514",
+      "type": "domain",
+      "value": "nyxk2.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "47e7268f-de15-43ef-88e7-f0c00d9ff52b",
+      "type": "domain",
+      "value": "pwnx2.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "42efd45c-f5fa-4b68-bf2e-d800efc78f0f",
+      "type": "domain",
+      "value": "dbmy3.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8fd1419b-1cbb-443b-aef4-872a43399805",
+      "type": "domain",
+      "value": "nvso4.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "00d9f05d-1b4f-457e-9679-571743fc690f",
+      "type": "domain",
+      "value": "vooy4.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a0849bff-c745-4e56-96a1-94b82341e474",
+      "type": "domain",
+      "value": "hzkr5.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9aed0802-d6a2-4a4e-8f67-e1ab2678e66d",
+      "type": "domain",
+      "value": "gddr6.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a25de373-a0fe-49f3-a050-a2aa250c0465",
+      "type": "domain",
+      "value": "hhjx7.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "cd93829b-63d0-415b-80a8-017fadc853f1",
+      "type": "domain",
+      "value": "shcw7.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0e444122-c986-4b27-981f-4bbb71029fd4",
+      "type": "domain",
+      "value": "oxwe8.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7e7cc72d-cca2-4882-9fe5-47b7d473e13c",
+      "type": "domain",
+      "value": "rpws8.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f0bc85ac-9345-4a11-9290-e861f917cd4b",
+      "type": "domain",
+      "value": "aqsz9.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "04e1a993-2d3e-4a72-977f-a9f85603ddc7",
+      "type": "domain",
+      "value": "ijph9.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "92b88881-166d-4165-a843-e2619308e9a9",
+      "type": "domain",
+      "value": "sqyc10.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b103d807-a950-41bc-980a-5a1d0d3082ee",
+      "type": "domain",
+      "value": "wszd10.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b6dc0323-28b2-48d2-82bb-55c992134c6b",
+      "type": "domain",
+      "value": "cegs11.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fd4bcc0c-6afe-42b9-a3e4-8c5f0e1870a0",
+      "type": "domain",
+      "value": "odkp11.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2ca9d17a-f86b-45c0-85d4-f9e21fecd8ab",
+      "type": "domain",
+      "value": "gshu12.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "59039aba-24cc-438c-9903-f217c256e13b",
+      "type": "domain",
+      "value": "tfll12.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "883172e6-8cb8-49b8-a137-f63a680ea99d",
+      "type": "domain",
+      "value": "dysj13.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b9b8b8ea-cc1a-49be-a5b7-b1b0940ed1b7",
+      "type": "domain",
+      "value": "tbsb13.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c150f403-6fa7-434d-8414-e5238524b16a",
+      "type": "domain",
+      "value": "ccpt14.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fb90d5b5-f8a8-4005-ac6c-b60a2174fad6",
+      "type": "domain",
+      "value": "oyfn14.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5d6ad454-3918-4e9e-b381-e4c98fbf7700",
+      "type": "domain",
+      "value": "fgvz15.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "de71545a-5ced-4de8-a8ea-d170e0d14d0d",
+      "type": "domain",
+      "value": "hquu15.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2cd7ddc4-4ac2-41e4-a7bf-a603622d4c8e",
+      "type": "domain",
+      "value": "jenh16.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "525f04a7-c625-4f5c-95f9-a21491544dea",
+      "type": "domain",
+      "value": "nrfe16.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "bdb85402-f8ff-4c5a-bd82-3fe94a6fa1bc",
+      "type": "domain",
+      "value": "fjow17.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e2c3c4d3-c3c0-4049-9cd2-624888efd2ac",
+      "type": "domain",
+      "value": "flgk17.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8cd86e86-278d-49d4-bcf9-8f4adea5a422",
+      "type": "domain",
+      "value": "anwa18.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b5bde709-b5b6-4be2-b2ee-f1a801d8d12c",
+      "type": "domain",
+      "value": "dtxp18.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "bf7cf66c-339f-4ea1-9356-b0f51581732e",
+      "type": "domain",
+      "value": "inen19.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7ed8a0be-0974-4105-8804-711367fc65d3",
+      "type": "domain",
+      "value": "ozhn19.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "faf330a0-c65c-4ac6-b892-237643f628f6",
+      "type": "domain",
+      "value": "avyc20.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9e442477-0465-486e-8822-0c648def69a9",
+      "type": "domain",
+      "value": "oifc21.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "196e2d4c-74b7-433b-8af4-4a6988b27e50",
+      "type": "domain",
+      "value": "ukuu21.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2a675842-ab66-41bc-800a-98ef785643c8",
+      "type": "domain",
+      "value": "dcdh22.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9f5d2011-5d80-46a1-a753-adde3a248b55",
+      "type": "domain",
+      "value": "htur22.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c7de1019-da17-4c6a-9a48-42bfc785d3b2",
+      "type": "domain",
+      "value": "ohmv23.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b056e7e1-f118-4603-9b6f-22d967a563f0",
+      "type": "domain",
+      "value": "qflr24.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "cc77a125-03b6-4e8e-9fb7-9016170bfd32",
+      "type": "domain",
+      "value": "xnrh24.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ca528640-23c9-4367-b4f5-c64eceafb355",
+      "type": "domain",
+      "value": "snqu25.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ec2d1ace-09c6-4521-999e-4888711f4bf8",
+      "type": "domain",
+      "value": "hklk26.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6a587245-7871-4b7f-8f78-fdbea7972e6b",
+      "type": "domain",
+      "value": "vqsr26.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e8c90e98-9a8e-4589-a28c-b13833268264",
+      "type": "domain",
+      "value": "ahct27.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "40a651d7-b160-45be-b92f-336a6fe1ad1d",
+      "type": "domain",
+      "value": "umlp27.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "cad9274d-fbda-42b2-82a5-d50cfdf2a595",
+      "type": "domain",
+      "value": "kdvi28.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8b4a1270-77f4-4a03-912f-a90947c3be97",
+      "type": "domain",
+      "value": "xuuv28.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2c17373e-db02-4abd-aa88-22f66e0fb1a6",
+      "type": "domain",
+      "value": "lefx29.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4991e63b-6268-4283-b16a-714ded0d11ce",
+      "type": "domain",
+      "value": "atsk30.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "cfeb69b4-59d4-4aa2-b843-d06f34a47959",
+      "type": "domain",
+      "value": "vflu31.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4279f90e-0611-427a-ac26-c3dd420b4dd6",
+      "type": "domain",
+      "value": "zhnv32.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "993a027e-e327-41fd-b652-67471141bc47",
+      "type": "domain",
+      "value": "xdhh33.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "dbca0924-1c0a-4c3e-bc23-f876680d7339",
+      "type": "domain",
+      "value": "refp34.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e780f623-836f-43f7-aeb2-32d62841822b",
+      "type": "domain",
+      "value": "rczt35.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8b69759e-c1f8-494c-ad38-f0468ad0b0c3",
+      "type": "domain",
+      "value": "gxkk36.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "020dceb7-053e-4bbd-ae48-2990343972df",
+      "type": "domain",
+      "value": "gmec37.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "893ed558-dc06-4dff-bcad-4017c63a20a7",
+      "type": "domain",
+      "value": "ahur38.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "14d87190-cc2d-44c0-acd3-397fbc093f46",
+      "type": "domain",
+      "value": "asqb39.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "458800d1-8235-4481-b783-f8511bc481c4",
+      "type": "domain",
+      "value": "bjas40.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c5340d08-8457-4b47-845e-d4a4ceadaedf",
+      "type": "domain",
+      "value": "jnmj41.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "64f8aff5-efb7-4213-b4e3-aaccbaf09ca3",
+      "type": "domain",
+      "value": "mfis42.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e93d7869-bcab-49ee-a83e-7b7a1e9ed2a1",
+      "type": "domain",
+      "value": "tyer43.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "085087b2-7359-440c-8108-d13cb686cbdf",
+      "type": "domain",
+      "value": "spmu44.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7bcdf011-0069-4ec6-bcb4-bc98a204ef84",
+      "type": "domain",
+      "value": "bxqi45.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "166c09d0-f67f-4c55-b2f8-39b25b17dea1",
+      "type": "domain",
+      "value": "islf46.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3df63c14-bbec-49eb-adb5-012979a46a75",
+      "type": "domain",
+      "value": "gjdl47.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ec366726-4214-4d13-b1d4-eb4ed14c29bf",
+      "type": "domain",
+      "value": "ztib48.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "54c03643-6276-4bb2-b80a-9f8b48b207fb",
+      "type": "domain",
+      "value": "ytqk49.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "27b04584-f173-40ce-826d-59fac756dd05",
+      "type": "domain",
+      "value": "cepf50.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e3e03ee6-7f86-49ca-8983-c34bb4dc65e9",
+      "type": "domain",
+      "value": "kcap51.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1a38eb6f-3600-48df-af1d-8a7f7859f704",
+      "type": "domain",
+      "value": "dfeo52.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2274fd20-2ed1-43db-94e4-239f9df5511d",
+      "type": "domain",
+      "value": "lcrn53.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "bff56429-e333-4cc9-857a-181c100b302c",
+      "type": "domain",
+      "value": "tgav54.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "76cbaeb5-7132-421c-865a-d440d4b9e71c",
+      "type": "domain",
+      "value": "sctn56.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8b42b00d-28fa-4e7b-8d25-a91d954a211b",
+      "type": "domain",
+      "value": "cfzb57.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6bc1520d-a617-4477-a19f-94d0d0f21c6c",
+      "type": "domain",
+      "value": "lpdl60.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "09e83bb5-6355-4707-834b-aba1ddcd400a",
+      "type": "domain",
+      "value": "bikm61.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fc63f6d2-fa56-43c5-b21b-32de38a6e66b",
+      "type": "domain",
+      "value": "doif62.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "db0dfc55-8307-40ae-8399-6e61adee0858",
+      "type": "domain",
+      "value": "ovel63.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2eb32250-eccd-488e-a3ac-abe743317f54",
+      "type": "domain",
+      "value": "bkhr64.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a653527b-3f68-4382-a0bf-1a30fa94f268",
+      "type": "domain",
+      "value": "vhjp65.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "896a5d6f-7956-4389-868d-a6af183ba172",
+      "type": "domain",
+      "value": "guxv66.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1c9fc018-f0fc-4f12-90c9-bf5bc45f2504",
+      "type": "domain",
+      "value": "qgud67.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a618237a-2d86-41e5-9682-6454c7684c86",
+      "type": "domain",
+      "value": "ngkl68.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "81981449-7a40-4fb2-8f0b-9cd891f7f179",
+      "type": "domain",
+      "value": "wfug69.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "afdb37aa-45f7-42e2-a819-d1c33af87e3f",
+      "type": "domain",
+      "value": "rhlw70.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1d21667c-3414-4fbe-9785-516660311780",
+      "type": "domain",
+      "value": "eaiys1.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6ad6e1a8-3bbf-4b33-ad1b-c2b36261a223",
+      "type": "domain",
+      "value": "upxut2.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7829521f-c293-4db9-8f63-c115120cf4d8",
+      "type": "domain",
+      "value": "obkom3.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "edddd8c8-71ef-42c6-bc87-8df9a823749c",
+      "type": "domain",
+      "value": "bsqnt4.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "326097df-38b1-4c2b-9161-58b0500a4e40",
+      "type": "domain",
+      "value": "rninf5.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "76b5040b-7daf-4459-a874-5428fa8dbc80",
+      "type": "domain",
+      "value": "lrcoq6.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6043ffc4-a817-450d-abc1-0366e6078c78",
+      "type": "domain",
+      "value": "hacpg7.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "89a8e134-cd6e-4099-857f-b05ea970e8be",
+      "type": "domain",
+      "value": "dfooh8.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1246298c-f027-440b-b832-ad28f72b788b",
+      "type": "domain",
+      "value": "slsvv9.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5210e5b0-52e0-493f-b0d6-ae23a172e882",
+      "type": "domain",
+      "value": "eiwku10.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fd074c45-12fe-4a3e-b9df-16e8cee2d5e6",
+      "type": "domain",
+      "value": "tuafv11.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "543b92dc-5140-4593-993f-85ac9ffaeacd",
+      "type": "domain",
+      "value": "pvtcb12.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "11757d2b-ca9a-4a64-b493-70bf32cfd654",
+      "type": "domain",
+      "value": "aekse13.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c39ab87d-3976-41a0-b012-af3b0a8f3473",
+      "type": "domain",
+      "value": "sbbwr14.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a74a8ef5-e436-4deb-9749-48578244d8f9",
+      "type": "domain",
+      "value": "iiddf15.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "692aa3f5-eb28-4cc9-aa3b-2826500596a6",
+      "type": "domain",
+      "value": "nqldt16.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c7f8739c-7a19-491c-a9cb-d244b825cb9b",
+      "type": "domain",
+      "value": "ceewi17.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "84fa829d-242c-474f-92ef-b92f1ee36ac5",
+      "type": "domain",
+      "value": "uzzau18.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "40896c1e-60ef-4f65-b4ee-3f8700fa28c3",
+      "type": "domain",
+      "value": "vnaeg19.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c91ff506-6e2f-4ab0-901a-cf3a3d6897c4",
+      "type": "domain",
+      "value": "bpdmk20.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3bb63ee0-ee88-4e5d-9c80-a30d32d602ed",
+      "type": "domain",
+      "value": "dyzhu21.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6a043f43-4fdb-4d68-8181-0081cccc647d",
+      "type": "domain",
+      "value": "yhqxk22.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "f8589bad-a1cb-4e7e-bada-412cb8342ab4",
+      "type": "domain",
+      "value": "ebtxe23.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a02a4775-116a-40e1-a574-e6d67dcf1762",
+      "type": "domain",
+      "value": "lutod24.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1d85d126-069b-4b8c-9864-10641276ce1f",
+      "type": "domain",
+      "value": "fxzzc25.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7e8b613b-55cb-410f-a8f3-fb23cbe0c5b9",
+      "type": "domain",
+      "value": "rjebg26.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "bae53291-18e8-4489-9417-4566b289ef11",
+      "type": "domain",
+      "value": "ibjme27.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "ab44871f-16a5-468a-b082-66180ba12243",
+      "type": "domain",
+      "value": "svjem28.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "15f278de-1586-468b-af6a-c524fc90e197",
+      "type": "domain",
+      "value": "jbbsg29.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e11e9f74-9e3f-4071-8a5a-9986a418559c",
+      "type": "domain",
+      "value": "qodmu30.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b3b7c98c-a3cf-4a5b-b1b5-92fb81fe928d",
+      "type": "domain",
+      "value": "yyaad31.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "64c7aeab-bc7f-4fae-9000-a7695008b646",
+      "type": "domain",
+      "value": "plzjc32.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "6d3cf9bb-f7f4-4b5d-85f2-a0c3c71a513e",
+      "type": "domain",
+      "value": "velfu33.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "3ca17891-efde-484e-8082-9e285f0fb04b",
+      "type": "domain",
+      "value": "kxyps34.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "56ea35c0-17a2-4a00-a1a6-0bc38a7789c3",
+      "type": "domain",
+      "value": "cnwfz35.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9bc4f5e7-58b9-4a51-97de-c5befe866985",
+      "type": "domain",
+      "value": "zhgsb36.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "8074ef40-7e67-4efe-8658-a0ec40bebdf3",
+      "type": "domain",
+      "value": "bypmz37.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "35532db7-ca33-4771-924c-aaf1548a1bcb",
+      "type": "domain",
+      "value": "xnqno38.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "e0c0ddba-fb6f-4fab-8dd9-895efea34d33",
+      "type": "domain",
+      "value": "ccpxd39.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b30f2621-1400-4004-9435-f13391d08ea4",
+      "type": "domain",
+      "value": "qsbhi40.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "c1122a0c-d620-449f-a991-aa663838058a",
+      "type": "domain",
+      "value": "qhacw41.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "a2e4a642-ba01-4b47-9cd5-260ea641a58b",
+      "type": "domain",
+      "value": "iwbxe42.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "9111026b-a334-4d88-98be-206b6f7cb679",
+      "type": "domain",
+      "value": "snqwr43.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "4156609a-628b-4f6c-8e3a-98fc49fd5c3e",
+      "type": "domain",
+      "value": "gxrgf44.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "84e3f410-ee34-4cba-846a-49c923b24763",
+      "type": "domain",
+      "value": "jfbku45.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "b65d007f-982e-4574-aad0-0516daf55fa8",
+      "type": "domain",
+      "value": "einsj46.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2852c097-0b9e-4df2-a698-f7ce887a978b",
+      "type": "domain",
+      "value": "sirdt47.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "5c4d37e9-1132-4d0e-8d3a-80419e6d80da",
+      "type": "domain",
+      "value": "gcfed48.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "1e6ec894-bfe8-41c4-9e7f-48da187f58af",
+      "type": "domain",
+      "value": "hnxxd49.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0aab6717-aed0-4699-b6d3-5ce1fd1d8a12",
+      "type": "domain",
+      "value": "jpjhz50.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "96c9f5b1-4d2d-4b5c-9628-89d28c0b1b0c",
+      "type": "domain",
+      "value": "pycrm2.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "93c3c952-fca6-4bd8-b606-a4d5d6e617da",
+      "type": "domain",
+      "value": "easyechoes.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "0bae20ca-a711-40a0-b1bf-6cb014e40e66",
+      "type": "domain",
+      "value": "flagshipsteak.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "30a23f21-0e9a-4638-b495-8df1f93a9aa4",
+      "type": "domain",
+      "value": "glittersisgold.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "385dc81d-3d00-4e1e-8e0c-773f369a9e08",
+      "type": "domain",
+      "value": "goodasgold.shop",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "2f1cad12-8f46-4e8b-a2e2-0558c792571d",
+      "type": "domain",
+      "value": "takeoneforlove.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "fdb50349-1e8b-4b1a-84db-f33de754c4ac",
+      "type": "domain",
+      "value": "u30487.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "98f94c6a-0d00-47f7-959a-e610f208cf65",
+      "type": "domain",
+      "value": "eshatl.xyz",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    },
+    {
+      "uuid": "7c85f146-d260-418f-81dd-b2b0b8761d30",
+      "type": "domain",
+      "value": "smartfashiondaily.com",
+      "category": "Network activity",
+      "to_ids": true,
+      "disable_correlation": false
+    }
+  ],
+  "Orgc": {
+    "name": "Infoblox",
+    "orgc": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+  }
+}
