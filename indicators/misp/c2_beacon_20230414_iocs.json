@@ -1,59 +1,65 @@
 {
-  "uuid": "95f518ab-2350-4509-a049-86a915499a54",
+  "uuid": "639b0c76-cf27-4951-b023-67065bf7b926",
   "Attribute": [
     {
-      "uuid": "7b4e5b7e-ab94-41cc-af85-c3d150a111fa",
+      "uuid": "f51f6982-6d91-4e7f-b09b-cb725647ecaf",
       "type": "domain",
       "value": "claudfront.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-08T00:00:00Z"
+      "timestamp": "1675814400",
+      "first_seen": "2023-02-08T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "f9cf4c6d-af62-4408-a4bb-6abdd3067e99",
+      "uuid": "05c2171f-e1e6-4ac0-8ae3-f1b2c3df525e",
       "type": "domain",
       "value": "allowlisted.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-04-07T00:00:00Z"
+      "timestamp": "1680825600",
+      "first_seen": "2023-04-07T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "b29c65bc-fc02-4b1e-bfc1-d81c0192d1a9",
+      "uuid": "833d8453-d88e-4dbf-91fa-672433fda48e",
       "type": "domain",
       "value": "atlas-upd.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-03-15T00:00:00Z"
+      "timestamp": "1678838400",
+      "first_seen": "2023-03-15T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "b74f2259-c650-4901-9d60-4f0d88448e03",
+      "uuid": "1a1a4da4-8ef8-4014-948d-5119face7b07",
       "type": "domain",
       "value": "ads-tm-glb.click",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2022-11-25T00:00:00Z"
+      "timestamp": "1669334400",
+      "first_seen": "2022-11-25T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "8355999a-e807-4fcb-b271-9775196617b2",
+      "uuid": "74c1cf9f-43e5-4c4d-ac5f-604154ed465d",
       "type": "domain",
       "value": "cbox4.ignorelist.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-04-07T00:00:00Z"
+      "timestamp": "1680825600",
+      "first_seen": "2023-04-07T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "6add7681-5739-4b81-9979-df3bce8989f6",
+      "uuid": "d8272f04-8726-494b-9358-99e7186960a9",
       "type": "domain",
       "value": "hsdps.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-04-11T00:00:00Z"
+      "timestamp": "1681171200",
+      "first_seen": "2023-04-11T00:00:00+00:00",
+      "disable_correlation": false
     }
   ],
   "Orgc": {

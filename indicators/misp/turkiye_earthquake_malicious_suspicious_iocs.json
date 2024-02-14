@@ -1,1850 +1,2055 @@
 {
-  "uuid": "402c8ac7-5d8c-4dac-8c90-cc7716c89dda",
+  "uuid": "8bbdba26-7fe8-41a4-831c-d22885b79141",
   "Attribute": [
     {
-      "uuid": "ea516621-9b0e-4a66-8b18-732d34151aa0",
+      "uuid": "6afaf51a-00a7-43be-8c5d-fd693f500fe9",
       "type": "domain",
       "value": "bridgetoturkey.org",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "981de234-ce61-4e40-9e26-166cc7229ce9",
+      "uuid": "791bf602-9c08-4f4f-95fa-0941425516e5",
       "type": "domain",
       "value": "monteverdepremiumrealestate.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-09T00:00:00Z"
+      "timestamp": "1675900800",
+      "first_seen": "2023-02-09T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "fc7e121f-7a0f-4deb-bed4-d94f74f01f41",
+      "uuid": "159dde71-7fd9-43f2-8da4-e0fccf720ce3",
       "type": "domain",
       "value": "afadacilyardim.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "188439af-c419-479d-aca4-2c835f864e76",
+      "uuid": "d85b56a8-4786-48dd-be07-17d39685006e",
       "type": "domain",
       "value": "depremihtiyaci.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "c8c24de6-9d0f-4b40-9457-a7ffc29cd67f",
+      "uuid": "d319de33-3f33-4742-8867-2fc4083fb497",
       "type": "domain",
       "value": "obeyclothing.sk",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "8bb8b454-6047-42a6-9d9e-ad76a3e3f3bb",
+      "uuid": "26b9d633-7a03-48c5-b8ce-3feda35335eb",
       "type": "domain",
       "value": "afadzede.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "ff687750-13ae-40a2-a704-c7d2521edf06",
+      "uuid": "81a14d4b-c4a6-4905-bc19-cf032ee70988",
       "type": "domain",
       "value": "xn--hataygvenotomasyon-r6b.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "417851f5-3daa-477b-98a3-3fea5d63ac8d",
+      "uuid": "ab8ceb54-b839-4d96-bb5b-1400767e77e6",
       "type": "domain",
       "value": "depremedirenclievler.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "34ecc848-6c60-44b8-bf88-1a1c746d4c7c",
+      "uuid": "fe5a6f7d-4046-42a9-8d22-e5fc523b1ef6",
       "type": "domain",
       "value": "afadhemenyardim.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "f60f5fda-4496-4b63-9d65-27e46c69553f",
+      "uuid": "573f836b-54d9-4261-a802-2479634f6feb",
       "type": "domain",
       "value": "wladimirfoundatation.co",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "87e536ff-7307-42ff-8c5f-a188bc7948e7",
+      "uuid": "ae56cfab-6a58-4b87-a397-2a3a3dd9777e",
       "type": "domain",
       "value": "ropaobeychlie.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "c90cf980-f322-490d-90b1-1fc470718cd9",
+      "uuid": "e0969d7b-c578-4224-b800-eb5d7fa03f09",
       "type": "domain",
       "value": "arabaozelcekilisi.website",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "f38c9f90-be0a-41e5-8cec-7d149b3c5725",
+      "uuid": "c419a04f-8024-4e29-8d63-80f13fb9e669",
       "type": "domain",
       "value": "turkeyevisaservices.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "0f8de340-4031-4446-a1fb-08773f0fe94d",
+      "uuid": "c7ddbe84-f810-49c7-847b-f81e3d8baa77",
       "type": "domain",
       "value": "kriptobagis.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "d1d01cfa-a342-45a2-b92c-893bd4b7873a",
+      "uuid": "c445d9dc-e637-4489-98f2-100039ee9995",
       "type": "domain",
       "value": "help-turkiye.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "cebd4791-6d8b-446d-97d1-63b092318094",
+      "uuid": "35a704db-eb6f-45a5-bfca-9ba5405ba01a",
       "type": "domain",
       "value": "earthquaketurkey.org",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "b4d2dc29-3f6c-482b-9a0e-748d37b2ff00",
+      "uuid": "4e085499-2aee-4720-894f-f36685b9f436",
       "type": "domain",
       "value": "zorluvakiflari-destek-burs.site",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "eea4c36d-fb6a-40bd-ac5d-2ebddcd9cc79",
+      "uuid": "c7b31005-62d1-491d-abe6-66f4b0e6c0a2",
       "type": "domain",
       "value": "arabacekilisisizlereozel.website",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "9a2c3e4a-1034-40b9-b26f-27cfb418007b",
+      "uuid": "c8502f97-2c34-4380-bc78-dd83652abc93",
       "type": "domain",
       "value": "zedeyardim.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "a5cd2b5d-bd02-4332-83b7-f13bd1087cc2",
+      "uuid": "aba5c8ef-213f-4dfc-a026-ef5c1179efd8",
       "type": "domain",
       "value": "preppers-turkiye.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "ea96d649-343b-4ca1-8481-97e2f0f7642c",
+      "uuid": "6483c0c4-939a-457c-aab0-e353508e8f64",
       "type": "domain",
       "value": "arabaozelcekilisi.digital",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-08T00:00:00Z"
+      "timestamp": "1675814400",
+      "first_seen": "2023-02-08T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "92df377f-2eed-454a-a4df-375932d823f6",
+      "uuid": "e667c529-a484-4e9d-a8d5-d8d6bb1a5db7",
       "type": "domain",
       "value": "afad-online-odeme-bagis.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "87c5acc0-867d-4902-bfb6-f7c70722af5e",
+      "uuid": "d4c2bb75-c020-4520-82d8-3fa5aeb213e8",
       "type": "domain",
       "value": "arabaozelcekilisi.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "cb66bfd8-3208-4957-b2b4-77d914ffc6c1",
+      "uuid": "659a2441-07a0-426c-8f49-2618e750b022",
       "type": "domain",
       "value": "kizllay.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "97f058cb-47a6-4be7-a73e-bac5fb927319",
+      "uuid": "b138f327-18a8-49fd-a2e1-a72d336b4e85",
       "type": "domain",
       "value": "internetkampanyalari-basvuru.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "87993017-17bf-4c6b-80b2-baa455a38958",
+      "uuid": "0f5fbb16-c479-4e01-9ed1-8f599569a2ff",
       "type": "domain",
       "value": "destekdeprem.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "6f3ec2a4-7edb-49b3-9edd-1f73f201dabb",
+      "uuid": "3d12c696-c29d-48bb-b8c1-17485a2bec56",
       "type": "domain",
       "value": "ahbap.digital",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "292e9ec6-5a34-4815-a4ba-29e976313195",
+      "uuid": "e2cafba8-8609-45c7-98c4-4d38a679bfd1",
       "type": "domain",
       "value": "dizaynturkiye.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "64e80c2a-4751-41c1-a4ef-ca4e028acb90",
+      "uuid": "9a771fa6-3172-42f7-a4d2-6deafd45bda0",
       "type": "domain",
       "value": "x-rnfvcvu.org",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "c578e798-f77f-4b40-8325-8a11e8f19a3b",
+      "uuid": "6744f6d3-ba1b-496b-9dec-a7d104174b75",
       "type": "domain",
       "value": "trdeprem6223.org",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "27cf145e-2123-4eba-8212-1c2195ef8398",
+      "uuid": "a3a4c1a7-bdbc-4baf-9458-3d990e7f4f7e",
       "type": "domain",
       "value": "depremzede.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "6000c17f-199d-4bfb-b173-8add2feae01b",
+      "uuid": "f56b0dce-0575-4c21-b6f5-13f36ab85881",
       "type": "domain",
       "value": "turkey-foundation.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "f6356fb7-37ba-463b-92a0-6f70f3cdc798",
+      "uuid": "a87cf197-9ed4-4cb5-bcc3-9b899ea97c72",
       "type": "domain",
       "value": "zorlu-vakif-destek.site",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "974fa322-1e42-4e2f-a0fd-162b04b7747b",
+      "uuid": "9835f2c8-6509-4677-9250-eff33b121fc1",
       "type": "domain",
       "value": "afadbagisyap.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "7b0c9c2b-5a40-42b0-9d92-fe38a8b75aad",
+      "uuid": "defc9c0e-edfb-4546-b863-ec23a120b247",
       "type": "domain",
       "value": "turkiyeneedsyou.org",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "f9a9c0c5-76de-48d8-9399-b3a6c32f23be",
+      "uuid": "97828085-483b-4c37-bef6-f6f5d593c79f",
       "type": "domain",
       "value": "xn--6ubatdepremi-4mc.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "160fdcf1-0af0-4827-9e1e-1cccf4e19e8e",
+      "uuid": "7571cc9e-01cc-4d06-b5d3-c6585368c4d3",
       "type": "domain",
       "value": "turkiyedeprem.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "b440a2d0-c78e-4668-a294-f5cdd9bae085",
+      "uuid": "40664c61-d49a-4daf-8ee2-b06a412fba40",
       "type": "domain",
       "value": "depremzedelere-yardim.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "2091831a-f482-4488-b169-941accb18ba5",
+      "uuid": "2e95fba3-9156-4c33-bd4a-f342c1d9caad",
       "type": "domain",
       "value": "accounts-turkiyefinans.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "06cd4625-1ae6-4e49-9ffa-455403ce310d",
+      "uuid": "7c201c96-f97e-4f60-968d-a5d1491a8a13",
       "type": "domain",
       "value": "depremyardim.me",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "8d7166dd-4f61-4101-93be-94c990d75250",
+      "uuid": "f82152a0-906a-4cd4-ac3e-df8aa121ae2a",
       "type": "domain",
       "value": "yardimbagis.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "35658ef5-2776-4f33-891e-ce8ab613f020",
+      "uuid": "f2051844-33d4-4ca2-8dd3-9726994d799e",
       "type": "domain",
       "value": "turkey-gofundme.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "37ad7868-d3f7-41e5-a2a4-0c3bd2aa6f15",
+      "uuid": "7a65d7d1-0f2b-49a5-8ca9-da593a9ab438",
       "type": "domain",
       "value": "depremacil.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-09T00:00:00Z"
+      "timestamp": "1675900800",
+      "first_seen": "2023-02-09T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "8a5dce0f-2f16-4f22-9129-e110097f06fd",
+      "uuid": "9fbc32c4-4b8f-4c37-a3c1-1d3dcc25be67",
       "type": "domain",
       "value": "turkiyeneedsyou.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "5d94492e-b226-4d22-99da-0d57d0dc5671",
+      "uuid": "3e147c25-30ed-46d3-a5c4-cae523f430a9",
       "type": "domain",
       "value": "zorluvakfi-bursvedestek-al.site",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "483ebd98-ac78-43fd-b540-bf740aa93716",
+      "uuid": "53ab4f64-47f9-437f-8015-81f28535fb4d",
       "type": "domain",
       "value": "helpturkey.world",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "5fbf0fe2-2b64-46c5-a7a4-dbefbe331a69",
+      "uuid": "8a99d225-4b0e-4a07-90d0-5121e5a0d702",
       "type": "domain",
       "value": "helptk.bar",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "38b440fe-1795-43e5-8bce-7b82ec5c05d1",
+      "uuid": "c53cf7dc-ada7-40e7-be21-49bd20c7772a",
       "type": "domain",
       "value": "enkazyardim.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "8c6b0939-55b3-4956-b60c-17af1c842e77",
+      "uuid": "40c56ef7-d448-4310-bc51-314d2fbf54d5",
       "type": "domain",
       "value": "afad-bagis.epizy.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "d1b4a187-f810-411f-b267-5714edd1dc21",
+      "uuid": "fc6ed501-e4b2-4c94-b994-730a31b956a2",
       "type": "domain",
       "value": "helpforturkey.org",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "721a8dc5-e99c-426d-8a67-edaf4d4c436b",
+      "uuid": "33f35515-b4ff-4d61-9556-9f6cc67aa589",
       "type": "domain",
       "value": "afad-yardimerkezi.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "44336b78-3922-4641-a864-625c8d4238ef",
+      "uuid": "87008490-4927-4196-be3e-9b6a51d2d6e4",
       "type": "domain",
       "value": "trustwalletdestek.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "245a78d2-8df1-4d14-91fe-e131a136c937",
+      "uuid": "98df45b9-88c1-4d6c-8659-067014a72002",
       "type": "domain",
       "value": "helpturkey.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "abc7ebb5-8fdd-4ea9-b968-6de160b05c59",
+      "uuid": "dfbf7f69-3587-40e1-8259-fd82494b3c21",
       "type": "domain",
       "value": "tarjetaciudadanafuengirola.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "2220dfa5-e9d9-4f8a-bbe5-8027387c3aa0",
+      "uuid": "1918f16a-9691-4466-8c40-02de799d79fe",
       "type": "domain",
       "value": "resmiyardim.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-09T00:00:00Z"
+      "timestamp": "1675900800",
+      "first_seen": "2023-02-09T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "44cce40c-dc07-4c39-8542-12f887ace4ea",
+      "uuid": "1b2602cf-cb72-49f4-8db3-d4bb1bb0e46c",
       "type": "domain",
       "value": "donateforturkey.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "0b27af25-b36d-4d1b-9554-ea2fd5e96f18",
+      "uuid": "7314f9f6-1b72-4586-84b9-bacee99e691d",
       "type": "domain",
       "value": "turkeyandsyriadisasterresponse.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "dcae72f4-74df-4158-ad50-f9f00984264b",
+      "uuid": "a2fe2e86-3a9c-428e-b3f3-864f99307a5d",
       "type": "domain",
       "value": "zorlu-vakfi-destek.site",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "3a37a603-fafe-4b55-8bc4-d473ee5b9d5f",
+      "uuid": "754cd413-363d-4de3-b697-9e5e7e7bbf7c",
       "type": "domain",
       "value": "acilyolyardimturkiye.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-06T00:00:00Z"
+      "timestamp": "1675641600",
+      "first_seen": "2023-02-06T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "af1ae996-db7a-46bd-84b5-c0e46e7eb893",
+      "uuid": "442113df-74c5-4a5f-ae33-63c0d63f5e30",
       "type": "domain",
       "value": "arabaozelcekilisi.shop",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-08T00:00:00Z"
+      "timestamp": "1675814400",
+      "first_seen": "2023-02-08T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "f70f71e1-b59f-4dd8-b0d6-0df7d344b5d7",
+      "uuid": "60380daa-2b0d-46a1-912b-f750e6a07417",
       "type": "domain",
       "value": "umbroturkiyetr.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "1f4326b2-fc1f-4c4a-8026-f38986d275cc",
+      "uuid": "c6b4744f-3fed-41a7-90fe-f472db0b7337",
       "type": "domain",
       "value": "fiberkampanyalari-basvuru.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "50a453ff-24f6-44d5-bb24-dc639b6520e7",
+      "uuid": "2482b3f8-05b8-4c6a-8d92-3a1fef2a09d3",
       "type": "domain",
       "value": "turkeyhelp.world",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "54130751-ed0d-4f9a-a28b-8aeaae8bb843",
+      "uuid": "e62578f4-8f1a-4d0b-be61-ce3a9774489b",
       "type": "domain",
       "value": "obeysouthafrica.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "5a6c8d93-0a29-4457-9890-da1c81993470",
+      "uuid": "82a7d971-8cc5-42bd-9378-18b7f337a4b3",
       "type": "domain",
       "value": "arabaozelcekilisi.tech",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "3eb7add3-2323-4b10-afb0-25f002241feb",
+      "uuid": "07453b16-ce11-43ac-a768-6bf1646377ed",
       "type": "domain",
       "value": "afaddestek.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "803c8d3f-663f-4efc-970c-42c29b7794a0",
+      "uuid": "f5e26ad3-de3c-4c24-a995-4dcc1b771070",
       "type": "domain",
       "value": "hataydeprem.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "c9e58f4a-73ba-4d15-801b-5285c0da1dcd",
+      "uuid": "afad9102-8ec4-47ec-88eb-53fea0a14c81",
       "type": "domain",
       "value": "depremdenkorun.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "076f64ae-a5e1-40f6-98df-f6a5f85c8e37",
+      "uuid": "1afdf0d3-662c-4553-8450-b234daea8137",
       "type": "domain",
       "value": "afetacilyardim.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "8886bc59-4b3c-43b4-98c7-9bf88a9a7ea1",
+      "uuid": "d93ff1a8-47b8-4e18-a621-722fd96a1325",
       "type": "domain",
       "value": "help-family-earthquake.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "59c02ded-1137-4909-a08d-18deb5f17a01",
+      "uuid": "82bac7ac-1a10-410b-ae65-24eb7711605d",
       "type": "domain",
       "value": "afetmarket.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "043c6dfa-510d-46d9-915e-3f65f34564e5",
+      "uuid": "c2e1bc8a-4b59-4cae-8f78-f74dc8b8b677",
       "type": "domain",
       "value": "obeyargentina.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "3ebaca96-0108-4f42-aaf7-056944a30e83",
+      "uuid": "a1b829f1-b0ab-4128-8a6b-413e083aed0f",
       "type": "domain",
       "value": "turkeyrelieftoken.help",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "298aac03-a666-473c-aa69-0fb459feaf93",
+      "uuid": "0479effa-de77-4f8d-aaf2-ee4d8c9fb8ca",
       "type": "domain",
       "value": "akut.303.si",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "a2038d78-264c-4930-a536-d786550ced6b",
+      "uuid": "cd9ff097-af9f-416d-a8f8-844a5a11c85f",
       "type": "domain",
       "value": "ladanayevo.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "298cf186-85c5-45c5-a2e1-2c036caf8a0c",
+      "uuid": "1073f8d2-7a87-48f4-9d55-29386d9c16d0",
       "type": "domain",
       "value": "deprem-bagislarim.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "c1f1af90-35e9-4e7b-ad93-0ba5f525b4b9",
+      "uuid": "80e4ce69-58a0-409a-b6d9-4b0de40e21e6",
       "type": "domain",
       "value": "earthquake-insurance-19585.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-09T00:00:00Z"
+      "timestamp": "1675900800",
+      "first_seen": "2023-02-09T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "857597d9-957c-4cf7-a386-b0b203da28ef",
+      "uuid": "ee435e5b-0c83-4ed0-aa0c-1682fd681365",
       "type": "domain",
       "value": "afetzedeyardim.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "0250e63a-84fd-48f6-a857-bef639dead60",
+      "uuid": "54282447-6799-444d-b399-480d6d864bf2",
       "type": "domain",
       "value": "afad-kizilay.yardim-yap.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "78d52c54-0509-494f-8d40-5aa3abfef1b1",
+      "uuid": "b2e382b1-6420-43d1-b599-d77b2eedd677",
       "type": "domain",
       "value": "denizcekilisbank.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "c163b644-1266-4926-807a-1b3e793d9576",
+      "uuid": "d7b5098a-77d5-4789-9e5d-264e248fade9",
       "type": "domain",
       "value": "zorluvakif-destek-burs.site",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "f41a1584-5740-4962-b6d3-fe553e86295c",
+      "uuid": "e8c9f997-f9c8-4ed9-a6bf-cac4c4a6773b",
       "type": "domain",
       "value": "scotchandsodaturkiye.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "43a69a09-aaed-4f14-bf37-bfb74ea47c24",
+      "uuid": "ba8c898d-ee95-4520-aab1-d668d937ed68",
       "type": "domain",
       "value": "depremdeyanyana.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "f2173036-4963-4403-b018-8fd672d662db",
+      "uuid": "472fd9b5-1a96-4bba-948f-7be2ec22c05a",
       "type": "domain",
       "value": "nigdeyolyardim.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "94737638-c8e9-4dda-b3ef-d1b340478db7",
+      "uuid": "0b3e1777-c88f-497c-8df6-81a22f3521ca",
       "type": "domain",
       "value": "turkeyreliefdao.notion.site",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "5832ce58-6e43-40d8-b52f-6e06ccf2e439",
+      "uuid": "eaac5c01-da71-4560-aae3-d7962489f758",
       "type": "domain",
       "value": "afadvdestek.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "076e5fa2-7f8f-4f2d-9716-7bbb96263933",
+      "uuid": "5634ae91-e18f-4118-85df-38fe5b909a7d",
       "type": "domain",
       "value": "afed-co.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "2619c54a-ad26-47d7-bcba-098c805ea834",
+      "uuid": "276c226a-0aee-4e97-9d08-9c2fe0879c2b",
       "type": "domain",
       "value": "afad.omagarwal.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "0c9e958c-0a64-48f6-8f2a-481dcb2091c5",
+      "uuid": "d85c8c5f-68b5-431a-b46c-92f7f78d6586",
       "type": "domain",
       "value": "turkiyeyardim.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "272fa3ce-1e5c-4165-8972-87c5a550f55e",
+      "uuid": "38b308aa-22e4-4d5c-bbe1-d5a2646df70b",
       "type": "domain",
       "value": "depremyardim.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "e6715493-67e4-4066-9b8c-084cc8ad5d92",
+      "uuid": "b50e5cfb-13d9-442b-838f-345fcb3d9ae1",
       "type": "domain",
       "value": "turkeydonate.world",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "eca46cb3-60dc-423c-9bc3-9f24911b00ae",
+      "uuid": "2d87aeb4-08a1-4118-a62f-d93907b5804a",
       "type": "domain",
       "value": "afadyardimyap.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "f9c469c8-6961-4daa-b26c-75b0ba821add",
+      "uuid": "bd4007fb-1a6f-4485-91a9-01b6405aba28",
       "type": "domain",
       "value": "bagislama.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "dd1ae251-9b26-4a97-8566-d0c34ea782ef",
+      "uuid": "1bef3894-83b8-47d9-b02b-876b76d662a9",
       "type": "domain",
       "value": "zorlu-vakfi-egitime-destek.site",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "5fcc8a9a-50cc-42f7-813a-f2846151e127",
+      "uuid": "3bc4ccae-4fc2-4ceb-9d61-4d1d315cf62b",
       "type": "domain",
       "value": "arabacekilisinehemenkatil.website",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "f10161b8-20ea-4864-9423-7bab2e8f2576",
+      "uuid": "37a14f1d-5f2c-4c12-9c66-9f53f42c20d0",
       "type": "domain",
       "value": "depremdestek.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "5f9865b3-e441-4513-bcb7-5ae70ce4396a",
+      "uuid": "7a4b9886-76d4-4643-8a81-11ae63375e21",
       "type": "domain",
       "value": "kampanyamiz-online-basvuru-giris-aktarim.com.tr",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "1e07e965-606f-4024-af78-43c3f2c54b8f",
+      "uuid": "1675ebc7-9319-4cd7-984f-15addb84e3ce",
       "type": "domain",
       "value": "depremvergileri.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "ae2da87c-13f5-48be-b2cb-9624a4d373f9",
+      "uuid": "3d09beb9-c6e0-4cb4-82de-724883ffcd30",
       "type": "domain",
       "value": "afad-kahramanmaras.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "f59f4467-79e4-4cf1-800c-001090d6d03d",
+      "uuid": "39f7c1ae-1738-4387-853a-599dd070c88d",
       "type": "domain",
       "value": "earthquakealerts.world",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "322ab5a7-5769-4fa4-83a8-605446123e6d",
+      "uuid": "24500f33-fd9a-44e8-aacf-1cba76a08c9c",
       "type": "domain",
       "value": "afetacilyardim.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "7bc40400-a5a8-443f-a5c4-649592f612a6",
+      "uuid": "a4698af6-15b1-4006-a186-74e3f22fa585",
       "type": "domain",
       "value": "bagis-yap.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "6979f121-e691-436f-9d9f-07aa3d240531",
+      "uuid": "e5417048-6f69-4ea6-8c0f-d3b806e8de83",
       "type": "domain",
       "value": "earthquake2023.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "ad270acd-c85f-4512-869a-6a7bd1a7cece",
+      "uuid": "d56d665b-0cba-4a27-8220-232dfa73dd85",
       "type": "domain",
       "value": "donatecryptoforturkey.org",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "c855aeda-403e-4e38-945f-f22eab9b56ca",
+      "uuid": "f48e3ba2-1443-4e0a-8908-131ad53cc2d0",
       "type": "domain",
       "value": "zorlu-vakiflari-burs-destek.site",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "0e494112-d11e-49cd-8d64-8ff17400eb96",
+      "uuid": "b7c19316-e566-4f00-8d38-b92185c40ab9",
       "type": "domain",
       "value": "enferdeprem.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-09T00:00:00Z"
+      "timestamp": "1675900800",
+      "first_seen": "2023-02-09T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "938125ee-3d2f-4342-aca7-e53a3c27b0aa",
+      "uuid": "993b8461-1401-4455-95cd-282516cc9005",
       "type": "domain",
       "value": "toplumsalyardimlasma.org",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "51730158-375f-4408-9c2c-79a1b6cb1a74",
+      "uuid": "9fb19c82-f20e-4821-993c-2a8bff095ab6",
       "type": "domain",
       "value": "egitime-destek-zorlu-vakfi.site",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "0b016fbe-d8dc-4ea0-aac9-e79557c221f3",
+      "uuid": "d974da45-dd2f-4237-a3ff-9af24b3f5530",
       "type": "domain",
       "value": "depremkonum.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "f8d06312-b924-42de-a153-2bb839ab0510",
+      "uuid": "a499f1c8-aca4-4625-b445-5f578818e37b",
       "type": "domain",
       "value": "afetbagis.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "db1d0173-6eba-4c6c-a74b-0521bf018de6",
+      "uuid": "2d95ebad-d671-481d-857c-c0811ca881a6",
       "type": "domain",
       "value": "zorluvakfi-destek-burs.site",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "b05e67d6-26ef-45e7-83b1-4be34965fdcd",
+      "uuid": "aea872e5-66d0-4033-98cf-3ce76a31524e",
       "type": "domain",
       "value": "fihgdjhfdhffdf.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "2d6efb1f-b572-433b-bfda-76d23d1fc3c9",
+      "uuid": "c81b1a3c-109d-4157-8c9b-23d29c971cb0",
       "type": "domain",
       "value": "turkeyearthquakefund.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "7169891a-96e6-4c8e-aeaf-e1794decc575",
+      "uuid": "e95e37db-da2e-4373-8ac5-1fdf7a0166ad",
       "type": "domain",
       "value": "obeychile.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "f3db6d26-fdda-46ad-85ce-683615db6a42",
+      "uuid": "58d4466b-ab09-4739-915c-5e7e694b6ed3",
       "type": "domain",
       "value": "ropaobeychile.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "100ba986-f174-46f1-807e-5d435570ba95",
+      "uuid": "6fa042b5-d5ca-4fb7-9923-aa9632677c5c",
       "type": "domain",
       "value": "arabaozelcekilisi.life",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "2558cbc7-dc9a-4bb1-860b-ec4c79c68462",
+      "uuid": "14b2f085-3099-4867-8266-2aecf0cca112",
       "type": "domain",
       "value": "egitime-destek-zorluvakfi.site",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "258ea60a-fd98-4882-8063-c31a92b110c8",
+      "uuid": "8d2628c4-a702-4be4-8b95-77a0cfe0abcf",
       "type": "domain",
       "value": "turkeyearthquake.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "a2c63330-eeff-43bc-bfc5-3f50fab9b6ac",
+      "uuid": "6821af07-0d09-4135-a648-499040d9ce47",
       "type": "domain",
       "value": "depremyardimlasma.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "97f0190e-28c1-4ba7-b5ff-5073c714f6d4",
+      "uuid": "66138b31-b868-4441-93d3-d47909c34d2f",
       "type": "domain",
       "value": "charityforturkey.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "7ac7f9ed-6959-47cc-9d72-19d91dd29d6e",
+      "uuid": "d29f139e-ec97-4e67-a532-22aa56664de6",
       "type": "domain",
       "value": "ngo-turkey.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "15ade139-0731-4dbb-9418-8fac0c4e7679",
+      "uuid": "cffff0d1-e3bd-4521-8c28-eeeb7279be14",
       "type": "domain",
       "value": "arabaozelcekilisi.pro",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "bc1423fb-debd-4d33-93e6-912dc22d8a08",
+      "uuid": "7f7d7cb2-0196-4aea-bd22-07ae062ade22",
       "type": "domain",
       "value": "afadbagislari.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "944ba980-7fa0-4f8d-a909-c498d2d5bc2b",
+      "uuid": "478fbdba-36e5-4013-9d40-2aa0c0fc771e",
       "type": "domain",
       "value": "haydi-bakalim-900tl-kampanyamizz-online.com.tr",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "4b3bb5ba-22cc-436d-ab13-fc12982a0473",
+      "uuid": "1c7a066f-9de3-4453-a562-898c3479bf99",
       "type": "domain",
       "value": "scotchandsodawien.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "070e4232-99de-493a-a9af-d122ed489801",
+      "uuid": "1ac3d3ef-baa3-4390-bbc0-61c194c08dc7",
       "type": "domain",
       "value": "earthquake-insurance-59040.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-09T00:00:00Z"
+      "timestamp": "1675900800",
+      "first_seen": "2023-02-09T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "9d4a47f9-f66b-4d68-beb2-8bfeb0431b95",
+      "uuid": "be6c5dac-52b9-48fd-ab27-c6a8c5e43c87",
       "type": "domain",
       "value": "llbeanturkey.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "25188c6d-adf5-4cb5-8930-e5e3a0e7c178",
+      "uuid": "86ad339b-ffa9-458d-bf19-08287cf31f9d",
       "type": "domain",
       "value": "depremzedeyardimlarixdxme5.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "07529c4d-1cef-49bb-a495-58685f2b481b",
+      "uuid": "93d34e0d-1d40-489b-95c1-0483b909d756",
       "type": "domain",
       "value": "turkeyearthquakefund.org",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "99da9072-a127-43ef-8449-972d59b9f2e1",
+      "uuid": "93c8eb4e-298c-46e8-8dcd-8b5bfd45b65d",
       "type": "domain",
       "value": "deprembagis.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "560112e3-9b05-494a-abce-d5e16a290d7e",
+      "uuid": "cea786be-1cdd-448c-b663-b3286bc04bd4",
       "type": "domain",
       "value": "depremkahini.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "b9ad2b8b-b94e-4d02-a3c1-0b59e6d95703",
+      "uuid": "70def7ea-8cac-4bc3-92c2-22200d161d08",
       "type": "domain",
       "value": "h1uhatay3.sbs",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "5ec2eb1d-d4d1-4f19-b96d-4407e93c2e2d",
+      "uuid": "a731eec9-b67c-4af9-867c-9a6414857dc5",
       "type": "domain",
       "value": "depremihbar.org",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "46e876de-aee0-483b-86c8-9a1593420b3a",
+      "uuid": "c0a68aae-4243-4ebd-a7da-2f79aa934c4b",
       "type": "domain",
       "value": "obeysingapore.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "94654d90-ec49-4f79-b3cd-78a3a6f0b6eb",
+      "uuid": "daced0c0-8a5b-4ff2-98f5-60cabde85624",
       "type": "domain",
       "value": "arabaozelcekilisi.site",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "5f2b12f1-7f60-45fb-879b-9d66cdaf6a5c",
+      "uuid": "53515810-4f94-465e-980d-abd318857104",
       "type": "domain",
       "value": "depremraporum.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "f7baca6d-fb58-4cf2-8e1d-86062895488b",
+      "uuid": "49461892-c061-4cae-b895-3624e99a7293",
       "type": "domain",
       "value": "zorlu-vakiflari-destek-burs.site",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "8761658a-9bb4-47d2-ad35-5cd4fdce5a50",
+      "uuid": "34aa0d6e-a92e-4c9e-b7f2-64c5c71929c1",
       "type": "domain",
       "value": "depremtr.org",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "d63ad41c-7cd7-41be-882f-3b7d1b128863",
+      "uuid": "28ef28f0-7042-419d-97a1-cb7b09d85ba2",
       "type": "domain",
       "value": "deprem.wesdteam.org",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "511992ca-22cd-4e1c-b018-8df36ea12797",
+      "uuid": "6b5b8eac-e5bd-41a5-83ce-8b3f502af705",
       "type": "domain",
       "value": "turkiyeaviskiralama.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "b4d5f69b-dafa-456d-bb0b-74e114803aa4",
+      "uuid": "eecaa9de-b4f2-4676-8eac-8ae45c65153d",
       "type": "domain",
       "value": "arabaozelcekilisi.agency",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "df079e7c-9069-4ffb-badd-59514ad6cea1",
+      "uuid": "934c6ddf-3333-4f0c-99e8-5d47c90d0566",
       "type": "domain",
       "value": "earthquaketurkey.world",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "0b081ef2-9e40-40c5-8406-481ef733e157",
+      "uuid": "44f48e25-ea5d-47a4-884d-e3a2467a3e14",
       "type": "domain",
       "value": "helphatay.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "b416557a-e445-4547-b7b7-595961b722f8",
+      "uuid": "5dfa8808-40da-4cbf-9085-d44492b7ae0f",
       "type": "domain",
       "value": "depremzedeara.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "82e83381-053d-4f80-959e-bc3e4605e636",
+      "uuid": "d72393ae-0612-47e7-8ff8-3d45cd430a36",
       "type": "domain",
       "value": "depremcagri.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "124b2c67-9ea5-4544-b477-afc37ab8b147",
+      "uuid": "70b05a29-e313-4590-a1db-67d0e13a9393",
       "type": "domain",
       "value": "iaearthquake.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "43b8a7ca-366b-441d-95f4-d253226c2664",
+      "uuid": "15c1e858-8fce-4d2c-8b7b-86a990bc8742",
       "type": "domain",
       "value": "supergaayakkabiturkiye.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "8063fd64-3e47-41b2-aeb5-24bbb0e1e67b",
+      "uuid": "0fd1b02e-45cb-4904-aa66-98926d816600",
       "type": "domain",
       "value": "fossilbagmalaysia.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "7e455784-66f4-4dac-8c4c-ca210f07779e",
+      "uuid": "fcf405a6-8dbc-4acd-8af3-7b4204e9c73e",
       "type": "domain",
       "value": "helpturkeyandsyria.life",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "5098f8c6-a89c-4425-9043-13839cf7039e",
+      "uuid": "2ab7fd60-1fba-406b-a2b2-d67119bb8f53",
       "type": "domain",
       "value": "afaddeprembagis.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "8d444337-b515-4640-ae01-d4ec3d45bd90",
+      "uuid": "6725d8f2-c4bd-4bf3-8f1d-7cf6a4946873",
       "type": "domain",
       "value": "betturkey7840.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "3d36b836-2d08-4d29-9e9e-658309c19e16",
+      "uuid": "cad846bc-8a78-4973-bbcb-d35aa746a87a",
       "type": "domain",
       "value": "turkiyeneedsyou.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "93de3ac5-7219-47e1-9330-1d3bb04db806",
+      "uuid": "00414c86-1581-4061-808e-b743fce1c6ce",
       "type": "domain",
       "value": "afadestek.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "077c88aa-6a23-4865-8d4d-c3d5132523a2",
+      "uuid": "fdce0be5-d9c1-469a-906e-d4053d2ccc92",
       "type": "domain",
       "value": "obeyturkiye.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "1d779ae4-9b9d-43f1-be87-939ad26170b6",
+      "uuid": "cc527fc0-6e2a-4ff9-8f0f-baa1408c45dd",
       "type": "domain",
       "value": "afadtr.bagislama.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "a42e909f-ad7f-4aef-a76c-cc234749210d",
+      "uuid": "76663727-faf8-485e-a5b7-7707a2de9099",
       "type": "domain",
       "value": "arabaozelcekilisi.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "cc431adb-c415-49a2-ae1e-a18226f4bf9d",
+      "uuid": "4d6e5aa6-0c2a-4acf-a2c1-f760773a0af1",
       "type": "domain",
       "value": "binanceneweventkampanyalarilebirliktesorgula.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "f568a2dc-f2ff-4b53-92a4-53499f8bafa0",
+      "uuid": "aa0ba4d1-da1e-4057-8751-fc7482bdc6d3",
       "type": "domain",
       "value": "sanliurfakoltukyikama.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "b2ce34b5-270b-437c-b261-33b0c3476219",
+      "uuid": "4beaabcb-b89d-437d-baa9-c7469ca3ea1c",
       "type": "domain",
       "value": "xn--depremyardm-8zb.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "6cc1eb08-87fe-446b-b881-68e0aca7c422",
+      "uuid": "a21612cd-f045-4ada-b5ac-f609744784b6",
       "type": "domain",
       "value": "donateturkey.world",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "d4628c4c-332c-4cc7-85c8-1335411374f9",
+      "uuid": "659e04de-7fe1-4df3-9709-d9f009e40fc3",
       "type": "domain",
       "value": "yardim.b-cdn.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "4990a5f2-37f8-4615-81e2-9d490cfb5c43",
+      "uuid": "b269a89b-deab-448e-a6ad-2da2489c21bf",
       "type": "domain",
       "value": "afad-kizilay.yardimbagis.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "1dae2ed7-71a0-42bb-b21a-49cf17ff76f6",
+      "uuid": "ee756f71-9885-47d0-94f6-8e9c60dc6539",
       "type": "domain",
       "value": "depremkontrol.com.tr",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "0789fb0b-9b29-4ec8-b2f5-7d83ea3e758a",
+      "uuid": "d48e19ee-1a50-495c-8466-fa1c8a3ff740",
       "type": "domain",
       "value": "depremproje.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "8cf0941b-189f-41ca-a1a5-567a037807b2",
+      "uuid": "453741c1-58e3-4b52-b9de-391b30961bda",
       "type": "domain",
       "value": "depremacilyardim.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "0fc742f0-3359-4db5-a405-2c1bfdee0a1e",
+      "uuid": "3c13c461-8a37-48e5-a828-b5d3032d9061",
       "type": "domain",
       "value": "deprem.link",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "cefc2ff5-1040-4ad4-a5d0-8c671a1ef601",
+      "uuid": "6f68a92c-c124-45cf-ae81-24aaed8bbc42",
       "type": "domain",
       "value": "yardim-yap.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "004009f8-c291-468d-b27e-53a1e16f62ff",
+      "uuid": "bdfef87a-92eb-40f9-bed7-fa09dd8d01d7",
       "type": "domain",
       "value": "depremnerede.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-13T00:00:00Z"
+      "timestamp": "1676246400",
+      "first_seen": "2023-02-13T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "230f3097-a64b-400b-b11f-311c534d714e",
+      "uuid": "5f7cfd74-844f-4eb6-a8bb-7fc21e3726f0",
       "type": "domain",
       "value": "denizlideprem.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-13T00:00:00Z"
+      "timestamp": "1676246400",
+      "first_seen": "2023-02-13T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "eae2186c-3817-4c8a-bcab-9fab2f54b9e9",
+      "uuid": "3ce8d608-9321-4cfc-89ff-9b4b8ef7f7d5",
       "type": "domain",
       "value": "nbaglass.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-13T00:00:00Z"
+      "timestamp": "1676246400",
+      "first_seen": "2023-02-13T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "8b7723e3-43b1-4814-8cb3-51129fb5adcf",
+      "uuid": "39f3360e-5a08-4b9c-88cd-bdb18601f2a9",
       "type": "domain",
       "value": "depremulasim.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-13T00:00:00Z"
+      "timestamp": "1676246400",
+      "first_seen": "2023-02-13T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "c8616e7c-86ac-4863-8099-c2f62485c516",
+      "uuid": "7099131e-7a54-4178-8385-cdc9ef30d8c1",
       "type": "domain",
       "value": "deprembot.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "52b36df1-4dd2-4747-a1b3-c4a3f6e3f48e",
+      "uuid": "8a5fe7ae-1bde-4f86-b261-d27f72c5c71e",
       "type": "domain",
       "value": "depremyardimbursa.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-13T00:00:00Z"
+      "timestamp": "1676246400",
+      "first_seen": "2023-02-13T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "3083b256-ffb2-4ed4-aafb-6fb3d0e81bf6",
+      "uuid": "eb719628-5d06-4205-ac82-e61472ecf9f2",
       "type": "domain",
       "value": "afad.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-13T00:00:00Z"
+      "timestamp": "1676246400",
+      "first_seen": "2023-02-13T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "738437b3-e5bf-403b-a956-550f99e3150f",
+      "uuid": "a50b159a-02c9-4129-b165-a12819d6880d",
       "type": "domain",
       "value": "depremafetacilyardim.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "39d34990-bd9b-45bf-83aa-0bdde6a34396",
+      "uuid": "5c1745c4-9a33-41f5-a0f1-42c788917597",
       "type": "domain",
       "value": "deprem-info.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-11T00:00:00Z"
+      "timestamp": "1676073600",
+      "first_seen": "2023-02-11T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "c112fa23-24c8-412d-9e72-874f09f1cff0",
+      "uuid": "9975a0e7-065e-4df2-9b95-ff4f6d05fb7c",
       "type": "domain",
       "value": "depremtr.com.tr",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-13T00:00:00Z"
+      "timestamp": "1676246400",
+      "first_seen": "2023-02-13T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "0bc71679-95ed-49ce-84a6-06256ebb8c89",
+      "uuid": "765be8b5-e3fd-4552-a819-89cce68f4c12",
       "type": "domain",
       "value": "depremteshis.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "5328f554-3780-4aa2-96b1-31704d4a3ad4",
+      "uuid": "7188bd2d-01d0-43c9-b54b-6909ab7d7337",
       "type": "domain",
       "value": "deprem.tech",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-13T00:00:00Z"
+      "timestamp": "1676246400",
+      "first_seen": "2023-02-13T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "86baaffa-c226-41b4-8ec8-75294fc811de",
+      "uuid": "94937c74-dc57-4370-a7d5-cb3611b069da",
       "type": "domain",
       "value": "turk-help.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "ca785fa9-23fb-4fef-a668-49700dc5cf24",
+      "uuid": "2cf2eb17-0985-43aa-b1f3-f6bc6cb42c17",
       "type": "domain",
       "value": "helpturkeysyria.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "301139c0-85a5-4a7d-9c3c-b26d9626e15b",
+      "uuid": "87e3db4d-b05b-4f01-8679-00590f183171",
       "type": "domain",
       "value": "beltturkey785.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "45d1ee21-0f69-487c-8353-129ef9123463",
+      "uuid": "47734c19-543f-4284-9a95-da622b033a1c",
       "type": "domain",
       "value": "aid4turkey.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "82e2aa59-421c-4db6-b46d-31fd329cebc9",
+      "uuid": "980f363d-f5ff-4732-a121-dbd28dc703a6",
       "type": "domain",
       "value": "annekleinturkiye.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "5a6c9611-9d9d-4f88-907a-599b1452b19c",
+      "uuid": "179a6cbb-9066-4849-bd8d-c4024b63a289",
       "type": "domain",
       "value": "aidturkey.org",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "313880e5-c72e-4e89-8968-afc8e1431132",
+      "uuid": "48ec7a1e-1fa6-46f5-aace-7674dcf50e42",
       "type": "domain",
       "value": "evimiz-turkiye.biz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "b96d9b23-73d7-49d4-804e-e533e6b140c9",
+      "uuid": "73a59694-0f6f-405b-bcd2-55bda2129daf",
       "type": "domain",
       "value": "turkiyeavis.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "5e243f2c-c761-4508-999c-f7c0a00d2f06",
+      "uuid": "f7bae1bd-30a8-4cdd-947d-ce27a451c356",
       "type": "domain",
       "value": "turkiyeyegetir.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "940a434e-0101-431a-a7db-d1c1197531ad",
+      "uuid": "18c197ec-f605-46e9-a78d-ceabf4b6ad00",
       "type": "domain",
       "value": "epermit-turkey.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "5cb7c4cd-6ec6-4b78-8f63-3c2c09e0f99d",
+      "uuid": "6f5d3845-dfe3-4ac4-ae46-e6009ef36e19",
       "type": "domain",
       "value": "helpforturkey.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "118c21e1-9345-44cc-b8dc-90a48a9bc99f",
+      "uuid": "657e1465-c0a8-4844-a874-ad136946138b",
       "type": "domain",
       "value": "support4turkeynow.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "534d9887-0910-45af-9ed5-e4014150b4b2",
+      "uuid": "040f239b-1fae-4bfc-919c-f263d0eae78f",
       "type": "domain",
       "value": "redcrossturkiye.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "85a5d351-1495-4c05-a7d1-fa0f91258d07",
+      "uuid": "3877795f-afba-4a9c-867d-6f9f5f11b22b",
       "type": "domain",
       "value": "depremdirenclisehirler.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "7a2ff044-3de9-4c8a-bfcb-fb6ec4da0db1",
+      "uuid": "5459c2f0-ab17-42e0-9266-97cf615684d9",
       "type": "domain",
       "value": "turkeyearthquake2023.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "3d70e8d9-050f-45f1-a4d4-d25dc0a0bf1e",
+      "uuid": "65ba8875-fde1-41ec-941c-23834d93357d",
       "type": "domain",
       "value": "support4turkeynow.asia",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "f80716ac-aed4-405a-8172-8ede8677cac8",
+      "uuid": "91295092-b7c0-45cf-ace2-a0d20552aa21",
       "type": "domain",
       "value": "ralphlaurenturkiye.top",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "38de82b9-7e6a-4fae-9416-0e5c1c3911bf",
+      "uuid": "0d16d193-0737-4fdb-a44e-dd208251d64a",
       "type": "domain",
       "value": "depremmobilya.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "8c456ff2-0799-49c0-87f0-e1cbdd83e082",
+      "uuid": "9add395f-6a97-4098-8d3d-5e52d1f6fa77",
       "type": "domain",
       "value": "turkeyearthquakeaid.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "70d8cc02-1d71-49d3-b9d9-02476683aa91",
+      "uuid": "24e83428-a97e-4ad3-bcfb-2a33c752b8c6",
       "type": "domain",
       "value": "loaketurkiye.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "5ca68c5b-1a04-4435-9256-abee479cedac",
+      "uuid": "2904d59a-5657-47db-886a-8d596ea3e77d",
       "type": "domain",
       "value": "evimiz-turkiye.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "283bcd2d-ff1e-4eb0-bb69-45704728e0c0",
+      "uuid": "f5b7e3d4-ac12-4bf8-a766-54104af869fb",
       "type": "domain",
       "value": "otoavisturkiye.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "a12499a2-b66c-439b-9456-fe1a56b4b72a",
+      "uuid": "1e90946c-33b5-4215-9aaf-5e148ac393a0",
       "type": "domain",
       "value": "depremhukuku.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "f0bc3a08-92a4-4322-8071-47405f3cbe0f",
+      "uuid": "3430fea1-caae-440c-947c-c466ea2ae89b",
       "type": "domain",
       "value": "depremzedeler.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-10T00:00:00Z"
+      "timestamp": "1675987200",
+      "first_seen": "2023-02-10T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "4cba4531-f24d-4f04-b5c8-305b941067fb",
+      "uuid": "1af83a0b-0eba-4ae2-9e43-f78d8ed1028c",
       "type": "domain",
       "value": "turkey-earthquake.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     },
     {
-      "uuid": "dce3530b-e539-4a6a-b260-9041190e2284",
+      "uuid": "cd56c877-d51b-41f9-8755-0e42c829750f",
       "type": "domain",
       "value": "helpturkeyandsyria.org",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false,
-      "date": "2023-02-14T00:00:00Z"
+      "timestamp": "1676332800",
+      "first_seen": "2023-02-14T00:00:00+00:00",
+      "disable_correlation": false
     }
   ],
   "Orgc": {
