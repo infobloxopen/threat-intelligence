@@ -1,1690 +1,1901 @@
 {
-  "uuid": "af9821a0-03ca-4d3c-be34-c9c5539bec6b",
+  "uuid": "66b48238-ee10-4bfa-bd30-88d6a6e57846",
   "Attribute": [
     {
-      "uuid": "74d3f552-a1bf-427b-989c-22e8010cbdea",
+      "uuid": "970ffa81-277b-416a-8f41-95b135bef899",
       "type": "domain",
       "value": "21cloudcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2024-02-13"
     },
     {
-      "uuid": "7c2da5d6-8539-460e-92a3-0f5c094874ff",
+      "uuid": "9c2c5bc7-2ccc-422e-97a5-35d101ad4e3c",
       "type": "domain",
       "value": "21cloudesk.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2024-02-13"
     },
     {
-      "uuid": "acad6774-ae25-45ef-acea-89bf48be669b",
+      "uuid": "4e56acf5-2039-4b8d-9b67-adc327de82cc",
       "type": "domain",
       "value": "21coincloud.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2024-02-13"
     },
     {
-      "uuid": "e2c42a4d-dd2b-4715-9a70-780a6e4cf95f",
+      "uuid": "2f75a260-5590-4829-b3af-935003d47e37",
       "type": "domain",
       "value": "365actioncoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "e8b6a0b8-ed6d-4fe3-892f-86c4df531f7a",
+      "uuid": "fdabe75f-bb70-4189-b85d-44b1d07df963",
       "type": "domain",
       "value": "365amazementcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "1512fcbe-e02d-47ea-b511-a90357f16f97",
+      "uuid": "f29d6eb0-c0a4-4074-ad68-af80f158810e",
       "type": "domain",
       "value": "365amazingcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "f93a87ce-51a4-4267-bae1-405020e284d9",
+      "uuid": "fcd1ee68-5800-4512-8be3-157505c7fca4",
       "type": "domain",
       "value": "365amzcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "289e56cd-9ccc-4d73-94bb-eb3726afa3a7",
+      "uuid": "bc02e3c8-efbb-42e3-bef6-8cc37221bd77",
       "type": "domain",
       "value": "365balancecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "09f0993b-3243-440d-86e0-7aae0cb09596",
+      "uuid": "f0110c84-b607-4110-ab80-d270ccc81a30",
       "type": "domain",
       "value": "365basedcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "9b5a4968-97fb-46c9-8e1e-14cb7f10a2bc",
+      "uuid": "2f87ea68-952e-46c6-8bb5-cb741b97f2c8",
       "type": "domain",
       "value": "365bestcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "841397a3-c106-43a6-9db1-f6d4c524ded3",
+      "uuid": "13eb91c2-89e7-40e1-920f-d6272b860c9d",
       "type": "domain",
       "value": "365blessedcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "0ae981f2-cd3a-4e09-909f-de7aa5880ca0",
+      "uuid": "b9ba5e33-d844-4833-8c6a-1d85e2bd08a5",
       "type": "domain",
       "value": "365brandcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "42d2572b-9edf-4c68-a46b-b065f41631ff",
+      "uuid": "b95f11f1-2622-4837-a4f2-868c01aa2943",
       "type": "domain",
       "value": "365brandedcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "bc21642f-69dd-484f-9e82-63d8e8c6b271",
+      "uuid": "074e480b-7dd7-4195-8b15-307f2b3826ee",
       "type": "domain",
       "value": "365bravecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "62e2b6e6-0346-4dca-b660-2151b018d577",
+      "uuid": "c7f0e4ea-471f-4ab6-9d0f-210a2bbce6d3",
       "type": "domain",
       "value": "365buildcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "8dfe6532-247e-4d23-9124-b5998e9281aa",
+      "uuid": "c22d6aed-38c1-4ef7-baef-cc821227023a",
       "type": "domain",
       "value": "365capcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "dd8da9e4-b2cf-42b4-bda0-620f4080a4af",
+      "uuid": "9c14eba3-07bf-40a5-822e-0b36d5a41e44",
       "type": "domain",
       "value": "365certaincoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "5d6a1f97-7798-4242-986a-a8772b2e0c5c",
+      "uuid": "7bc36c78-87e0-4fd6-b6e0-6885997a3783",
       "type": "domain",
       "value": "365codifycoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "5f74beb9-239b-4f8c-bcd5-de9aedf8a1be",
+      "uuid": "176362d2-a4a5-4259-9cc4-66d6339010c7",
       "type": "domain",
       "value": "365coinaction.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "db2c3bc7-7e04-4b69-85c9-afe4d0ee3345",
+      "uuid": "31a4661f-0068-4007-ac2c-dbd0836b1839",
       "type": "domain",
       "value": "365coinamazement.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "d1a0d3e6-b813-4b7c-8cf5-546a548aebae",
+      "uuid": "0ef4f1bd-5517-49d4-9e82-d55c27897d05",
       "type": "domain",
       "value": "365coinamazing.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "fec07c8e-2acd-47d5-8c60-1f4ddc4fae03",
+      "uuid": "4c30df61-ec1d-4c4d-8077-c2a68c7bfdb1",
       "type": "domain",
       "value": "365coinamz.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "7c108b00-289d-45ec-9fe2-24f9219bc5e4",
+      "uuid": "f860dd2e-e662-404c-997e-10014b6f7311",
       "type": "domain",
       "value": "365coinanswer.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "67bb1ebb-b727-48f4-8b13-7e74a79e6ca8",
+      "uuid": "e04c95d7-62f6-4247-8cf5-de04d9104956",
       "type": "domain",
       "value": "365coinapp.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "493b37eb-5d34-403d-baa5-b7b8b96db6db",
+      "uuid": "4932ab73-40fa-4638-8347-608777f2498a",
       "type": "domain",
       "value": "365coinbalance.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "b9974457-39d3-4964-8880-41bf42b54f5c",
+      "uuid": "99949470-2d60-4b7a-804a-c7ed8b9f64b2",
       "type": "domain",
       "value": "365coinbased.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "efda4989-3488-484d-a442-c6a400ed4fac",
+      "uuid": "eaaabce2-cd72-4919-b9c1-e5e84234f25d",
       "type": "domain",
       "value": "365coinbest.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "e3a6cfbf-cb76-4d77-bfcd-1e9ebbf5cc3a",
+      "uuid": "cefc7cee-d524-41d8-89ed-3bc5573a9cf7",
       "type": "domain",
       "value": "365coinblessed.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "620d8a0d-9c5a-4c0c-afd9-124bc21a3f77",
+      "uuid": "7b1a26bc-605d-4899-83b5-78b0793a4bae",
       "type": "domain",
       "value": "365coinbrand.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "c99f8e0d-6bbe-4227-b020-2ceb4a181a10",
+      "uuid": "f6de8fcc-85fa-4acd-8956-143b6a2b0ad4",
       "type": "domain",
       "value": "365coinbranded.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "9091f4d4-00bd-485f-9fbd-062e0ea6d038",
+      "uuid": "9ba79e5d-e240-4c93-8345-da3ab02f700f",
       "type": "domain",
       "value": "365coinbrave.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "687db240-de15-4e43-a07b-acfb0cca37ba",
+      "uuid": "861f7021-56a1-4598-8b8f-4d7547962a76",
       "type": "domain",
       "value": "365coinbuild.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "761d3f7c-d1e0-4b64-b27a-eaa2b947f944",
+      "uuid": "190989fe-4c60-419c-957d-33234e0f639b",
       "type": "domain",
       "value": "365coincap.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "05ab6927-e1ea-41aa-b00f-ccc55e1f156f",
+      "uuid": "97bf1444-bf73-49b8-9e6c-d26970b77e7e",
       "type": "domain",
       "value": "365coincertain.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "338363c1-e2a0-45f7-b19e-5cf86e50046c",
+      "uuid": "ebbcfd91-63f3-4378-8dcd-1d027dfc195e",
       "type": "domain",
       "value": "365coincodify.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "6a4ed65b-fca5-400a-b2d6-ee2784f5cde4",
+      "uuid": "e660a065-ad9a-4b1e-930e-3bcfc4e86d51",
       "type": "domain",
       "value": "365coincore.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "44c9e5ab-5c6f-41aa-a616-9c73852ecf56",
+      "uuid": "a6309ec7-e18d-46e8-b29a-45e33e14ce11",
       "type": "domain",
       "value": "365coincurious.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "5f933622-50a5-4aea-afd6-646d5887b3d3",
+      "uuid": "6052cd2b-8ad7-4bc5-bb42-0dcb8669d0f0",
       "type": "domain",
       "value": "365coindeluxe.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "b27a2667-4f01-4713-adfd-8ff024e990ed",
+      "uuid": "952d5c3c-dadb-4c43-97ee-3e00c45d2cdc",
       "type": "domain",
       "value": "365coindemand.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "897b354f-533a-4c30-9559-5294778efac7",
+      "uuid": "87ef43ba-2e97-46e1-9483-93e83de6db3f",
       "type": "domain",
       "value": "365coindesk.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "0831c36d-7fc8-40b5-b593-1c622d5069a2",
+      "uuid": "784600e1-4969-4804-87f9-d29ba69ddcb3",
       "type": "domain",
       "value": "365coindomain.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "9db3dab3-edfe-4da5-bb78-06a39248d3b6",
+      "uuid": "5af0b8b7-2769-4895-87e1-bd1c6fd54ebe",
       "type": "domain",
       "value": "365coineg.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "4eb8a1af-0c03-440c-ab9b-df15e28b5bff",
+      "uuid": "e0ab379e-e047-4258-a8d2-9fb7a1a8e52f",
       "type": "domain",
       "value": "365coinenormous.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "ebcc875d-f26c-4f38-86db-d72c7eb5f9fb",
+      "uuid": "56497276-9288-4022-80b7-c084a67b4fc0",
       "type": "domain",
       "value": "365coinexp.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "ea2d0aca-31be-4276-aaab-b42a53c3701c",
+      "uuid": "279c9e3e-fb7d-4818-8548-cd2c05673b3b",
       "type": "domain",
       "value": "365coinextra.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "3ae493d8-ad70-4cef-8cd9-f8976da571cb",
+      "uuid": "95f4b096-4cc0-4bef-9ef5-ed2615d09f11",
       "type": "domain",
       "value": "365coinfactory.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "90b10443-f2be-43b6-869f-b704b3ea66b5",
+      "uuid": "42d19912-d46a-4263-aeda-0b6d3632cad4",
       "type": "domain",
       "value": "365coinfascinating.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "2b8e8a90-72a7-4c9d-bf44-861d89aaba41",
+      "uuid": "ddfe7452-ac50-414d-ae8b-7b45e2b3900c",
       "type": "domain",
       "value": "365coinfeed.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "618d1fc3-73a3-4b61-9f10-930426cc7a5c",
+      "uuid": "0aaf7e77-c7e4-4012-99f2-a201ef466d4b",
       "type": "domain",
       "value": "365coinfinance.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "07aefd34-88f3-4ba7-a510-918042ed06c8",
+      "uuid": "ba522f49-cd45-45eb-9a40-18044bdd4d2f",
       "type": "domain",
       "value": "365coinfresh.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "8ef92d13-d026-4f9c-b2f1-995cb0d60a66",
+      "uuid": "695fe18b-8ab2-4617-8f6c-8734d508ff17",
       "type": "domain",
       "value": "365coinfreshest.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "411b543d-0a28-4391-9fd0-34be44d6e96a",
+      "uuid": "c9ab64e9-157b-48a7-985f-c85a553807d4",
       "type": "domain",
       "value": "365coinfuture.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "8e5e6d9f-528d-4748-9d6b-efa83951a259",
+      "uuid": "29da65b8-bf6d-4114-89e2-103288555a2e",
       "type": "domain",
       "value": "365coinfuturistical.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "6fe9c385-063a-4f05-85f0-a6a3010f13c2",
+      "uuid": "65b96270-dedb-4423-9350-6299310ca18f",
       "type": "domain",
       "value": "365coinglobe.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "3e5691eb-5d6e-4549-a701-13ac5ba9fadb",
+      "uuid": "8bf2aa93-6f39-41b8-bd3e-3d55f3b9ba96",
       "type": "domain",
       "value": "365coingold.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "7f362c72-8429-452e-8428-978967a4f220",
+      "uuid": "a6284092-b341-4b73-861a-36a7ad2102dd",
       "type": "domain",
       "value": "365coingrand.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "d393ccd7-58b2-4f30-893a-ccdace793db7",
+      "uuid": "5223508b-3870-4c52-9a7e-cd41eead9155",
       "type": "domain",
       "value": "365coingrande.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "fe74b1d6-3ed3-4aab-9b1f-3d7e19ccce0a",
+      "uuid": "ab579b72-a633-4af3-b599-d8549f4fda2f",
       "type": "domain",
       "value": "365coingreat.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "11a7a736-27d8-4225-b9cf-75a54940b7b5",
+      "uuid": "09f0ef21-03d8-42d0-9e2b-24ebb634c602",
       "type": "domain",
       "value": "365coingreatest.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "4d1d09c3-6efe-4dbc-8b1a-881c30b106f3",
+      "uuid": "519154d2-74ef-496e-97b3-eda717944c63",
       "type": "domain",
       "value": "365coinhub.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "fac78455-2751-4bbe-9b9f-f0862ba8aaca",
+      "uuid": "57dde1b2-f581-43a0-a3fb-0fbfbf1088a2",
       "type": "domain",
       "value": "365coinhuge.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "e2754a4c-9b4f-42e3-99ac-41edbb474449",
+      "uuid": "da200bab-9a43-4fa2-b9f3-73e49424f50e",
       "type": "domain",
       "value": "365coinideal.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "dc4a704a-21bb-4da2-93c4-c52437c58dd3",
+      "uuid": "1c79f7f3-99ac-4ab3-877f-67679bb7c9db",
       "type": "domain",
       "value": "365coinimpact.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "0293c2d4-285a-4e93-8c5c-90f557752cda",
+      "uuid": "3f594328-6c42-4068-8a01-59229dfb0f89",
       "type": "domain",
       "value": "365coinimprove.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "5da54b36-395f-4406-afd1-bfbfe4b5ab22",
+      "uuid": "7a74f7ac-929e-430a-91ea-22f8b3f832ab",
       "type": "domain",
       "value": "365coinimproving.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "6ac85018-f29e-420a-842a-56f4108a13d5",
+      "uuid": "2b260449-8a38-4ab0-80b9-7e9169290181",
       "type": "domain",
       "value": "365coininfluence.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "5364ee76-9d3b-4585-b042-2c549d7aa646",
+      "uuid": "4ce1b03a-95e4-41cf-8fc5-a334d75f6d1b",
       "type": "domain",
       "value": "365coininvest.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "45b478ea-c9c5-4ac9-bad8-4e22a46ce0d0",
+      "uuid": "8290f3b5-4584-4ccf-9919-e1cfc01ff8f7",
       "type": "domain",
       "value": "365coininvestment.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "be943bd6-bebc-4393-823c-5feb4c3bca09",
+      "uuid": "9167f128-4b46-41d3-a5f3-7b87d7fccdca",
       "type": "domain",
       "value": "365coinking.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "b7326362-5d76-4995-8d36-efa27f994f19",
+      "uuid": "4707ab92-4625-4071-aa67-de82412bbf9e",
       "type": "domain",
       "value": "365coinlead.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "53492ba5-36c1-4b94-873d-2f79487f376c",
+      "uuid": "41be556c-3abb-4cfd-8b02-703ba214ad82",
       "type": "domain",
       "value": "365coinllux.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "de7b325a-2936-400b-8f5e-29e81a230d19",
+      "uuid": "cc39e001-9e1c-44dd-8276-85f8b7709114",
       "type": "domain",
       "value": "365coinlux.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "6d6821a6-0d71-4219-8179-e32b8abfacf1",
+      "uuid": "56abda1b-6900-4f9d-a1d3-700c1b92e56e",
       "type": "domain",
       "value": "365coinluxury.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "9c5ad2b4-7a2c-48fd-90e2-519fb449be57",
+      "uuid": "2fe47042-787a-4218-ad92-ef1f221f7666",
       "type": "domain",
       "value": "365coinmaintain.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "a9229611-9db6-4f4b-bf9d-71b3e1a53ac4",
+      "uuid": "b40e77d2-53ae-4dfd-9ff8-1864ffbd0e0b",
       "type": "domain",
       "value": "365coinmark.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "7e6a7bd7-915b-4eb3-bf84-1e5367ebe160",
+      "uuid": "160ddb77-af05-4423-917e-571936b6a169",
       "type": "domain",
       "value": "365coinmarket.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "00955636-e6cd-4db0-9cf8-d6cdf9c9a1b0",
+      "uuid": "82ee41a1-1bbd-4564-a188-4ec2e5317191",
       "type": "domain",
       "value": "365coinmaster.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "c79bd442-eca6-4f69-a2fb-64672aa3ac75",
+      "uuid": "b86ccdef-1cee-40ec-9ef7-1c8df93347ff",
       "type": "domain",
       "value": "365coinmax.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "ae27b12c-f99a-47e0-b8ae-9c6f79560129",
+      "uuid": "164525fb-fc66-4e37-9db9-e3d68db2de1f",
       "type": "domain",
       "value": "365coinmeta.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "b6613fda-1f52-43ee-8d6c-b3101bb76c6c",
+      "uuid": "c2249cd5-8843-4ba0-bd93-657baae932b5",
       "type": "domain",
       "value": "365coinmnp.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "980793b8-f71b-451d-b0a8-af94e20ddf7e",
+      "uuid": "59a129cf-5115-4be9-95a7-2dbb4b0f1395",
       "type": "domain",
       "value": "365coinmode.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "cff72b75-dc5c-423f-ad7f-acab14b81b73",
+      "uuid": "2ddc9752-5b76-40c6-9aa6-78f076201f7f",
       "type": "domain",
       "value": "365coinmulti.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "f45aa59e-e89c-4566-be6d-1f6f36a256eb",
+      "uuid": "b03272cf-7ee6-4a81-9762-8e23a7e8ff6e",
       "type": "domain",
       "value": "365coinplatin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "f5c8187d-b65b-42eb-ac9f-8da2555f8066",
+      "uuid": "4dfd2217-98d4-48ac-81a1-db18114232c2",
       "type": "domain",
       "value": "365coinpowerful.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "d9336966-c399-4f06-ab37-afef9c2e25d5",
+      "uuid": "0bca7653-7261-4843-b508-fac34a3bb537",
       "type": "domain",
       "value": "365coinprecious.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "72a1228a-a13a-4d66-a774-016ded698491",
+      "uuid": "1ee8498a-40b7-4811-b459-286f12a5065e",
       "type": "domain",
       "value": "365coinpremise.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "45d453e4-102c-4acc-a723-a7429f8f90ff",
+      "uuid": "6bc3cfc8-301b-4164-a7d2-0581ac1b177f",
       "type": "domain",
       "value": "365coinprestige.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "993c231d-2028-4de2-8f5e-10d238600137",
+      "uuid": "875f8a9a-1ce5-45c8-a3db-a9abdbecda35",
       "type": "domain",
       "value": "365coinprestigious.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "7baafa7e-3981-4696-99ed-b188c9691e63",
+      "uuid": "498efcb1-5963-4072-88a0-8103e2615507",
       "type": "domain",
       "value": "365coinpriceless.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "7f36c815-573d-481e-aaa7-a624ada7ecb2",
+      "uuid": "08eda306-e14f-4307-a899-e00a54feb56d",
       "type": "domain",
       "value": "365coinpro.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "47538cfe-c057-4640-bb30-8af69c0cfbc9",
+      "uuid": "1e38b1eb-0582-46b8-8f2d-0693721604de",
       "type": "domain",
       "value": "365coinproduct.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "4812ff02-7401-4bf4-bec9-1a0390723cef",
+      "uuid": "42d2c1a8-553b-4ccc-bb24-81239a18b9af",
       "type": "domain",
       "value": "365coinprofit.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "b6959c3a-9e07-4797-b058-1d7afdbb9e7d",
+      "uuid": "7eff0c43-0bd8-4eca-9050-59a6df67707a",
       "type": "domain",
       "value": "365coinpromise.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "7ae23172-1460-41ab-b7d9-d0fdf63871cd",
+      "uuid": "af3851e2-8ee9-4aae-b353-7bc6fb6b06d5",
       "type": "domain",
       "value": "365coinpropelling.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "0e6ce419-e2eb-47ec-a21f-84fbb1099d18",
+      "uuid": "6d194669-3296-4317-a000-a7eb19bdb7b8",
       "type": "domain",
       "value": "365coinrise.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "7c1bcfcc-629c-4451-9dcd-ca465c740b58",
+      "uuid": "9c644e56-aead-4139-a785-9424ddf45e82",
       "type": "domain",
       "value": "365coinrising.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "27d75f14-5b66-4c74-9265-d3a60036d9f1",
+      "uuid": "9c8eeb7f-76a8-41c6-b0c6-718634bf057e",
       "type": "domain",
       "value": "365coinsafe.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "2129f626-8559-4f4e-be0c-14b9912eb03b",
+      "uuid": "b37e3b08-9805-4e58-a122-2f8003d7b412",
       "type": "domain",
       "value": "365coinsecured.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "73a4735b-14d4-4f6a-b214-868c2f403397",
+      "uuid": "cbf8e0eb-629c-411e-81b2-313e4e3c70d6",
       "type": "domain",
       "value": "365coinstack.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "19ee08a6-54f7-42d8-a825-be30c14f1f9e",
+      "uuid": "6a30e48b-0455-49bd-a477-20c3195f990b",
       "type": "domain",
       "value": "365coinstandard.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "cf50fa6b-02cb-499c-a384-eacfd9e8d5ee",
+      "uuid": "874d7d16-4999-41ab-83fd-499fa4ff7e66",
       "type": "domain",
       "value": "365coinsustain.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "a6130059-6fb0-4edf-91bd-90dd7e332f5d",
+      "uuid": "9e84143f-e400-45a3-9127-df2c6aee3ec8",
       "type": "domain",
       "value": "365coinsustainable.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "4ebc95bc-4ed9-41ad-9489-40b5d6edb2cb",
+      "uuid": "46df3de2-f8d1-418e-bcac-804e3c9b7152",
       "type": "domain",
       "value": "365cointeam.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "d6f9bb0f-1712-4634-b7b9-b06b1c07b4be",
+      "uuid": "bade0b39-3a2b-4fca-b394-48e773d94247",
       "type": "domain",
       "value": "365cointech.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "7f1bbb2c-f091-4d62-8dc4-e8f61f1efb6c",
+      "uuid": "ae67f559-9651-4d77-8519-f2b147755af9",
       "type": "domain",
       "value": "365cointecknet.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "9adf7403-4802-431f-b680-f494506a1a49",
+      "uuid": "333d2497-da3d-461a-8c0b-86a1166920f4",
       "type": "domain",
       "value": "365cointop.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "c9ab1f6b-d664-442c-bd43-6f10167422b9",
+      "uuid": "cab72e47-445f-4d72-b823-e3f332327249",
       "type": "domain",
       "value": "365cointp.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "c831cd21-0424-411c-8d89-06b3c8982b24",
+      "uuid": "07915e4c-1b7b-4f1a-88ce-a89042f685b6",
       "type": "domain",
       "value": "365cointrading.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "357743ee-2390-46b5-9565-9fc5b7c751e3",
+      "uuid": "674f087b-c912-4d68-bc87-1fbea14ce83e",
       "type": "domain",
       "value": "365cointrend.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "3970dcd1-fc2b-4c90-995a-d0ef914738b6",
+      "uuid": "e1b7248d-f599-458e-8df2-58ccbce0a9bd",
       "type": "domain",
       "value": "365cointrendy.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "ab71a31c-e23f-4146-9b10-0965a943403f",
+      "uuid": "05fe0564-aa09-4055-82ea-f6d9964de13d",
       "type": "domain",
       "value": "365cointsl.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "50d66ce3-f6f1-4f03-8c05-ba07a355f7e0",
+      "uuid": "aef23dcd-ebe6-40a0-a578-c7841abf3de1",
       "type": "domain",
       "value": "365coinunit.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "7eae22a2-db46-4bde-913a-c1827d7b79d0",
+      "uuid": "56480745-84e9-477e-b54c-98f85435934c",
       "type": "domain",
       "value": "365coinunited.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "d1d8fdcc-660c-4a02-bbeb-656e28994e9c",
+      "uuid": "aa5efb07-0077-4738-ae06-985f04a36eab",
       "type": "domain",
       "value": "365coinuprise.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "d24f543e-9dbd-4d6e-94d2-46218889fe05",
+      "uuid": "115677c8-ddc2-4095-9db9-4e479ae0b5e1",
       "type": "domain",
       "value": "365coinweb.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "6b210587-f4e4-448e-85cd-30da5c6edbe3",
+      "uuid": "6101635e-9848-4f2f-a47f-cab4a0508744",
       "type": "domain",
       "value": "365coinworld.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "08cd651d-af42-41de-ae45-12add1fd8e07",
+      "uuid": "8e768654-3ec9-4499-ad5f-c467f8714b58",
       "type": "domain",
       "value": "365corecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "35c5ac8e-6cef-4ce1-9460-fe8e4a0315a3",
+      "uuid": "8b2dfe22-128e-46d4-a8eb-78cd896b27ff",
       "type": "domain",
       "value": "365curiouscoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "244ba181-1f33-4bd4-868c-ac123f83aea0",
+      "uuid": "2d47af93-671a-497c-96de-250e62dbd923",
       "type": "domain",
       "value": "365deluxecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "e0a4f830-efc9-49c5-a5d0-54d65a4f929f",
+      "uuid": "f28fa1fc-bbf9-4e22-8e1d-b12b198ec44e",
       "type": "domain",
       "value": "365demandcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "9ea2e5e2-75ed-4950-a537-41f73173a9b0",
+      "uuid": "cb48ca60-f84c-4d80-af43-82082c043ffa",
       "type": "domain",
       "value": "365desiredcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "df163bc6-7aee-47ef-8c71-7f96149f20c4",
+      "uuid": "6c2b2091-22cb-4cc6-acc3-fbcdbab54469",
       "type": "domain",
       "value": "365deskcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "cb15d1b2-3813-4ddc-9d63-20e34b902570",
+      "uuid": "3970c27b-92ec-44bd-982e-07012a7632eb",
       "type": "domain",
       "value": "365deskmarket.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "7078c20a-9040-4e55-85d5-0fe94c65983c",
+      "uuid": "eefb4a9a-d9d1-4620-a1bd-fac29321b60a",
       "type": "domain",
       "value": "365domaincoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "4aaf1080-1a2b-4491-9879-c862ff5c7514",
+      "uuid": "f69354f6-16c5-4fd8-b931-6cc95faa25b4",
       "type": "domain",
       "value": "365egcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "ab254d65-09c9-4559-a5a3-91b73368f769",
+      "uuid": "04099f66-04dd-482c-8a35-95f80e567c18",
       "type": "domain",
       "value": "365expcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "c74c59cc-2e81-446a-a50b-ff02eeb17336",
+      "uuid": "1cf2db52-1f88-41a3-9439-d1c183408337",
       "type": "domain",
       "value": "365explorecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "6334d43c-1381-4814-9749-c252f66ee5e1",
+      "uuid": "40232144-2645-4c90-9e16-3570ee4602f2",
       "type": "domain",
       "value": "365expocoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "454b8eb6-21a7-48c0-9f3c-7da24a88215e",
+      "uuid": "870ced00-8cfa-4811-af14-fe535840cf1e",
       "type": "domain",
       "value": "365extracoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "1e064662-8cbf-454f-ae52-8159f46285bf",
+      "uuid": "b75fd98c-6d7d-4427-9608-c44d55c148b9",
       "type": "domain",
       "value": "365factorycoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "1e076faa-1202-4b27-9e38-23afe7cffd61",
+      "uuid": "af02bba4-25c4-4fd7-89f2-be3f2108e3cf",
       "type": "domain",
       "value": "365fascinatingcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "fd4d9e29-4a0f-49cf-a281-38e8ed18d7f9",
+      "uuid": "dfa381c5-c68b-4158-b216-27eb0cfa531b",
       "type": "domain",
       "value": "365feedcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "e065f2a2-9f2e-4efe-84bd-5afd1c091db9",
+      "uuid": "4c01c56c-ebfe-444a-9dfd-dd86f0f2f1ee",
       "type": "domain",
       "value": "365freshcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "2d159c6e-56f0-4b43-8447-e1c399cf7f40",
+      "uuid": "0af60b6c-f696-4ebd-812a-2e4340184683",
       "type": "domain",
       "value": "365freshestcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "53c85554-2c0a-4ea0-b88f-274e07f80791",
+      "uuid": "f856129e-fe85-407b-817a-f9fd5972ae0e",
       "type": "domain",
       "value": "365futurecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "2682a69d-227d-4f3e-aa5f-2166337f76f8",
+      "uuid": "ccaa7e6a-f289-4479-872f-e522d8f835a2",
       "type": "domain",
       "value": "365globecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "19c8e2fb-891f-4f2c-b54a-45c655b97161",
+      "uuid": "2b5bca26-288c-4481-9b80-e9c994a6f7fe",
       "type": "domain",
       "value": "365goldcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "1605d6a3-c258-48bb-9f01-5647cf690c7c",
+      "uuid": "46ab1b71-ad58-478c-bd5a-98d38a98a642",
       "type": "domain",
       "value": "365grandcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "3dbafc7d-510c-4bb5-8811-668466471f00",
+      "uuid": "32829af1-7c0c-47d5-a00a-28fcbad8dc12",
       "type": "domain",
       "value": "365grandecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "62ab315f-4283-4b8e-bf28-d472218a8515",
+      "uuid": "4f3ffa1d-a40b-492e-b38b-7d1fb3ca5208",
       "type": "domain",
       "value": "365greatcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "09a2dde7-ebd2-45d5-95a7-a1860c2023c6",
+      "uuid": "2f611008-277c-4ab8-a958-8e4256587e1d",
       "type": "domain",
       "value": "365greatestcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "d53f06c9-02a6-4530-9223-cb88f82e18d7",
+      "uuid": "5390cec2-29ea-4415-92c4-8f0bcca75ab0",
       "type": "domain",
       "value": "365hubcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "b42ebe47-c284-45f5-adf2-3e3c84fc61c4",
+      "uuid": "c2c1058f-4108-4aed-92fb-5d8189d3fa60",
       "type": "domain",
       "value": "365hugecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "7f99db92-fd29-4221-a038-89cfe664ac13",
+      "uuid": "b0937282-7ac3-4cac-8bc7-19c4a87c2cff",
       "type": "domain",
       "value": "365ideacoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "a8f09bf8-faf8-41b1-a2af-bfb598d28034",
+      "uuid": "b437912c-de93-4938-bf62-a829ee962011",
       "type": "domain",
       "value": "365idealcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "4eef1d00-d3eb-480e-93fc-19eef8013034",
+      "uuid": "2a78cf0b-61ad-4df9-b3f3-ce5272caab8f",
       "type": "domain",
       "value": "365impactcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "18bf33f4-2fcf-415b-a7ce-5e2861303a06",
+      "uuid": "0b738ec3-6b5e-46ac-9b5e-e7985dd0de65",
       "type": "domain",
       "value": "365improvecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "8290c8c2-a266-45b5-8681-4f488fd6a3c7",
+      "uuid": "bc4d419c-293b-460e-8f69-533bf356efab",
       "type": "domain",
       "value": "365improvingcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "975fdc53-f260-4399-b5da-b47e207ce19e",
+      "uuid": "310fb5ed-dd5a-43e1-95ed-3f5fbcc73edf",
       "type": "domain",
       "value": "365influencecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "61e64d86-d586-4862-afad-e5da6655352a",
+      "uuid": "e7e2adbc-eea4-4349-84e8-681ff97ee265",
       "type": "domain",
       "value": "365investmentcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "5d138d5e-bd04-4e3f-a53a-f040d90a8096",
+      "uuid": "c34f51a7-9a92-4f23-bab2-a3ee8a8f226a",
       "type": "domain",
       "value": "365kingcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "e53be4fb-91ab-459f-93b2-a2f801b68e39",
+      "uuid": "9477d648-cb0c-4775-82de-9124c4a77817",
       "type": "domain",
       "value": "365leadcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "4b6ba348-557f-415a-af92-e2bb5878eb23",
+      "uuid": "22a53e78-5293-4ea1-b2af-ea6151d2d331",
       "type": "domain",
       "value": "365lluxcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "f0cfb25d-ee7e-4b71-91d6-a629c4707993",
+      "uuid": "23d65304-77f5-4b64-ae9b-89aa2b3cee69",
       "type": "domain",
       "value": "365luxcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "3f7973fa-3f47-4e0a-8a7a-53b9bddd3fb8",
+      "uuid": "504965a8-fc11-48f8-b745-c2d01ff8f502",
       "type": "domain",
       "value": "365maintaincoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "7915bd67-7377-4716-bb4c-6b384defe482",
+      "uuid": "1455046d-9cdf-42d1-98e6-67245c49fde5",
       "type": "domain",
       "value": "365markcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "5c662bcb-9aa5-4d4d-8fe9-53df4174a40b",
+      "uuid": "e4dcd29f-04da-4940-ae8a-5a3b940cad53",
       "type": "domain",
       "value": "365marketcap.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "30de9167-5279-4fbf-b4e1-25b7da31f830",
+      "uuid": "3e048a7f-d333-4727-a527-a2b1ba25caed",
       "type": "domain",
       "value": "365marketcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "e7994cf8-3edc-498b-9cc3-195f3450b8cb",
+      "uuid": "b4c155bb-ff9e-43ca-a7cb-2dd32f899624",
       "type": "domain",
       "value": "365marketdesk.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "a8561d6d-13f2-4ed9-9f53-0dd0d2d891da",
+      "uuid": "4df358f8-ce64-4d9b-9a05-c2a08e3a8829",
       "type": "domain",
       "value": "365mastercoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "1cc21a09-86a0-43f7-885d-42ee7fc70d57",
+      "uuid": "c0ddd040-3724-4750-b63e-c2603cce06a9",
       "type": "domain",
       "value": "365maxcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "5131eafd-f32e-4d09-85f3-3696ebed3ff8",
+      "uuid": "e169d2d0-966b-4fe3-b0ec-2fc6076a265e",
       "type": "domain",
       "value": "365mnpcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "133018c5-d5cd-4200-804d-d31f47aaf8d9",
+      "uuid": "1403261a-36e9-4a15-a5ca-9f8bce080bc1",
       "type": "domain",
       "value": "365modecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "7fc9f057-2088-455e-ab61-ad1d60a1998b",
+      "uuid": "dddb0bab-47bb-41c3-932b-4e874d41679c",
       "type": "domain",
       "value": "365motratcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "7fdb9b5b-c670-49c9-a0e0-d3045fcaa4f5",
+      "uuid": "08034096-97b6-4b0c-9cf1-68a4aad00690",
       "type": "domain",
       "value": "365multicoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "e9692832-c095-476d-b82a-edf400d76406",
+      "uuid": "6acf124b-ddd0-47bf-ae1e-7069ae8645c1",
       "type": "domain",
       "value": "365nowcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "4580132f-270b-459c-aa4e-01cda52b87bd",
+      "uuid": "f4752d29-ff15-4915-ad31-2f4b38751d2d",
       "type": "domain",
       "value": "365platincap.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "e7b6bc2a-aacb-499b-a487-92d7a669ab55",
+      "uuid": "0ff23b5b-c778-4c22-8681-9e48c32b86e9",
       "type": "domain",
       "value": "365platincoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "daf61be9-df8e-4f73-b8cb-8eb631633101",
+      "uuid": "b0d08a5b-d948-47d9-b1fd-13b8264ae0a8",
       "type": "domain",
       "value": "365platindesk.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "27f05044-258c-492b-9ef7-72c2b1d41f0d",
+      "uuid": "82c4b81c-e655-404e-bdf6-6e3ee5caac86",
       "type": "domain",
       "value": "365powercoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "35d009dd-844f-415d-8073-42c21bca3d90",
+      "uuid": "b858663d-d0ef-4619-878a-84b4acba6814",
       "type": "domain",
       "value": "365powerfulcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "1be9cc18-72de-49cb-b6f0-400759f0c41f",
+      "uuid": "784ea157-3b23-4c91-bbab-d85fbd5178ed",
       "type": "domain",
       "value": "365preciouscoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "35d0e651-ba0a-4622-94e1-cbbd7cb943ac",
+      "uuid": "916ce53e-7984-452f-bce9-308e4f9c9c30",
       "type": "domain",
       "value": "365premisecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "888a4444-34dc-4c1a-81b6-12456c6c2325",
+      "uuid": "df7db1a0-d41d-4205-ae66-1e199e695368",
       "type": "domain",
       "value": "365prestigecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "ff3bc37d-85f9-4c48-a41b-df128fcdba8a",
+      "uuid": "35f7cacb-54cf-4ca8-bf67-c6aba55b7c63",
       "type": "domain",
       "value": "365prestigiouscoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "288acf5a-f146-493c-ab69-0bf57001c26b",
+      "uuid": "c620e58e-1119-472b-855c-4c0f6a8d5b92",
       "type": "domain",
       "value": "365pricelesscoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "39d8e1cb-91b0-4cda-beeb-33bdfa5c627c",
+      "uuid": "aaa035fd-7efa-4234-9b79-5f3bcd108780",
       "type": "domain",
       "value": "365procoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "2076dda4-8fd2-4d7f-a9e6-3eaca6303893",
+      "uuid": "84793874-29f7-4580-bceb-e60a9866767f",
       "type": "domain",
       "value": "365profitcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "fb15fd46-4606-47c5-b0eb-00fc5e8567b9",
+      "uuid": "fd06dfd1-060a-4fe9-a18a-ed5ca4b7959a",
       "type": "domain",
       "value": "365profxmarket.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "a2183d82-6400-4a32-b929-db9850e4d38b",
+      "uuid": "eb08fb41-4b54-4cae-9ef2-d90ff325ebe8",
       "type": "domain",
       "value": "365promisecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "0666e49e-592b-491a-ae74-9fdab84d3b8f",
+      "uuid": "506c5725-93d3-4893-aee2-260548f7b5a1",
       "type": "domain",
       "value": "365propellingcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "a619c0d9-ab74-4a85-804d-15e0eb14d9ab",
+      "uuid": "fde5b546-f271-4000-b293-6fcac6bfeb4a",
       "type": "domain",
       "value": "365prospectcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "95f8b557-c694-4219-9cbb-51792f5c5d22",
+      "uuid": "94234959-04e7-49d1-8f42-c94855b87760",
       "type": "domain",
       "value": "365prosperitycoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "fc81c67c-c6cb-402f-b6c4-ab7b6382b034",
+      "uuid": "12ac0876-3cff-41f0-b32a-9f175c39f604",
       "type": "domain",
       "value": "365risecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "814f9cff-753c-437c-9a91-29d09cb5538e",
+      "uuid": "05a03d04-c53d-45e7-a603-6aff1611f78d",
       "type": "domain",
       "value": "365risingcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "1dd25043-7425-4acc-afb4-1eb4caaa6dcb",
+      "uuid": "04aaa8b5-5bcf-4dde-a493-078142ed3550",
       "type": "domain",
       "value": "365safecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "d744ad3e-cbcf-41d9-9023-4837bd863439",
+      "uuid": "bf5b75cd-83a2-4659-bdc8-ee242095b798",
       "type": "domain",
       "value": "365securedcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "d21df38a-7d71-4a52-b0f3-61a42688163a",
+      "uuid": "5323bb1a-8489-4a41-971a-7f6e8c690cbb",
       "type": "domain",
       "value": "365smartcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "d82880e6-de82-42d4-b5a6-a2f0165af6b9",
+      "uuid": "405bd6d6-d990-4236-99b3-16bf5379ed09",
       "type": "domain",
       "value": "365stackcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "51d3f3ed-cf5d-459b-b0b7-106e26abb84a",
+      "uuid": "640a19ac-7023-44e1-b550-e0e19629d183",
       "type": "domain",
       "value": "365standardcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "77c860aa-8356-4c5a-ab9b-111139f62b64",
+      "uuid": "c6019326-efbb-42ec-8dc2-a467f764e982",
       "type": "domain",
       "value": "365sustainablecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "2273bb60-95ef-4557-b5a8-55c181d6079f",
+      "uuid": "13708777-4c0e-4d21-89b2-52d769bd876c",
       "type": "domain",
       "value": "365sustaincoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "49ca19fc-aeae-4252-a1ca-843d5991cfaa",
+      "uuid": "910aad2d-e895-4ca0-9e3a-55229c59d1d2",
       "type": "domain",
       "value": "365teamcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "32e2060e-1142-4ee5-a140-e84bd9debd7c",
+      "uuid": "ce7901c6-f0e0-4ffb-a9b1-3058b785ea12",
       "type": "domain",
       "value": "365techcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "371ef73c-a33d-4dfb-bced-a34c8427610e",
+      "uuid": "675bd489-74e4-4ca3-9c81-3e6dffa39584",
       "type": "domain",
       "value": "365tecknetcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "c6d53e23-58f4-4f5b-b708-a98c8a219d70",
+      "uuid": "8f17649c-c7de-43bc-827f-6ad5a748dd09",
       "type": "domain",
       "value": "365topcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "a587d4f5-33d9-4706-a5e8-92dbde3e1bdd",
+      "uuid": "36d391ec-d74b-4334-8722-c9615679f59d",
       "type": "domain",
       "value": "365tpcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "9a462141-07e4-4605-9920-af81a3396ba5",
+      "uuid": "3db4711a-ea77-44f2-966c-f909c98bffd7",
       "type": "domain",
       "value": "365tradecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "cc8ef42d-9040-4336-96aa-6dcfd7733077",
+      "uuid": "8288a3dd-602e-4419-9ff0-8399f4c634cd",
       "type": "domain",
       "value": "365tradingcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "0dfa18cb-cac7-4ac6-9c04-f9e747fc9b0a",
+      "uuid": "3986d663-45ad-42c9-9797-9bb194a58501",
       "type": "domain",
       "value": "365trendingcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "1c87ccb5-9150-478a-8c1b-b24bc75fb213",
+      "uuid": "b1f50661-3518-40b6-ae43-5c841ff5ff91",
       "type": "domain",
       "value": "365trendycoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "283026c4-4ed1-4a26-bb7d-af9713171fc4",
+      "uuid": "cd76c9cd-5895-45a4-b201-b9854ad90528",
       "type": "domain",
       "value": "365tslcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "75ad3a9c-5154-4911-b8f7-d7cadc1df17a",
+      "uuid": "f172a0ff-5929-421c-b982-bc8bd05550cd",
       "type": "domain",
       "value": "365unitcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "ea75c8b4-1542-43f6-9e20-1feeea6a0bf4",
+      "uuid": "c342700c-f44a-4137-b852-365967307023",
       "type": "domain",
       "value": "365unitedcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "09102a41-5980-4dec-9361-034b25848930",
+      "uuid": "a589dd66-0930-414b-af5c-e011e2de0fd1",
       "type": "domain",
       "value": "365uprisecoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "f2e2144d-de61-4d6a-8659-b3ee3901d5f5",
+      "uuid": "32c326a6-cd1d-4731-bece-2609aea3a1f6",
       "type": "domain",
       "value": "365webcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "12059d97-5a33-4048-8f2e-8ef3f974f926",
+      "uuid": "995c1e30-8319-4329-a203-2c07d4827f2d",
       "type": "domain",
       "value": "365worldcoin.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "66bbb1f9-1808-4e71-9443-dfc1475f27c9",
+      "uuid": "f7a721cd-b6d6-42ac-b78a-46ff00b33a1a",
       "type": "domain",
       "value": "spartan-trade.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-09"
     },
     {
-      "uuid": "82e140b2-691f-4471-b1f4-953d7cd9c4ed",
+      "uuid": "add91e6b-cc29-496d-8d1d-ad140be7a7f0",
       "type": "domain",
       "value": "networkfsi.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-09"
     },
     {
-      "uuid": "9ef1e5f6-8390-40ec-985c-094e7e21c624",
+      "uuid": "6e02a12a-297f-4567-b929-22bc120839c3",
       "type": "ip-dst",
       "value": "45.63.119.177",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-12-16"
     }
   ],
   "Orgc": {
     "name": "Infoblox",
     "orgc": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
   },
-  "info": "metacoin_cta_20221109_iocs"
+  "info": "metacoin_cta_20221109_iocs",
+  "date": "2022-11-09"
 }

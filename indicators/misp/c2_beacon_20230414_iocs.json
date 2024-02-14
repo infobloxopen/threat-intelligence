@@ -1,58 +1,65 @@
 {
-  "uuid": "9ee60897-610a-408d-8fa5-0510e8110406",
+  "uuid": "b6ac723c-111b-45dd-8ee4-1e6d9fc9e1ba",
   "Attribute": [
     {
-      "uuid": "fbf55a22-e45b-4abb-b574-59a59c01dfd8",
+      "uuid": "e3596f9e-405b-4bd3-9b59-3fe1d95e1790",
       "type": "domain",
       "value": "claudfront.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-02-08"
     },
     {
-      "uuid": "d2d497c8-75b0-4970-ace0-a21edc533d1a",
+      "uuid": "d6e2fe10-f54b-414e-84b2-9e26bae8d8b7",
       "type": "domain",
       "value": "allowlisted.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-04-07"
     },
     {
-      "uuid": "bfbfb61d-f39b-4436-b439-6a9f7352c1ee",
+      "uuid": "93fc1ccc-c96a-4604-9ca9-32bf1a457c2f",
       "type": "domain",
       "value": "atlas-upd.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-03-15"
     },
     {
-      "uuid": "67b264dd-4c43-498e-8280-93665f5d8aa0",
+      "uuid": "30449c07-2a87-4fad-b05f-341775d8161e",
       "type": "domain",
       "value": "ads-tm-glb.click",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-25"
     },
     {
-      "uuid": "ba2fb350-e2a8-4826-a7ca-d6d6c0eca205",
+      "uuid": "d6326a52-69ea-4d9f-9047-f2fe6bb81f88",
       "type": "domain",
       "value": "cbox4.ignorelist.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-04-07"
     },
     {
-      "uuid": "04364c74-e5e5-4082-b2cb-0ddedbcc8799",
+      "uuid": "674d4b4a-9d08-444c-9f1e-910b840e3bbc",
       "type": "domain",
       "value": "hsdps.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-04-11"
     }
   ],
   "Orgc": {
     "name": "Infoblox",
     "orgc": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
   },
-  "info": "c2_beacon_20230414_iocs"
+  "info": "c2_beacon_20230414_iocs",
+  "date": "2023-04-14"
 }

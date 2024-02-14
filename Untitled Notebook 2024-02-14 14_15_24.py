@@ -7,6 +7,16 @@ dbutils.library.restartPython()
 
 # COMMAND ----------
 
+import os
+import glob
+import pymisp
+import json
+import pandas as pd
+import datetime
+import re
+
+# COMMAND ----------
+
 MISP_ORG = 'Infoblox'
 MISP_ORG_UUID = 'D1C6A726-F132-4DDC-8180-CE3A5B778E65'
 
@@ -37,11 +47,7 @@ def map_type_to_misp_type(csv_type):
 
 # COMMAND ----------
 
-import os
-import glob
-import pymisp
-import json
-import pandas as pd
+
 
 # Define MISP configuration
 organization_id = MISP_ORG_UUID
@@ -75,6 +81,12 @@ for csv_filepath in csv_files:
     # Set MISP event attributes
     misp_event.info = os.path.basename(csv_filepath)[:-4]
 
+    try:
+        event_date = datetime.datetime.strptime(re.findall('202\d+',csv_filepath)[0],'%Y%m%d').date()
+        misp_event.date = event_date if event_date is not None else datetime.date.today()
+    except:
+        pass
+
     # Iterate over each row in the CSV data and add attributes to the MISP event
     for index, row in csv_data.iterrows():
         # attribute = pymisp.MISPAttribute()
@@ -83,7 +95,7 @@ for csv_filepath in csv_files:
         if a_type is None:
             print(row['type'])
         # attribute.category = 'Your category'  # Set the attribute category
-        misp_event.add_attribute(type=a_type, value=a_value)
+        misp_event.add_attribute(type=a_type, value=a_value, date=row['detected_date'])  # Add the date of the attribute
 
     # Convert MISP event to JSON
     misp_json = json.dumps(misp_event.to_json())

@@ -1,4162 +1,4682 @@
 {
-  "uuid": "c6536376-e0a7-4686-8e0f-43d13c61825d",
+  "uuid": "8d5774d4-6e7a-4854-bdbf-1f28c9ef9452",
   "Attribute": [
     {
-      "uuid": "e9aa59a2-cd5b-49f4-837d-65eed1b20c38",
+      "uuid": "e9e4f858-540b-4aa2-b5f7-53020afb9f3e",
       "type": "domain",
       "value": "247care.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-02"
     },
     {
-      "uuid": "527f1195-b579-44df-8070-bca78934628a",
+      "uuid": "eec04b8b-b561-473a-ac54-b4d471a9f01b",
       "type": "domain",
       "value": "247helpcare.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-18"
     },
     {
-      "uuid": "515e08e0-071d-43ab-a059-ad5d21c5443b",
+      "uuid": "307e7473-c394-45ee-90db-2bafd090dc8f",
       "type": "domain",
       "value": "247helppc.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a10bb4eb-1403-43bd-862f-44cd1634f84d",
+      "uuid": "b72a631f-612a-430f-bc08-3a7508db4560",
       "type": "domain",
       "value": "247secure.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-10"
     },
     {
-      "uuid": "ac02b12d-bd9c-4bf6-b012-b2dd9ecd48eb",
+      "uuid": "e4da2e6d-cb6d-41d5-b047-d686ad6b6559",
       "type": "domain",
       "value": "247us.support",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "5fa0f112-a161-48ee-8d23-fd61475fe591",
+      "uuid": "5ef72cdd-3f2f-4845-a8a9-02ae2a03a54d",
       "type": "domain",
       "value": "ahelps.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-09-23"
     },
     {
-      "uuid": "9243f7c8-98f1-4822-a06b-0ab60652a05a",
+      "uuid": "eef01992-273d-4351-b6c0-5f6e0f9e5fd4",
       "type": "domain",
       "value": "ahelps.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "d411f10f-12ec-48b7-a015-9e0247d3f813",
+      "uuid": "1651580b-593e-4a85-bda1-533820fab630",
       "type": "domain",
       "value": "amzsupport.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-21"
     },
     {
-      "uuid": "0f594a25-c6c3-4f1f-a8c8-6d7e95fd6694",
+      "uuid": "cc201a4d-6354-4b85-aadb-70381e5799fd",
       "type": "domain",
       "value": "ask4support.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "00e69f06-c059-47d6-92e4-da53583b0573",
+      "uuid": "e0dbe801-faba-497a-ac61-60a2db03c6b7",
       "type": "domain",
       "value": "bhelp.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "65b1d6e8-97c1-4d54-b0a6-30717b3f8034",
+      "uuid": "308a433c-46b7-4ce5-bfe5-86514612bdce",
       "type": "domain",
       "value": "bhelps.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "0d89f18d-830e-42e8-b04d-68dc7cb0bec5",
+      "uuid": "49a4027e-22b8-456d-b72b-e44875b2f6c8",
       "type": "domain",
       "value": "bhelps.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "697e2f3a-300d-4b10-af46-c4909a34db9a",
+      "uuid": "ab975449-aafb-44f1-b2e2-b5f437c8b468",
       "type": "domain",
       "value": "cancell.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-18"
     },
     {
-      "uuid": "8ff90248-3a44-4ed8-bbb0-85c63343761f",
+      "uuid": "3702a884-b017-4594-8a08-ec2fc8ee07d3",
       "type": "domain",
       "value": "cancell.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-12-10"
     },
     {
-      "uuid": "5bcdffb8-f535-41c9-b235-67f16642f614",
+      "uuid": "4dddd641-0dcc-4c65-9619-523b3d588936",
       "type": "domain",
       "value": "cancell.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-12-14"
     },
     {
-      "uuid": "d0728057-f73e-4b7d-9404-e1f3b5e47b16",
+      "uuid": "2e90c1c2-5522-4729-95d5-eaaf574057ab",
       "type": "domain",
       "value": "carehelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-10-29"
     },
     {
-      "uuid": "cd57b007-2d21-4b83-a2a4-a4dfb26fbbc7",
+      "uuid": "4476b50c-2eb9-4914-9e3e-039b1fdfb748",
       "type": "domain",
       "value": "carehelp.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-12-14"
     },
     {
-      "uuid": "7ce07049-b789-4979-ad46-a850f0d99cab",
+      "uuid": "01874b0c-1fe5-437c-bbde-0b65c6254933",
       "type": "domain",
       "value": "carehelp.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e9232049-d38f-4fee-98d4-412975108aa4",
+      "uuid": "12ea6257-7f79-480d-a6da-9bbdb3eebf2b",
       "type": "domain",
       "value": "careme.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "d111cdde-c429-4495-91a7-5f8d8ea0c8c8",
+      "uuid": "d2b1b81d-655f-4b82-a146-2cb88aeedf9e",
       "type": "domain",
       "value": "careme247.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "609c68f1-3284-4937-b6fb-9ec3c02689a8",
+      "uuid": "af10e93b-088b-4a7f-b4d1-2a3dcf4945e9",
       "type": "domain",
       "value": "cscare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-25"
     },
     {
-      "uuid": "99f51c78-aa2c-43f6-8e25-7493118fb21b",
+      "uuid": "4b640093-b400-4b1c-b9b6-08fb7d25f369",
       "type": "domain",
       "value": "custom01.top",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-11"
     },
     {
-      "uuid": "2994fc00-553a-454d-a9a2-1df2cb6581bc",
+      "uuid": "5e7f67e2-1fdd-4daf-b1fb-f197ce7ca9d2",
       "type": "domain",
       "value": "custom03.top",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-11"
     },
     {
-      "uuid": "5ded7c2d-ba0c-486f-95e7-3b11b5d4ac68",
+      "uuid": "28086e5a-050f-42e5-8a73-62a1aafc489f",
       "type": "domain",
       "value": "deskhelp.care",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "8d4337ca-a963-4456-95bb-fa3e3b69c4c1",
+      "uuid": "03898a82-2d45-4c1f-8ad3-de023055ad83",
       "type": "domain",
       "value": "dhelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "3d9e7f92-54fa-468a-9a95-98116c9dbd59",
+      "uuid": "2fffe52f-9606-4fdd-8634-ea30c20aa128",
       "type": "domain",
       "value": "dhelp.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "8bceb653-9abd-450d-a0a4-5d1756d7f908",
+      "uuid": "036be22d-3a03-43ab-ad5d-0394fdfb7077",
       "type": "domain",
       "value": "dhelps.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f0278945-c305-42bc-815c-b3ed8fecf3c4",
+      "uuid": "afad3797-d3c0-4ddc-b16c-97d676cc65b6",
       "type": "domain",
       "value": "fback.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "415310cc-106f-440b-8343-07e0e6af0062",
+      "uuid": "0f9f68be-8503-4459-b49e-bce2ae004b1d",
       "type": "domain",
       "value": "ghelps.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "d122bae2-8f6f-40c7-a08b-7e65f55eab30",
+      "uuid": "880322d4-8862-4fe7-8a3d-eacf117f837f",
       "type": "domain",
       "value": "gscare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-19"
     },
     {
-      "uuid": "b6e35113-8b4d-4cc8-971a-1e9a242dc9ac",
+      "uuid": "cb782e41-6540-45c1-8a92-75da1a1bc36f",
       "type": "domain",
       "value": "gscare.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-23"
     },
     {
-      "uuid": "300e404e-fc54-41ab-bd30-63c841e27669",
+      "uuid": "c139516f-8440-4698-9ddd-f64f55e0fe4b",
       "type": "domain",
       "value": "helpcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "09f8b82b-e85a-43a2-bd57-41abe7832484",
+      "uuid": "01113865-fc0a-4e9d-a0b1-581689b18a0d",
       "type": "domain",
       "value": "helpcare247.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "1257f7a5-d7b9-42f1-a587-3e007cb677f8",
+      "uuid": "ef6077cf-860f-4798-867b-d8463bdc9223",
       "type": "domain",
       "value": "hide03.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "c2135192-f1a1-4f24-81e2-c4e7f966074b",
+      "uuid": "4570a5f2-2b4f-4255-a00c-34f14d40306c",
       "type": "domain",
       "value": "hsupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "2d811578-2085-4933-bdb1-c6cdbb3545ac",
+      "uuid": "e98c2286-b481-4341-b66b-c2d82b3afa26",
       "type": "domain",
       "value": "ihelps.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a6eac7d7-5c69-4be5-a2ed-1b9654bb254c",
+      "uuid": "25843ca0-a547-4537-b752-891fe2ee843b",
       "type": "domain",
       "value": "itcare.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-04"
     },
     {
-      "uuid": "fffd95e5-c80e-4919-b67a-33ed0e0c169a",
+      "uuid": "87e24cf2-3a71-4d62-aa34-809f41663c85",
       "type": "domain",
       "value": "itcare247.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e23a2798-3fab-4d83-b92f-2f64398d329e",
+      "uuid": "d0268557-5895-4898-a583-1ce82a377d98",
       "type": "domain",
       "value": "jcare.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a41b8624-07cd-413e-9320-05116976c15f",
+      "uuid": "9e23f6ea-7990-4458-94a9-d0db0bddc8a4",
       "type": "domain",
       "value": "jhelp.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "58e28091-9f8d-49bb-a6c0-0a3c0f6b21ad",
+      "uuid": "88980e7b-a2aa-4154-82e2-11ac4eb5b9a8",
       "type": "domain",
       "value": "khelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-09-08"
     },
     {
-      "uuid": "bccb16d1-27ce-4762-8641-4f7572bb55b5",
+      "uuid": "89c86622-d9ca-45b1-9f83-3f8ea2e3db5d",
       "type": "domain",
       "value": "liveform.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "05cc3ac4-28d0-4ca1-8ab2-10c67c8b4247",
+      "uuid": "a34dccae-aea4-4eae-9c09-cce16eb4d20f",
       "type": "domain",
       "value": "mcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "90c8d099-67b6-4e7a-bd3f-a694d7756000",
+      "uuid": "8abc0c3b-7d40-42d9-9e55-cde248c0b20b",
       "type": "domain",
       "value": "mcare.help",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "fd81b447-d3ae-4b9a-8b14-a31439407293",
+      "uuid": "d90817cb-7e8b-4e3f-bedd-37b85dbdb07d",
       "type": "domain",
       "value": "melogin.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-09-20"
     },
     {
-      "uuid": "c5d9200b-53d8-40ca-b59e-df5de5f15bcf",
+      "uuid": "a01a2d17-2728-4bf0-a835-52d68cba6ce0",
       "type": "domain",
       "value": "melogin101.fun",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "aff25ddd-c52d-4535-8a46-c775f8229e04",
+      "uuid": "52795f01-5d54-479b-8aa9-d26746f01f92",
       "type": "domain",
       "value": "mhelp.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e437d56a-e6d8-414e-85e9-308392bd6eb6",
+      "uuid": "686602fb-5068-4162-b7db-b3e50569cb82",
       "type": "domain",
       "value": "mhelp.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "aa0eb0bf-d2c6-4810-95db-4e78f1966e4b",
+      "uuid": "c5789f95-0cad-44ab-b6a6-b6ca5c1b5916",
       "type": "domain",
       "value": "mhelps.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "26497722-9ac3-4f2d-8646-1bef8c7298a6",
+      "uuid": "76753228-9bc4-41bb-8e57-03e4f0ed4ddc",
       "type": "domain",
       "value": "mycare247.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-12-24"
     },
     {
-      "uuid": "9b9d34f5-3a3e-403b-bc6d-185b5e34e8b8",
+      "uuid": "99d8d0d9-6a68-4eb8-bccb-5c27a0aa760b",
       "type": "domain",
       "value": "myhelpcare.me",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "09595f84-0408-4cb7-a9c1-d46f1a0d4f75",
+      "uuid": "b7774b0c-185e-46ed-8437-1849165fdf8e",
       "type": "domain",
       "value": "nhelpcare.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "5f69e336-ef56-4fd0-a43f-823042e995e5",
+      "uuid": "c7add13d-109a-4a39-9ec2-416aad9d8131",
       "type": "domain",
       "value": "nhelpcare.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "d4fd57ba-bb79-401b-abcd-23be390306d2",
+      "uuid": "602d8a3b-71a3-4b26-b477-12c526b2ee10",
       "type": "domain",
       "value": "nntv.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "43372354-db70-4153-b329-b06686d236ef",
+      "uuid": "8f743837-22bf-4811-be98-efced73fafbc",
       "type": "domain",
       "value": "ntcare.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "be9dfc0b-7917-4d13-bd95-8376cdaafe35",
+      "uuid": "b54feecf-8a81-4985-9eef-333899cca167",
       "type": "domain",
       "value": "ntcare247.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-12-10"
     },
     {
-      "uuid": "780fd066-cf15-46d1-ba4b-64e2f4a736ae",
+      "uuid": "0a043415-27a8-4422-956b-12fc2977586f",
       "type": "domain",
       "value": "pahelp.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-12-19"
     },
     {
-      "uuid": "99450ef6-b219-4e4f-9c97-46c7ea5bfdec",
+      "uuid": "52d2a3ee-6852-47ad-9eeb-2a7868e1ffee",
       "type": "domain",
       "value": "payhelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b241427d-05fd-4479-9bb6-51ba147713aa",
+      "uuid": "f7bba16a-f6b0-4bf3-a06a-3e720ec47d8e",
       "type": "domain",
       "value": "pcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "26f22bbd-3810-4874-a5d6-057aa3546b6c",
+      "uuid": "ba3dd676-80f1-4414-905f-e30410945db9",
       "type": "domain",
       "value": "pcservice.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "8f41228a-fd49-4aab-ab42-9dbec466178b",
+      "uuid": "2a318f7e-0868-4bd5-b901-76a4c77f6bc3",
       "type": "domain",
       "value": "phelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b218ee08-2161-4b7c-9452-94c3a582b5d0",
+      "uuid": "657ca655-4058-440f-a6fe-cd30b23348bd",
       "type": "domain",
       "value": "phelp.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-30"
     },
     {
-      "uuid": "d10c6ecd-98b8-48c6-92ed-25dc7aba4919",
+      "uuid": "a91f8fde-2dd1-4151-8c71-a4e4aaf1713c",
       "type": "domain",
       "value": "qcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "fc4be92e-c9e5-423d-b37c-24e79905cd3d",
+      "uuid": "2aaa8691-9351-4af9-a81b-befd6544fbfc",
       "type": "domain",
       "value": "qhelp.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "bde607f7-0422-444e-b9b7-b1dd98d6d00a",
+      "uuid": "bcce399b-c8ba-4de8-b01d-13229aaa3fa3",
       "type": "domain",
       "value": "qhelps.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "74d0c012-ec7e-441b-bbe9-f4f128803673",
+      "uuid": "cb5f5bbc-3de3-4bd0-a6cb-180a0ec6b6d8",
       "type": "domain",
       "value": "rcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-01"
     },
     {
-      "uuid": "05adc454-7714-4bb7-bde4-b6f4f4ddad86",
+      "uuid": "4022dbf5-fe83-4458-a252-163a07650093",
       "type": "domain",
       "value": "rhelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b9b123bc-7f8f-496d-8dfc-2d367099da75",
+      "uuid": "dfdafc22-8227-40e4-9d41-d2ac4a4a3e39",
       "type": "domain",
       "value": "rhelp.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "429546df-0e5e-4cf2-ab84-dff69fcecd87",
+      "uuid": "2388e47f-ae30-4416-be61-85b278fda5dc",
       "type": "domain",
       "value": "rhelpcare.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e247a04e-798b-46f5-9e46-f76ac11be62b",
+      "uuid": "39824c59-960d-4e77-bfdf-6401205ca55f",
       "type": "domain",
       "value": "rhelps.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "774985fa-151c-4a73-ab9a-1e400886af0b",
+      "uuid": "96780f8a-f090-421d-94bb-5f6a4db2a9de",
       "type": "domain",
       "value": "rsdrs.top",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "306ec2f8-b39c-447f-9aa2-6edde98af8c0",
+      "uuid": "e7f55701-d6f1-47d5-befa-abbec40e0a4c",
       "type": "domain",
       "value": "rsfed.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "7619f7ed-6f25-4c00-bade-db938ef0ce09",
+      "uuid": "1839cfdd-01d0-4ac3-a84d-4d0e18b36297",
       "type": "domain",
       "value": "securesupport.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "15c8c0f6-ad6d-461f-9e03-c449adcca605",
+      "uuid": "75f868ad-5976-4db3-afbd-a42e821aeafc",
       "type": "domain",
       "value": "shelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-12-05"
     },
     {
-      "uuid": "fb5e6022-89aa-4ca3-88ee-c7485ea6fe92",
+      "uuid": "23056641-e021-4f7b-ad6e-fa11b147c2fb",
       "type": "domain",
       "value": "shelp.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "8ce07a6d-a8ba-4c89-af7c-003c7bc59245",
+      "uuid": "d210d9fa-a6c2-42a4-919c-0a3527ef23a0",
       "type": "domain",
       "value": "shelp.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "36f0090d-ca70-4df7-a268-077cc7b08166",
+      "uuid": "37ab2dbd-093a-4dd6-b9b8-adb47c39e518",
       "type": "domain",
       "value": "shelps.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "ba5be8bf-4a26-47b2-b4d3-2b2ae70e3824",
+      "uuid": "86da1496-1c3b-4b39-a7aa-4195031cce6a",
       "type": "domain",
       "value": "shelps.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b88b8b04-9799-448b-a173-5124546e818b",
+      "uuid": "188e3de1-ce2e-4fd9-8b4d-aed04cd6d982",
       "type": "domain",
       "value": "support01.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-28"
     },
     {
-      "uuid": "11a4b058-eaf0-40ce-a2de-f12c54a1c288",
+      "uuid": "9abd9ae5-1bfe-46d6-b56a-2347769bd711",
       "type": "domain",
       "value": "support01.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-12-07"
     },
     {
-      "uuid": "4aec0cb1-fe46-45c8-9964-3dc1eb4da656",
+      "uuid": "dc067dd0-1b2f-4058-b873-26f9cf1a4b3f",
       "type": "domain",
       "value": "techcare.life",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-26"
     },
     {
-      "uuid": "fe3dafa4-4dcb-4450-aafd-fea2f6432f3e",
+      "uuid": "3623fc92-c4a4-4831-b03a-fdd48ec36adf",
       "type": "domain",
       "value": "thelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-03"
     },
     {
-      "uuid": "3fda74e8-3e51-49f6-a0ca-820e13de1eab",
+      "uuid": "ee8f15ba-9fa0-40aa-8647-7c174b623ff3",
       "type": "domain",
       "value": "thelp.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "0bcce3fa-14c7-4359-b5e6-37399fa8ecde",
+      "uuid": "8f4aa760-8c1f-4b00-b8ab-283ce2c7ae79",
       "type": "domain",
       "value": "thelp.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f0d8266c-9808-4756-9ca4-81e7d5696afe",
+      "uuid": "56d13bf0-ee55-4954-b90c-b53d3abd13b0",
       "type": "domain",
       "value": "uhelp.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "69b547e3-b6dc-4f7e-ad29-57afcacecd94",
+      "uuid": "7a59c270-172f-4e64-9758-3a01f0798799",
       "type": "domain",
       "value": "uhelp.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "426c6a3a-c0c6-45a3-8fbc-222d1d71cba1",
+      "uuid": "66bf1108-b7a8-4e12-8b6f-2dedb7f10350",
       "type": "domain",
       "value": "vhelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "47166441-5727-4b54-989c-22ec45055593",
+      "uuid": "dfcc63de-193e-4918-a1a7-18496a1d1fbd",
       "type": "domain",
       "value": "vhelp.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "429e164b-a3a7-47a6-919c-f8138ea74961",
+      "uuid": "6725c303-9beb-475a-b977-1f98e6fec970",
       "type": "domain",
       "value": "vhelp.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "04ca2987-3870-41e5-9220-4675c7edf789",
+      "uuid": "df902143-57e4-46f1-beec-1650af55893a",
       "type": "domain",
       "value": "vhelps.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "de736f83-c600-4725-bd3f-e71265ffee3e",
+      "uuid": "bcad6fc6-cb92-4594-a488-910db40085f0",
       "type": "domain",
       "value": "vhelps.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "70bb3873-34e5-4c6a-a696-b22beebd0286",
+      "uuid": "e65b600a-3262-4a04-9774-4324be28b1ed",
       "type": "domain",
       "value": "wcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "be96c49f-becc-40f1-a5ee-42421fd4aa7b",
+      "uuid": "ce87d174-0484-4a32-8833-9593b910c92c",
       "type": "domain",
       "value": "wcare.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "5254b71c-a6e6-4895-94e7-2378d2c46977",
+      "uuid": "26f83554-7ef8-4db9-b9f1-50cbfaaff1ec",
       "type": "domain",
       "value": "whelp.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "8d2c8d4a-abdd-4155-859d-13f7ecb5cdb3",
+      "uuid": "aa6d9c82-fe8f-44a0-b3a9-11207b8e65b9",
       "type": "domain",
       "value": "win01.top",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-18"
     },
     {
-      "uuid": "b23ea074-501e-4551-bf42-f7d892c81b33",
+      "uuid": "9015595c-3546-4ac3-8260-79eafa6fa574",
       "type": "domain",
       "value": "win03.life",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-18"
     },
     {
-      "uuid": "a18caa00-8bb8-4727-a0d9-e506b7414f14",
+      "uuid": "f3c05504-156f-4192-8109-8e0f51f5dbef",
       "type": "domain",
       "value": "winbackup01.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "c52b233b-f7dd-48a3-8bef-12f47ca47c98",
+      "uuid": "947360be-05aa-40ba-beeb-2eb5e58ead79",
       "type": "domain",
       "value": "winbackup03.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "ff6f7b95-5d63-4e68-a90f-75582ab1a5eb",
+      "uuid": "08f0a897-02b0-419c-9781-5df1b28dfbc2",
       "type": "domain",
       "value": "windesk.top",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "5bf3e67c-3bce-4904-b145-457e2e3d7f83",
+      "uuid": "ccdb649a-d29b-4f09-9006-e9d148a1a52b",
       "type": "domain",
       "value": "yhelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-29"
     },
     {
-      "uuid": "712ae9e0-6be7-4b6c-876f-5e4675d04205",
+      "uuid": "91761f55-616e-47b6-b433-6bd912a10682",
       "type": "domain",
       "value": "yhelp.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "53626afb-b18d-4769-84a3-715d1e29ea5e",
+      "uuid": "cbba6519-e2ec-4355-bbb9-e0afd32956e0",
       "type": "domain",
       "value": "yhelp.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "091809c9-d69c-4274-937d-b0259aae461f",
+      "uuid": "7667b857-a938-4049-80fa-4a5af41dd671",
       "type": "domain",
       "value": "yhelp.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b557bed0-698d-4251-979e-01f22cfc611a",
+      "uuid": "6807b647-89c4-4bb7-890f-9e58bc75dc99",
       "type": "domain",
       "value": "yhelp.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "c36a5f5a-780b-4bf1-b2c7-0a8e900f5930",
+      "uuid": "22933baa-5f27-44d5-91a3-39e73dd1d3ff",
       "type": "domain",
       "value": "zcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-13"
     },
     {
-      "uuid": "78adc021-0b98-4c8d-91e8-d76e227327a7",
+      "uuid": "edbcdb40-5990-4c7c-94aa-e633c1928e46",
       "type": "domain",
       "value": "zhelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-12-28"
     },
     {
-      "uuid": "228aeb3e-3778-4857-b69b-ed27780e5a98",
+      "uuid": "dcada270-669d-43b4-9c8b-f98b9c9508ca",
       "type": "domain",
       "value": "zhelp.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "75f95a80-dde2-441c-af4b-53e8a348fcf4",
+      "uuid": "7b56ee60-e457-4e6a-a49b-c0a42945cd98",
       "type": "domain",
       "value": "zhelp.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "205f5e92-0608-4c25-8ba3-85abaaba1c67",
+      "uuid": "97a87d24-891a-4fad-96bd-253087b9083d",
       "type": "domain",
       "value": "zhelp.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b23b7a57-a09e-4e03-bc80-650921ab47b5",
+      "uuid": "7817873f-a553-4e79-8084-93af6c44c96c",
       "type": "domain",
       "value": "fsupportcare.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-02-01"
     },
     {
-      "uuid": "d858206a-d356-4681-a889-58fb2e3af5c9",
+      "uuid": "fab9ed00-05d7-42a4-aa9d-3d5fb7c73940",
       "type": "domain",
       "value": "mycare247.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "e5f6e757-e1ae-4464-9590-3d8f19a14c61",
+      "uuid": "64d07908-58ca-4054-b006-34c05d831713",
       "type": "domain",
       "value": "psupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "a37e7815-db73-451d-89f9-bc37c689ea9a",
+      "uuid": "15e218ea-ed09-4675-bc7e-698f65caa8ae",
       "type": "domain",
       "value": "windesk.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "c04fbf49-04b1-49b0-8d54-9f9272ccdb2a",
+      "uuid": "8331ead3-f6a6-4ec2-a0fd-b849ab6e6a26",
       "type": "domain",
       "value": "247secure.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-21"
     },
     {
-      "uuid": "93d79e14-6d06-47f7-a293-2f08f762e008",
+      "uuid": "04b2eb9e-8923-483e-acfe-7ff0f674ca2a",
       "type": "domain",
       "value": "deskcareme.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "56dba4ef-b447-4c19-9b79-41dac057bfb5",
+      "uuid": "9989b5c4-c3f5-4dba-946c-9b7bf41b95dc",
       "type": "domain",
       "value": "gscare.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "bca6a8d2-ab74-486a-986b-b6c76fa988b3",
+      "uuid": "0d0c9b65-502e-4a24-96bc-82364c34c0c0",
       "type": "domain",
       "value": "gscare.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "0e541a26-1177-4fb8-8475-f8c961987c42",
+      "uuid": "51ad4325-8680-4baf-b86a-aafe00c281ba",
       "type": "domain",
       "value": "hservice.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "f2ef6b96-0d09-41e4-aa2d-5a42d3c5e9dd",
+      "uuid": "754fe6cd-eb44-47d0-9652-c2cdd415adf6",
       "type": "domain",
       "value": "myhelpcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "f6eca7a2-db6c-41f7-8f39-836bb9c97747",
+      "uuid": "ba00cd21-ac40-4337-a21d-351dfe166a90",
       "type": "domain",
       "value": "myhelpcare.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "0ba55cec-7d5c-468a-8bbe-71735be6b719",
+      "uuid": "00897064-fd1b-442b-9195-40259c7ad7b4",
       "type": "domain",
       "value": "nhelpcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "8426d2ec-241a-49d9-9c14-83041f64fe19",
+      "uuid": "164b144e-debb-40c7-bf3c-20a989d2f076",
       "type": "domain",
       "value": "nhelpcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "cabbf202-08c8-4f9a-a803-b9b982cf221c",
+      "uuid": "7084dec3-aa8a-4cab-be00-ba1a16fe4ae7",
       "type": "domain",
       "value": "nhelpcare.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "c63bdeaf-8e06-48a3-aff4-dcb60d814dc3",
+      "uuid": "c75c3148-bb59-481d-884c-637b7b09d540",
       "type": "domain",
       "value": "win01.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "8eb8f909-2c35-4afe-b17b-ce9da057efc1",
+      "uuid": "b70660ae-1b8b-4a9e-a027-e011544462e5",
       "type": "domain",
       "value": "win03.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "f6cffc7e-2d6d-40de-b5b7-88e033f6ead5",
+      "uuid": "dcb6e60d-63aa-4be1-bb6e-33aef5fa9680",
       "type": "domain",
       "value": "1001.to",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "23bd4cb9-52c7-4d48-b1e2-768c401a3d28",
+      "uuid": "e93719f7-24af-4e10-ac8d-add2373e60ed",
       "type": "domain",
       "value": "247bestbuy.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-09-17"
     },
     {
-      "uuid": "912cfbeb-3e08-4f2f-ad3a-697f4cef46ea",
+      "uuid": "2ffa9ffa-5798-46dd-93c8-caa5b1bedb72",
       "type": "domain",
       "value": "247bestbuy.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-15"
     },
     {
-      "uuid": "62ca438c-706b-40ea-b206-17ce4b0a9e76",
+      "uuid": "84dd25e9-2472-4d3b-b86b-5f1c2257b7fb",
       "type": "domain",
       "value": "247gscare.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "dbcc49b9-287b-4ff4-b3b6-5642d433b45f",
+      "uuid": "eb8294f2-18ac-46e6-b230-8bd9bb200464",
       "type": "domain",
       "value": "247help.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "879d3403-d5b4-4f18-9259-55cc57fa015f",
+      "uuid": "0ab9450f-620e-4b7f-99fe-9c2552410492",
       "type": "domain",
       "value": "247support.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "4325ead4-0f8e-4bb6-8532-836fa41450d9",
+      "uuid": "d2258b9a-608a-45d8-92bc-d2a59b146cf4",
       "type": "domain",
       "value": "247support.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "4a0d28f9-ee7f-4054-b23f-d4a11af41455",
+      "uuid": "cd332d84-ce54-4ef3-87a0-47f46127e038",
       "type": "domain",
       "value": "247supportme.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "dcc1ab9c-6c0e-4bdb-803c-ba98b2ce7996",
+      "uuid": "adbcd819-1cff-4b81-8e5a-4c81fe3e9337",
       "type": "domain",
       "value": "247supportme.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "80721900-d7b2-4a98-aff9-a77f182ab601",
+      "uuid": "530304fa-fed5-4422-9d69-32ffc2c8b51f",
       "type": "domain",
       "value": "9115.to",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "ef29da3e-cc3e-4f91-bdee-8bd504923c43",
+      "uuid": "7f630c60-38a0-4e46-a38b-4e5ed1b4955b",
       "type": "domain",
       "value": "91158.to",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "d2f650a2-ca86-439b-b04f-af91334b938b",
+      "uuid": "5a72abe8-d41d-4fb9-b3e8-19f5b56c6c04",
       "type": "domain",
       "value": "9190.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "38c4dc78-c4d6-4aa6-99a5-cfcdce37904e",
+      "uuid": "eba47a93-ad99-4713-a938-01ca9300c95a",
       "type": "domain",
       "value": "9199.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "3159c792-368f-412a-a9cf-58d4d1384a3f",
+      "uuid": "cb5d2ab5-e3d9-49ab-9a84-ffd6238e67f1",
       "type": "domain",
       "value": "9220.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f491e7f4-4f1c-477b-87b2-b5feb0f8dee4",
+      "uuid": "2aa3d10b-8044-47d6-befa-0535c88b70fe",
       "type": "domain",
       "value": "acare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-09-01"
     },
     {
-      "uuid": "7b0ca343-ea08-44f1-841f-88791bd1afb8",
+      "uuid": "8c09cd8d-cd05-40ef-a9fb-387f9bae204a",
       "type": "domain",
       "value": "acareme.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-10-01"
     },
     {
-      "uuid": "ab53ab23-4635-440b-9271-e3e812f79135",
+      "uuid": "b3597da9-7d04-4611-809a-ad9ef6fc8707",
       "type": "domain",
       "value": "acaresupport.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f470bd13-b0c1-46d4-a987-49688e796945",
+      "uuid": "84ea4c35-6883-4f5d-96ae-c01e616883ee",
       "type": "domain",
       "value": "ahelp.care",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-09-21"
     },
     {
-      "uuid": "ccb037c7-6bb6-42ba-81c7-9a76bdca932a",
+      "uuid": "94bcfdbc-b79f-429c-984d-f43b6e690a53",
       "type": "domain",
       "value": "ahelps.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "85cedd13-4bc0-421b-be81-61b7c4530701",
+      "uuid": "f974de90-3842-4091-81a3-23c46e1b2ec3",
       "type": "domain",
       "value": "amaznhelp.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "42fe4aa0-54f8-4f6c-982d-1e9dfb9e943e",
+      "uuid": "0cec49f1-511c-47ad-943f-90c77af113fa",
       "type": "domain",
       "value": "amazonserver.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-15"
     },
     {
-      "uuid": "4aca6ef2-ec29-4684-9587-802006ed5d59",
+      "uuid": "c07cd977-1ed5-4f83-898e-be0f4156af83",
       "type": "domain",
       "value": "amjhelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "14e9e9c6-a4a5-44dd-9c7a-dd1157974141",
+      "uuid": "076d35bc-cc01-4a22-8d02-db4a1354bde3",
       "type": "domain",
       "value": "amzcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "00eaceac-d1f9-4464-a422-8560f2a7d6f7",
+      "uuid": "210ef0de-3ad4-4582-b434-9b627fd36f75",
       "type": "domain",
       "value": "amzcare.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f862f2de-5cc5-4021-97f2-ba46b09dbe2c",
+      "uuid": "18e8a035-1fd7-464c-aa4c-c7b6cafd8a44",
       "type": "domain",
       "value": "amzcare.uk",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "de56bbca-fd0d-4a38-b2b1-a579edb18873",
+      "uuid": "6142cf54-0eb7-4ccf-8690-3ec26eb9bfca",
       "type": "domain",
       "value": "amzhelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "75b346b0-2a4f-45b2-9ffc-6a57f137b3dd",
+      "uuid": "a7e275cb-f527-4be3-906a-f4426e493a41",
       "type": "domain",
       "value": "amzhelp.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "098f7ab8-d256-4d58-82cf-650567045d8a",
+      "uuid": "6b410c37-eb0c-4324-a687-a680de52696c",
       "type": "domain",
       "value": "amzhelp.uk",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "4b32a413-6c1c-4a23-b515-858900663b59",
+      "uuid": "981355f5-0df0-4ad2-af36-bf23a1782e18",
       "type": "domain",
       "value": "amzhelps.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "322682f0-6809-4608-bd23-12d42d85f276",
+      "uuid": "fb5e5321-ded6-412d-80ba-1d8887992e65",
       "type": "domain",
       "value": "amzndesk.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "701b7aaf-0971-45a6-9f58-b13333afc056",
+      "uuid": "4651a099-2358-43e5-8831-521fa594ecf3",
       "type": "domain",
       "value": "amzndesk.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e7eb4963-4e91-4156-96a2-51e01f0899f6",
+      "uuid": "8be15086-0891-4c7e-a887-1c14d9fa631f",
       "type": "domain",
       "value": "amznsupport.me",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e65d52de-0bff-43aa-80a7-a45c715a57db",
+      "uuid": "5e13ac63-e8f5-4e3c-8af5-edf9b3ae0cfd",
       "type": "domain",
       "value": "amzsupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "d8082c2a-e07c-49da-9294-b331256b6fc5",
+      "uuid": "86996148-c7b6-4856-b759-8d0091b6e9a3",
       "type": "domain",
       "value": "amzsupport.top",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "636a0c06-ef1f-45e4-a2e9-3e704aba6c84",
+      "uuid": "a6bbd3de-22ef-43e9-b803-c6c28d93a97c",
       "type": "domain",
       "value": "amzsupports.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "db639749-5293-4d09-aa6e-e7ba6457e54d",
+      "uuid": "d2da841d-396f-45dd-9cf6-25c740d7d52b",
       "type": "domain",
       "value": "appsdesk.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "7c0b51d0-3862-4f9d-9590-cf0190cb19fd",
+      "uuid": "fbc54535-ed8a-49a5-b823-976245db04e9",
       "type": "domain",
       "value": "asecures.top",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b9b9dab1-9105-4334-a84d-c1ae01a6caf3",
+      "uuid": "b8d76c81-0eff-4baf-ab2d-bdb9cfb23d64",
       "type": "domain",
       "value": "ask4support.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "2a43779e-09fe-408e-8bca-2cbc9ec79545",
+      "uuid": "52786225-349d-4299-a5a6-5b25c8781c4f",
       "type": "domain",
       "value": "ask4support.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "6445cff5-4b6a-4512-b8f2-81f7195c8c74",
+      "uuid": "1b0101e9-ca04-40f5-b31a-1d2728740c09",
       "type": "domain",
       "value": "asupport.care",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-09-01"
     },
     {
-      "uuid": "e17144f9-d939-4c47-8b52-2ca01822db1a",
+      "uuid": "8375d264-ead6-4d04-819b-c648a7cfd57b",
       "type": "domain",
       "value": "asupport.me",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "3f10cecf-a975-42ce-bfb9-378c2aed32cc",
+      "uuid": "eb2b0823-d6e2-42da-b17c-b7c2467e4cdf",
       "type": "domain",
       "value": "asupport.services",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "9df538e9-49c1-4952-a20e-314b93e1d922",
+      "uuid": "d8769fc3-daa9-4dfc-922b-141f59b08429",
       "type": "domain",
       "value": "asupports.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "1cf54e4c-b1b6-4391-95b3-80a90cc40fc1",
+      "uuid": "ef9f9113-e326-4d9d-8a9f-8d62fb9c79c4",
       "type": "domain",
       "value": "asupports.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "4ead4b13-6ffc-4867-9c04-3f9f2e44bcad",
+      "uuid": "53b80222-8b04-40e1-bc18-0ef9b11872fc",
       "type": "domain",
       "value": "asupports.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "3cc2e0ba-1dff-4700-9067-7bfc319de643",
+      "uuid": "d12bb4ee-9308-4243-941e-20bfe145c9b2",
       "type": "domain",
       "value": "asupports.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e7a4fc57-0035-40e1-97ce-cddc070e1a9b",
+      "uuid": "0968f573-4734-4293-9855-1301b391dde3",
       "type": "domain",
       "value": "azhelpdesk.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "2527f0fd-7c87-42b2-b4a0-9db240047243",
+      "uuid": "dc545575-e8a8-4ecd-98df-db809262e87f",
       "type": "domain",
       "value": "backup02.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "7b2c2737-f2f7-4598-9869-37345d5ae34f",
+      "uuid": "a3b439a0-d1d5-422d-8a6a-f21d7adb3444",
       "type": "domain",
       "value": "bankingcare.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f319559f-ae73-4b6c-b510-ba206381dcb1",
+      "uuid": "eea9a0b1-733a-4ac2-a923-22e4060936c7",
       "type": "domain",
       "value": "bbbrefund.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "c5b54d18-827c-4be3-b356-e3f73e78f746",
+      "uuid": "3e736f7b-02c6-4881-bcfd-d07c25e01d48",
       "type": "domain",
       "value": "bbbrefund.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "2288936c-5eb3-41d1-9a82-b46715939d94",
+      "uuid": "f59be95c-ce79-4fa4-92ed-e39d75074130",
       "type": "domain",
       "value": "bbhelp.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "afa0cdd7-1fec-46cb-9725-f6cfdaef0400",
+      "uuid": "290b95a7-4356-43b9-a253-45942a4af949",
       "type": "domain",
       "value": "bbhelp.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "74dffdce-73cf-4506-82df-1de05fc24f19",
+      "uuid": "8f2da7ce-8332-4d31-b846-befb5a7ad7a4",
       "type": "domain",
       "value": "bcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "bdaa58a0-09d7-4600-92aa-53418c386c1f",
+      "uuid": "d71e4838-5acf-4b12-93b7-f364008a341f",
       "type": "domain",
       "value": "bcares.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "fd294cea-6378-416e-be2c-5366a46bba26",
+      "uuid": "513308e1-32df-4fd5-bb0b-531a02485926",
       "type": "domain",
       "value": "bestbuyhelp.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-24"
     },
     {
-      "uuid": "363c01f5-645c-424e-9dff-5fc04df5a407",
+      "uuid": "1403b105-f773-4604-b3e7-1f60f793fdf5",
       "type": "domain",
       "value": "bhelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "16a40940-7811-4d9e-8392-c12c726cdbc9",
+      "uuid": "d9035fee-7d7a-41eb-9c75-084e44b2fb7e",
       "type": "domain",
       "value": "bhelp.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "70dadd68-69cf-4ad5-bb47-36bd643b1f61",
+      "uuid": "1c272998-1a2f-4bd5-ba92-000a19ce5196",
       "type": "domain",
       "value": "billingform.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "251b7780-3895-4239-9935-4c1af402f45a",
+      "uuid": "893eb553-81e9-4001-bcb6-b468d3085a03",
       "type": "domain",
       "value": "billingsdept.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "3c12c94b-0f68-43d9-90ff-a44db52142bf",
+      "uuid": "84707237-371e-4cdb-91e9-62acbd90188c",
       "type": "domain",
       "value": "billingteam.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "2a9f3275-bd32-414e-a0a2-274d4ea621e1",
+      "uuid": "9253e32a-349f-4f7c-a66c-6e5add8bf9fd",
       "type": "domain",
       "value": "billingteam.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "c71c5264-6b3e-4f44-8247-16b38c4631cb",
+      "uuid": "6c1a4ed8-cc3b-4caa-9571-6c548e2ffdad",
       "type": "domain",
       "value": "billingteam.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "81f56b54-bf10-4f94-a359-4427acdbc161",
+      "uuid": "ab831508-53bb-45d9-985a-9bec2f02ca9e",
       "type": "domain",
       "value": "billingteams.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e51ce425-b08e-4dfe-ad98-f053711eb504",
+      "uuid": "1b8e8be6-fa77-435f-a32b-d3ade217493b",
       "type": "domain",
       "value": "bsupport.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "0bd71981-a856-4fc0-ae45-b856d16b838e",
+      "uuid": "42e86428-8913-471a-ad4a-3a40ba51d344",
       "type": "domain",
       "value": "bsupports.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "46ca1b2f-dba8-4ab0-8a61-d4306c05ca49",
+      "uuid": "46d24aae-b7df-47e0-8c90-ec8bdfbbf9d5",
       "type": "domain",
       "value": "bteam.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "5b73c972-6ba8-4ee5-bcea-e907c5c2c899",
+      "uuid": "278b9032-965b-41d7-b559-bde82d8e1f16",
       "type": "domain",
       "value": "buggu.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a00bcff3-a08e-4668-8a5f-498edd913bcd",
+      "uuid": "2f840f2e-5c33-45b0-9945-3c0474de2cd7",
       "type": "domain",
       "value": "cancel1.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "12979c17-f771-4110-bcba-88d9fa503a3a",
+      "uuid": "7da56142-e125-4b22-82ca-82e1d338d7bc",
       "type": "domain",
       "value": "cancel2.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b403822d-492f-4466-830d-6c0356a0862a",
+      "uuid": "8785ffb0-9d02-4ea4-b2d8-d5813f560379",
       "type": "domain",
       "value": "cancel3.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b694e829-8398-43b9-afbb-e59504f805da",
+      "uuid": "a9612208-6045-4834-874c-7988d76092d1",
       "type": "domain",
       "value": "cancel786.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "d2342f4a-b463-4d0f-ac4f-51ec94384845",
+      "uuid": "f387b10d-45fe-4115-81fe-43e0e9c3c2a0",
       "type": "domain",
       "value": "cancelforms.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "ba8f4690-3db9-4346-a156-f02dfca96079",
+      "uuid": "e872a795-53ce-4929-981e-1cd4e79470d3",
       "type": "domain",
       "value": "cancell.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-12-17"
     },
     {
-      "uuid": "fb883e9b-f06c-45c4-9f17-d0ad7f52ff41",
+      "uuid": "1399b357-1bde-4a56-b44b-d940a91a3621",
       "type": "domain",
       "value": "cancell.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "81f4ef94-7459-4e92-bccb-e0313163bcd7",
+      "uuid": "3c52c321-7a3d-4cb7-a0e1-529afbcc4dd2",
       "type": "domain",
       "value": "cancellationsupport.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "06367369-6bce-459f-a28b-8dcd267755b4",
+      "uuid": "921113d2-033b-4ce4-9f4f-1b99a8b646cf",
       "type": "domain",
       "value": "cancellationsupport.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "177e9237-0ff9-41bd-8e10-3980099ebf37",
+      "uuid": "13cea6fd-bf76-4a00-bf4b-e92cd76a2660",
       "type": "domain",
       "value": "cancellationsupprts.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e7a1842d-d392-400f-89f1-35fb8878e563",
+      "uuid": "7b0a35b7-9d48-4ee3-bcff-a5cd66ce85c1",
       "type": "domain",
       "value": "cancelnow.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "38c66f34-70bc-4352-bb88-133caac5f96e",
+      "uuid": "8a79ef78-49f4-49d0-a104-fecfa3b9892d",
       "type": "domain",
       "value": "cancels.services",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "930eb192-71e4-4d36-b54c-8201dcbe9301",
+      "uuid": "ce3701ff-9098-481e-9e04-14ca1cb0a221",
       "type": "domain",
       "value": "cancels.support",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "4144b371-2b07-49da-aa1a-aa91f8b4cd09",
+      "uuid": "bb6efbb2-6051-412a-af31-c1828dd165e6",
       "type": "domain",
       "value": "carehelp.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-09-24"
     },
     {
-      "uuid": "67c2edb7-39cd-4823-9236-c85fcc8d0f78",
+      "uuid": "352a5106-c1f5-412e-9cb1-26d063a8ea32",
       "type": "domain",
       "value": "cform.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "bca15e95-d204-403d-8a6b-d7e9a80621c2",
+      "uuid": "61a3e084-0d36-4e76-8f48-f427e3cbb41b",
       "type": "domain",
       "value": "cform.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "50485807-6fff-4196-9011-b541f10bdc4c",
+      "uuid": "af31ee05-4368-4135-86a9-3f1b632fbf73",
       "type": "domain",
       "value": "chelp.care",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "8c1c50ea-5120-4429-aa78-9b5f9de944be",
+      "uuid": "84986218-ec16-4472-8ba9-55dc2ecd1e59",
       "type": "domain",
       "value": "chelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "26ce160c-5ba6-4b80-b32d-5db067f4da60",
+      "uuid": "b1c17c6d-0026-4663-b70d-f013724962cd",
       "type": "domain",
       "value": "cscare.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "72c7b31b-0c08-4f4f-9cd1-e0c2090a5568",
+      "uuid": "fdba0743-df23-4578-a8f1-a82e628bcd86",
       "type": "domain",
       "value": "cscare.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-25"
     },
     {
-      "uuid": "4209bacb-cb13-412f-ab64-8dd1f3a920d8",
+      "uuid": "1469bd3a-f9bd-4945-b076-d13fe310b7e0",
       "type": "domain",
       "value": "csupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f2902313-2406-400a-b264-6972c1bb456a",
+      "uuid": "36cbc1a5-3805-43f1-9b0b-60bbe7f09edb",
       "type": "domain",
       "value": "cxsupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "2c598d91-6b91-485b-9ea3-08163391b3de",
+      "uuid": "433ec8d8-4f12-4eee-b9a9-dab3e6612c89",
       "type": "domain",
       "value": "cxsupports.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "62250e87-96b3-41ea-adb4-1feb128f3717",
+      "uuid": "d1af353d-e980-41cd-9442-f8f477262ddb",
       "type": "domain",
       "value": "dcare.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "1c6dc858-7d42-491a-ae94-8a99e3b6de74",
+      "uuid": "dcd2a84a-ae26-4b22-8043-6d3bef64362a",
       "type": "domain",
       "value": "deskcare.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "79d6be0a-7339-4763-8113-c9a9ee360a48",
+      "uuid": "9aa3103e-eaba-4707-9619-ceee6cdc9e55",
       "type": "domain",
       "value": "deskcareme.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "0fd485e4-48c8-464c-affd-563f612969f8",
+      "uuid": "d52a963b-cb38-47da-8223-1afe1cd28131",
       "type": "domain",
       "value": "deskcares.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "9b3e0795-4f28-46bb-8e30-2ab127bdba88",
+      "uuid": "ce63b965-4373-4f45-89cc-de4037c41f26",
       "type": "domain",
       "value": "deskcares.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "037eb69d-707a-457d-8ac5-4265f2b29816",
+      "uuid": "e4f7bba7-c85c-48b1-b7bf-46ce5ea68a6f",
       "type": "domain",
       "value": "deskhelps.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "c8a0ee27-575e-4853-9738-f8face9326e2",
+      "uuid": "c747ab99-2b6d-4175-a6f4-4dba0bf59074",
       "type": "domain",
       "value": "desksupports.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "2ad1f367-5bf9-481e-84bf-10ae846bffd8",
+      "uuid": "a8d53266-e754-43ac-af1f-8d451a752d8a",
       "type": "domain",
       "value": "desksupports.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "67de5bbb-42b2-48aa-90f4-4fa5ddb467c8",
+      "uuid": "7037dcd2-a6a4-439b-ac0e-32be0ae752b7",
       "type": "domain",
       "value": "desksupports.net",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "238d13e8-cfad-4fbd-8a3b-0e4f55f969b3",
+      "uuid": "32011130-ffeb-466a-8b7f-0ccef33d6875",
       "type": "domain",
       "value": "desksupports.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f8e3112b-0219-40e1-9004-1a7517586cbb",
+      "uuid": "e03602d2-51ba-449d-a01c-4383495594f0",
       "type": "domain",
       "value": "dsupport.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "08f55e23-e8c7-47d0-8b30-ecdc89623374",
+      "uuid": "0ee0a3e9-396a-4f30-b5ef-fc4027faf0dc",
       "type": "domain",
       "value": "dsupport.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "9b65d62f-f362-4c5e-96dd-60c41609b21f",
+      "uuid": "91b8de7e-cbb1-4ffa-b5a6-9850afd798e1",
       "type": "domain",
       "value": "esupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "ec997360-fcb7-44f8-8421-dcccc6fc432e",
+      "uuid": "3347061a-44c6-49fb-850c-e5083fe7c5e6",
       "type": "domain",
       "value": "fcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a2128b70-6b9c-4e49-a41c-b6200da1e10d",
+      "uuid": "334da970-ca47-4ce5-9e81-23aef629ae41",
       "type": "domain",
       "value": "fcare.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "6a20632b-015a-429b-9526-5cc4d58bb6cb",
+      "uuid": "b77a476c-fa2e-4037-8716-bf03cad70d06",
       "type": "domain",
       "value": "fhelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "632aa000-94bf-4576-95bd-d214079beaa3",
+      "uuid": "ff329eb2-ec39-4220-9ff1-ec36b6c19fe6",
       "type": "domain",
       "value": "fhelps.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b90c4377-3da7-4b4b-82ed-b4d6f051230b",
+      "uuid": "ec26f4e2-64de-45d3-9fcc-dda7c5698a24",
       "type": "domain",
       "value": "firsto.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "216c474c-41b3-47a5-95f2-0bdb35dc3733",
+      "uuid": "2324bdb4-151c-4457-a677-fcfe97598e27",
       "type": "domain",
       "value": "firsto.top",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "5417f4a7-0ab2-41a0-9df1-b28bb37f7b3f",
+      "uuid": "fce18183-1cb3-483c-8cba-8e04157ca050",
       "type": "domain",
       "value": "formlive.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "66d006f3-ab05-4507-b466-ba98439ecda3",
+      "uuid": "5d63a556-ae60-4fe6-a951-1b48ebea1951",
       "type": "domain",
       "value": "formlive.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "249dedd5-16cf-4c5e-a279-52a3331c6a6f",
+      "uuid": "1cefee49-2ae6-4677-b1d5-cb7025ee1374",
       "type": "domain",
       "value": "forms911.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "ba240ec7-c66d-4639-bebc-f3712ed20a45",
+      "uuid": "daba3972-57d7-4f66-a60d-eb2c64abe8a0",
       "type": "domain",
       "value": "formslive.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "ad3cd2c2-3fe8-4571-895b-82f055b756e8",
+      "uuid": "df3dd7e4-9980-4496-97e4-56a6ade23282",
       "type": "domain",
       "value": "formslive.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "466e2261-a1b4-4c6d-b9cd-8c80ea1d5bdc",
+      "uuid": "f1e229bd-3fe4-436a-8286-ae469c0a4f90",
       "type": "domain",
       "value": "formslive.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "5a929e67-9010-48d8-957a-1b228d128d20",
+      "uuid": "4c2dc941-c5a7-4697-a33c-7cb311664f31",
       "type": "domain",
       "value": "fsupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "510b91c1-8059-4910-8a93-0d8eb0295e49",
+      "uuid": "1b6ca96d-1050-4cd6-9d16-d6186e654248",
       "type": "domain",
       "value": "fsupport.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f8551cd0-d256-4133-8ba7-659f3bb859b1",
+      "uuid": "fbc050e2-3f17-40dd-a2dd-0423d7e3f0fe",
       "type": "domain",
       "value": "fsupport.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "fd069b62-dc37-43a9-a03c-39369399a1a5",
+      "uuid": "53ef91dd-1915-4670-b3c6-5c9c4fc08275",
       "type": "domain",
       "value": "fsupport.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a4202fc6-391b-4d17-924f-b18e569fce23",
+      "uuid": "3d191990-40ef-4e55-b75d-9c53353a7105",
       "type": "domain",
       "value": "fsupports.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "00b80f47-2f29-48d3-98f1-07cba9c027b7",
+      "uuid": "23b0779b-5474-414e-9cf8-4b3e974b5b57",
       "type": "domain",
       "value": "gcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "8ca740b5-f910-4e80-a5cb-120519736616",
+      "uuid": "affba1cb-751f-4ec8-9122-f43896ef27d5",
       "type": "domain",
       "value": "gcare.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "6af955cd-5892-42bc-9ee4-e27e1e3bdbd6",
+      "uuid": "52255bbc-81e0-4b1b-a2e8-7a5781697456",
       "type": "domain",
       "value": "gcares.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "9807823c-3d02-4b68-aab8-2c16a5f1fad5",
+      "uuid": "43035c6b-2681-4225-8065-9ec975a84591",
       "type": "domain",
       "value": "gchelps.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "29074ab2-ca9b-43a5-b4df-42509544bfb2",
+      "uuid": "0222fa66-c029-4f99-b61e-09519bb6c08a",
       "type": "domain",
       "value": "gchelps.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "cacdba20-458f-4066-aa76-c239ce4b77ae",
+      "uuid": "2577a7fa-88a4-4b6c-a836-5ca3498101f0",
       "type": "domain",
       "value": "geekcancel.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b114d668-72c2-42b6-a042-c5bb3812e4b4",
+      "uuid": "4de51c11-b3cc-4c99-ab20-56b8a7554453",
       "type": "domain",
       "value": "geekcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b4c78d0f-666a-422c-8239-7c95979e7efc",
+      "uuid": "18a23bec-5c62-4e5e-8155-34f72fcd8403",
       "type": "domain",
       "value": "geekhelp.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "4f132c0b-f7ec-46da-b96d-1aca79691cdd",
+      "uuid": "8bfb2e14-5cfc-4fec-8030-8edbb05e35b0",
       "type": "domain",
       "value": "geekhelps.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "43699187-b7c3-49d3-a107-d2964fc6129c",
+      "uuid": "c9da8857-29a1-4001-9425-578621e9227e",
       "type": "domain",
       "value": "geekrefund.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b585cb0d-a2f4-4e78-a8e9-a825770d0785",
+      "uuid": "2ab31d92-1620-449f-a7c0-996135999c15",
       "type": "domain",
       "value": "geekrefund.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "fc2a806c-8c32-4cf5-a25e-b14c5ca2e6fb",
+      "uuid": "81ccfe0e-4252-4b96-8dc1-effa3dc0bccf",
       "type": "domain",
       "value": "geeksqad.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "5afbbc7a-d443-470f-842c-51f4a73c2d8d",
+      "uuid": "1d1287f9-6db4-4d68-a504-0159745eebdd",
       "type": "domain",
       "value": "geeksupportcare.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "7d5e9268-481e-456a-9bfc-15d12348f9f7",
+      "uuid": "d4035701-ede1-4e7e-9ce3-5e1d6eaa5d94",
       "type": "domain",
       "value": "getforms.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "07fae1da-6599-42bf-ab60-80928708ba2a",
+      "uuid": "d592599c-8fe0-443f-9336-d58bf9b2bd4f",
       "type": "domain",
       "value": "getforms.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "db26fb3d-db44-4010-af9e-568df956a4b1",
+      "uuid": "bc35b1ed-6ba1-4e73-8ae9-a59c83b63ced",
       "type": "domain",
       "value": "gethelpdesks.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "fcf2e9e5-6fb6-4b2e-ae06-83dbfeca4f3b",
+      "uuid": "f495fb2a-b76a-4410-9d8c-86c1343f13f7",
       "type": "domain",
       "value": "gethelpsupport.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "73cd4807-ac96-4c80-8a54-506343a557f7",
+      "uuid": "272e5001-5350-4f9c-a05e-3f88bccdbca1",
       "type": "domain",
       "value": "getset.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "4ad49226-8abe-4d25-8636-df8f74748671",
+      "uuid": "1177231b-6788-41a7-a86a-beb7fc098b2e",
       "type": "domain",
       "value": "getset.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "97cb97c6-4349-4bcc-80dd-8317da333c9c",
+      "uuid": "f7c9fc91-f67e-4916-a912-495b4cef2aa9",
       "type": "domain",
       "value": "ghelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "ddb417eb-b262-4413-b598-84c52f9e9df0",
+      "uuid": "e3e7b243-4991-452f-b6db-a21bb6a79096",
       "type": "domain",
       "value": "ghelp.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f91f7c17-7df4-4b54-b739-2faab326502f",
+      "uuid": "caa8eb10-1793-4c70-a963-43a77e30037f",
       "type": "domain",
       "value": "gkscare.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "55904e85-e018-4389-8b04-a2240da0f28c",
+      "uuid": "f0ad6f06-b15b-481b-b440-f0c0c0a9a9b6",
       "type": "domain",
       "value": "grefund.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "ea2eb1b9-29f9-4e4d-9ee7-599e3f0e4a38",
+      "uuid": "3d852793-4434-45a2-ab4c-df392f4a217e",
       "type": "domain",
       "value": "grefund.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "382c1228-77af-419d-9b71-e56dbe925826",
+      "uuid": "21b464bf-8ca2-48f8-a134-2ac1fec80e1a",
       "type": "domain",
       "value": "gscare.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b13acdd8-66f5-4841-84d7-1f8225e1362e",
+      "uuid": "32445f87-3b01-489c-94f2-81f0d947ee28",
       "type": "domain",
       "value": "gscare.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "37fbd229-dde9-409c-a024-8ac4241116be",
+      "uuid": "b1f36afe-7770-4965-a06a-78adf3874989",
       "type": "domain",
       "value": "gsrefund.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "77da7707-6d9e-4f44-bf2e-23b60f8e9f15",
+      "uuid": "372bc931-b452-4a93-855e-9ada5f2ed15e",
       "type": "domain",
       "value": "gssquads.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "783a0c94-25ee-458b-9b31-406b8771b9c7",
+      "uuid": "909b2098-436d-4e5a-ad4c-f095303341c0",
       "type": "domain",
       "value": "gsupport.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "960d3641-3d57-4db2-b507-f32a9293a8db",
+      "uuid": "2795dd91-e32c-44e5-9a78-79215f3f0cc9",
       "type": "domain",
       "value": "help01.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "4409758d-9789-424f-aadd-e256c8ad3124",
+      "uuid": "2a47fc82-ccf3-44a3-9abe-7f046aec4b59",
       "type": "domain",
       "value": "help4support.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "2d006eae-f10d-490d-9951-319e84558442",
+      "uuid": "71b0c70b-9982-47ba-a207-92f7f3a1b6f2",
       "type": "domain",
       "value": "helpcares.support",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "0ce92e2d-31b5-470a-ba77-36c4233c9898",
+      "uuid": "0b81d860-95de-45ba-baf3-ece97626ac2e",
       "type": "domain",
       "value": "helpcares.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "2b466f9f-e055-4241-848c-4d1ad038cd48",
+      "uuid": "3388dccc-2dbb-479c-93b1-298732fdbca7",
       "type": "domain",
       "value": "helpcenter.top",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "1d145f51-32c4-42cb-8616-f005107bd6b5",
+      "uuid": "3dd61b3d-0cf8-452d-81f4-a906a2e83468",
       "type": "domain",
       "value": "helpcenters.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "ab89a34d-7bc5-4205-8220-920509f4c015",
+      "uuid": "26f47fe2-a3d6-4b9f-ae62-2e41adda2be1",
       "type": "domain",
       "value": "helpcenters.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "d5e95162-e1da-4f4a-9163-12950cc39aa7",
+      "uuid": "a3f2e56b-645a-4737-8cdf-a5fadccce4a5",
       "type": "domain",
       "value": "helpdeskme.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "fe7f3e7d-017e-4999-b6e7-458b92768db3",
+      "uuid": "b1c6d84e-113b-484e-a73c-f29ff8606aa5",
       "type": "domain",
       "value": "helpdeskme.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "db9e0f99-73ea-45f6-8f36-1e55fe784c34",
+      "uuid": "a338201e-1145-4654-9bf3-5298eed4f996",
       "type": "domain",
       "value": "helpdesksupport.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "00c6eafd-6912-410e-b114-076bf75c75c3",
+      "uuid": "c2654cdd-99db-492c-8dfa-f93566c5247a",
       "type": "domain",
       "value": "helpline247.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "17d69f64-1a32-4bf4-8d3f-06ac96c32b40",
+      "uuid": "1be6ac99-3ffa-4ad6-9a6e-1d804fe3ceb7",
       "type": "domain",
       "value": "helpline247.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "6119c59b-645d-41f0-b94f-79aa3ce9955d",
+      "uuid": "05b01074-9a57-4b46-ab9b-39ec687946c4",
       "type": "domain",
       "value": "helpline247.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "5467b38f-c979-462a-b10d-112257b8f867",
+      "uuid": "afdf1a3c-629e-4bfa-934f-98a8842d87b2",
       "type": "domain",
       "value": "helplive.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "28e5eac4-15bc-43db-b1d7-7a41ae5bf33a",
+      "uuid": "61b7fd03-e4d2-4161-8e52-9f97f206ca77",
       "type": "domain",
       "value": "helplive.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "06930c58-667f-4176-bfb8-6f7ea391a9d4",
+      "uuid": "acb8ea5b-a4ec-4e26-8fbe-8e979343ec76",
       "type": "domain",
       "value": "helplives.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "c20128c3-42d7-4bb5-a4ce-42cf730cd1f9",
+      "uuid": "4182b9bc-bddc-4bf9-8628-0f5e2113b037",
       "type": "domain",
       "value": "helplives.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "abe32034-bb84-4dd3-a088-dc6ca7ce7ad0",
+      "uuid": "fa7bcc86-6efe-435b-b980-660a785bf4c6",
       "type": "domain",
       "value": "helpme159.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "8f78d28f-bc16-4ca5-a5f7-b22197add314",
+      "uuid": "a0888988-2bd6-44dd-827f-168cf3387c9c",
       "type": "domain",
       "value": "helpnortn.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "175a4917-b211-4fdf-ad89-ce4e0d5a3418",
+      "uuid": "b183d1eb-87e7-4658-8884-aab9f0dd1e95",
       "type": "domain",
       "value": "helpnorton.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "7e65d91d-d902-444e-9f93-daa80c17041b",
+      "uuid": "08a5e910-9f2f-4531-b64e-0e0edd35eaff",
       "type": "domain",
       "value": "helpnsupport.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "379e122d-23dd-4b52-8991-14a1d87dfa88",
+      "uuid": "de1e9cf8-c6ba-4321-b168-9b75158c4cf5",
       "type": "domain",
       "value": "helpsupports.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-31"
     },
     {
-      "uuid": "9566bc8b-723c-4f38-a81e-1c8b6bbc37b6",
+      "uuid": "c6f5ce2d-1451-4c62-919c-11f7f92a7ace",
       "type": "domain",
       "value": "helpsupports.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "2806c866-4d20-47f0-b9a9-5ad8b5869e54",
+      "uuid": "4e216bfa-d790-4b33-8965-b618f4bedb94",
       "type": "domain",
       "value": "helptechme.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "2901f650-d269-481f-a7e1-90bc1d1dcdd9",
+      "uuid": "07fd3ad3-03cc-48a9-848d-a0e62ec439f8",
       "type": "domain",
       "value": "helptechme.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "81d04421-b6bd-46f4-a35d-5fc743d7042c",
+      "uuid": "31eecc78-1da4-4a94-884a-7987b9db42fa",
       "type": "domain",
       "value": "helptechme.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "3a5ba999-1d2e-406c-be82-059596e466c4",
+      "uuid": "0da91346-d51d-4b0a-bbd7-56621a5e501b",
       "type": "domain",
       "value": "hservice.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b7f2e239-d77b-4a26-ba5f-b549e99d8795",
+      "uuid": "0058db18-ea4c-411e-825b-fa2f1c1950a5",
       "type": "domain",
       "value": "hsupport.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "9b7ff28b-9d92-4483-a94b-dec9a8f7c17e",
+      "uuid": "ee88103e-ca01-4ce4-a59e-beda33a74f3e",
       "type": "domain",
       "value": "hsupports.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "61ade3a6-2dab-401a-a1aa-ffaed1a54780",
+      "uuid": "2468e0ee-cff3-498b-a8fb-b2638a13f4c2",
       "type": "domain",
       "value": "ihelp.care",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-09-24"
     },
     {
-      "uuid": "be758874-db4d-488e-a206-b7d912731888",
+      "uuid": "5fd2a242-1b06-4f37-a752-bb3a01a95f80",
       "type": "domain",
       "value": "isupport.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "6d9aa6d4-049d-43c7-a464-b0243217312d",
+      "uuid": "c238b3e1-753c-450e-a2eb-e9c59446ae09",
       "type": "domain",
       "value": "isupport247.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "2147ab68-eebb-432f-b674-355ea0613fd7",
+      "uuid": "94ae009e-a20b-451f-a3ed-4d19224719eb",
       "type": "domain",
       "value": "isupport247.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "3b20991a-beab-4ab3-b6ad-a62949f4550c",
+      "uuid": "22d76531-c293-4555-bee1-b0ade82307e9",
       "type": "domain",
       "value": "isupports.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e92ca7f9-fff8-41b0-9ae6-55f4527eed73",
+      "uuid": "1232b55a-6c33-4675-b841-5a62b0c9da0a",
       "type": "domain",
       "value": "itcares.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "2b0c2fd2-5114-43cf-8e1f-ad280c381021",
+      "uuid": "11662e07-cfb7-4411-a7c9-a76535403074",
       "type": "domain",
       "value": "itcares.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b4d1743c-f932-4ffa-ab15-789633c65513",
+      "uuid": "350ad0d3-f5c0-484c-9c29-0d79d8c0a812",
       "type": "domain",
       "value": "itcares.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "ab8f7e0b-4308-4506-b629-e910c9799e0f",
+      "uuid": "4723ad8c-1d75-4962-b1f4-68e5b8259230",
       "type": "domain",
       "value": "itdesk.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "d5521acc-f8fb-46bd-906c-5155e9cf099b",
+      "uuid": "6ed4cd33-034c-43dd-bd40-f238670ce97c",
       "type": "domain",
       "value": "itdesks.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f92b3d8d-05b5-4077-b939-d1634b7948af",
+      "uuid": "f1e05ccb-a7d4-4796-921f-7dc48a5f1544",
       "type": "domain",
       "value": "itdesks.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "3ae11e89-86d4-480c-8ca3-86bb6cde656c",
+      "uuid": "bf864892-0f06-4c6d-9abb-66c09a35cd9f",
       "type": "domain",
       "value": "itdesks.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "6f0cb335-69d0-4bba-b44d-71045fc25302",
+      "uuid": "656de961-0676-400a-a076-8de656b9bfc4",
       "type": "domain",
       "value": "itdesks.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "475921c1-f809-4a72-95d3-1e9bf51ab689",
+      "uuid": "e4c1a3e0-49dd-4354-ab87-acd3606494ad",
       "type": "domain",
       "value": "jcare.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "31c9aa94-3de8-46c4-8b04-a36fbab8f4f5",
+      "uuid": "ea4c44ac-c8db-45f7-bcbe-5d1cb6ee805d",
       "type": "domain",
       "value": "jsupport.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "6a1df06a-2a6f-47ec-9639-de323dd918f7",
+      "uuid": "26317f90-b905-426a-ab14-0912ecc89a7f",
       "type": "domain",
       "value": "khelp.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e87a0e08-796e-4f8b-bc45-ff739f86e3bc",
+      "uuid": "254d6cfc-28d6-4f6c-9059-1904619311fb",
       "type": "domain",
       "value": "ksupport.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "aef4b793-9b15-4f8e-a4af-459782d33902",
+      "uuid": "31b0c501-20df-4dbe-8790-d166a5e2d338",
       "type": "domain",
       "value": "liveforms.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "9d7452be-7a5a-4428-ba25-651705788423",
+      "uuid": "dd418b22-fd32-44dc-9453-28be582b46bd",
       "type": "domain",
       "value": "login08.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-09-06"
     },
     {
-      "uuid": "59e59585-8aa8-4db4-824d-1b5859b31a9c",
+      "uuid": "010f238e-bc46-4651-aa6a-68cd459a120b",
       "type": "domain",
       "value": "login08.top",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-09-02"
     },
     {
-      "uuid": "f9cd2064-2d10-42bf-8d2e-d0012f6eb6a3",
+      "uuid": "7af5b1d0-30f9-4592-8b67-08929b781bdc",
       "type": "domain",
       "value": "mcare.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "c95b26a9-9723-47f9-a815-bc4ec385798b",
+      "uuid": "c4ab8c72-107c-422f-a1c8-a12181362e61",
       "type": "domain",
       "value": "mcfee247.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-23"
     },
     {
-      "uuid": "8bcd1ba4-6d98-4ebf-b85f-7b194ea1c058",
+      "uuid": "2b1c7041-beac-49e2-945e-d64e994cb696",
       "type": "domain",
       "value": "mcfee247.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "c1e82960-fe00-4a73-9f3d-08cd35c2e5ba",
+      "uuid": "1f002dff-a5c2-4b97-87a6-52a55bdee05b",
       "type": "domain",
       "value": "mcfhelp.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "99a13c69-8a5a-42aa-ac21-31893aa45ec0",
+      "uuid": "a490f905-e4bf-4bce-aaf3-3ce63365be00",
       "type": "domain",
       "value": "mcfsupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "95306558-df53-4dbb-8a5d-1f9bf3f54f9f",
+      "uuid": "f3083ae3-5588-4997-920c-fb80b846b3b4",
       "type": "domain",
       "value": "mcfsupport.cloud",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "7cf06772-66f9-4c6a-8b28-d70967e6597a",
+      "uuid": "aded9b97-65ab-4c4a-8f8f-29b9a51549ae",
       "type": "domain",
       "value": "mcfsupport.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "ad09d7d9-f8e4-4104-af9b-9e75610facb9",
+      "uuid": "7df1a9e7-85b7-450f-9979-c97d524d757d",
       "type": "domain",
       "value": "mcfsupport.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "82b0d8b9-ea7d-409b-b45d-9d960e4213f0",
+      "uuid": "75cf848b-9aac-4ab9-a5fa-ccea3b183972",
       "type": "domain",
       "value": "mcfsupport.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "0bf9c913-d5b0-45b2-a83b-e1a85a4c539d",
+      "uuid": "031cb8c8-cfd2-498d-a92d-93d2ce0c6a65",
       "type": "domain",
       "value": "mhelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "eb4c3442-ccd9-48be-9a36-2d2bcfab2caa",
+      "uuid": "ae5acbb5-b89b-4466-a7af-941c2dca4f9c",
       "type": "domain",
       "value": "mnsupport.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "dbf0cdb3-b424-4684-b767-dc40e4f4e9fa",
+      "uuid": "8b1f1188-4f79-42fd-993d-f27e2e06fb2c",
       "type": "domain",
       "value": "mnsupports.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b6ea2ba2-988d-42f0-9e3c-3368f0e15822",
+      "uuid": "e20d0888-42fa-407f-bbc7-e2c1cd98a396",
       "type": "domain",
       "value": "mnsupports.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "88318ac6-b39f-44c3-9750-6650cd04412b",
+      "uuid": "52d05a54-6c11-4771-a033-1a48a0005858",
       "type": "domain",
       "value": "mscare.me",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "64d3fada-4a9a-410a-bd4a-97a6e8088b60",
+      "uuid": "291491b0-9274-4463-928f-6ab4071198d3",
       "type": "domain",
       "value": "mscare.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "489ace1c-b18e-4384-a7d5-afd21387e5b0",
+      "uuid": "c878d7c3-ddd1-46a3-be84-32db1e22ae60",
       "type": "domain",
       "value": "mscares.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f9c454a2-9c17-4304-a178-0eba864d7266",
+      "uuid": "a4bda888-55f7-4675-b612-6ccb89d64e67",
       "type": "domain",
       "value": "mscares.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b076bbe5-4a6d-4625-9d6b-8d094b9f6447",
+      "uuid": "70e29b50-fa71-4ccb-85d8-746a9071255a",
       "type": "domain",
       "value": "mscares.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "7b788441-a201-4eb3-8945-40bffd7d2135",
+      "uuid": "ac0674d1-c82b-4f07-8b96-e4ce063e2d9c",
       "type": "domain",
       "value": "mscares.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e1af54e3-3fd4-49a3-8062-530b6a58ae75",
+      "uuid": "55248c2c-18a1-49d2-a6c3-2d7499fbf484",
       "type": "domain",
       "value": "mshelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f3a5a0ad-2ac9-4203-96cb-292643931e79",
+      "uuid": "edb4559b-bd9f-456e-ad42-c1352f10e9b9",
       "type": "domain",
       "value": "mshelp.me",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-10-14"
     },
     {
-      "uuid": "e0c89032-7856-406d-9fd9-6b41c2ccb209",
+      "uuid": "25225245-c5f6-4f8a-a028-09c84a45299f",
       "type": "domain",
       "value": "mshelp.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-30"
     },
     {
-      "uuid": "ccc02203-1936-42c9-aa76-0e1e9270017d",
+      "uuid": "eb1cbaaf-3fd9-438d-b8e2-b70a5984f156",
       "type": "domain",
       "value": "mshelpcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "018b31de-1a13-4c84-9989-b3535bc40174",
+      "uuid": "04e38ea2-2fb1-4c8e-a876-3ff0baa68f1c",
       "type": "domain",
       "value": "mshelpcare.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b1cf89af-0def-4910-8456-7320da93898d",
+      "uuid": "53f1ab1d-1337-41fc-935d-14fa7f4fae0c",
       "type": "domain",
       "value": "mshelpcare.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "03e7a7c0-6966-4b80-8680-3a464ef6cd65",
+      "uuid": "c2476199-956f-4985-b29c-f91c6e05a4fc",
       "type": "domain",
       "value": "mshelpcare.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "1324a2e8-6615-4384-b50f-35abfdf7a8c2",
+      "uuid": "24011e07-a9fb-44b8-8973-dce8845aa41f",
       "type": "domain",
       "value": "mshelps.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "8e4de3d4-cddc-4813-9505-9cb46d121b24",
+      "uuid": "ef130710-1b99-4682-a609-affc49e58ba0",
       "type": "domain",
       "value": "mshelps.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f6a88df5-bff5-42f2-9316-85157d6417d1",
+      "uuid": "a6b4cb19-77c9-4fd1-86fb-c346ac573ea2",
       "type": "domain",
       "value": "mshelps.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a2553b2e-c003-4003-aacb-3145d8d2fa3a",
+      "uuid": "08aac448-c682-47e6-8ffe-d30e5f5069df",
       "type": "domain",
       "value": "msjkp.top",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "5fcf8bca-98c0-4328-9153-30decf429452",
+      "uuid": "766da633-aa1d-40ad-b66b-13f8f233c5dd",
       "type": "domain",
       "value": "msjkp.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "9c24ff2d-4ceb-4531-a3c4-6c9f487b7555",
+      "uuid": "f8f6f30b-1633-4926-8606-859ea5a2a669",
       "type": "domain",
       "value": "mskf.life",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f3d49b03-8a0e-496a-b7a9-aa1223fb0a50",
+      "uuid": "88e19401-bce7-43f6-ab22-754613f97760",
       "type": "domain",
       "value": "mslxt.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "47fed537-69d3-4776-afcc-0304a0dbdacf",
+      "uuid": "93aa0d75-5f9c-4d08-847a-7e58dd8ba202",
       "type": "domain",
       "value": "msn365.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "48a5b239-bafc-4b99-b65c-7864a2f678bc",
+      "uuid": "a2c6b712-10f7-4eb1-bb4b-107542057cf4",
       "type": "domain",
       "value": "mssupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a0feaed2-a57f-419a-9c07-82592c106e06",
+      "uuid": "68fd9f8a-b562-4f52-aa04-9505874e0618",
       "type": "domain",
       "value": "mssupports.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b8e5af48-d068-4860-b0a5-13f98fb4da20",
+      "uuid": "729e6cd7-4c03-4276-866e-c248566c50c6",
       "type": "domain",
       "value": "mssupports.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "8e992599-994a-4290-b6e3-8dc541bcda0a",
+      "uuid": "1d1f866e-6a2e-4dc4-a5a2-4bcc3e7d81c2",
       "type": "domain",
       "value": "mstool.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "2a3874c1-90d0-4cc3-8db8-757d2f7d1e1e",
+      "uuid": "6596e5ca-721a-4511-b3b3-f8ed44569fca",
       "type": "domain",
       "value": "mstool.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "bd496fd7-c461-46ca-8238-b7aa261599df",
+      "uuid": "10ea2218-d395-4d5e-832a-4b6f01416093",
       "type": "domain",
       "value": "mstool.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "03553c6a-6abe-4c77-8e29-d2a884ae1c8d",
+      "uuid": "1bc0bd3b-84ec-4578-a254-7df6dc013211",
       "type": "domain",
       "value": "msupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a07dd622-dcf2-4ca8-98b1-d8a3f8129120",
+      "uuid": "4d67763c-c255-467d-99ce-1332f71affbf",
       "type": "domain",
       "value": "msupport.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e64de600-5064-4ee2-b58b-48bef2c2c65c",
+      "uuid": "c5645d12-e913-4f2e-b5f2-e0f360a3bb90",
       "type": "domain",
       "value": "msupport.tech",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "7f75dfee-fa26-424f-ae0f-4f9b6aa70118",
+      "uuid": "d465b363-ed83-4318-bd7a-74c1f3dc370c",
       "type": "domain",
       "value": "msupports.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "731c6c9e-246e-4175-a94a-566a14c3e76d",
+      "uuid": "f75e6478-65ab-45e3-9e58-3b32f3b8ca0f",
       "type": "domain",
       "value": "msupports.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "d9490e77-5dc8-421e-8015-8ea5db6c1a2e",
+      "uuid": "7e47388a-fa7b-44cc-a957-6e0707ab9e6b",
       "type": "domain",
       "value": "msupports.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-09-17"
     },
     {
-      "uuid": "56361366-f447-4ba8-829c-8d2cc4eacfbe",
+      "uuid": "81aa5579-30a9-42c5-a2dc-4e927a057267",
       "type": "domain",
       "value": "msupports.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "48bab874-4c96-432f-9723-7c30f7c03f20",
+      "uuid": "718e4b57-4e80-4b12-b323-3fcfa342c23d",
       "type": "domain",
       "value": "myhelpcare.top",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "1ef9fda4-bfd0-4c10-aeaf-a7bcba2792b6",
+      "uuid": "c5699aad-7a7b-4f58-a31c-1405e1212d8d",
       "type": "domain",
       "value": "myhelpcares.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "59e4b884-3ac7-4095-a8bd-fba53941a585",
+      "uuid": "a7f0397d-2d42-46c6-8c3e-82be10e1aab2",
       "type": "domain",
       "value": "myhelpcares.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "88a81d5f-1aea-4f36-b519-32f8219707fb",
+      "uuid": "3fa9e528-55c6-4c56-b2c7-4d9f88b9b910",
       "type": "domain",
       "value": "myhelpcares.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f3832add-6693-4d55-901a-6843c86ec082",
+      "uuid": "a02ff181-ace1-41d3-b70f-7e7b8bc1e12b",
       "type": "domain",
       "value": "myhelpdesk.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "26afaf58-d817-452e-8386-842e2b1942bf",
+      "uuid": "71a8f36d-ed53-407e-af1c-7973af5bb1ea",
       "type": "domain",
       "value": "myhelpdeskme.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "4922c91d-b6c9-4b02-ab5e-c8fa8a7fac30",
+      "uuid": "0aeb26a5-2043-43d7-8c29-2ef47073d8e5",
       "type": "domain",
       "value": "myrefunds.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f30c6b35-81f8-4d37-9a73-d9366e4e87f2",
+      "uuid": "8a9e09ec-f9e6-45aa-9514-242cef93575d",
       "type": "domain",
       "value": "mywebsecure.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "ed4fd7b7-cb1a-46cb-950b-8686873df467",
+      "uuid": "6cc5dad6-5cc4-490b-8b0c-18a2a6484716",
       "type": "domain",
       "value": "mywebsecure.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "2f70bd80-96f9-4e8c-819e-747192f05513",
+      "uuid": "8d6e64f1-bc17-42f2-ac72-bfb17b7ff501",
       "type": "domain",
       "value": "mywebsecure.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "8292a174-fdb0-41a2-9cd2-355dc3669a35",
+      "uuid": "81f8f8cc-8f3e-4336-8a2c-31710bce8ff5",
       "type": "domain",
       "value": "ncareback.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "8b4ff6e2-6834-4f2a-8586-89b0cf210cb2",
+      "uuid": "f060badb-e83b-4c8e-89f9-93c2f31dbf4c",
       "type": "domain",
       "value": "ncares.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e1521b66-6de4-4aeb-8eba-eed616f9f285",
+      "uuid": "3abb0792-41b0-4ea9-8a8b-f4111cf6794e",
       "type": "domain",
       "value": "nhelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "476639a4-a618-4a00-b9e9-238a8adba211",
+      "uuid": "15b6a0ac-4aaa-4ef7-86f9-9ad0f119da47",
       "type": "domain",
       "value": "nhelpcare.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "cd4de639-9e34-4743-b999-ea8534d677a4",
+      "uuid": "e3c27391-fb4e-4ff4-9a5a-f9555fc3ead2",
       "type": "domain",
       "value": "nllcancel.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "93c98bfe-b206-480f-bcd1-071986b56100",
+      "uuid": "8e1d6433-69c1-4b5e-92b7-58e4dc49e005",
       "type": "domain",
       "value": "nortan.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "bb01052b-ab33-4606-a6ce-81a9ae0d28f7",
+      "uuid": "5e305a30-8a19-4804-b691-f0b697b747c4",
       "type": "domain",
       "value": "nortan360.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "0ae613cf-5d30-4706-9963-4573aeab2ee6",
+      "uuid": "8aacc129-1fb8-45ef-aa15-ad224d21243c",
       "type": "domain",
       "value": "nortancxs.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a491c060-a93f-4fab-95d6-7c16923c9f73",
+      "uuid": "762c36e9-d0ff-4c37-b866-c136ac918ccf",
       "type": "domain",
       "value": "nortanpro360.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b4c72441-193e-495f-9343-eec36403e08e",
+      "uuid": "da0510c6-0ca6-4fe6-a956-7cebc00bc30b",
       "type": "domain",
       "value": "nortn.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "83b0849e-b55f-44d2-80df-83796c27144b",
+      "uuid": "74c31d61-989a-42cf-b5aa-a45ddacc0c69",
       "type": "domain",
       "value": "norton247.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e914d1ee-76c3-4d97-bb6f-ac22306f7359",
+      "uuid": "73f60369-fce3-4110-990a-c94b6a7b1860",
       "type": "domain",
       "value": "nortonpro.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "bb39304c-6eb8-4dce-8ef3-ec440b8b6f9b",
+      "uuid": "7a036a9a-72f0-4cde-8f65-bed8ccdde060",
       "type": "domain",
       "value": "nortonpro.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "822617be-c49f-4951-be19-9fd75bb3dc20",
+      "uuid": "82e086d7-f747-4039-8b33-6f7c7bc5b3f5",
       "type": "domain",
       "value": "nrtsupport.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "7d2e0bcd-16f6-42c3-99c7-df2bfd547274",
+      "uuid": "d6d0ff55-5247-474c-a8cf-ae6273749200",
       "type": "domain",
       "value": "nrtsupport.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "7651f7a2-e359-4712-b88a-4f81e6135c8b",
+      "uuid": "2ab44622-1d4b-417e-8f15-928dc5937043",
       "type": "domain",
       "value": "nsupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "292ee60f-4cca-4db8-8560-8cb1ee4cf47d",
+      "uuid": "df723157-0395-4cea-ac4d-dd10813c87ee",
       "type": "domain",
       "value": "nsupport360.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f66b76c1-07d2-4217-9bb5-94dab39f7079",
+      "uuid": "1705d670-f6b5-41ca-b7d0-5b5c1e4278db",
       "type": "domain",
       "value": "nsupport360.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "446075c3-1c28-492d-b475-f539aa375001",
+      "uuid": "7b71db89-602e-4814-a1b0-fca4ba334e67",
       "type": "domain",
       "value": "nsupportme.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e4eb36d3-0c87-40d8-b67d-e7a8ae6a4e25",
+      "uuid": "3bd74ff6-9ee1-4fb6-a329-d921430b489e",
       "type": "domain",
       "value": "ntcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "fae36282-6cad-4542-b9e4-3eab97b8ee4e",
+      "uuid": "d85095fe-1148-49d9-a9ed-6207e4802a86",
       "type": "domain",
       "value": "ntcare.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-09-27"
     },
     {
-      "uuid": "c9017ddb-a819-439a-9002-8e9c9db04c65",
+      "uuid": "328f8380-e438-4b03-890e-6769daf44614",
       "type": "domain",
       "value": "ntcare.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "fb156236-346b-4360-969f-dccc70817f8a",
+      "uuid": "8d149d09-4e46-411e-b4b0-971ece476510",
       "type": "domain",
       "value": "ntcare.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "86cc7d9a-5938-4ba1-ae61-0a073cb37f5d",
+      "uuid": "eb556447-d47b-4419-b951-66bf8131e48a",
       "type": "domain",
       "value": "ntcares.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "253e513d-c553-42ca-b36a-c01269ef2e5b",
+      "uuid": "c848e055-5ca1-4797-b55d-efc2b97b8752",
       "type": "domain",
       "value": "onlinesupport.top",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "20971ff4-7033-43e3-953a-718b85de7a5c",
+      "uuid": "d54746f7-e8ac-4548-81ec-c989956fe183",
       "type": "domain",
       "value": "osupport.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b14d0aea-117b-4ce2-b803-36f4beed67b0",
+      "uuid": "92209414-96ad-4a6a-8aa1-d89cc31f360c",
       "type": "domain",
       "value": "paycare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "fda50026-9eb2-448d-98f6-9278af1a5274",
+      "uuid": "51471dc1-f2b2-4c39-beb8-5248ad0f1648",
       "type": "domain",
       "value": "paypalcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "c6c19e39-409e-4dff-bbde-883640b072fd",
+      "uuid": "8f69c99b-2a0c-44d8-9534-f3ede3bfe335",
       "type": "domain",
       "value": "paypalcare.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "bb35c28c-0102-41f2-82e6-1093b6f662b7",
+      "uuid": "1be786aa-5450-496b-b87f-183c4767d9fb",
       "type": "domain",
       "value": "paypalhelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-21"
     },
     {
-      "uuid": "a522af65-ac39-4229-abd7-0e7407b356f7",
+      "uuid": "01a90eb8-58de-4e7a-86a6-8eced5e267f1",
       "type": "domain",
       "value": "paypalhelp.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-24"
     },
     {
-      "uuid": "5ec229ad-688c-47d4-922b-465cd38474d8",
+      "uuid": "27913cf3-cc9c-4e3c-a724-a7c19df94c54",
       "type": "domain",
       "value": "paypalsec.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-08-20"
     },
     {
-      "uuid": "c0ac9527-1759-4464-a3ea-3c77edeecf73",
+      "uuid": "d07e4391-517f-4761-8145-6df84c28fa68",
       "type": "domain",
       "value": "paysupports.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a22e9d8b-8562-4c77-bb99-e572e7e061b9",
+      "uuid": "2fbb2fc7-2488-4e50-ab35-e0e3c612e0de",
       "type": "domain",
       "value": "paysupports.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "3596c4da-7db9-4b12-b062-a18318d50a54",
+      "uuid": "c1a00831-cd20-447e-9938-f7969791ec02",
       "type": "domain",
       "value": "pcare.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "43ea93ee-2652-4717-9ade-aa06c3ff5d95",
+      "uuid": "1ed3e00d-a854-4fb1-8674-8743b3efffd9",
       "type": "domain",
       "value": "pchelps.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "71d1d894-9920-4e13-8440-505d95f791ed",
+      "uuid": "418872b9-9cdc-4fcd-9667-d231dd7e9dc1",
       "type": "domain",
       "value": "pchelps.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "4580b645-c9a5-459d-9fb7-22b8b7de2bce",
+      "uuid": "51eb9b3e-0e84-46cb-8e57-d7b6698c53ec",
       "type": "domain",
       "value": "pchelps.vip",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "52c37aef-1116-4c52-8278-b9edf33dbcde",
+      "uuid": "c7f38a30-3a40-4653-94ad-37b729311b7d",
       "type": "domain",
       "value": "pcservers.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "6d51d98d-1e16-40ef-9fb4-f9ab421dbc80",
+      "uuid": "58d0c9dc-bcb9-46e6-8b1e-9a751f855bd7",
       "type": "domain",
       "value": "pcsupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "25d8c0c5-9edd-4853-9ec5-d7e2b61dbc8e",
+      "uuid": "a89eebc4-5c11-42ad-ac6e-3ed7ecb644f8",
       "type": "domain",
       "value": "phelp.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "1bf18dcb-ca2e-4b6c-9958-9247c69c57bc",
+      "uuid": "520bc14c-e6ad-4b67-b099-1fd8665cf722",
       "type": "domain",
       "value": "primesupports.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "595fce8b-22f6-4db4-8ea3-cee1d24e2843",
+      "uuid": "4eadca91-cbea-45c8-b393-be39b0d2035c",
       "type": "domain",
       "value": "prsupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "d8f65e55-2a5e-428c-989a-15c5b1cd6537",
+      "uuid": "8b91198c-5ab9-4c5d-97d7-b397b4c0856f",
       "type": "domain",
       "value": "prsupport.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a8f72bc3-ce8a-4eb2-ac5c-c947fde18345",
+      "uuid": "d38e4210-53c5-46a0-ac9c-de59151372aa",
       "type": "domain",
       "value": "pserver.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e0955f84-93ea-40b0-a994-82a048329a8f",
+      "uuid": "43c10217-abfc-4f74-9939-14471a9a8181",
       "type": "domain",
       "value": "pserver.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e677d807-7eca-4cb9-83b2-0ca029c4a16c",
+      "uuid": "3b6cacc6-872f-49c5-b7af-fae231261544",
       "type": "domain",
       "value": "pserver.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "85c6b857-a898-4128-8051-ed40c6d93ae2",
+      "uuid": "2a0f48a7-5cdc-4731-8ed6-5574899d1684",
       "type": "domain",
       "value": "psupport.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "d2fb8ff4-6732-4cf8-a8cb-321914d4cfb9",
+      "uuid": "5b193da8-18ee-487d-aa54-4eb2555b203e",
       "type": "domain",
       "value": "qhelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b3702f6c-adce-477d-b4f6-e5350505d16b",
+      "uuid": "4f4faef5-97c9-4e52-8135-d4e5f504f1f5",
       "type": "domain",
       "value": "qhelp.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-09-21"
     },
     {
-      "uuid": "c9ed9fc5-9925-4a77-b8ef-81eb855a473a",
+      "uuid": "cb0bf286-f501-4798-92e1-5b98c8c8aff4",
       "type": "domain",
       "value": "qhelps.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "7fcc0e62-e9e1-48f5-8df1-a25bb2157f01",
+      "uuid": "d2a4daa2-bb33-4d98-bd3a-dfff2701caa1",
       "type": "domain",
       "value": "qhelps.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "99902ab0-5c46-4d41-9fd1-840915158437",
+      "uuid": "0ae534a5-462d-4c12-9eb3-8deb5798d937",
       "type": "domain",
       "value": "qhelps.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "fa61532c-6894-447e-951a-34defdeeb958",
+      "uuid": "05109f78-6a12-4ac5-afae-3ae30e440c38",
       "type": "domain",
       "value": "qsupport.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "fe970dbf-2aa6-4a6f-bcf6-6ad0fca15c85",
+      "uuid": "c332bb72-1ed3-4eaa-9eba-69de7daf3790",
       "type": "domain",
       "value": "refundassists.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "c83e0688-c944-4cb6-a93e-e91ff63e0a52",
+      "uuid": "d3ba0c06-d0a4-4ac1-a96a-4eba87b69844",
       "type": "domain",
       "value": "refundform.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a6afb07c-8e50-4a30-9b35-7d095754be5d",
+      "uuid": "61410128-3374-4717-81aa-1c350643179f",
       "type": "domain",
       "value": "refundforms.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "c9705f68-6e9f-4dda-affc-57902b0498d8",
+      "uuid": "6d8044f2-8df5-45cf-83b6-56ef3c95c662",
       "type": "domain",
       "value": "refundhelp.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "c97805bc-f9ea-4b9a-88bb-dbede5956d1d",
+      "uuid": "a3200819-eedb-40b5-a949-99145104496e",
       "type": "domain",
       "value": "refundscare.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "6757a3fc-e6ba-4dc5-bb33-3f0658389024",
+      "uuid": "09f7d053-4faa-4bad-b540-c1c00de4fe8c",
       "type": "domain",
       "value": "refundsnow.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "fd7decee-0a8b-4cd4-8585-35e98d1c82d1",
+      "uuid": "fffffbe2-8178-487a-b632-d492da09d443",
       "type": "domain",
       "value": "refundteam.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "aaa86bdb-9745-4ded-80d1-0c3997eab168",
+      "uuid": "2c63f4a2-8d5e-4f93-ac51-997c2c26878c",
       "type": "domain",
       "value": "rfundcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "d1de6727-035a-4c94-999f-491ddd4368e1",
+      "uuid": "90b06f29-d4a7-4bb2-8b72-f0f50dd77671",
       "type": "domain",
       "value": "rfundcare.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "7f20346d-daf8-487a-b35c-d96745ab0890",
+      "uuid": "0c90034a-478f-4508-888c-bca3496f578a",
       "type": "domain",
       "value": "rfundcare.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "b75272ca-3e35-4aa6-a6f6-472595045017",
+      "uuid": "05a0e475-5076-44be-bf82-77a0ba7458c2",
       "type": "domain",
       "value": "rhelp.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "4ba91316-7d1a-45c2-9b7b-2f40fc3534a0",
+      "uuid": "ed14cc18-a689-4161-a6b1-59cf696aa57e",
       "type": "domain",
       "value": "securesupport.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "132f716e-7bf7-4017-b994-adfb5489e0fc",
+      "uuid": "8a82040b-a739-4c28-a077-00bbea071eaf",
       "type": "domain",
       "value": "service247.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "afb8c3f0-259d-43a4-9bee-53074467512e",
+      "uuid": "d4b08def-088d-41a0-9f2f-287857d46e71",
       "type": "domain",
       "value": "support247.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "4e7032ab-99e9-4744-9938-5332ee955609",
+      "uuid": "a12110cc-3654-41da-8866-b3ed9f01340a",
       "type": "domain",
       "value": "support2norton.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a556f7fb-d894-4efc-ae25-355ef79932e2",
+      "uuid": "d264db6c-d54f-458b-9c53-7556578b5b14",
       "type": "domain",
       "value": "support99.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a07031fb-0d65-4998-bb59-bec8c8392d1d",
+      "uuid": "29c3a8fd-1158-4d99-9b49-c55673052686",
       "type": "domain",
       "value": "support99.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e9666463-91f4-4f15-9e28-605765cc852f",
+      "uuid": "22b40c6b-bed8-480d-bb0b-0a700cecb9a4",
       "type": "domain",
       "value": "support99.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "5b6e6261-006b-4dde-93b2-529fee1ef212",
+      "uuid": "b166b4d8-8803-4866-ab79-e72ec4dd95d7",
       "type": "domain",
       "value": "supportcancel.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "451b3401-54cd-473b-b708-58db91caa072",
+      "uuid": "237c6e57-a215-4c3a-8213-1e3f7c803978",
       "type": "domain",
       "value": "supportcancel.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "0951835c-3049-42b0-822a-6b276d3300f6",
+      "uuid": "e8a337b3-8805-4b38-b3bd-fa16def0868d",
       "type": "domain",
       "value": "supportcancels.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "812872a6-4d7a-4f57-acc2-11ffc731c8fc",
+      "uuid": "760110e0-a8fb-431a-9896-90770e3716a4",
       "type": "domain",
       "value": "supportcare.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "d91e02ff-78e1-4ba6-b3df-45564ec23e6a",
+      "uuid": "4c9a4460-605f-4ffa-8bbb-7eb10bf720d1",
       "type": "domain",
       "value": "supportcares.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "4b880303-e0d4-4ce3-bc8d-1979f53bdb32",
+      "uuid": "19d36500-d6b1-4d25-85d4-cd5ddd766992",
       "type": "domain",
       "value": "supportcares.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "31b673ae-3607-4e22-8257-179c29c88473",
+      "uuid": "c5a36072-45f9-47d0-9050-7efed9bb5f2a",
       "type": "domain",
       "value": "supportcares.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "cdb01795-c854-485f-9953-3eb8888c48e7",
+      "uuid": "b72d97be-35b0-49dc-a16f-d0ba983ab896",
       "type": "domain",
       "value": "supportclients.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "0feea8ad-a245-4ed2-83c5-c4b98b26325d",
+      "uuid": "0e837060-6c08-42d2-8510-91daa7b4d627",
       "type": "domain",
       "value": "supportclients.top",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "00b4c3a6-4451-42da-8e3b-b36ca2dcc3e0",
+      "uuid": "125a17ab-0c3a-4f5c-8616-d69c53faff64",
       "type": "domain",
       "value": "supportcx.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e07ae978-a5fe-4af5-8b75-5e7a5dcf76fa",
+      "uuid": "47c4848d-f27d-44b0-9ca2-51d2d7fe6392",
       "type": "domain",
       "value": "supportdesks.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "beb2898e-a2ad-4e67-9e6a-09d54bcdd935",
+      "uuid": "73907c97-cdbc-4caa-9dad-60c91cbcfdfc",
       "type": "domain",
       "value": "supportdesks.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "ef64fa2f-1092-4e65-b313-155cc0922860",
+      "uuid": "cb808173-abd2-471a-bce0-94c612aff718",
       "type": "domain",
       "value": "supporthelp.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "5c977fec-3167-4ecc-a4d0-cb51f2607385",
+      "uuid": "abe7bff4-bf6b-4847-9081-277f6fb15f10",
       "type": "domain",
       "value": "supportlive.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "43e0d65c-2c9d-4161-b9f5-f616349580fd",
+      "uuid": "aa549a9b-e82c-440b-8878-5eaba38a9476",
       "type": "domain",
       "value": "supportme11.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e73ce360-aef3-403d-8d01-7be199baf593",
+      "uuid": "03f16fa5-d796-49bd-a7aa-249a76f28b48",
       "type": "domain",
       "value": "supportme247.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "472ae346-043d-4427-b68e-2bba6984ef7f",
+      "uuid": "5f648f80-4d10-43ca-9f2d-4eb02a567e79",
       "type": "domain",
       "value": "supportme247.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "c1197a1d-df41-4f42-b9ff-dcf61bfb839b",
+      "uuid": "ed1eeebe-4d99-40d5-8e04-803cb5bda36e",
       "type": "domain",
       "value": "supportpay.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "8ce758f8-c8b7-4f75-9afe-a6d8d34836fb",
+      "uuid": "b80fd094-0c1c-425c-9339-a9a2e4fe5051",
       "type": "domain",
       "value": "supports.win",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a5ca5671-94d2-4603-b5ec-5f94235a6d3a",
+      "uuid": "280b8d2c-8f69-4187-8859-629c806a413b",
       "type": "domain",
       "value": "supports.work",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "34276dd5-230a-494b-8d6f-91d315ff079d",
+      "uuid": "d768d3d0-ecca-4d86-a775-a3b2653185ba",
       "type": "domain",
       "value": "supports247.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "0c34e669-d5be-46f2-beab-aa63a9f71a24",
+      "uuid": "db10663d-6310-49fe-aca8-a832bbff5103",
       "type": "domain",
       "value": "supports24x7.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "23755c1a-2b02-44be-b71c-38b1fe2eb1ca",
+      "uuid": "7e7c7c87-deee-4ec7-b963-426fbb122f99",
       "type": "domain",
       "value": "supportshelp.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "8d61e5df-bcf7-4f76-a704-0b0572efcce9",
+      "uuid": "27727c47-e3bb-4ad2-a7cc-85675431b4f6",
       "type": "domain",
       "value": "supportslive.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "ca6de544-3e37-4233-8368-772220706299",
+      "uuid": "8c9dbde4-2781-4b6a-ae02-9894a71e196f",
       "type": "domain",
       "value": "supportsx.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "ed2195e6-a293-4f96-818d-58ca2f477978",
+      "uuid": "0502af64-93fc-472f-9851-872b939e7cff",
       "type": "domain",
       "value": "supportsx.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "61391a80-5a0a-404f-bfc9-0c656d6d4352",
+      "uuid": "20617910-be72-4086-abb1-217256be2d05",
       "type": "domain",
       "value": "supportteams.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "26e9cb27-1d24-45ef-a4f4-1687ea64416b",
+      "uuid": "a9c41526-1379-4b4e-8054-3bc5c44383df",
       "type": "domain",
       "value": "supportus.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "1e41dbae-5f3a-47c8-b08d-9d68e7053287",
+      "uuid": "25c2926f-d0b3-47af-8dfc-658103db71a2",
       "type": "domain",
       "value": "supportusa.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "14cfd2f1-d41c-46f6-a399-cbae57ea46ac",
+      "uuid": "05379de5-7107-4995-b617-d96000305f17",
       "type": "domain",
       "value": "suvfix.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "7c20a843-5c34-42fc-92d8-772c464d07e6",
+      "uuid": "925d8784-dccc-43a8-bf73-4095f7a8c8e1",
       "type": "domain",
       "value": "suvfix.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "8dbb667a-14da-45ff-b8c2-0b9afd64fe5a",
+      "uuid": "7ae6796a-02e8-4d9d-aa89-0189e9ece091",
       "type": "domain",
       "value": "techamerica.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "bbd60d08-6b6d-44ff-a44e-e9564cfc4aca",
+      "uuid": "38e69957-786a-4cd6-ada7-3b4ce220e19d",
       "type": "domain",
       "value": "techcare.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "6ef342e8-6f22-4928-9cbe-5009d12d92ad",
+      "uuid": "0a3fcd8e-1bab-490d-9796-c04ac2e781da",
       "type": "domain",
       "value": "techcares.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "7a08e8cf-8f4c-4f5a-b446-baa4986fb5db",
+      "uuid": "0a7455ea-2975-46d1-bcfd-21ad10db6035",
       "type": "domain",
       "value": "techcares.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "44ddd007-3d1c-4a20-95df-5b034573cb90",
+      "uuid": "f91adfd2-38ed-4445-80f6-bb0e9a7f46d2",
       "type": "domain",
       "value": "techhelps.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "538ec475-dfea-402a-9a9b-a1e63a3a88b9",
+      "uuid": "96919a1e-20ac-48b5-b16c-82ebcf9059c6",
       "type": "domain",
       "value": "techhelps.support",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "00ff275d-61ae-4ba8-a92c-42796f32bef7",
+      "uuid": "efadbab4-cd0f-457d-835c-60279d6d8bad",
       "type": "domain",
       "value": "techhelps.win",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "58db9aeb-e749-44ce-ba14-e625d6ca7961",
+      "uuid": "4a42fd92-1cbe-4a37-bada-2b5827087cc5",
       "type": "domain",
       "value": "techhelpsme.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "47faa37e-0984-4370-9bbb-2710961d8288",
+      "uuid": "3872d2d4-b6df-41d0-bd70-08e8dd39dd10",
       "type": "domain",
       "value": "techhelpsme.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "ed952df6-e448-45f2-8005-0a60d956a627",
+      "uuid": "06d2be57-3571-4ec2-aeaf-a57b18849af6",
       "type": "domain",
       "value": "techhelpsme.online",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "7b8d574f-3afc-43a6-a658-338d4d1e9610",
+      "uuid": "01e2dcc2-dd34-43aa-b59d-e6e0e55a4a5c",
       "type": "domain",
       "value": "techhelpsme.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "52c8c327-7b0c-469f-9286-46e9a9457365",
+      "uuid": "7054d2c2-b254-48f7-b4cc-e01e5cce8cd6",
       "type": "domain",
       "value": "test01.cloud",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "87fe0db2-0de2-46b8-9928-f4216256bd70",
+      "uuid": "630083ab-6ca1-40fc-8e03-16a5ab9753d1",
       "type": "domain",
       "value": "testapp101.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "d235d098-c2b8-4102-be0b-3a1ef84a8fcd",
+      "uuid": "3ff6be49-95a0-4656-9d13-e1e06a20d95c",
       "type": "domain",
       "value": "tservers.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "69e47e35-ba12-4563-bb4b-68a8e0a683a2",
+      "uuid": "d4f75e8c-9c38-4f3e-9145-c71f8b2b96f2",
       "type": "domain",
       "value": "tservers.top",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "91309af9-7d11-44e7-8493-b3f8ec4c2258",
+      "uuid": "b4e6a034-a68f-4fee-a312-3a8536642396",
       "type": "domain",
       "value": "tsupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "07f21bd3-1b72-48f1-862b-03f606bebef3",
+      "uuid": "d7e00ebe-0613-4d43-98b3-f4f312a178da",
       "type": "domain",
       "value": "uscybersquad.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e69c9a18-f944-4a40-95cb-f2f0a2660aa8",
+      "uuid": "b2450e49-5fda-44ef-82aa-e462d1767f89",
       "type": "domain",
       "value": "vfix.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "aa6418d8-07ad-4e73-ae60-ce3e21648420",
+      "uuid": "0804c442-b48c-4816-a43b-643ef873cbb3",
       "type": "domain",
       "value": "vsupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "984b088d-be78-4d94-8053-2f2891c3460e",
+      "uuid": "299c47b6-0668-4d90-958f-e9c1176980a5",
       "type": "domain",
       "value": "waso.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "9a99bc28-ed9a-4ee5-8bc1-4af7b92bc273",
+      "uuid": "af3bc3bc-4c62-4155-ba88-e0c091b452da",
       "type": "domain",
       "value": "waso.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-11-19"
     },
     {
-      "uuid": "6cfd3922-5991-4034-a82c-9ecd0fb33eff",
+      "uuid": "d895b709-b46a-462c-8b6f-24858d6f8fe7",
       "type": "domain",
       "value": "windesk.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "340af36a-d8b5-4261-97b6-083e9cb40ab5",
+      "uuid": "45f211c6-e6c8-47b9-ae24-bf55225be73a",
       "type": "domain",
       "value": "windowsupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "e80cee65-f909-4645-9cb9-dc77ad664aad",
+      "uuid": "e2c522e7-8ac0-44e8-bf64-5510b3ef2665",
       "type": "domain",
       "value": "windowsupport.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "7b8f89a0-26ca-4de8-b7b2-1d0856d79557",
+      "uuid": "a23eb1f3-ec43-4518-ba02-52b4fe68ec47",
       "type": "domain",
       "value": "winsupport.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a59f89e0-82ba-42d6-a604-eea3b38c7cc1",
+      "uuid": "1382e9bb-4b21-4251-a975-870b9a721bda",
       "type": "domain",
       "value": "wnsupport.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "291478d8-6a50-4c8d-8a0c-6ed69e5430fa",
+      "uuid": "2a98dbc4-cd51-4894-bf58-b8265d468981",
       "type": "domain",
       "value": "wservice.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "a708df9b-885d-4678-b02d-c0991cae5d1e",
+      "uuid": "c59fa796-7d8d-4032-82af-9b695c21f939",
       "type": "domain",
       "value": "wsupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "09dfeeba-d4fd-4122-b6a4-3dfe58357141",
+      "uuid": "27f45e7c-d059-4d17-8b33-604734b44e00",
       "type": "domain",
       "value": "wsupport.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "c0e90744-586c-4872-a7d7-59be1d120f73",
+      "uuid": "630f40a7-c834-4bab-9840-272ad0abe441",
       "type": "domain",
       "value": "xpchelp.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "98ecb9b1-51d9-4106-bcc3-aadbce886ad1",
+      "uuid": "8a66d5b5-350b-4fb6-9921-7ebb4cc8b484",
       "type": "domain",
       "value": "xpchelps.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "895c5494-5965-4c93-8db9-564d15256084",
+      "uuid": "701ef583-2bf4-4028-9a58-2a7c50388eeb",
       "type": "domain",
       "value": "ysupport.us",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "551c8831-26f5-49a6-be12-50e3c5af6d3f",
+      "uuid": "4099e6e9-1673-4617-b9d0-1cb41d9999ad",
       "type": "domain",
       "value": "zsupport.cc",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "3c636f6b-24ff-44da-a92c-b994d84b17f1",
+      "uuid": "e91eb34d-333f-48e6-9448-36f585ed61de",
       "type": "domain",
       "value": "zsupport.info",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     },
     {
-      "uuid": "f246f6d6-f960-4bd3-9a38-d7207c38aaa7",
+      "uuid": "e8a872c0-c8b5-4bc6-9237-e8aef842f02f",
       "type": "domain",
       "value": "zsupport.live",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2023-01-31"
     }
   ],
   "Orgc": {
     "name": "Infoblox",
     "orgc": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
   },
-  "info": "lookalikes_malicious_rmm_ccb_20230131_iocs"
+  "info": "lookalikes_malicious_rmm_ccb_20230131_iocs",
+  "date": "2023-01-31"
 }

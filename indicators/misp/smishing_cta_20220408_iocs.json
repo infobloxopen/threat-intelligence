@@ -1,2154 +1,2423 @@
 {
-  "uuid": "bc327e62-9229-4452-bba3-7091d40988ed",
+  "uuid": "b2603202-d37a-4d22-96fa-3fa3b24b292b",
   "Attribute": [
     {
-      "uuid": "7b762d87-40c0-4dd9-8785-405f851d7399",
+      "uuid": "fb2c95eb-c2a9-46f4-b573-9d3d544a76a2",
       "type": "domain",
       "value": "smsw1.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "f6b3cbf1-7a81-4782-b9eb-525ec480f899",
+      "uuid": "12765470-18fd-4450-a43e-4bffcc46acde",
       "type": "domain",
       "value": "mfso1.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "795d6124-35fa-408c-b34e-9c18180aee09",
+      "uuid": "011b7921-297c-42a7-9a30-841cd74cbddb",
       "type": "domain",
       "value": "pely2.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "3a43c914-374c-488f-b560-0f75ea408d4f",
+      "uuid": "aac38148-5a1f-4c6f-911e-ea91beea5cd7",
       "type": "domain",
       "value": "wtwx2.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "ac959786-b5ec-4a3d-b6da-db21088ed895",
+      "uuid": "3206f2dd-a15d-47c6-b542-886367d24e71",
       "type": "domain",
       "value": "khed3.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "1abe0305-8bc3-4cd1-a1ee-a254f07bff13",
+      "uuid": "553fb036-30ae-44d8-8b16-f0d6589c82e2",
       "type": "domain",
       "value": "mgdi3.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "1c089deb-46cb-4bfa-bd0a-7e48cb8192aa",
+      "uuid": "83ef39eb-7a8d-4fc0-8433-9b74aad7f382",
       "type": "domain",
       "value": "laea4.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "5837fec8-6f75-4073-9684-5ce8bfe3e4ad",
+      "uuid": "74482c70-64df-40d3-bf79-f16cdad0ce2b",
       "type": "domain",
       "value": "omyq4.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "d59bc622-ccb5-4305-ba30-5123e728ff9f",
+      "uuid": "af23287c-dc2f-4684-97c7-8c57c4d0347d",
       "type": "domain",
       "value": "qyef5.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "d0b07b0d-7807-48dc-b426-1df13e2344a4",
+      "uuid": "3d64389d-4b54-471f-8497-d164233c9a3c",
       "type": "domain",
       "value": "idvk5.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "3f788d20-7ea5-4195-9812-6aef714f188f",
+      "uuid": "3272b82f-e51c-4f1a-b6b9-9cd543d10d74",
       "type": "domain",
       "value": "dqvy6.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "778b17b2-ff6f-45ca-919b-18f8ea72e9e3",
+      "uuid": "d24e919d-03be-4d74-9ab6-1bafba0fe3de",
       "type": "domain",
       "value": "dnmc6.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "01fa7aa8-f61e-4d29-b69a-f7fa4edcf799",
+      "uuid": "5ede643c-9c95-49ef-99bb-a9529dd83672",
       "type": "domain",
       "value": "igtf7.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "7f9baf84-ac0c-4360-b54a-397a15e6068d",
+      "uuid": "931851e9-c16c-40f1-bd23-7526508e8124",
       "type": "domain",
       "value": "kiwv7.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "2029561b-8b02-4e28-b572-e5422ae2d038",
+      "uuid": "073aaf27-ed7c-4745-ac66-65c623965549",
       "type": "domain",
       "value": "jjao8.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "fe5d524a-c206-4036-9846-faed6c3d7d4c",
+      "uuid": "1a1e3dc2-4948-4270-b8d1-0c8251f286f6",
       "type": "domain",
       "value": "kvde8.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "ff588e38-be98-4699-9c03-1d94ba37657f",
+      "uuid": "3acd5288-94c8-4bd9-9faf-b7082c72a261",
       "type": "domain",
       "value": "okil9.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "443c5c25-18a2-4bf4-8fd6-d94a48c1740c",
+      "uuid": "1d8ed54f-b816-46d8-aa71-e3580a3d3380",
       "type": "domain",
       "value": "harn9.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "67b2a291-c10a-41de-8b26-c76c7fa5fc47",
+      "uuid": "d7e90f94-8077-4e2e-9377-e38888db8f1c",
       "type": "domain",
       "value": "nill10.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "9ba91cfb-8864-42ba-baf3-abc4fe93d2a7",
+      "uuid": "b856e06b-c50e-479b-bad6-d6da01634b7c",
       "type": "domain",
       "value": "ulht10.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "9a8cf92d-809c-48a2-83cc-bbcf31a0f6cb",
+      "uuid": "bc0a8ed5-c89c-446b-aa05-c20735dd1e25",
       "type": "domain",
       "value": "nijf11.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "491d1298-44a3-438a-851d-cd9c656e9cef",
+      "uuid": "adfb641a-aac2-4ca2-a8d5-92b952227c89",
       "type": "domain",
       "value": "qgjt11.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "a39f7b36-94bd-497c-a1c2-b9972730e0c6",
+      "uuid": "0b969064-4479-4745-b15e-1a45e2343075",
       "type": "domain",
       "value": "hcip12.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "1a89c188-a261-4f64-bd9f-8eaa05ec63ee",
+      "uuid": "da265083-171a-4da9-bd35-4b17acb12154",
       "type": "domain",
       "value": "jcal12.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "c139bac1-76ff-43b6-b15a-f60b6097698a",
+      "uuid": "c57ee55b-f3be-4430-a990-21a06b281fe0",
       "type": "domain",
       "value": "rezb13.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "6ace9033-a01a-42e6-bbdf-d1dfc12a2b3a",
+      "uuid": "449abc92-1364-4d19-bcf0-341b60574fb4",
       "type": "domain",
       "value": "tslz13.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "893693ad-0988-43fc-b556-02482de8aac4",
+      "uuid": "75b766d8-d3b9-4bfe-bdb2-e128bdbb685c",
       "type": "domain",
       "value": "hlns14.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "9f6dcded-d044-48d6-af34-94974840827f",
+      "uuid": "546400ba-1f5e-45c6-807b-77470b0ef23a",
       "type": "domain",
       "value": "izhm14.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "d21bc66b-21e2-4fd9-8283-4f53361c3954",
+      "uuid": "88634a1d-f0b5-4454-bc50-9aeeefc92d3a",
       "type": "domain",
       "value": "bgfv15.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "d2499449-2664-438f-94bf-a8829cd5b4c0",
+      "uuid": "87a3b02d-a899-4ffe-9e37-c6f6a673bd13",
       "type": "domain",
       "value": "jbeq15.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "b710cc3f-f009-4574-a950-578ec3e3991b",
+      "uuid": "c2874abd-9a34-4f27-a1df-13e86ba20a2e",
       "type": "domain",
       "value": "mbdq16.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "e9bb2f92-1bc9-46a2-9b17-98f87d1d514b",
+      "uuid": "78ae2986-70a2-4f26-9930-a0dbe6e89fa6",
       "type": "domain",
       "value": "acgv16.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "e88c7658-6e14-4417-8643-a03c5770ac85",
+      "uuid": "8db55d43-4f5d-4500-8767-e0ea0de5acbb",
       "type": "domain",
       "value": "nkeh17.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "f1225b61-b3ac-4bbb-ae3b-f92678ed5888",
+      "uuid": "f2c95c74-b0d2-4952-b986-74709c7a9f19",
       "type": "domain",
       "value": "wzae17.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "1e234e1f-b95a-4481-910f-019373b4f94a",
+      "uuid": "7b36b8a2-3aa2-4df4-bc11-e16d22069fbf",
       "type": "domain",
       "value": "rtpe18.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "f185b617-01dd-444c-8968-7e587f302ada",
+      "uuid": "3109303a-9d46-4033-856b-0ccd4bb77a0b",
       "type": "domain",
       "value": "yhan18.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "53135ba1-8a56-487e-8ccf-fae82ad1d875",
+      "uuid": "b549b292-b9a8-4d4c-bd83-d1361ca00217",
       "type": "domain",
       "value": "yamn19.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "12015fdb-ea15-4904-bd2a-4c47e42c78d3",
+      "uuid": "1694d361-e8d9-48f3-a670-da10aebad6ca",
       "type": "domain",
       "value": "sjwf19.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "579c91e8-144e-41a0-a43d-380057db9de4",
+      "uuid": "69f25b3e-c189-4e2d-85b8-99b8873f9ab1",
       "type": "domain",
       "value": "zdip20.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "47ceba00-7f81-4a08-9cd8-5944088f29b4",
+      "uuid": "b6ff6318-b2fc-4da1-b0ab-c69cca0207bd",
       "type": "domain",
       "value": "culs20.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "3db2af84-09c9-4d81-a970-c149af0c65ba",
+      "uuid": "ae84bb37-9dec-4072-bc42-69efc484ea5c",
       "type": "domain",
       "value": "ezks21.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "5e9cf059-1204-4375-9091-9919e67bf599",
+      "uuid": "79f49260-668b-4033-9b56-47a0564c4f9d",
       "type": "domain",
       "value": "ysfz21.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "f3d7ea6b-7c52-442e-b3c9-b07b47f1c3fd",
+      "uuid": "32bc031f-89a0-4806-b477-ea973f135511",
       "type": "domain",
       "value": "cmrc22.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "5d8ec736-15e6-44f6-8174-72df57b7530c",
+      "uuid": "781bb2b9-d621-4bd9-a015-773e2bc6d5d6",
       "type": "domain",
       "value": "vuau22.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "f6fa4d3e-589f-43d0-9dcc-002d02e1ef7d",
+      "uuid": "52d45822-1324-45e8-b69d-301f90658ca1",
       "type": "domain",
       "value": "jqiz23.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "8684c68f-2998-4a64-ad8c-3c090e0690a8",
+      "uuid": "8db9f489-87d2-41a2-afa0-6b7b979e9702",
       "type": "domain",
       "value": "hadq23.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "36184417-7297-4815-870b-178239b2b760",
+      "uuid": "b3f143c0-69ff-40ed-9088-bc72b2366e34",
       "type": "domain",
       "value": "ixyv24.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "bee965c7-a803-452f-a9d0-7a06cdd055d7",
+      "uuid": "a56a42b0-f0bd-404f-acda-9b1c2a02aa66",
       "type": "domain",
       "value": "lhkp24.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "c4805fc0-f720-4c1a-b061-2d695600e51f",
+      "uuid": "2d758397-4dcf-4245-9d36-cc7985da090e",
       "type": "domain",
       "value": "hpfd25.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "8a70e21c-eb4c-4083-8f69-f225b310c9f7",
+      "uuid": "7d2953b5-e358-43dc-bee0-43a415cae94a",
       "type": "domain",
       "value": "vjhk25.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "4b47a10d-a171-4f2d-b65e-1ea766f7a681",
+      "uuid": "0cd0bb11-d0b5-4c33-956e-652eda8e3f80",
       "type": "domain",
       "value": "uyqb26.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "84146085-2177-45d9-ad7c-18c1f050525b",
+      "uuid": "b4b851ea-ffc4-44e6-b8bd-b2988edcaf7e",
       "type": "domain",
       "value": "chkn26.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "fd42da79-d017-47ad-a64d-d190abb1ca88",
+      "uuid": "a4ec6f93-a21c-4f7a-b6ca-82db6ffa5152",
       "type": "domain",
       "value": "aust27.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "0bd1b99c-24e3-43da-8b6d-5b436c747b36",
+      "uuid": "7aefc310-4bdf-46c6-a185-859ae6696795",
       "type": "domain",
       "value": "ltsg27.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "f7c4f009-f1f3-4b76-8130-47ee1ff2870e",
+      "uuid": "360d5f1a-e9b1-4072-acaf-a5e35a5aa979",
       "type": "domain",
       "value": "lcsh28.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "df4f7f96-1e90-426c-ad98-944beac106a2",
+      "uuid": "622a481c-272e-4337-b6c6-6952c0721ca5",
       "type": "domain",
       "value": "aqfo28.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "3acc8c45-6e20-41d0-b3d0-422fcc0d0c36",
+      "uuid": "7bf2b153-458a-4746-a7c4-8db971eef261",
       "type": "domain",
       "value": "erae29.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "2f310a5d-cfd1-48a4-b907-aa3f686f7804",
+      "uuid": "8eb4fee1-19b8-4a31-bf79-ae273ace107c",
       "type": "domain",
       "value": "mgjg29.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "250f3140-03d3-4c5a-a203-77d6015fc53f",
+      "uuid": "ace5ccd8-2c0a-43cb-ac5a-2e3a8f181660",
       "type": "domain",
       "value": "ithn30.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "175e7df3-72d2-4ae5-8ee0-9fcd5a800399",
+      "uuid": "8950020a-6564-4feb-8832-27a3b5cce638",
       "type": "domain",
       "value": "qinh30.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "9b205d12-3412-4186-b2a6-394a19cd748a",
+      "uuid": "b488a840-6360-4f1d-817c-d330875efb21",
       "type": "domain",
       "value": "mszp31.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "3c8116c8-5ada-4013-84cf-551cce3835d2",
+      "uuid": "a85c409b-ded1-45b7-a905-698a0629a28f",
       "type": "domain",
       "value": "pomz31.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "7a31216d-2d2e-4e0b-9ee9-550390c65336",
+      "uuid": "b14944e8-8ac7-428b-aa39-ca9150f7f488",
       "type": "domain",
       "value": "ciww32.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "1d43a468-4b5b-4bf8-8055-9146caba182f",
+      "uuid": "a9568036-6d27-43c2-b8e2-3df37871ad1a",
       "type": "domain",
       "value": "nooa32.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "bfaca866-9e4a-4de4-9fce-cd9249781aa9",
+      "uuid": "26583570-68ea-433d-bfc8-c96c3f13635e",
       "type": "domain",
       "value": "mvfe33.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "4626f348-b2d5-41de-8a3e-3278e5659301",
+      "uuid": "4d295c52-73b1-470a-9b98-6ecfa9c5b5a4",
       "type": "domain",
       "value": "zmtt33.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "44c84bee-11c2-4e46-bdc9-c5e5567a8394",
+      "uuid": "7f9867f8-f92e-4e06-868d-27a5452fbbfe",
       "type": "domain",
       "value": "jzwc34.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "7293d111-be0e-40fd-b04c-d9de961c6507",
+      "uuid": "1927e32b-e838-4a26-bc82-9b9d1cdcd793",
       "type": "domain",
       "value": "ktfu34.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "e2e6961e-c133-4dc6-99d3-59d1caa0945e",
+      "uuid": "a9222eff-050b-4d44-abdd-908287d6e5c7",
       "type": "domain",
       "value": "opdb35.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "0055927a-0f1c-42ef-a1ee-5ed5f55d2448",
+      "uuid": "0dc35d7e-1016-4281-8988-3c5254692347",
       "type": "domain",
       "value": "rrhn35.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "6b2127d8-9bbc-4976-bbc2-84987bdb6415",
+      "uuid": "0dec8de3-1904-4d79-b47d-acfb67b1f5aa",
       "type": "domain",
       "value": "gptp36.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "308639ce-67d0-4186-b641-c9e073c3d828",
+      "uuid": "aced665a-a90b-4597-ab7d-82869d03874e",
       "type": "domain",
       "value": "dtus36.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "3be2a3f1-178f-460b-b831-fd2f8ca68300",
+      "uuid": "7fc8eb46-c7b7-47c1-9879-ac9c06358b26",
       "type": "domain",
       "value": "qjag37.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "ef5d8e52-ecb5-4831-8c72-fc667701a564",
+      "uuid": "76599244-700a-4076-bea5-3f906b3189a5",
       "type": "domain",
       "value": "swbt37.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "c2193349-fa11-4adb-8cfb-98dcee4384c2",
+      "uuid": "114b051c-7cdc-4999-aaf1-91dc8c77d813",
       "type": "domain",
       "value": "upah38.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "32fcf15f-ef23-47fd-9140-a562fafab7d9",
+      "uuid": "e07ff20d-c198-4e11-b057-154588286944",
       "type": "domain",
       "value": "ixbc38.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "462ec279-0a1e-4592-b8fd-e37c1cfd9ceb",
+      "uuid": "35275fd0-6d05-4bfa-9cdc-42dd5ef5bbc1",
       "type": "domain",
       "value": "qfac39.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "58ec5539-d89c-4f8c-874c-34f004df3945",
+      "uuid": "9c244f4b-ba4b-450e-a07d-7efccd33a693",
       "type": "domain",
       "value": "xifj39.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "9ce045e9-173b-4f73-a06a-8f594ee44144",
+      "uuid": "cc2689bd-bdc2-466a-ac1e-864f59c8b6e6",
       "type": "domain",
       "value": "aped40.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "60d78b86-46dd-4eb1-ae99-616330f87474",
+      "uuid": "da52b2c4-a3fe-4b6b-8105-ebd8de089362",
       "type": "domain",
       "value": "jaig40.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "77ac6347-d53f-47da-a6a3-018478f67cd2",
+      "uuid": "ad0c8af9-a466-4d81-81c0-34cec2794d28",
       "type": "domain",
       "value": "ckex41.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "66316f76-4465-4d0a-b5a1-1ccc0eb68d9f",
+      "uuid": "3170e283-06db-4d82-bbda-5a258275c50a",
       "type": "domain",
       "value": "wgrp41.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "769ed7fd-397c-4706-9733-3ed3dec61f5f",
+      "uuid": "e9956d15-b7d4-4b9d-8d20-ac35ba089ead",
       "type": "domain",
       "value": "hegz42.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "189014f4-9d56-422f-9737-a3bc89e11ecc",
+      "uuid": "727ed545-b35e-4315-adfd-cc613f2a9c0a",
       "type": "domain",
       "value": "ciuu42.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "9b4abd63-ff6b-4ed6-9fb6-3a13d7b50c7d",
+      "uuid": "bca6b625-af08-42e1-adb7-4803091792e8",
       "type": "domain",
       "value": "lawn43.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "d496bf21-4baf-4421-8faf-670e2e92ed2e",
+      "uuid": "ce6c7824-bfca-491b-8b5b-e8891097ec7d",
       "type": "domain",
       "value": "zoqw43.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "21cefde8-3b76-4b3f-96b0-27e8611c596b",
+      "uuid": "ed5c606f-1b21-4e41-9b32-c9a0cd903ade",
       "type": "domain",
       "value": "zcyj44.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "b6a92a63-5c44-44e6-866b-7b12affaa9ed",
+      "uuid": "d72bdeeb-1a37-46aa-bc67-1bb722cfb130",
       "type": "domain",
       "value": "qbas44.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "f04d6740-01aa-418a-abe6-a82585c5a8f5",
+      "uuid": "2e1e0d62-60a8-438e-be05-161f99997ef9",
       "type": "domain",
       "value": "usha45.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "be1df5f5-9ecb-48ed-9163-7d1dc2b39439",
+      "uuid": "a38d0ede-85a5-4799-b9b5-ca2153055531",
       "type": "domain",
       "value": "zvlg45.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "14fca165-0af5-4067-89cf-f198658ab82f",
+      "uuid": "98fd201b-74b2-4fb4-9371-a93e9a230588",
       "type": "domain",
       "value": "zlxg46.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "4b45a6c7-ebfc-4abc-9671-560052cbd547",
+      "uuid": "18b289be-81c1-482d-a041-d1e4b2afc860",
       "type": "domain",
       "value": "qhrq46.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "bb71d0f2-3c92-480f-9de4-fa3145a3332d",
+      "uuid": "a9c76f0b-bfa7-4a32-98a6-ee1db510fb44",
       "type": "domain",
       "value": "fuir47.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "103382d4-284c-49d2-9b5d-c1c86b2b5617",
+      "uuid": "ff1365bc-da09-4ee7-a20c-b6d5bdf92872",
       "type": "domain",
       "value": "ixsf47.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "48ea0811-ee60-4377-8019-5866dd2c8eaa",
+      "uuid": "5caf8b72-ceb8-46d9-a440-7c6995f72784",
       "type": "domain",
       "value": "vtpf48.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "0be86bff-a20f-447a-86c7-f0cf93fe05e6",
+      "uuid": "7a1c1c91-ac5d-4fba-8888-e10f81495246",
       "type": "domain",
       "value": "ejia48.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "286bc571-bd32-4f52-b384-75b9bf62c25d",
+      "uuid": "402e8e2d-a93d-4971-af4f-51709cc1cb28",
       "type": "domain",
       "value": "pvut49.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "85fc543e-a937-43c3-96a9-b546ef8a3e71",
+      "uuid": "b07a2a6d-2a3d-4c4c-872e-542f4b7d1b37",
       "type": "domain",
       "value": "sgqz49.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "b51ea103-580c-4b1f-947d-71debc6bc3d2",
+      "uuid": "2464ce54-6c94-4777-a44f-1fae593d5fd2",
       "type": "domain",
       "value": "glju50.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "eec66d88-769b-454e-982c-9cf014ffff49",
+      "uuid": "c8cfe996-d65b-42c4-97a5-62dd76710066",
       "type": "domain",
       "value": "zmxu50.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "9e25a9a0-1fe5-4046-810b-da2ce680a489",
+      "uuid": "493ff7c0-a619-4bef-bbaf-c6237b954bf5",
       "type": "domain",
       "value": "hggq1.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "dc65ffe8-f36a-408b-89e8-77d5bbc00d7d",
+      "uuid": "c45df3ff-5096-4156-98b1-6a4ad786c487",
       "type": "domain",
       "value": "wkcq2.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "938a82cf-95a7-41c4-9600-16d3357b2feb",
+      "uuid": "c9f066df-b2f6-4155-8bf0-f16f923280dd",
       "type": "domain",
       "value": "vfar3.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "e0685f3c-73ac-429a-92f7-f0ff43e6ed8f",
+      "uuid": "1875f457-4f2b-4277-a816-20a2a050a7e7",
       "type": "domain",
       "value": "svgd4.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "61c91b0e-141f-4de5-b2a9-ac7de503846d",
+      "uuid": "09f0767d-3677-45dc-8366-8032883e2b82",
       "type": "domain",
       "value": "fgoy5.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "8b56bb63-4133-4cf5-b0f0-8d726d778ce8",
+      "uuid": "5fc01336-5761-4a72-8a73-e74cf0b17a6f",
       "type": "domain",
       "value": "gvhj6.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "348336e6-a2a9-4da2-8c5b-3864655219c7",
+      "uuid": "40b37000-d049-4ac9-9fbf-6c7b402d7c57",
       "type": "domain",
       "value": "bepf7.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "2b0648fa-ec82-47fd-910e-01c14a06912f",
+      "uuid": "4b55da61-6d01-4a08-b252-3f9e1185240a",
       "type": "domain",
       "value": "vkri8.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "9c76cdd2-77c3-43da-9542-92e9d4652e23",
+      "uuid": "f2410b61-e2d6-47a2-ac1a-b2529ac9379b",
       "type": "domain",
       "value": "eknz9.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "458019fb-e0e3-4884-8b13-a5acfd9ab42f",
+      "uuid": "6cfad0f3-fcfc-4a96-97a1-81dd522fae77",
       "type": "domain",
       "value": "mslx10.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "0a52aa75-6595-48c3-ab9f-7011c5c714b3",
+      "uuid": "4c5e3d0e-4ab0-4097-b666-f8719c1625cc",
       "type": "domain",
       "value": "dfys11.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "d0c75796-e693-4383-babc-4a0495261884",
+      "uuid": "64303547-4ede-4dd9-8997-99c1d549ab0c",
       "type": "domain",
       "value": "djzy12.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "7af92ceb-ea6b-44cc-9cc2-308c72cfc8ae",
+      "uuid": "709b6cd0-ae16-46c3-95f9-68bfa03d8863",
       "type": "domain",
       "value": "gytr13.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "afe21840-0671-45ad-8dbd-628c44e723b2",
+      "uuid": "e150eb3d-6a7a-46eb-a0a2-bfaee24ae8e2",
       "type": "domain",
       "value": "qhdd14.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "b567faec-4bd0-45cc-a201-eae8ababc3e6",
+      "uuid": "645f360d-4bf9-4cf0-b978-376a22a9c40b",
       "type": "domain",
       "value": "sbqs15.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "ad585753-4ae8-44e2-be40-fd99d259eead",
+      "uuid": "09eacb81-d6bf-485d-b0ce-391d7874690f",
       "type": "domain",
       "value": "pmlx16.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "875b6722-225f-4fb9-9113-c78bb514c815",
+      "uuid": "01c9eccb-f641-4b36-89e3-5e10c314d82b",
       "type": "domain",
       "value": "iphk17.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "72fa65a9-3393-4f52-88fc-65af29460eef",
+      "uuid": "199e4baf-2d0d-48c0-a923-ef03b7617656",
       "type": "domain",
       "value": "opqk18.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "d406ee93-2403-435d-a32b-5e2b2bdd9d78",
+      "uuid": "bc4e8847-ee62-4ce5-9a21-d886fcec369f",
       "type": "domain",
       "value": "ntfr19.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "2ed3f4c0-b455-4ea5-a501-d74f905a2904",
+      "uuid": "2c218e57-fbbf-4884-960b-6726c4429c2f",
       "type": "domain",
       "value": "cvwm20.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "ca4475dd-f90c-40f1-88ad-a1cf0345a62c",
+      "uuid": "d3fd7b70-15c4-45fa-8ed6-701659606abf",
       "type": "domain",
       "value": "wtmz1.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "7b15a49b-2412-4e58-8851-f802996424c4",
+      "uuid": "1104a72d-b003-46c4-b722-1243dd2c51b0",
       "type": "domain",
       "value": "xwjv1.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "1543b1b0-7595-45df-ad19-2e754fc9f5bd",
+      "uuid": "0b7638b3-876a-439e-9337-8f753e059ce7",
       "type": "domain",
       "value": "nyxk2.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "de3161b9-92a9-487d-afbf-9275386e47e5",
+      "uuid": "3248c24a-71ac-4722-b6f2-9f99cb442848",
       "type": "domain",
       "value": "pwnx2.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "abf6573a-e462-49aa-bfd9-f015c6d11c6f",
+      "uuid": "8e0e593b-71fb-4ddb-88c0-37674e4030c8",
       "type": "domain",
       "value": "dbmy3.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "3fdc669d-64b3-4c53-bc31-250cb1e42ce8",
+      "uuid": "b5fd5bb5-9309-4524-bff1-66b9e01788ea",
       "type": "domain",
       "value": "nvso4.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "32555858-79f2-4fda-a9e9-ab6c136bbb32",
+      "uuid": "02121169-0e1f-4419-967e-76b408f9fc4d",
       "type": "domain",
       "value": "vooy4.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "54405b7c-f123-4b06-b12f-fac9c57b0292",
+      "uuid": "106d75e0-3bc1-409d-bdb8-2d1d564f432f",
       "type": "domain",
       "value": "hzkr5.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-03-31"
     },
     {
-      "uuid": "2d210213-38aa-4232-a24d-af0a39ff3197",
+      "uuid": "690d26d9-6445-4139-954f-0d6e9d3408c3",
       "type": "domain",
       "value": "gddr6.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "b5b5f68e-2ae1-4ed3-95f2-842f0a65e2a9",
+      "uuid": "1221513f-bca0-4e87-9c3e-8e5b16d155ac",
       "type": "domain",
       "value": "hhjx7.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "8f24117c-9e61-40cc-87c8-15424c861290",
+      "uuid": "f1b75298-f321-4e57-b551-79a162fa1815",
       "type": "domain",
       "value": "shcw7.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "c6c8a995-7d5b-4da9-8b03-11773fffcb82",
+      "uuid": "eba52d49-741f-4fd6-8ad0-0728fdaf82f9",
       "type": "domain",
       "value": "oxwe8.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "c7c70b21-b5b4-4008-9127-ebbf465cf734",
+      "uuid": "c6c5d9c6-0677-4d2b-9a05-6b376c222f48",
       "type": "domain",
       "value": "rpws8.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "3b5f66f0-d20c-4d55-87a6-d720d91b896e",
+      "uuid": "00d72062-6e14-49c8-b053-5314f239a817",
       "type": "domain",
       "value": "aqsz9.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "1506d1ef-d32d-45e5-9a1e-668d4b058c9a",
+      "uuid": "5620d7e6-6631-4ce7-958f-5a868b9bc33d",
       "type": "domain",
       "value": "ijph9.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "80716ec5-23cf-443c-8d41-c60a305de3bc",
+      "uuid": "06343fe9-b586-454e-b2c6-93c9796d9e5e",
       "type": "domain",
       "value": "sqyc10.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "8ce7eacc-c4ff-4cfa-b597-32ddf52d0698",
+      "uuid": "28a33370-29b0-4c85-a247-45d5e8c989f2",
       "type": "domain",
       "value": "wszd10.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "e3b097c7-b561-4bd8-abec-2c9e3ec4c5a2",
+      "uuid": "251f6166-12da-40cb-bf00-5fcdfced5466",
       "type": "domain",
       "value": "cegs11.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "1163df7f-e968-439e-aa07-269eff1d0edb",
+      "uuid": "b63d4e14-4093-487a-963e-711f962bbad1",
       "type": "domain",
       "value": "odkp11.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "e4c72a58-0a12-4447-9799-6498dc5fe90e",
+      "uuid": "aecf0fbf-d19d-453d-a4fe-58d40c0a643c",
       "type": "domain",
       "value": "gshu12.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "a01734f4-59cb-4d0f-a435-8f43e5008683",
+      "uuid": "1ea37706-9be3-4951-866f-4eb26239366c",
       "type": "domain",
       "value": "tfll12.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "5a4fa191-9e05-4a55-b793-43cc19f57f96",
+      "uuid": "ed1d5494-4d8d-44af-9ca3-fecfbd394fc6",
       "type": "domain",
       "value": "dysj13.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "10f1c68f-2377-421d-9318-ea12eddea44b",
+      "uuid": "af0def98-87bc-4d60-a520-0e11ecc41c7c",
       "type": "domain",
       "value": "tbsb13.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "cbd6381e-c5dd-4fb0-9c95-9ca5fe4b8db9",
+      "uuid": "5fe2fdba-8b26-47ae-9808-84b568c26a22",
       "type": "domain",
       "value": "ccpt14.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "5914fb4c-a46a-4b89-a5be-40a86dd7e82a",
+      "uuid": "ba9dc996-c5de-4ce3-bd7c-f1b699118221",
       "type": "domain",
       "value": "oyfn14.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "0053bf75-74fd-4f3f-a79c-5e9df43932c9",
+      "uuid": "f07f04f3-9e59-4105-bca0-cf28c5ca6fca",
       "type": "domain",
       "value": "fgvz15.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "317c408d-a7cf-4584-ac48-08bfedc0290d",
+      "uuid": "0b6b210e-c094-4a85-8a85-5531454701b7",
       "type": "domain",
       "value": "hquu15.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "9a6264f6-37ff-4a86-9732-eb40534883ac",
+      "uuid": "82dc1379-5ab1-483d-80ef-4e11be500cc7",
       "type": "domain",
       "value": "jenh16.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "90ca36f9-8206-4834-9814-03f310768fb7",
+      "uuid": "4476e10d-b9f2-46ab-8d62-56a72ac8ab42",
       "type": "domain",
       "value": "nrfe16.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "3da90481-c34f-4fd1-a1e9-8a09135111eb",
+      "uuid": "8bfd7737-f2f3-4d30-8bcc-2031a5fa56f0",
       "type": "domain",
       "value": "fjow17.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "ab37079e-a605-4283-b467-3e300a1cc785",
+      "uuid": "b3238cc1-4f41-4c8e-adbd-fa911faae910",
       "type": "domain",
       "value": "flgk17.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "37bac157-7cff-445b-80f3-cd344e3fa022",
+      "uuid": "12221865-6a5b-4b47-9660-e4a4d28cfaa5",
       "type": "domain",
       "value": "anwa18.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "9f6eb2a9-6da1-488f-9b89-e1e7a488d791",
+      "uuid": "46c313be-6763-4b48-8952-87d8f2030625",
       "type": "domain",
       "value": "dtxp18.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "14746254-fcb8-4e51-a0ed-d7ff028cc614",
+      "uuid": "fdc500eb-ffc0-4d67-9191-6dc816db2cea",
       "type": "domain",
       "value": "inen19.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "5c084ee2-aad2-432e-977b-6f4fb2f10639",
+      "uuid": "57b1f160-a01a-45f1-b10d-e9441a9919ae",
       "type": "domain",
       "value": "ozhn19.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "5521bc33-e2f6-4249-a618-66966efc7e59",
+      "uuid": "8e9736c1-d9bb-49d9-a30b-7c611e279d63",
       "type": "domain",
       "value": "avyc20.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "5f2f5169-8005-45d9-b67b-6fe382748f19",
+      "uuid": "4168cfd8-5495-4055-b999-beac6fa10daa",
       "type": "domain",
       "value": "oifc21.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-03-31"
     },
     {
-      "uuid": "04a85684-7b31-420b-a59b-84058c63a340",
+      "uuid": "f3d952ca-cdc8-42ba-a8e0-b096a6dc184c",
       "type": "domain",
       "value": "ukuu21.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "4afd6a40-712a-4fa2-b956-2f3fb51ff1d8",
+      "uuid": "d94122c4-12b4-4c2a-b5e0-45f0cc25f3f1",
       "type": "domain",
       "value": "dcdh22.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "8f5e1805-50a9-4910-a9c5-5b4c8942cd30",
+      "uuid": "89693cf6-cebc-4038-a9fe-cfd845481209",
       "type": "domain",
       "value": "htur22.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "85222f33-cb37-4464-a0d1-db363f25f6b4",
+      "uuid": "5ff99edc-8ffb-4528-9e4b-853f2f2e8740",
       "type": "domain",
       "value": "ohmv23.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "583534ea-9959-49ea-af3f-4b840a14f26d",
+      "uuid": "d0c95bd3-1478-4798-8c89-aafcb618a0b5",
       "type": "domain",
       "value": "qflr24.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "7e7ddf89-02fd-47f6-b9fb-3b7b67bea0af",
+      "uuid": "5c10e1c7-eb9c-411c-9ea4-3daf7f01647f",
       "type": "domain",
       "value": "xnrh24.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "de98d49e-f5eb-430e-90d1-8190d80c0928",
+      "uuid": "86a6a3d1-9cc7-403d-8d75-5cfe4cafa4f8",
       "type": "domain",
       "value": "snqu25.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "774fff92-69f9-480e-bad0-f6b645292f05",
+      "uuid": "686da05c-b598-40ea-a1f0-427f0f3ae080",
       "type": "domain",
       "value": "hklk26.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "0c385006-c8ab-4fd7-b3be-c141a1aa8d5f",
+      "uuid": "d312bd02-6fc1-4876-ad75-b88527a80435",
       "type": "domain",
       "value": "vqsr26.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "ec36b6ae-cefa-45b1-a1f7-e5fa814cf201",
+      "uuid": "45e26cc8-2900-4f99-a91a-d5af75303147",
       "type": "domain",
       "value": "ahct27.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "22b6a546-c9ae-4900-bbb9-e602c196a9c4",
+      "uuid": "6477aeed-e673-462d-a6f4-0568c95bd675",
       "type": "domain",
       "value": "umlp27.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "4cb7da2d-f394-4207-a64a-10bbe66ec2a4",
+      "uuid": "65cca42a-dc54-4826-ad86-2f49395b078b",
       "type": "domain",
       "value": "kdvi28.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "48736d8f-e752-49cf-839b-fe12524940d7",
+      "uuid": "47942762-f4d1-4dee-a146-180b55b837f0",
       "type": "domain",
       "value": "xuuv28.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "db92debc-4ced-4189-8834-789f1164edcd",
+      "uuid": "1d482921-f7f4-4ba3-9c75-5fdc902a9410",
       "type": "domain",
       "value": "lefx29.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "7bd1647d-32cf-4295-aff5-819919908bc4",
+      "uuid": "ff42367d-cfbb-4845-b331-1b9b348608b7",
       "type": "domain",
       "value": "atsk30.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "ac1ce271-4ae5-4227-9d88-6e6f57f69e07",
+      "uuid": "9a2fcc4f-a82d-46dc-90b3-c69f7f265964",
       "type": "domain",
       "value": "vflu31.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "d0cb0f18-5227-4945-862f-b09e75cf0b8d",
+      "uuid": "f966e69b-7ad9-423c-bc4c-81ab046faeec",
       "type": "domain",
       "value": "zhnv32.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "3005c9de-d713-4c3d-ac80-88b5f2f28dad",
+      "uuid": "3e275c11-c0e8-43f7-ac4a-babde87c44c8",
       "type": "domain",
       "value": "xdhh33.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "fc8c1f45-725c-406d-a9d2-d6b06dc82ca2",
+      "uuid": "aa60eb42-f058-4a2b-b8b0-802942cb83aa",
       "type": "domain",
       "value": "refp34.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "d9603266-cbfe-4444-ae19-3f1ccfd093dc",
+      "uuid": "681e278b-2bd5-4f9d-9b7b-74388a238064",
       "type": "domain",
       "value": "rczt35.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "c7efedc0-eb31-4e1d-9b43-917973852235",
+      "uuid": "1c7536a7-2c39-495c-bf44-6965583d0e6c",
       "type": "domain",
       "value": "gxkk36.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "2308050f-946d-4a97-8fcb-fe7da57e3345",
+      "uuid": "cef02e4e-e1d4-46b0-a0b4-adee12870a49",
       "type": "domain",
       "value": "gmec37.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "69e6b7a9-a2f2-46e6-a8e4-16ab8c1cc700",
+      "uuid": "01e298eb-7d08-4c0e-bc71-5444b330f58a",
       "type": "domain",
       "value": "ahur38.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "c510d721-d24b-48bd-8ae4-03fe01bd0628",
+      "uuid": "9a1f4116-e264-4c41-81bb-8d077a6a0bf9",
       "type": "domain",
       "value": "asqb39.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "a4fdf9b0-5e72-4fe2-9521-f856743f1c67",
+      "uuid": "da50b8b4-9627-4f9b-9a8d-8ec6a10c2853",
       "type": "domain",
       "value": "bjas40.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "9aa4a95f-d492-496b-8c78-2410634a9dc8",
+      "uuid": "ef34e292-5d56-466b-bd9f-a88e8561cb45",
       "type": "domain",
       "value": "jnmj41.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "c8f23326-b0c1-443c-b3ca-e30998026349",
+      "uuid": "cb29f103-e3f6-4237-979e-8215fa83d729",
       "type": "domain",
       "value": "mfis42.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "64130c67-011f-4510-9103-38ac5a6d10b9",
+      "uuid": "e934d357-417c-4f25-b9a2-8a83fa8c5c70",
       "type": "domain",
       "value": "tyer43.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "3a4e8515-f5c5-4837-86ab-f4b72f1c8139",
+      "uuid": "105157c6-8c5d-4555-9f5f-e61da88ff9fb",
       "type": "domain",
       "value": "spmu44.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "69aec561-567e-4ba5-a801-ce8bd4096e3c",
+      "uuid": "7d8f7d7f-cdc8-4474-886c-73d1eb694786",
       "type": "domain",
       "value": "bxqi45.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "48338365-1a7a-40c9-95dd-1598abaf71a9",
+      "uuid": "cacdfc1e-38b9-40f1-bf9f-27d63bb93364",
       "type": "domain",
       "value": "islf46.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "971b4e0c-2c9c-4e6b-9a4b-084333644438",
+      "uuid": "b9bedae4-c02b-4207-ae71-b61dd4b9e913",
       "type": "domain",
       "value": "gjdl47.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "f61cb3a4-f0de-4771-aa83-496bdf7be519",
+      "uuid": "496e2da2-59fc-4ad1-a6b4-59e8f194d838",
       "type": "domain",
       "value": "ztib48.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "dffd8720-851e-46a7-8af9-ef803e54d2dd",
+      "uuid": "9a4d1ebe-85d2-4740-a4ad-a5a44a949e26",
       "type": "domain",
       "value": "ytqk49.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "26aa1c9d-7495-4a57-b28a-01c552971345",
+      "uuid": "c0cf3faf-ace2-4ac0-96d5-56617dbcda5a",
       "type": "domain",
       "value": "cepf50.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "81f76110-2b48-4b8d-b609-2e3a689b85c8",
+      "uuid": "fb1cc85b-50b6-4339-a055-f47d8d847aca",
       "type": "domain",
       "value": "kcap51.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "8848383c-a980-4324-9834-1fa203dd0d4f",
+      "uuid": "715665b9-b96f-49c0-bc75-347a56b7de55",
       "type": "domain",
       "value": "dfeo52.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "48a87ada-f5c6-4f0c-8c67-6d1a60fcb56c",
+      "uuid": "a0a5380b-0874-48ac-8c60-93f9ae79f867",
       "type": "domain",
       "value": "lcrn53.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "6f7a57db-c67c-4e00-8bb8-9943470b4c61",
+      "uuid": "58972ac6-f319-4e9b-99ac-5f826734aa06",
       "type": "domain",
       "value": "tgav54.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "298dca56-bc60-48b4-af9e-76ad7555e93a",
+      "uuid": "82f916f9-4737-42a7-80f3-ab448c97f0e0",
       "type": "domain",
       "value": "sctn56.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "765055de-5750-403a-8303-3ff400ad06d4",
+      "uuid": "306347bf-d3fc-42e4-bf8a-9ab31398a73d",
       "type": "domain",
       "value": "cfzb57.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "151944f4-c5dc-4fcc-b14a-017b25d1dd33",
+      "uuid": "849116db-358b-4f2d-bff6-f38d8fa3a5d2",
       "type": "domain",
       "value": "lpdl60.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "98b38d0f-9797-4c36-b8cb-103877b2275c",
+      "uuid": "a84888da-06b0-46bb-9d38-5461b9420fc3",
       "type": "domain",
       "value": "bikm61.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "ea5c5f06-23b9-435f-a9e4-e6930aa9383f",
+      "uuid": "29dc9aa4-688c-4bfb-9bd6-87f85e1177b4",
       "type": "domain",
       "value": "doif62.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "6f9bfc97-fa65-4b48-b664-9d1dc9f0bd0f",
+      "uuid": "87aab3dd-44c7-4f18-9183-310f79cc247c",
       "type": "domain",
       "value": "ovel63.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "c61dcdd3-6fc8-4322-974e-ab068204504d",
+      "uuid": "bdb401e1-f35f-443b-8c68-0cd31685e707",
       "type": "domain",
       "value": "bkhr64.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "c877089a-79d5-4b58-afa0-6bab1a385545",
+      "uuid": "46d7870a-5349-4349-a037-5e891e51fa14",
       "type": "domain",
       "value": "vhjp65.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "b8ce9f99-8bc4-4014-95f7-e915ea14bcdd",
+      "uuid": "40899cae-f499-4ec6-aa71-8d3e2906b607",
       "type": "domain",
       "value": "guxv66.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "e92c0c8e-9bd5-498b-88f7-cd6e65e37130",
+      "uuid": "07dfd043-0ae8-4d54-adb6-be23b70b2102",
       "type": "domain",
       "value": "qgud67.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "43f5968e-489c-4b14-818a-992eee907d90",
+      "uuid": "b05d55e5-9f48-46da-b4a8-a49d7c968353",
       "type": "domain",
       "value": "ngkl68.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "5575df34-f76f-49b6-8b15-bf5cd190d33e",
+      "uuid": "78c942fe-d01a-4548-90ca-2b04ca5990d8",
       "type": "domain",
       "value": "wfug69.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "478987f8-bf06-48ac-b324-ecd0c7a09465",
+      "uuid": "439512d6-f2c2-402a-8ded-d749932f0661",
       "type": "domain",
       "value": "rhlw70.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "f6486cb4-4c8a-4e6d-83b7-8f4b03a12011",
+      "uuid": "66a2a18c-665d-455d-99ce-4aa9121cfc4b",
       "type": "domain",
       "value": "eaiys1.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "54127d7e-91ab-427f-8e40-41df0b0bab33",
+      "uuid": "5bef09d9-efc2-4f31-a395-76e63a7b8563",
       "type": "domain",
       "value": "upxut2.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "92202638-876e-421e-8bf9-7abf51f400f5",
+      "uuid": "cdbceb6a-6ba2-4f6c-a276-d37e38667dc8",
       "type": "domain",
       "value": "obkom3.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "92154aad-8750-4f00-967e-766e474d7276",
+      "uuid": "6d6af65f-f580-4f52-a767-542551da545f",
       "type": "domain",
       "value": "bsqnt4.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "dec73360-04e9-4e24-870d-83eba8acced0",
+      "uuid": "d41ae085-3fa0-43f2-a28f-f4c0bb001e4b",
       "type": "domain",
       "value": "rninf5.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "abaa2ca6-1634-43cd-ad57-d7daf4d44d3d",
+      "uuid": "4e51f3c0-26ec-4e93-a4bd-923a0fa08dc7",
       "type": "domain",
       "value": "lrcoq6.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "5da4c3da-b0e9-4978-a3e9-1cf72e2661e7",
+      "uuid": "c5e2a98f-bb64-47a6-9553-e7e6b59e22c1",
       "type": "domain",
       "value": "hacpg7.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "238d00ff-51bf-4da7-9389-10c5db52b0e7",
+      "uuid": "6a3adc7a-26eb-42cb-aa13-91703cb79fb9",
       "type": "domain",
       "value": "dfooh8.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "39617626-65dd-4906-ae93-e99aa3e1fea2",
+      "uuid": "bf2d9c4a-57ec-4c4e-88cd-c91800a88b18",
       "type": "domain",
       "value": "slsvv9.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "fb587973-38e6-4b66-8891-082a3d52360b",
+      "uuid": "c1fac98a-e30d-4c2d-af18-1403a5f5b7e3",
       "type": "domain",
       "value": "eiwku10.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "9168a43f-21dc-4704-85db-77bc10184406",
+      "uuid": "e2e628e9-1b9d-4277-99b8-c30cbefc95e4",
       "type": "domain",
       "value": "tuafv11.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "2f6232fe-e356-4d88-a04f-134c1c433036",
+      "uuid": "125f27e9-8445-441d-a34c-ff09251f444a",
       "type": "domain",
       "value": "pvtcb12.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "d8444f12-199a-4876-bf2d-040a5776aec8",
+      "uuid": "764856f0-7344-49fc-847d-37b4728fbdad",
       "type": "domain",
       "value": "aekse13.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "3792cda5-b72e-445f-9bd2-69214e069303",
+      "uuid": "e1c994a9-8bb9-4762-bbfc-0e92cc98c7e8",
       "type": "domain",
       "value": "sbbwr14.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "d10ccb4c-7971-4c91-aed3-75538b30780b",
+      "uuid": "4fc52b5d-6102-47a3-952e-4524fcec5d98",
       "type": "domain",
       "value": "iiddf15.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "f5a994e8-c177-4164-87aa-2352795002d9",
+      "uuid": "0baf0428-9e74-400a-bda2-c4eda3f27446",
       "type": "domain",
       "value": "nqldt16.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "b78b4b48-4d80-47e4-8889-b14a2acb58b3",
+      "uuid": "b18c06bf-157f-420a-a461-333040a95932",
       "type": "domain",
       "value": "ceewi17.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "ca6684a7-6690-4a37-9d15-8355d10e027d",
+      "uuid": "c4e918b0-6c3a-4098-9898-7c081eab9021",
       "type": "domain",
       "value": "uzzau18.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "ea271dd1-f326-46e7-8468-e842a8bb92e5",
+      "uuid": "12450bb1-db01-483e-9d61-a5a4eccb052b",
       "type": "domain",
       "value": "vnaeg19.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "08ec0fb6-5f53-431e-8e84-3a84872bfd9a",
+      "uuid": "e438393f-f8dc-4f54-b2e9-01b7953b9868",
       "type": "domain",
       "value": "bpdmk20.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "2c62d7bc-8dc1-46ea-ac5e-c69de2ec7e2c",
+      "uuid": "cf6502b5-ca91-4dbd-82bb-b57b93b17f81",
       "type": "domain",
       "value": "dyzhu21.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "70c3af31-4919-4f2b-9c2a-a167683952f0",
+      "uuid": "54609695-598a-4765-84a0-220e46cf0ff2",
       "type": "domain",
       "value": "yhqxk22.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "d28f1fc6-f410-458f-9d00-083f601a0c14",
+      "uuid": "cd9e5a95-04d8-4dee-8a45-ad8cd773b05a",
       "type": "domain",
       "value": "ebtxe23.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "3180b556-ec79-4b1b-8bea-7410c92d3428",
+      "uuid": "46101d7a-4361-4177-9c6d-c4e1769a3f81",
       "type": "domain",
       "value": "lutod24.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "08ac8a13-cd45-445f-9bb3-9281424ce401",
+      "uuid": "4336002e-1f45-4656-868c-d6c6200d8943",
       "type": "domain",
       "value": "fxzzc25.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "7168a003-8d23-4583-8f0f-55ca9b647230",
+      "uuid": "d5f96109-5203-4062-afc3-cc536259addb",
       "type": "domain",
       "value": "rjebg26.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "2c1f7546-7c1d-4831-a03d-ff9e836a1ec8",
+      "uuid": "af3c52b4-90b3-42f4-a108-27a008330caf",
       "type": "domain",
       "value": "ibjme27.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "11471199-f705-495e-8cc8-b26afd028064",
+      "uuid": "bc44b8d7-2254-4152-b220-ffee6efc09c8",
       "type": "domain",
       "value": "svjem28.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "e2085941-8da8-4bcc-a7ab-015fe855ced5",
+      "uuid": "cf04e4e8-0b1e-411e-8c78-c6bccdaead2d",
       "type": "domain",
       "value": "jbbsg29.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "f10d9f60-c7a4-443b-adcb-4ea7f1ab5a97",
+      "uuid": "7c6b5b85-575b-4691-9e7d-95cb46b482fb",
       "type": "domain",
       "value": "qodmu30.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "55e4f489-e77b-4c14-88ac-e4740299b933",
+      "uuid": "b7522ba5-1451-45ce-8a20-a386f00b8fa0",
       "type": "domain",
       "value": "yyaad31.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "61c32e0e-b25f-45f0-b1ab-deab561fda3c",
+      "uuid": "bc0a408b-b212-487f-9da3-775dc6d88789",
       "type": "domain",
       "value": "plzjc32.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "2b0e3036-993e-41b7-bff8-2bac7d1cf4c7",
+      "uuid": "fad8dba3-09e8-459a-b490-0eec73674b2a",
       "type": "domain",
       "value": "velfu33.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-03-31"
     },
     {
-      "uuid": "7e05ca8e-14c1-4728-89f4-2a6e00e54163",
+      "uuid": "823e9528-3f82-4521-ae4c-c38386d15ac2",
       "type": "domain",
       "value": "kxyps34.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "2a986789-e5d8-4e65-9853-100513bb2a17",
+      "uuid": "ba2ebfa5-4ef9-4fdd-82e0-0854456036c4",
       "type": "domain",
       "value": "cnwfz35.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "476d72b6-b184-48ed-9ff2-c743f10bb91a",
+      "uuid": "a928aebd-1002-43c3-ad3a-fade03037915",
       "type": "domain",
       "value": "zhgsb36.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "862d582f-f232-4162-add2-f78ff76b51e6",
+      "uuid": "d73dd9f1-0229-4902-b3bf-358499a1401c",
       "type": "domain",
       "value": "bypmz37.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "1e47e419-72da-41a9-9764-d31b605b1a01",
+      "uuid": "90f78d96-5731-4a73-9773-5e1414dad5dd",
       "type": "domain",
       "value": "xnqno38.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "8fcdf575-19fd-4683-b848-31adabdf6092",
+      "uuid": "0e74d416-5cf1-482b-98b6-c4d079a0993b",
       "type": "domain",
       "value": "ccpxd39.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "25205a01-f0ce-4b93-84d4-6bb528474b2a",
+      "uuid": "c1a8d6a9-189d-4267-81d3-e05c3973c2d4",
       "type": "domain",
       "value": "qsbhi40.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "43dd5fa0-401a-4637-be4d-8a262dfa0dd8",
+      "uuid": "4a6bdaaa-c5d4-4316-8ed2-98bd3f2a65ff",
       "type": "domain",
       "value": "qhacw41.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "5688245c-aa52-4f0a-bcdc-df8994f6c0c8",
+      "uuid": "45eb06f0-8a2a-4cb0-8388-6bfc506c1c03",
       "type": "domain",
       "value": "iwbxe42.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "8e31987e-7942-4d29-a840-23188b2ae2b2",
+      "uuid": "c4dd24fa-12ab-4782-a08a-35c2c93d081e",
       "type": "domain",
       "value": "snqwr43.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "3d723e1a-5e68-4016-954c-3c08d31fe962",
+      "uuid": "0fef1a27-11da-4309-883c-e65acaa48768",
       "type": "domain",
       "value": "gxrgf44.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "5c2fb82c-c735-4d61-9423-359fb87b6e4d",
+      "uuid": "bbe91107-c152-4cca-9971-a75f0fdb6b43",
       "type": "domain",
       "value": "jfbku45.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "d45b15b9-cbe9-4a02-a127-f4a1a3a3f6e6",
+      "uuid": "09c9c7a4-d252-4a68-aec0-5e1f64b3b3d4",
       "type": "domain",
       "value": "einsj46.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-03-31"
     },
     {
-      "uuid": "e38a759c-d514-43e3-a44c-f2c9c6086367",
+      "uuid": "c497de2e-e748-4592-aa22-2c7440720c74",
       "type": "domain",
       "value": "sirdt47.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "da91fcab-00f5-44b4-9f78-c4e2927e6e4f",
+      "uuid": "b98e4a33-971f-484d-a3f8-33638b09b79a",
       "type": "domain",
       "value": "gcfed48.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-03-31"
     },
     {
-      "uuid": "122890ac-f680-48c2-b9fe-8f7ddc244ba0",
+      "uuid": "e1e489af-201c-491d-80f1-6332f7807c9c",
       "type": "domain",
       "value": "hnxxd49.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "a1fe0ce9-9187-4ddb-aef2-3f2c5c8cf756",
+      "uuid": "d28512f7-d5a1-40be-a392-6033e982e2ae",
       "type": "domain",
       "value": "jpjhz50.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "9654e1b3-838c-4a55-b7a2-6e99f3e88e8b",
+      "uuid": "fc9b4716-b8cc-4a16-84f6-7838a7e952f1",
       "type": "domain",
       "value": "pycrm2.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-04-07"
     },
     {
-      "uuid": "10a45003-5840-45d8-8b0c-06a08a95cbb2",
+      "uuid": "c1ab0c32-0cae-411a-9722-41af7e0a73cd",
       "type": "domain",
       "value": "easyechoes.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-03-31"
     },
     {
-      "uuid": "fd189550-bb71-4365-9bca-2394be811e91",
+      "uuid": "aefbdc08-c2bb-4357-b5ab-61295be9c7d5",
       "type": "domain",
       "value": "flagshipsteak.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-03-31"
     },
     {
-      "uuid": "8263567a-df23-476a-bda1-89f145706e5d",
+      "uuid": "66150544-9d05-4220-975a-92e2803907ce",
       "type": "domain",
       "value": "glittersisgold.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-03-31"
     },
     {
-      "uuid": "c8848345-e916-4ae0-bb5a-2787ce496472",
+      "uuid": "d2419a60-2bba-4adb-a534-7fe49231d718",
       "type": "domain",
       "value": "goodasgold.shop",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-03-31"
     },
     {
-      "uuid": "12fb7488-764f-4e84-98a6-d64b2cbcf589",
+      "uuid": "ad7e313b-de20-43bd-81cc-1f41a6640050",
       "type": "domain",
       "value": "takeoneforlove.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-03-31"
     },
     {
-      "uuid": "cb501a70-d38a-44fc-99da-a9be0531e475",
+      "uuid": "91a41437-3be3-41a4-8408-f8523dc489b2",
       "type": "domain",
       "value": "u30487.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-03-31"
     },
     {
-      "uuid": "77f72a48-1767-453a-bf12-450946e7bd39",
+      "uuid": "b4e78d10-1d6b-4806-b21f-6325fa9e2817",
       "type": "domain",
       "value": "eshatl.xyz",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-03-31"
     },
     {
-      "uuid": "e11e3c3b-166c-4043-89e1-004b8a704d04",
+      "uuid": "07b0184b-fcc9-4075-b253-a42da37bc441",
       "type": "domain",
       "value": "smartfashiondaily.com",
       "category": "Network activity",
       "to_ids": true,
-      "disable_correlation": false
+      "disable_correlation": false,
+      "date": "2022-03-31"
     }
   ],
   "Orgc": {
     "name": "Infoblox",
     "orgc": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
   },
-  "info": "smishing_cta_20220408_iocs"
+  "info": "smishing_cta_20220408_iocs",
+  "date": "2022-04-08"
 }
