@@ -1,4127 +1,4127 @@
 {
-  "uuid": "7f867782-23b3-498c-b2a2-08bed1057a5f",
+  "uuid": "f89f6b0c-383d-4d82-ac99-647448eab019",
   "Attribute": [
     {
-      "uuid": "a8f203e3-bc83-452f-ab09-fa897fedac49",
+      "uuid": "51923c2c-2998-4be7-8b29-e2e5a5b90916",
       "type": "domain",
       "value": "twitter-promotion.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-01-08"
+      "date": "2023-01-08T00:00:00Z"
     },
     {
-      "uuid": "0d92b881-b778-4afd-b4ba-ee546ddd1331",
+      "uuid": "1e214dc6-ae45-4e4c-af2c-260cecb70f3a",
       "type": "domain",
       "value": "testtdomainname.xyz",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-04"
+      "date": "2023-04-04T00:00:00Z"
     },
     {
-      "uuid": "b0b8b341-13b6-4c05-b68e-22a51ce1156d",
+      "uuid": "adae76ac-9239-4464-9b5a-a5dea5d77a7e",
       "type": "domain",
       "value": "arkelon22.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-11-07"
+      "date": "2022-11-07T00:00:00Z"
     },
     {
-      "uuid": "b1affb6e-c32b-459a-86c2-d1a31ad2ef63",
+      "uuid": "eb69957b-0030-4779-ad28-9d355354a3f8",
       "type": "domain",
       "value": "teslabonus.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-03-24"
+      "date": "2023-03-24T00:00:00Z"
     },
     {
-      "uuid": "64ad615a-22a6-4fa8-a663-b5d448015c18",
+      "uuid": "074f2981-2e8c-4e0a-8787-7ed8fcf6d0be",
       "type": "domain",
       "value": "youtubetesla.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "b5dcae22-a73d-4346-9dd6-033cb2a9f1a4",
+      "uuid": "fe2b7133-0eb7-41af-8282-f4b2817d4693",
       "type": "domain",
       "value": "xrpglobal-event.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "47f054b6-b505-4a1d-8911-e401bf180039",
+      "uuid": "f43bc414-4f66-477e-b2a3-f85361bd9e6b",
       "type": "domain",
       "value": "xrpglobal-event.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "999d12be-ba28-4f87-bf60-9eca4c8c5ccd",
+      "uuid": "80e9016e-6f0b-4341-a184-af5072d25228",
       "type": "domain",
       "value": "xrpfinance-info.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "1e853819-ce86-4568-85bb-4bdc7954e38d",
+      "uuid": "4f0fb756-d2fa-4f21-81b7-286d9942c10a",
       "type": "domain",
       "value": "xrpdouble-promotion.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-02-26"
+      "date": "2023-02-26T00:00:00Z"
     },
     {
-      "uuid": "f0e75b7c-61d8-41c0-88bf-c5b1fa335537",
+      "uuid": "830e3c4c-1b88-42f0-a69b-66a5a39b4197",
       "type": "domain",
       "value": "xrpdouble-event.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "71df234d-631e-43db-b0a5-d739e03d59ac",
+      "uuid": "1cc207f2-e14f-4c79-a602-76c8b6dc9f26",
       "type": "domain",
       "value": "xrpairdrop-live.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e1219074-61e3-44ea-afab-5c5bf44409aa",
+      "uuid": "4b2ea16f-dec2-4696-93e6-131c6f0adfbd",
       "type": "domain",
       "value": "xrp2x-double.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "fb848a5e-a345-445a-8b43-748b6c1b4886",
+      "uuid": "66c482e9-01e7-430d-b844-e50e8e5fab50",
       "type": "domain",
       "value": "xrp2x-double.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "6667acb6-66c8-4a54-b572-c9a3ba9e3df6",
+      "uuid": "896def50-9b55-41f3-9ad9-32c5ac6e7963",
       "type": "domain",
       "value": "xrp-promotion.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "b7025fae-a766-4362-88a2-32f9687992ed",
+      "uuid": "f178c5d7-11e5-4520-a962-aca191311f51",
       "type": "domain",
       "value": "xrp-info.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "17638a64-0f05-4220-adce-ce42bdfaa21f",
+      "uuid": "63b7e282-9133-4fe1-9d14-c8c8d46fcdd2",
       "type": "domain",
       "value": "xrp-give23.xyz",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-01-06"
+      "date": "2023-01-06T00:00:00Z"
     },
     {
-      "uuid": "b03386e9-3cdb-4f3f-8102-64c02ebaceec",
+      "uuid": "b1849cea-7675-42d7-8115-7e1fd7a04a6a",
       "type": "domain",
       "value": "xrp-foundation.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "682c0117-3748-45af-9e14-8599293065e4",
+      "uuid": "bff38a50-c101-4c0c-a1a3-b33bd370e6cd",
       "type": "domain",
       "value": "xrp-finance.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "3d2bef60-ff1a-44eb-a708-ccacf70d9904",
+      "uuid": "37b548f0-a9a2-44fd-96d7-5526ed4d77f4",
       "type": "domain",
       "value": "x2years.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e1fb12cd-7db3-4d41-9019-ec30140e800f",
+      "uuid": "6135f424-56d2-48f8-85b4-49700c5ff5d4",
       "type": "domain",
       "value": "x2twitter.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-10-27"
+      "date": "2022-10-27T00:00:00Z"
     },
     {
-      "uuid": "d756db21-ea15-4304-9a98-c93b18ea8807",
+      "uuid": "411f4266-01bc-401e-9838-590f9f106974",
       "type": "domain",
       "value": "x2crash.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "8eb555e7-1106-40de-9aa8-0612af5b59be",
+      "uuid": "8a1b2b9e-9118-401e-a145-4aa242e8a95e",
       "type": "domain",
       "value": "weripple.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "c239a704-aec9-459c-85ba-d42644114d33",
+      "uuid": "546c4474-14f8-4194-9625-606ac12be256",
       "type": "domain",
       "value": "twit-usd.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "b147f528-a342-43de-8f2b-32757519c45d",
+      "uuid": "4736f426-a4a4-4a91-9c6f-6906b05bd067",
       "type": "domain",
       "value": "tweetmusk.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "5e3a1bb4-7884-4188-be79-127e7153bb5a",
+      "uuid": "a769373c-d48c-4334-acfb-6e0cd8b867c2",
       "type": "domain",
       "value": "tslaonline.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e450be34-b787-426e-91cd-615a93f21b3a",
+      "uuid": "024e59eb-b28c-469b-aeb7-3efa354e0aec",
       "type": "domain",
       "value": "tslanow.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "ac258ee6-579a-44f9-b401-ca1cfdf73929",
+      "uuid": "a794e57e-641e-44aa-9353-1413314058d3",
       "type": "domain",
       "value": "tsl2x.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "443a0124-a463-4c71-a037-beea6e01d7ad",
+      "uuid": "b655af5f-9b0d-4076-8ff3-863796854d1b",
       "type": "domain",
       "value": "teslaus-event.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "9fe25dcc-97fd-4a88-b916-b512623724ac",
+      "uuid": "edd62ea8-cc99-436f-8f16-2200bc812f2d",
       "type": "domain",
       "value": "teslatv.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "7264d0a5-b3b6-4a4c-8e47-f5defc26a65d",
+      "uuid": "60792edb-b2b1-42db-ae55-1970d6dfe452",
       "type": "domain",
       "value": "teslatake2023.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e9ec56d6-337d-4c3d-b6d1-2ede71e51d14",
+      "uuid": "1e9e3ad0-74f5-4a10-90ab-129dfae9ddc2",
       "type": "domain",
       "value": "teslaq3.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "1e0de16f-5808-449b-b134-1a2176786829",
+      "uuid": "c7ceac90-0889-456f-994d-186a9f5baf5c",
       "type": "domain",
       "value": "teslaq3.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "a44a1d3c-9996-464d-87c5-eaf0b3819415",
+      "uuid": "bdc97fae-301e-48ca-b0f1-1c6607b15458",
       "type": "domain",
       "value": "teslapromotion.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-12-31"
+      "date": "2022-12-31T00:00:00Z"
     },
     {
-      "uuid": "cf2f5066-a111-4316-9e15-3c581dc58a8c",
+      "uuid": "9fe9bd5e-6df6-407b-954b-cbd8ffe0677c",
       "type": "domain",
       "value": "teslapromotion.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "b921ae4b-9b93-4a3b-b110-ad57f4d4ab9b",
+      "uuid": "84b25c37-7bb3-4aff-bbaf-2428ec6cd5e6",
       "type": "domain",
       "value": "teslapromo.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "2f58ce2c-59a6-43dc-91d5-a2adf3de5172",
+      "uuid": "3d83efc0-2d7b-4c77-9fb8-dd2e159377b4",
       "type": "domain",
       "value": "teslapromo-2023.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "b47d0123-2704-4c45-86e5-6c58eed40da3",
+      "uuid": "c299dd25-3f68-4097-aff5-06a01444d867",
       "type": "domain",
       "value": "teslapromo-2023.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "9a026a00-3ff9-498d-a121-3a6d26b2bf8d",
+      "uuid": "3057e864-8879-43e7-a525-dbae4218062d",
       "type": "domain",
       "value": "teslaone.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "145d193f-e002-419f-a2d6-d850a9337953",
+      "uuid": "3be155e5-8fe6-4e73-9ef7-cc2bd8d9a987",
       "type": "domain",
       "value": "teslaofficial.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "98b8e2e6-c6da-4b8e-9f28-c9b216645004",
+      "uuid": "2b0ed0aa-d895-47ad-9464-554e19c7e9eb",
       "type": "domain",
       "value": "teslamusk-promo.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "4d95335f-c5a1-4d18-8017-1fda3e3e7bc8",
+      "uuid": "3dc8ebc8-b987-4e74-b5c8-e4245e3b9ce4",
       "type": "domain",
       "value": "teslalife.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "a2f2d8fc-91a4-428e-8b42-2ad5107e6e18",
+      "uuid": "bd050a90-c6cb-491f-90d3-9373e394e24f",
       "type": "domain",
       "value": "teslainc2023.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "ce33d4c3-19b6-4bfb-ab4c-4f93a8b83797",
+      "uuid": "dfa170c8-a23c-45f6-b133-add7f8de02ec",
       "type": "domain",
       "value": "teslagives2023.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "5df5a428-c8b4-4601-859d-a7bd494fc8d6",
+      "uuid": "35e914ea-7309-4b0f-865f-fd3701d4d872",
       "type": "domain",
       "value": "teslafinance-promo.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "5fd2ec74-6c79-40ca-b340-6b9c9bc2a9da",
+      "uuid": "923b0b69-3ad1-4cf6-b122-27f5014792b9",
       "type": "domain",
       "value": "teslaevent23.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-12-29"
+      "date": "2022-12-29T00:00:00Z"
     },
     {
-      "uuid": "edf60a0f-8049-4bee-93c3-617438e6c68f",
+      "uuid": "4cd847b0-9750-448f-8b04-8d26635ec8f6",
       "type": "domain",
       "value": "teslaevent-promo.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "daf754d4-4b73-414f-a931-20aa7e43093a",
+      "uuid": "944d0fcc-cdda-4f6b-83b6-a03bf96543f4",
       "type": "domain",
       "value": "tesladouble.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-03-14"
+      "date": "2023-03-14T00:00:00Z"
     },
     {
-      "uuid": "32eb993b-1b80-4d21-b3e4-3c31e44a1bfa",
+      "uuid": "2976858f-7f0b-465e-8b4a-7c510a7d08f9",
       "type": "domain",
       "value": "teslacrypto2023.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "ad882074-732a-4780-9d5f-33774f5918a3",
+      "uuid": "c2b299cc-bbad-494b-907e-5e1367761f91",
       "type": "domain",
       "value": "teslacrash.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "fb955c2f-ab23-466e-b99f-118c1c60a6f2",
+      "uuid": "3cb43876-1b33-4ad8-bc60-102e5b29cac6",
       "type": "domain",
       "value": "teslacoins2023.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "03fed866-1b19-42bf-9bc4-459e3c1429a4",
+      "uuid": "9234e0b1-3b02-4128-b167-7038ee72d4b1",
       "type": "domain",
       "value": "teslacashyt.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "b21dd60f-2f10-48f8-8bef-245d9f0f6bb1",
+      "uuid": "27b257f2-d141-4a5e-ae41-594fcd177478",
       "type": "domain",
       "value": "teslacashyt.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e0c0d579-336b-44bf-8722-01799da07a3b",
+      "uuid": "fa65bf7b-79db-44d6-8e53-fd58df7f0fce",
       "type": "domain",
       "value": "teslacash2023.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e81a8d4b-87d9-4105-a644-0e35e3fceee4",
+      "uuid": "5a488eac-d57e-40b7-b695-301d28d4f0b4",
       "type": "domain",
       "value": "teslabonus23.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-02"
+      "date": "2023-04-02T00:00:00Z"
     },
     {
-      "uuid": "da7c2650-70a0-4706-a592-e62c86e52fa6",
+      "uuid": "20ef3feb-d728-4749-8a84-a35f92f2a5cd",
       "type": "domain",
       "value": "tesla23bonus.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "6fbc1397-4a60-41c4-9faf-2e0a4eba4179",
+      "uuid": "46036746-8e13-4a9c-9b60-49e2634de2b3",
       "type": "domain",
       "value": "tesla-pump.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "b821b874-75eb-472d-b24b-e11f850386d2",
+      "uuid": "952b717b-7f2c-4dd2-b9c8-331a5f306617",
       "type": "domain",
       "value": "tesla-promotion.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-12-30"
+      "date": "2022-12-30T00:00:00Z"
     },
     {
-      "uuid": "7960220b-20b9-40a2-9ef1-5536a0b54212",
+      "uuid": "df699085-7f7c-4bf7-aa90-884241fb716b",
       "type": "domain",
       "value": "tesla-now.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "90e6ad74-592a-4299-8fbf-e3ab7d87e0dd",
+      "uuid": "9f441feb-f54e-4714-bad6-0684f573ed2f",
       "type": "domain",
       "value": "tesla-motors.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "f9cdf858-83c2-4d7d-b144-dd3945db4e69",
+      "uuid": "c37926f1-c975-4370-a4f6-a744fe31e252",
       "type": "domain",
       "value": "tesla-life.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "ac54b303-4633-4234-86f6-0fba47874544",
+      "uuid": "d6bb582d-ddbe-4566-901f-41e1b2d94bc6",
       "type": "domain",
       "value": "tesla-give22.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "b0349b06-c1b6-42c0-ad7e-b7cda8e10f77",
+      "uuid": "5e53a0f7-7f89-4373-bcb6-fe03dff3b94d",
       "type": "domain",
       "value": "tesla-eventx2.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "9de613f4-7641-482b-8d79-f6c0af537cee",
+      "uuid": "073d7be6-76df-40f4-9950-90a7cebc5d09",
       "type": "domain",
       "value": "tesla-elonx2.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "68c60dd8-db3c-46cd-a1bb-9fabbccf0c7c",
+      "uuid": "524ac58e-4150-4c7c-8991-90891dbf2196",
       "type": "domain",
       "value": "tesla-double23.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "fceb08ba-9e71-4da7-9ac2-fcf40426b4af",
+      "uuid": "3ff72ef0-9799-4212-b171-d0e915ee5799",
       "type": "domain",
       "value": "tesla-bonus23.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "6be09037-62c8-46d1-9a9c-252ffcbcb13a",
+      "uuid": "c9748c6f-81f5-48db-b9f0-e66df0e3d656",
       "type": "domain",
       "value": "tesla-airdrop.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "1036e689-7e1a-4f01-9bae-0951e6cd66c9",
+      "uuid": "69468954-9c9c-41b4-99c1-d5608a7e70ce",
       "type": "domain",
       "value": "tatehustlers.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "3f70fec3-1e57-4c15-a64c-8d18015fdea2",
+      "uuid": "508e01a1-afc1-4406-a921-cb0eebd28395",
       "type": "domain",
       "value": "tatedouble.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-04"
+      "date": "2023-04-04T00:00:00Z"
     },
     {
-      "uuid": "52f6df5d-6e64-4bcb-8684-a37501fc74b0",
+      "uuid": "beac94f9-7a35-456a-a5bf-a15d9bdde1b8",
       "type": "domain",
       "value": "tatebonus.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-04"
+      "date": "2023-04-04T00:00:00Z"
     },
     {
-      "uuid": "c2715219-bb0d-4468-a418-680f94d343f6",
+      "uuid": "51377701-3e69-44a0-b749-4237e4b15f44",
       "type": "domain",
       "value": "tate6ix9ine.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-10-29"
+      "date": "2022-10-29T00:00:00Z"
     },
     {
-      "uuid": "98dccd68-dc4f-4622-aef8-a49b656e7144",
+      "uuid": "26356ca9-2f5c-44dd-ba2c-12287fdfb294",
       "type": "domain",
       "value": "spacexlaunch.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "930c9cab-775d-45a0-a1a0-bfd0cf04e1db",
+      "uuid": "274914bc-ab75-455e-b13b-3b8f66d043bb",
       "type": "domain",
       "value": "spacex23.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "85578f55-a116-42d8-ab44-161b3a798d0a",
+      "uuid": "de472b5d-20b3-43a4-b788-ef50ed0bd2a1",
       "type": "domain",
       "value": "spacex-mission.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "d8b8951c-7247-4764-b880-167c3b93379a",
+      "uuid": "2c43ee78-d1c4-4267-8f56-3cb0e91362ef",
       "type": "domain",
       "value": "space22give.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "8c7597e0-2ff7-4f43-a627-a794fed5976d",
+      "uuid": "587ab270-1931-4fc0-9bc8-83462100882e",
       "type": "domain",
       "value": "space2022x.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "2338c664-a811-4069-877a-7b48e05d5d04",
+      "uuid": "0b7d8e3b-139d-4c5d-af95-ce131a462a6a",
       "type": "domain",
       "value": "space-strarlink.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "a138004d-628b-4c47-90fc-f5301cede883",
+      "uuid": "b1020ec7-1930-4e4c-a972-b8dbb2441df7",
       "type": "domain",
       "value": "rippleglobal-event.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "eddd47dc-d7cd-4517-a286-31fb21bf49bf",
+      "uuid": "3c550f74-278e-4fd5-b740-3a5226ed0142",
       "type": "domain",
       "value": "rippledouble.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "cf0cf341-44f6-4480-b5cd-548a0b5ea785",
+      "uuid": "beed523e-15d9-41e1-9411-7e894b8c81c5",
       "type": "domain",
       "value": "ripple-money.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "706a0707-01be-4ebf-a1dc-dc1da18280e3",
+      "uuid": "3bf70692-f417-4315-ae12-ba9bc600dbd1",
       "type": "domain",
       "value": "ripple-live.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "34d342f6-9a12-4eae-9c8e-d49ba9bae240",
+      "uuid": "8a0f5daf-2e07-432a-a68d-742c57b8447b",
       "type": "domain",
       "value": "qrmusk.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "4b184a83-ff82-4906-9f60-9a19864192f9",
+      "uuid": "8ce25b0e-c7f6-4eca-83ef-79dd36e88ee5",
       "type": "domain",
       "value": "promotion-x2.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "65d7be5f-2822-439a-b183-f4922fde094a",
+      "uuid": "9d6e4f77-2826-4657-bbc2-33890a11dfd1",
       "type": "domain",
       "value": "promo-xrp2022.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "3a075e3d-e1d9-4030-a5fd-4f02b8c71322",
+      "uuid": "eabb8493-68b8-49dc-bdf5-281f6d90ca69",
       "type": "domain",
       "value": "promo-tesla.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "4a545487-e323-48a2-8178-8000e2e05caf",
+      "uuid": "af7d8f45-e263-417a-b6e5-b2936dc802bb",
       "type": "domain",
       "value": "promo-musk.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "4487f78d-8ebf-4801-ad1a-62b4e1bd13d6",
+      "uuid": "1855838a-59c1-42ea-af8e-57f115e0a6ff",
       "type": "domain",
       "value": "promo-musk.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "248776ba-0b1d-4601-9a9d-0bbfc70868eb",
+      "uuid": "f86b2560-be1f-498a-ac84-56b9a58064c9",
       "type": "domain",
       "value": "prizetesla.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "c57e5ef6-0120-46e1-beb5-d4544b9b9316",
+      "uuid": "6808bc28-86ce-4141-8e5d-7524d99522e8",
       "type": "domain",
       "value": "news-tesla.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "663fa29a-37ac-47e1-87d1-d4404f5bdf3e",
+      "uuid": "b22aa9ad-ae30-445d-bb12-398016f82c0d",
       "type": "domain",
       "value": "muskevents.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "01443d64-ed4f-4305-96fc-c4cfaf59fb0d",
+      "uuid": "78bc8206-0774-4a30-b474-95cff866a09d",
       "type": "domain",
       "value": "muskevent.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "7f1e3e84-a06b-4e1a-8797-efd5d21bffe3",
+      "uuid": "7f7a2f76-3fa2-47e6-b41c-707719412b64",
       "type": "domain",
       "value": "musk-pump.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "6a1f31e1-41e3-4628-8ece-8783c8a10a2d",
+      "uuid": "01e00e7b-f865-4ccf-9e63-7494fcd45db8",
       "type": "domain",
       "value": "musk-promotion.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "8c1c263e-1d91-4417-a9b1-43810be18cc2",
+      "uuid": "3e5b91a9-e5e7-48e1-b0ff-c6984b7e1d90",
       "type": "domain",
       "value": "musk-prize.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "74e87b65-cdea-468a-9cde-c88051c7f65b",
+      "uuid": "ef037cde-3f26-4f30-840b-fbcdc1d356d4",
       "type": "domain",
       "value": "musk-get-x2.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "d4be2711-1b0c-4ff6-9864-90cc13551ee8",
+      "uuid": "6f1ee494-1538-4255-86ae-48e2f009f6b9",
       "type": "domain",
       "value": "musk-foundation.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-11-28"
+      "date": "2022-11-28T00:00:00Z"
     },
     {
-      "uuid": "ccbe1ac5-fe8f-4604-92a7-5c625c28f980",
+      "uuid": "3315ac8b-d83e-412b-a4ce-81f46372bc20",
       "type": "domain",
       "value": "misson-live.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "67ce0cc8-3e90-405f-b7d0-9da7c67ce826",
+      "uuid": "c35f2937-f9fa-46a7-9257-de1ff1b23c8d",
       "type": "domain",
       "value": "ltcpromo.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e3f4d8ec-92b8-4f14-b0b4-2cf2e693d869",
+      "uuid": "b3b39f35-e281-4401-aa25-1b6d81689108",
       "type": "domain",
       "value": "liketesla.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "7cfafaf7-6e2a-4ce9-bf6c-9ee5922121ee",
+      "uuid": "8f5e92f2-da63-40f2-b672-10eae87daed8",
       "type": "domain",
       "value": "invest-elon.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "baa6d5e0-29ca-4691-bcd5-c1ca22be7422",
+      "uuid": "e88cf8ff-5790-4732-a20f-3feb7da89949",
       "type": "domain",
       "value": "grew4tesla.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "27ef7d8c-7320-4727-83f0-42f515c2180d",
+      "uuid": "3527bfa5-f8f8-4454-84a6-5da1152b2a43",
       "type": "domain",
       "value": "gifts-tesla.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "ca4f4d5f-2d89-47dd-8774-8e7dd7ab8ba5",
+      "uuid": "78f17c0a-317c-48dd-9363-33a90dd78886",
       "type": "domain",
       "value": "get-x2bonus.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "616546f3-90c5-4168-a52c-be3a8a94570f",
+      "uuid": "18e210ce-c78c-4b36-81e5-5b09138b8b78",
       "type": "domain",
       "value": "geminiearn.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e8e2b60e-36fc-4722-88a2-d616202fdb15",
+      "uuid": "703bb4c6-ffe2-4116-85b5-2fee8721664a",
       "type": "domain",
       "value": "ftxbinance.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e1193cfa-a370-4fc2-9e74-1b578b7f30a4",
+      "uuid": "a0a999e2-dbd0-47f9-a1d3-88f19ef1f44d",
       "type": "domain",
       "value": "freetate23.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "3138c582-c4e1-4e6d-8143-cba4d2901b09",
+      "uuid": "b545f76b-72a6-4d26-aacd-77b83735d6b8",
       "type": "domain",
       "value": "foundation-tesla.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "b7c16f63-ba54-465e-a4ab-837c7b32854c",
+      "uuid": "05c7b286-b857-4838-afae-8643ed3e5dda",
       "type": "domain",
       "value": "forbesbtc.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "efd1e7a7-47eb-4531-9783-4cfdcc5a1a31",
+      "uuid": "2de6745d-8517-4306-9105-5b8f92b9b745",
       "type": "domain",
       "value": "finance-xrp.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "c58c1b02-ba7d-4de9-a2e4-d731e02076bb",
+      "uuid": "852ed774-2dd1-4a8c-8aab-d2b323bc1c07",
       "type": "domain",
       "value": "ethereum-rise.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "9bca1063-94e0-466c-adb6-95b8a3f2e1e1",
+      "uuid": "335b62b4-2353-4186-a103-28ec5d513b63",
       "type": "domain",
       "value": "ethereum-promotion.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "61400edd-163e-4e1b-8afb-fbd7cb456136",
+      "uuid": "4cfdae7c-ffe3-4d96-b793-693797ee988e",
       "type": "domain",
       "value": "eth2x-info.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e796d9ed-2309-45a8-ab95-20d533ec27a3",
+      "uuid": "4fcbf63c-b628-4892-8c66-5717801766c4",
       "type": "domain",
       "value": "elonusa.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "1e170b89-1445-4ac4-8798-6bf599a3945d",
+      "uuid": "27189bb2-f2a9-41f9-bf3e-5573c2ff0983",
       "type": "domain",
       "value": "elonus.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "8d3c64fa-6118-4243-8a17-ffe3de0f408d",
+      "uuid": "2800978f-08a9-41fe-a921-8ece13736ae8",
       "type": "domain",
       "value": "elonshare.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "f05efd80-392f-400f-a8c1-bb0b6959a7a6",
+      "uuid": "4bd9942e-29dc-4427-adc0-f414d3495132",
       "type": "domain",
       "value": "elonmuskevent.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-10-22"
+      "date": "2022-10-22T00:00:00Z"
     },
     {
-      "uuid": "8f78a71a-55ce-4868-94fc-c720290ad420",
+      "uuid": "5abffb83-8f47-4be8-bc09-3f5d0a836786",
       "type": "domain",
       "value": "elonmuskcash.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "8ae8da30-2a46-4fb8-b237-5ca69cd04ee5",
+      "uuid": "aa5cf63e-fb8f-403a-95e6-f915c7d50f57",
       "type": "domain",
       "value": "elondrop22.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e0150073-5239-4ae3-8a94-08e52e4d25e8",
+      "uuid": "366fee4e-509c-4b87-a4c7-b73ed1b43aa2",
       "type": "domain",
       "value": "elonark22.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-11-04"
+      "date": "2022-11-04T00:00:00Z"
     },
     {
-      "uuid": "f30d57a7-dabe-4a88-bcca-92357b3d9f70",
+      "uuid": "f66e03f8-e3e5-41ff-a866-16761022a5cf",
       "type": "domain",
       "value": "elon-promotion.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "b5ae20ed-df85-4dc3-959c-e2de5be9ae70",
+      "uuid": "de48dd91-6dbe-4cd7-adbe-b23b575c7874",
       "type": "domain",
       "value": "elon-investx2.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e8a1a6d2-5472-4f60-8d10-287dbc6fda2a",
+      "uuid": "06d9deba-1655-4ef5-8c66-4dda4de521ca",
       "type": "domain",
       "value": "elon-gets.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "bfbe870c-33e9-4172-bebc-a176fddabcec",
+      "uuid": "68b87d67-1670-473b-a42a-58544807561e",
       "type": "domain",
       "value": "elon-gets.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "3d5be674-a883-4ada-b9a0-33324e50156b",
+      "uuid": "8d6cbdc8-ac90-4ecb-86ac-4d2de83ed9ba",
       "type": "domain",
       "value": "elon-gets.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "6c521ace-a513-4777-99d6-db7f9efe5a75",
+      "uuid": "fa47fc10-4087-43b8-99b3-86084104dbdb",
       "type": "domain",
       "value": "e-musk.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "2be3e9d0-e59c-4416-91ae-b8f52fcbf2e3",
+      "uuid": "4d884cc2-961b-4ea0-879d-dbc1a7c00999",
       "type": "domain",
       "value": "draketesla.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "3af6b270-a9fa-4ada-88d2-75dbeea89003",
+      "uuid": "5bed3b10-db14-4331-b264-fb660f5ab649",
       "type": "domain",
       "value": "dot-pump.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "557ff436-4013-4f4b-92b7-f711e83d515f",
+      "uuid": "72288662-7f2a-49bf-ae88-af09f17ebe27",
       "type": "domain",
       "value": "cryptobottemplates.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "4eb0bc82-87fc-4a6c-b4c4-7a1834c36923",
+      "uuid": "51bfdca3-ae0e-494f-aaff-ef4d71d82390",
       "type": "domain",
       "value": "crypto-tesla.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "12e009aa-2f15-4209-ad3a-19b7791737b3",
+      "uuid": "3eead1c6-5482-4602-92b2-3c3228a0b3ce",
       "type": "domain",
       "value": "cryptgive23.xyz",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-01-05"
+      "date": "2023-01-05T00:00:00Z"
     },
     {
-      "uuid": "73e2c553-d3d7-4bd8-b6b4-18b56e2829f9",
+      "uuid": "1742baa2-3eed-41b5-bbaa-10a6c819ec33",
       "type": "domain",
       "value": "crew5tesla.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "8b311524-de0e-469a-bb55-42ff37b02afc",
+      "uuid": "b6be3ca3-fbd2-448d-817c-38c17a71e27d",
       "type": "domain",
       "value": "crash-tesla.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "b12e7deb-dd92-400a-84f4-4c14a68cff26",
+      "uuid": "3dfb0c83-fb05-40e5-8486-390b8507bf2d",
       "type": "domain",
       "value": "cathie-live.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "87c929a2-c753-4142-ba9b-fe07317433e7",
+      "uuid": "a3211e0b-6aa9-40db-b9c3-26fecdee07b6",
       "type": "domain",
       "value": "cashtesla2023.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "9d08e5e0-0316-40b7-aff6-f7c950633221",
+      "uuid": "72529c9b-5792-4e0a-9a21-2e7126b73ff2",
       "type": "domain",
       "value": "buterin2x.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "08a22539-8b7c-4e13-b8db-b2b62a37f38d",
+      "uuid": "a2abd239-645b-439a-8fe3-08bb944d6651",
       "type": "domain",
       "value": "buterin-promo.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "6164f6d0-fb39-482f-b3d5-40b1a4e160db",
+      "uuid": "02aeaa5b-ae0d-41f1-a47c-03ab33383ce0",
       "type": "domain",
       "value": "bonustesla.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-03-31"
+      "date": "2023-03-31T00:00:00Z"
     },
     {
-      "uuid": "aae4a7a4-4d8f-48b0-87d1-69b07f89606b",
+      "uuid": "9cfddfec-5085-48cb-ae81-792e5d1f5a12",
       "type": "domain",
       "value": "bonus-xrp.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "b78864da-d84e-42b2-9f91-794a8f97cdb6",
+      "uuid": "5ca142e3-c54f-45d8-aadc-f0e004889dca",
       "type": "domain",
       "value": "bonus-xrp.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "5bf24390-c32a-4d7e-9587-d6614b13356b",
+      "uuid": "ecc68df4-cc86-4606-80c6-ed911ebb93e9",
       "type": "domain",
       "value": "arkspace.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "8f32f285-e869-47ca-b204-c6c34f476110",
+      "uuid": "70a7a81d-ec84-416d-8adb-e084f9d55ded",
       "type": "domain",
       "value": "arkgives2022.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "3aa2e19f-7711-4606-a505-e09f24c92c40",
+      "uuid": "08a8472b-1e86-40de-8a48-0eb6c3de15ea",
       "type": "domain",
       "value": "ark22double.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "da78415c-5f3f-4384-a5b3-765a9cc7bceb",
+      "uuid": "984615b4-b2a9-4ff4-85fb-93dcb369becf",
       "type": "domain",
       "value": "airdrop-xrp.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "20e5a726-412a-49ee-9d1c-edbcbe94dca9",
+      "uuid": "dde485a6-d6ea-45c9-9f6f-af65f6cf1d5e",
       "type": "domain",
       "value": "airdrop-ripple.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "648aaffa-e1b1-4d75-a78c-1b6dc8ad2dcf",
+      "uuid": "d3be4a9f-ccab-4028-b4bc-ca8eb1a42714",
       "type": "domain",
       "value": "2x-tsla.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "be34ee58-3276-4b6d-9e0b-63308f5bf4a8",
+      "uuid": "46997149-d082-4db2-9142-ac2c08b3c63a",
       "type": "domain",
       "value": "22tesla.io",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-12-01"
+      "date": "2022-12-01T00:00:00Z"
     },
     {
-      "uuid": "ed3a0106-99cd-45ce-9491-759a1fb24e84",
+      "uuid": "48eb2f2a-901c-49c1-98ee-7d7826ed8e0d",
       "type": "domain",
       "value": "22spacex.space",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "96d103d4-85c9-466e-9aa1-8bda40849f85",
+      "uuid": "f4c84aed-f5f4-451a-90f8-4280dbd39dc4",
       "type": "domain",
       "value": "2023-tesla.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "778d4883-04c0-4ba4-ba2c-4aab20dba710",
+      "uuid": "f289d07c-8d08-438e-9c28-02d8028729f4",
       "type": "domain",
       "value": "2023-ripple.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "4494093a-678d-4699-b481-b594cac23a8c",
+      "uuid": "e27a7c88-4be9-406b-a62e-505aaf0ae9fd",
       "type": "domain",
       "value": "xrpfinance-live.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "04f663e5-2f23-4781-a148-4ab1af466a30",
+      "uuid": "cf5a3200-edd8-4699-8250-34621fe4904b",
       "type": "domain",
       "value": "xrpdouble-promotion.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "159ce1a8-8c40-4332-8f58-aa4933ccf5f8",
+      "uuid": "45db45bf-149b-4541-9cb5-e21c21ead215",
       "type": "domain",
       "value": "xrpdouble-promo.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "ca790187-8f03-4298-b730-7cc7887f4b9c",
+      "uuid": "bf1ae362-363a-4c74-8cb6-1d49f53bc2e3",
       "type": "domain",
       "value": "xrp2x-prize.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e76488bf-12e8-41ca-b8eb-d4be0e196b9a",
+      "uuid": "609dd076-ff5c-4540-a18f-1f078c727efa",
       "type": "domain",
       "value": "xrp-bonus2022.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "56d5244e-2778-4f60-b94e-a7b4d4374421",
+      "uuid": "1fbb6efd-adb2-496c-a858-bb58e0d0be34",
       "type": "domain",
       "value": "xrp-airdrop.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "a3a1bf4a-be70-4b21-b2a4-e3c3f38b190c",
+      "uuid": "b62b55dc-a91a-441a-b68f-129536fd723d",
       "type": "domain",
       "value": "xrp-airdrop.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "3ee7612f-55c6-44ba-80c9-9ad4ee91c45a",
+      "uuid": "360a0c0b-cbb1-43d6-882e-1ffe86e82fb3",
       "type": "domain",
       "value": "promotion-prize.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "9f2614bf-03e1-480a-a718-84ec9b0f20ae",
+      "uuid": "1e31e83f-f8ba-4167-9d8c-ca26bbe5f95d",
       "type": "domain",
       "value": "promo-prize.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "345a8194-27fd-4359-b7ac-56cf57419918",
+      "uuid": "8e4f8823-e37c-4936-a24d-9f0f79c0daf1",
       "type": "domain",
       "value": "xrpfinance-promotion.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "08a2e2ea-8fb0-43bf-a93f-93298168355a",
+      "uuid": "de026a3d-d42b-4a16-a1d5-9af0fc5f525f",
       "type": "domain",
       "value": "xrpevent-promotion.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "1dbae0c8-5976-4317-bfaa-7c35c3731b71",
+      "uuid": "92c7d935-266c-475e-ae1c-df43cea01d11",
       "type": "domain",
       "value": "xrp-doubled.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "3cab62b1-08d5-4e2f-b5b1-7e4075a2701a",
+      "uuid": "f32927e1-ae29-4ba9-9e2d-d5ab0b0cc3f6",
       "type": "domain",
       "value": "xrp-ceo.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "32f25082-f8c0-4428-aad3-89aa0c5dcf58",
+      "uuid": "0243e796-c0d1-410a-8d82-525645ca9275",
       "type": "domain",
       "value": "tesla-weelgives.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "ecc94c59-15ae-4962-8af8-d428d76ca652",
+      "uuid": "6dffa035-7122-43c6-a771-972815fa9603",
       "type": "domain",
       "value": "tesla-weekgives.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e4c40302-ec3c-4a0f-a736-e68c241168e6",
+      "uuid": "e11b75f2-4bce-45b8-b8b4-5e2afc6b25b5",
       "type": "domain",
       "value": "get-prize.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "05c2ec93-ea85-4a57-b33a-e0b120a5cd63",
+      "uuid": "2daacf2b-28d0-419c-a8ff-cfebdfb226bc",
       "type": "domain",
       "value": "find-prize.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "df2fe1af-6b98-407a-b5ee-a65b10074294",
+      "uuid": "f7980e9e-e7a4-4c45-92db-a14122a3ec8a",
       "type": "domain",
       "value": "event-xrp.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "7dfd5d45-a62e-4753-a6bb-abea6c351ae2",
+      "uuid": "28909a03-80da-4b77-ba9f-120a84eb11a7",
       "type": "domain",
       "value": "teslagivesx2week.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "7e57e444-8ef8-4c82-8a5c-61fdcd65f354",
+      "uuid": "047691c6-b15e-466b-80be-c3c933e944f8",
       "type": "domain",
       "value": "teslagives23.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "3571b594-f257-45ca-9d99-8dc1c4e4dfed",
+      "uuid": "233be644-0b01-4b9a-84d0-875ed63e0d4c",
       "type": "domain",
       "value": "tesla-wellgives.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "1339f857-a9fe-4033-b04d-356c1ef64982",
+      "uuid": "bb46c113-c43a-4dff-9cf6-114c862bdab3",
       "type": "domain",
       "value": "tesla-givesweek.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "89e74820-8aed-4d8a-9fe3-ca11e3afde42",
+      "uuid": "a5e24649-9b25-4074-b9da-89ebc54f40ce",
       "type": "domain",
       "value": "ripplesec.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "d0ab8ca6-1a6c-438c-a857-d08bba57bc2a",
+      "uuid": "3f1ea1f1-9733-4701-9744-fa30162cb733",
       "type": "domain",
       "value": "ripplelabs-live.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "6559f148-20d7-4f5d-b783-07b22422df0b",
+      "uuid": "3c1ef362-8f7a-442e-a213-6a5d3d3d786b",
       "type": "domain",
       "value": "ripple-sec.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "fa9b1e52-ddaa-46f0-b20d-49ede170099f",
+      "uuid": "67a35400-2eb1-4221-8bdc-0dd4dffff09d",
       "type": "domain",
       "value": "ripple-live.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "7113e6d2-6e28-45e9-8860-e6c45e3c8afc",
+      "uuid": "eb137e7e-16bc-4b3f-ad99-6030c401f858",
       "type": "domain",
       "value": "ripple-finance.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "43ee78a3-aebd-4cef-8cb7-a8e80299959c",
+      "uuid": "d30dad6e-48cd-4c70-850c-edd37af92fc1",
       "type": "domain",
       "value": "promotion-xrp.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "40a8b6c1-2ad7-41dd-b0a7-00685160ab7a",
+      "uuid": "482f9753-c09f-4182-9fb7-0cb2d2a9da93",
       "type": "domain",
       "value": "eth-airdrop.xyz",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "52f201c9-6012-44bd-8bcb-c0f26f5b5ca1",
+      "uuid": "2ba8ad36-e904-4a8d-9047-75bd0e24226e",
       "type": "domain",
       "value": "bigxrp.xyz",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-01-06"
+      "date": "2023-01-06T00:00:00Z"
     },
     {
-      "uuid": "de555741-8874-43af-8bed-2abf6a8a6396",
+      "uuid": "fd2ee595-1002-44ce-9c9c-f8ab8eb0849a",
       "type": "domain",
       "value": "ark-giveaway-x2.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "2a351106-1c8b-4039-8b00-c3641e74586c",
+      "uuid": "3b6b0119-bc7a-450e-87dd-16834c3ffb5f",
       "type": "domain",
       "value": "xrpevent-official.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "f4bf4341-d334-49a7-b7ae-8cd9be2914e9",
+      "uuid": "933931a7-b0d9-4ac4-9697-8a88b5d07838",
       "type": "domain",
       "value": "world-xrp.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "109a76fc-4d95-437b-b2ea-be387b54ca10",
+      "uuid": "181787eb-ba93-4422-a065-69d3e46c520b",
       "type": "domain",
       "value": "weripple.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "aad4dd9a-7bef-43a8-9eb5-525ea5212f04",
+      "uuid": "f4c1738b-63ec-458e-a934-130561ebe558",
       "type": "domain",
       "value": "ripplevent-live.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "73d584e9-be35-46ec-8e3a-b4ee40391ab0",
+      "uuid": "bb301c6d-dc28-4636-a2ef-a225ad5f1029",
       "type": "domain",
       "value": "ftxbonus.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "206179c8-761c-4d7f-92a0-d9b19d5b6079",
+      "uuid": "b7497a6e-a176-455c-8755-a543e0805003",
       "type": "domain",
       "value": "ethereum-bonus.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "b33da2eb-9658-42c6-b38b-12289f3ab016",
+      "uuid": "1fe1f3e0-325e-4a60-96b9-75bd7b620f3b",
       "type": "domain",
       "value": "elon-live.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "9dec3bd3-dc3b-4035-8cc5-df39ac88823b",
+      "uuid": "970a13b6-9421-46df-b873-5dc21be7d0ef",
       "type": "domain",
       "value": "czftx.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "df7c7c9c-4720-460d-a983-e3314b4de914",
+      "uuid": "4062736e-753e-4e97-af58-5a2c67a2312c",
       "type": "domain",
       "value": "ark-invest-2022.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "253b7e5f-1180-483b-94ce-bf71f3fe2ec2",
+      "uuid": "d4177c1d-da5f-4603-aa5e-efc038e0f2ca",
       "type": "domain",
       "value": "xrpdouble-event.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "fd463cd7-0384-40f7-94ff-3f33d7467a22",
+      "uuid": "79591467-42b1-40e8-9549-25a3ec1b6802",
       "type": "domain",
       "value": "teslagives2x.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "bc5cdf68-a2a1-4c5f-91be-4f28edfbc8fe",
+      "uuid": "d205198c-9bb8-4e0c-b04b-c97957ef5d56",
       "type": "domain",
       "value": "tesla-celebration.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "2bb436a8-9cac-4a0b-bb67-479b97961bbb",
+      "uuid": "fd7b50ff-523f-4b77-a183-cc06ab2696fe",
       "type": "domain",
       "value": "money-teslagives.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "3c08cc60-7b2a-4d0a-a82f-5cfc503a6bf7",
+      "uuid": "a8d62575-9292-4004-9836-8c73a01a5272",
       "type": "domain",
       "value": "get-x2prize.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "596cf1cb-175f-4c01-81ee-6cc66c06985d",
+      "uuid": "2be88c02-c3b9-499c-a0d5-bfc8d32b3173",
       "type": "domain",
       "value": "gain-x2bonus.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "c98adfb6-9a94-4170-a0b8-be0837f9614f",
+      "uuid": "08af8119-d461-40e1-8996-e6de9e2532bc",
       "type": "domain",
       "value": "ethx2-info.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "a6b09501-ec38-4ac3-83b7-eb34ddcd3488",
+      "uuid": "2f408abf-7106-402c-b9be-d7add4e12e7e",
       "type": "domain",
       "value": "btc70k.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "cda4eea7-e86e-448a-86db-9088873da1dc",
+      "uuid": "714ab52a-567f-4b62-9aad-48b6ffe32088",
       "type": "domain",
       "value": "binance-worldcup.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "9dbab867-6b70-4471-ac76-82dbef97320e",
+      "uuid": "d1a44dce-b729-4888-88c4-d63ae2d4adc7",
       "type": "domain",
       "value": "ark2022btc.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "db2926b4-9061-49c1-8690-a5307877ebf9",
+      "uuid": "d6ce7159-5bc3-4202-b969-ca7b1d59d645",
       "type": "domain",
       "value": "teslalive2023.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "4a9bd48b-d997-411a-8bf8-ecd964dcdc94",
+      "uuid": "28b333cb-6b5f-4fe0-ae1a-c73581eb33a0",
       "type": "domain",
       "value": "space-bitcoin.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "d961bae4-dfd3-4252-99de-c91fef2f3470",
+      "uuid": "cdeb15b1-d653-49cb-9848-b9f63c4db14d",
       "type": "domain",
       "value": "shib23.io",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "acc053d2-8a92-4fcf-91cd-f7a479b3e2bc",
+      "uuid": "18e243e1-d2b5-4ffa-be1d-4db94983b044",
       "type": "domain",
       "value": "promotion-tesla.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "c4575b20-328d-41dc-8d76-5714177b0112",
+      "uuid": "285c71e6-149d-4d14-926b-f4b281d3d4f0",
       "type": "domain",
       "value": "gifts-tesla.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "14bd7f18-85b1-419c-b860-c361bc20887c",
+      "uuid": "fe0c4a8f-24c6-4f04-8c88-68b182053587",
       "type": "domain",
       "value": "ethereum23.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "32ec12a0-5b80-45a1-99db-0d4e129d396a",
+      "uuid": "4b9f0e05-83bc-400d-a6f9-b0adb8825475",
       "type": "domain",
       "value": "ark22btc.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "c083d686-1845-4bd9-8f04-5df4297c70fb",
+      "uuid": "772cf8eb-7db4-44aa-a75f-a7d1d76e8bf3",
       "type": "domain",
       "value": "zksync-airdrop.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "59b2a738-0a9f-43f2-b63d-803adf4cab16",
+      "uuid": "cf9e5e02-699a-4003-8c5b-bf7a2d4ca8db",
       "type": "domain",
       "value": "xrp-finance.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "35af4f22-0384-4caf-af2e-47a52bd73ba2",
+      "uuid": "afd123a6-e308-45d3-8294-2b0eabf86148",
       "type": "domain",
       "value": "x2-promo.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "69118543-dfdf-45f7-9f72-145fcb68ec9e",
+      "uuid": "bbf1f860-fcef-4628-a559-91eac2da3e57",
       "type": "domain",
       "value": "teslax23.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "b74f23b1-2d1a-4131-b1d0-18f40239a836",
+      "uuid": "5e2516d8-e3b3-4fb7-8ca5-aeab41300736",
       "type": "domain",
       "value": "teslagift2023.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "58e36b08-5a30-4111-9310-944151b68102",
+      "uuid": "a2a5d24f-fe71-4de4-972c-8a29cdeb5b2a",
       "type": "domain",
       "value": "tesla3.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "0babc82c-5f71-443b-84bb-935c903f003e",
+      "uuid": "fd9eaaf6-689e-4f7d-bd5d-221ffa915056",
       "type": "domain",
       "value": "promo-ethereum.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "16efd292-55e2-4c9d-bc20-c935736ab490",
+      "uuid": "18f2b4b4-bf8a-47ad-80fa-4ee454f4a615",
       "type": "domain",
       "value": "btcark22.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "9fa822af-cff9-4454-8729-0a9557618ecb",
+      "uuid": "2f46f6c4-7c85-4c49-adf5-a0da170c70a8",
       "type": "domain",
       "value": "astralis2x.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "54a2e051-4834-4bcb-956f-592607873ff1",
+      "uuid": "2a2c1471-aeb4-45b5-9592-fb810799f64a",
       "type": "domain",
       "value": "xrp-event2022.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "72b3633e-212f-4fdb-bef9-fe8291f251a8",
+      "uuid": "29645bcb-cbed-4bf2-8288-842129b9e907",
       "type": "domain",
       "value": "topgoalnft.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "2207016d-c53c-451a-8c0c-d989a31f0f20",
+      "uuid": "ea8f3d44-feef-406d-a2e8-b1a5e6640739",
       "type": "domain",
       "value": "teslagives.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-12-16"
+      "date": "2022-12-16T00:00:00Z"
     },
     {
-      "uuid": "16d51486-7c40-437e-af65-d9418be61a55",
+      "uuid": "7bc95944-b0c0-473e-abf7-0d2d12cad933",
       "type": "domain",
       "value": "tesla-day.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "36f404d6-a8e0-4b90-9020-9213a9f5a9a9",
+      "uuid": "ab6a74c1-1c3d-4c21-b434-a49bf43271de",
       "type": "domain",
       "value": "tesla-day.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "692c15d6-ae5b-40ca-b80b-b74589b47142",
+      "uuid": "dc33890b-f7a7-4986-81bf-72e119b34663",
       "type": "domain",
       "value": "tesla-bonus.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "c4bcb552-319b-4c5c-8b2a-95ae37261669",
+      "uuid": "5244bacc-b75a-4a1a-b70d-3b8bf1869165",
       "type": "domain",
       "value": "tesla-airdrop.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "18eeda09-198f-4881-a869-27c6da355ea5",
+      "uuid": "1801b407-f785-46a0-892c-7a6c358dfcd4",
       "type": "domain",
       "value": "promo-tesla.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "bf1f517e-6ed0-488c-8d77-397866e01122",
+      "uuid": "f11b3825-1056-496e-8cc8-1f0562b2b2d3",
       "type": "domain",
       "value": "poseth.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "649ad662-dc19-4a33-83fc-fa4c41caccef",
+      "uuid": "566de6af-4d2b-478b-afb2-f8a9cf02a4fe",
       "type": "domain",
       "value": "give-arkx2.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "54ac5aae-d9e7-4e34-9909-b0fba16b7bed",
+      "uuid": "ee1ffcb0-a954-4b5b-ab14-956327dbb22e",
       "type": "domain",
       "value": "geminibtc.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "394f8500-d3a8-4264-9b3a-c9ea388676fb",
+      "uuid": "ffece880-27c8-4c71-a2cf-6dcb45808c8d",
       "type": "domain",
       "value": "ethereum-promotion.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "81098c36-e707-4dfe-bb01-c949c5709a2f",
+      "uuid": "c8e878dd-fd06-4598-90d1-5a575f68140a",
       "type": "domain",
       "value": "btcdrop.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "eb83a6c5-339b-47be-a2e4-9ad464947600",
+      "uuid": "5b3756e8-81bc-434a-8c1b-575ad6c786b6",
       "type": "domain",
       "value": "bonustesla.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "46b366cb-0650-4c52-bf54-7838801b4ec7",
+      "uuid": "db1327df-c647-4435-bde0-5ae0d0eb0083",
       "type": "domain",
       "value": "bonustesla.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "d036b344-f100-42c4-b75f-6a1644717ad0",
+      "uuid": "e95b3b4e-88ae-4072-bcd6-023990bb222b",
       "type": "domain",
       "value": "ark2022give.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "b7d39bf9-3ee1-423a-a29d-ba826e66e2c6",
+      "uuid": "02053f07-3ce6-4fea-ba71-31c7d42e0cc4",
       "type": "domain",
       "value": "uppumpspace.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "0e660024-9aad-4bcc-b832-a5d085267e81",
+      "uuid": "e1fe6f84-8d59-49fe-bc30-a710ec8e9e9f",
       "type": "domain",
       "value": "teslabonus.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "bca7a58f-1e2e-49fa-9770-8f75aa0dcc22",
+      "uuid": "eb63a72e-0b66-4d06-848d-920c6efed92a",
       "type": "domain",
       "value": "tesla-up.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "91dceafe-965f-48d7-9be1-54c98fa87243",
+      "uuid": "392040d2-24aa-4007-9c37-e8c2e9d86fe3",
       "type": "domain",
       "value": "tesla-news.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "d538c12a-078d-486a-9b46-8d53c8940823",
+      "uuid": "8505c43e-4034-4605-8551-7bb4db0e565d",
       "type": "domain",
       "value": "rippledouble-promo.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "6e2dc878-7962-4c20-9698-b41f51e5e012",
+      "uuid": "a0d9679b-cc50-4794-9bfc-ada9228091e2",
       "type": "domain",
       "value": "give-today.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "55215b94-dcb5-4ad5-b44e-28724933b35a",
+      "uuid": "80e12aed-6ab2-47de-b7e7-2a5c81edbe57",
       "type": "domain",
       "value": "event-tesla.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "ac7e8461-fa49-45c3-81f9-92577199ddfc",
+      "uuid": "5291dfd9-124c-405c-aa5d-a9631e78206a",
       "type": "domain",
       "value": "elon-news.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "0a22e42e-eea2-4ec5-92b9-4f00ba8912a0",
+      "uuid": "c96f1c39-59fd-46eb-8747-0c851321b92e",
       "type": "domain",
       "value": "cryprkdjwns.xyz",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "9ca2d27b-eaf0-4996-a68f-1d3e9dbcee78",
+      "uuid": "bef36c53-3972-437c-a38a-0fb33d53ece8",
       "type": "domain",
       "value": "arkeevent-x2.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "1091a1e7-61c9-4b69-a406-fd0f6423779e",
+      "uuid": "db572718-db86-4b4d-9b34-24eb20f72ea7",
       "type": "domain",
       "value": "airdrop-xrp.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "3b856ae9-e527-436e-9862-7e737ccaf6c7",
+      "uuid": "7d2e1bf0-2b6a-4dad-87d5-e884282b1875",
       "type": "domain",
       "value": "vitalik2x.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "fb000ba3-0f64-495c-8c14-1ba345ece79b",
+      "uuid": "246c0488-a3ec-4633-bf32-65aae50c6cd4",
       "type": "domain",
       "value": "teslaventweek.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "ffb74e64-7880-471a-b556-e33980b92820",
+      "uuid": "ef9a2457-bca1-4e71-88d7-6f3adb04ab1e",
       "type": "domain",
       "value": "teslaufccash.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "a9b50e7e-b83c-45c2-86b3-85bc25b0716b",
+      "uuid": "7104b5e3-08dd-4d0e-91ea-81cb73e08a31",
       "type": "domain",
       "value": "q3tesla.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "f916981c-6593-4592-9df3-08c2e9fb72de",
+      "uuid": "d97bb1fb-f6f4-41aa-adbe-f24f0c76c6a9",
       "type": "domain",
       "value": "potatoz-memeland.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "db2ce2c3-5022-4b24-b089-aa9a7f9b6360",
+      "uuid": "95d8de6f-4f96-4052-9378-3d2fae48c9c5",
       "type": "domain",
       "value": "nftblackboom.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "22ca7a58-a622-4143-9795-f11a95641535",
+      "uuid": "46df0576-dcd9-403e-82f0-8c6e3f1dbc73",
       "type": "domain",
       "value": "btc-arkinvest.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e756c5bd-6930-4223-a1d2-54e247c5511b",
+      "uuid": "e273cf34-276e-4850-afb3-0308af37be9f",
       "type": "domain",
       "value": "ark-event2022.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "96e96a2e-a3dc-4470-b618-5ace491f1847",
+      "uuid": "cbe43420-fc79-426f-9cb1-c2cda688f18b",
       "type": "domain",
       "value": "vitalik-promotion.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "ac6b6179-927c-4d2b-a748-c3d831c55446",
+      "uuid": "7975aa6a-9c55-4aa4-94f8-7589305e2a8d",
       "type": "domain",
       "value": "spacex-usd.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "74a775dc-afdd-4c45-bd03-b2755b4375c1",
+      "uuid": "f7da53f6-4a9f-42a8-bc7b-010d499fa90c",
       "type": "domain",
       "value": "shib23.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "dc4f835e-0911-4d3e-b327-b25c2fc2712b",
+      "uuid": "61ecc313-2056-4756-9b0a-45f53b604eb0",
       "type": "domain",
       "value": "q3tsla.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e9427f3d-c42d-4a11-8dcf-2982ca4a8da5",
+      "uuid": "89727802-6e2e-454a-b43d-2f26a4ecf155",
       "type": "domain",
       "value": "ilongives.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "f235d7ca-7fd3-4df1-bfe3-b33a37edc6f2",
+      "uuid": "dd90d926-a1a0-4992-b41c-e700d60b6c86",
       "type": "domain",
       "value": "elon-qr.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "15de04e8-f82d-4989-9693-27eabfe92366",
+      "uuid": "2ec5ffdd-fbb4-46a2-85c5-58882a099aaf",
       "type": "domain",
       "value": "elon-ark22.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "10618c0e-e410-4b8d-b617-4588cbf25906",
+      "uuid": "9bb9081b-8d03-469d-8292-1d98c7746526",
       "type": "domain",
       "value": "arkforyou22.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "abb6d0bf-d5e9-4f63-bf61-d201c72d291e",
+      "uuid": "3731ad82-6d74-419f-bdff-039f5b3558f7",
       "type": "domain",
       "value": "vitalik-promo.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "034df226-0d72-4d2f-aecc-b3c3345222f8",
+      "uuid": "4b7ed837-f083-4bda-90e6-6d3659e8d205",
       "type": "domain",
       "value": "tslainc.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "aa75588c-07a9-4a42-8a3e-1338d38ce7c0",
+      "uuid": "985c2a93-75e1-4ad3-97ae-e80ab8853b9e",
       "type": "domain",
       "value": "ripple-get.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "39bf8945-7bb2-402a-b579-143b45117f4e",
+      "uuid": "8bfe801e-cde5-4b2c-9e8b-d91488309782",
       "type": "domain",
       "value": "promo-x2.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e444f015-ea02-41ad-bd9a-a2f35f4f2d57",
+      "uuid": "129b2948-6972-412a-9f35-c817c31ae4e3",
       "type": "domain",
       "value": "previewforcryptdesignbot.xyz",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "cdb1ad55-975e-4b06-b290-531762aaba6d",
+      "uuid": "1ad7a008-24b1-4cda-88ee-d01bdf2febc4",
       "type": "domain",
       "value": "ceo-xrp.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "ed4d74c4-fe9a-407a-8477-89cb0743ebdc",
+      "uuid": "b4f9c438-2166-4d69-98a9-ad354b4852f8",
       "type": "domain",
       "value": "teslayoutube.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "d0e79a28-6bb1-445f-b347-62cc477925a2",
+      "uuid": "9e12afa4-d3cd-45ca-903f-f81e059b0455",
       "type": "domain",
       "value": "teslagive.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "2a67363f-e29e-4525-903b-c9c1c6f82c04",
+      "uuid": "a0fb9505-e82e-4dd5-9eb9-79fdc933f82e",
       "type": "domain",
       "value": "tesladayevent.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "651bd92f-5a75-4302-9732-12d186510e5a",
+      "uuid": "295d3c6b-57a9-44ed-95be-ab25db163e41",
       "type": "domain",
       "value": "teslabonus.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "c8b20e7d-1fe7-4036-adfd-4d8c21279044",
+      "uuid": "4aff8560-847c-42e3-81ac-08edcf162174",
       "type": "domain",
       "value": "ripplelabs-live.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "f57d2ae3-89e3-411e-920b-96126e3e4236",
+      "uuid": "1ded1254-04a3-44e9-9cb4-38c7a4f65b70",
       "type": "domain",
       "value": "promotion-buterin.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e23ef0f3-d46d-4cd2-b080-e85d681df07f",
+      "uuid": "7a4755b3-95e0-4f14-97dd-c9069648ed87",
       "type": "domain",
       "value": "muskpromotion.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "abdada04-f06f-4df5-8c2d-cce5835608e8",
+      "uuid": "db9c241c-8749-4733-bfe8-6e5c0cf99b87",
       "type": "domain",
       "value": "event-ripple.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "7a6dd5c5-8398-4a8b-8db9-d3128a2e6920",
+      "uuid": "e9aca0ee-4283-4e7b-bbdd-d1b492a7443f",
       "type": "domain",
       "value": "buterin-promo.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "b3eb3ef5-ce10-41b4-a581-200cbd1931c7",
+      "uuid": "f2ba7f99-803b-47a8-92d9-8dc4c1857e63",
       "type": "domain",
       "value": "ark-x2-invest.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "d02c3cdf-ad0f-4a42-8761-424ef03f66e4",
+      "uuid": "df0d1d41-d3ff-405c-b665-de6f544ce94a",
       "type": "domain",
       "value": "andrewtatecash.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "724be081-2185-4252-9fc0-d979e8fb7504",
+      "uuid": "022db0d8-5292-47db-9fc4-af5ddef2eaa6",
       "type": "domain",
       "value": "andrewtatecash.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "1b4e2b26-588f-4cfe-b0c4-a1244e1d4974",
+      "uuid": "09adb199-83a3-47d8-81de-2dc2f9d5742f",
       "type": "domain",
       "value": "akiprotocol.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "768c82f3-a215-497f-ab4d-dc33b15ddf8c",
+      "uuid": "eba34950-3749-4bef-a9a2-25f632cefad7",
       "type": "domain",
       "value": "tesla-yt.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "de57a38d-7ded-48db-ac40-af6bb9d44407",
+      "uuid": "806e5917-1dae-4314-a364-9f03e01c2051",
       "type": "domain",
       "value": "promo-buterin.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "c20edea2-7da5-4465-b946-e49bd4b10211",
+      "uuid": "d7438552-f4d9-4332-b740-36646dea0137",
       "type": "domain",
       "value": "news-tesla.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e3f888df-a30a-4710-8402-889e1b8d48c2",
+      "uuid": "c6a912e2-33d1-4353-8325-a4cef1fd1458",
       "type": "domain",
       "value": "msgets.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "a0f3e6dc-6baa-4b50-ba90-148432d87c87",
+      "uuid": "3a2448dc-94e2-472b-b0e4-872800407aaf",
       "type": "domain",
       "value": "elon-kanye.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "90224a26-aa56-490a-bf7a-b0d3b26437b1",
+      "uuid": "9fb2fc53-59c6-4e1b-802f-5d69b2938abc",
       "type": "domain",
       "value": "elon-event.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "826c8468-7f71-4201-b84c-61e8081fa543",
+      "uuid": "88d9b21f-ef3e-4fd6-88b5-f6cab28f15a4",
       "type": "domain",
       "value": "cryptdesignproject.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "7c15e13d-1255-4214-8ad5-7eb6baffb8b2",
+      "uuid": "16e4813b-7612-4b74-abf0-7d754b4d7a77",
       "type": "domain",
       "value": "tateinvest.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "298cc1e4-b812-40db-b011-ead3f0d54814",
+      "uuid": "59c5edf7-2ca1-43e9-acc8-1266be43c8a3",
       "type": "domain",
       "value": "tatecashyt.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "12e66717-8142-4552-b9b3-898813e34243",
+      "uuid": "f0cbef97-02b7-40ae-a680-ba6df873f940",
       "type": "domain",
       "value": "potatoz-memeland.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "0150c838-adf6-4340-9f57-e82565555f8b",
+      "uuid": "4737b51b-a44b-4e4c-b6c9-cd497bd8a801",
       "type": "domain",
       "value": "msdrop.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "37552e54-0e22-43c4-a034-92102adc4cd0",
+      "uuid": "b9be125d-9899-4c79-b515-65e8e423664a",
       "type": "domain",
       "value": "ethmerges.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "66c11c05-5143-4f14-8114-a62bf9f9a69a",
+      "uuid": "485d806e-daf7-4f12-84ed-75c7f1a59f84",
       "type": "domain",
       "value": "cryptodesignproject.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "4fa15f86-b6e4-4457-8afb-4f698d68d16c",
+      "uuid": "53fd187b-630f-45a2-bac2-772e10bfed68",
       "type": "domain",
       "value": "conorcashyt.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "a847d4ac-c6ea-44af-bde6-0c535e95c8c4",
+      "uuid": "38f23e21-b00a-498f-8176-dfa46b85a321",
       "type": "domain",
       "value": "tesladrop.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "4581adf7-7043-4f0f-a864-c7ff731a2a39",
+      "uuid": "0e286977-29e9-4d0f-8a1a-eca8e1fbfba3",
       "type": "domain",
       "value": "zil.today",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "c447353f-78b9-4f07-a3b7-79b7ca2160e5",
+      "uuid": "629ee082-b189-4383-9e92-256cc6dd356d",
       "type": "domain",
       "value": "x2years.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "d367b4f5-e6eb-4979-ba73-ebf8914423f5",
+      "uuid": "e2f32936-5537-4a03-a6e4-14378b2539d7",
       "type": "domain",
       "value": "x2-promotion.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "f4f897df-0a52-4423-8ed1-079a46f87748",
+      "uuid": "ebff64c4-a6cf-4c8f-b0c2-f078a06e8192",
       "type": "domain",
       "value": "wefpump.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "77a066f2-7b2b-4bef-8637-37132aabbde9",
+      "uuid": "32923c71-8d9c-4072-a1b4-41e9a68d368b",
       "type": "domain",
       "value": "vitalikbuterin-event.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "9e9ebbc8-a37e-416c-b260-44925e38651c",
+      "uuid": "d7773221-623c-494f-a3c5-de0656fba9c8",
       "type": "domain",
       "value": "vitalik-eth.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "297e599f-8770-4800-b6ac-38bfb499c5e0",
+      "uuid": "e9d84d08-eaf2-41d4-a60f-e6d0477db69f",
       "type": "domain",
       "value": "twitterdeal.pro",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-11-09"
+      "date": "2022-11-09T00:00:00Z"
     },
     {
-      "uuid": "7a152ff3-0e79-40f3-9d9f-99613ad53594",
+      "uuid": "9b0eb234-57c8-400d-aed2-4508a3bfa9d1",
       "type": "domain",
       "value": "tslabrand.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "fa7f7335-a94d-478e-ac8a-88e3bc9593b1",
+      "uuid": "bc073102-639e-433a-9e78-02e79b229b2c",
       "type": "domain",
       "value": "teslax2.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "edbc5bdc-3796-4a28-8418-3b69b822f7b2",
+      "uuid": "46ae3921-9dd5-4f1e-8714-5f7307a45cc4",
       "type": "domain",
       "value": "teslapromotion.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "41d2f716-d926-4f36-8d8c-635982542acc",
+      "uuid": "c662da26-0a43-4596-a602-50e7b1714ae6",
       "type": "domain",
       "value": "teslamusk-promo.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "ee3d58d4-25c3-4e7b-9a11-794ab3b4c2b6",
+      "uuid": "3eefb5a5-6234-4a9c-beec-9816ff1a67fb",
       "type": "domain",
       "value": "teslagives.pro",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "14104f9e-424a-4ad3-8474-4c5767a948bd",
+      "uuid": "180686c0-0888-4801-b4cc-d12871e4ac0d",
       "type": "domain",
       "value": "tesla-event.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "c3248383-8717-405b-90c5-c787715922c8",
+      "uuid": "d8b9c0e5-b5c8-4e42-a38f-979ace0de204",
       "type": "domain",
       "value": "tesla-ceo.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "cf55632c-81e4-49df-9de9-798b0eecd2b8",
+      "uuid": "72996046-76e6-467a-ac8c-1e1abd2f558d",
       "type": "domain",
       "value": "tesla-ceo.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "be3a9e8c-0b41-46f8-a454-bc63ef79dd1c",
+      "uuid": "0a454344-c247-4e1b-a81d-d0afe119fb8f",
       "type": "domain",
       "value": "telsadouble.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "dfa7643c-a6a1-4ea2-8b92-3d48f1d3e726",
+      "uuid": "ca9b5dde-0180-47a7-9598-e83a48e1fac7",
       "type": "domain",
       "value": "tategives.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "1695ef38-8038-4cb6-adee-46c238a75d39",
+      "uuid": "e061f778-fdf6-401c-82fc-d67e7a2faf5d",
       "type": "domain",
       "value": "tatecoins.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "099d6b57-6862-4904-a569-9a1b24d230cd",
+      "uuid": "c5336456-aa78-4d8d-abed-1e809b133bf4",
       "type": "domain",
       "value": "tate2023.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "01f1b866-00b5-44ed-b500-c943f4eb1fd1",
+      "uuid": "27b8c25b-a7c2-47c0-898e-b5ce6dbdb45a",
       "type": "domain",
       "value": "takesol.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "07f910de-fb09-4637-b2cf-b02e91e36bf9",
+      "uuid": "b5524046-fb5d-4b01-a725-adba22bc0eb9",
       "type": "domain",
       "value": "takesol.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "415eed22-bc07-4fbf-806a-7bd5b3faf714",
+      "uuid": "44422564-2262-43d9-8660-7757eac8f11f",
       "type": "domain",
       "value": "spacex-launch.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "71b2bb9a-d468-4b46-8e3f-0e4767abb36e",
+      "uuid": "1361e595-5e75-4a78-9fc6-1247549fff74",
       "type": "domain",
       "value": "shiba2023.pro",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "00972d86-5b0c-4528-9238-92a7abf08904",
+      "uuid": "2218abd9-6380-4449-aee2-51492b14ace7",
       "type": "domain",
       "value": "shib23.pro",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "83436c04-4999-4f96-ab87-b753c49e851f",
+      "uuid": "debd15f7-fc83-4ebe-9c9b-d0c9d0467f68",
       "type": "domain",
       "value": "ripplefoundation.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "deabee3d-efa8-40e5-a5ac-624cc5f42de8",
+      "uuid": "e238bbe4-247a-4365-9e3f-498a78e5e2ce",
       "type": "domain",
       "value": "ripple-invest.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "957005dd-de1d-4e30-ac09-1e275cd86e43",
+      "uuid": "82e8c5b0-c602-405c-b1ba-a827d6fc9237",
       "type": "domain",
       "value": "richtesla.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "85426cea-6eae-4503-9ad7-8f7441529e2b",
+      "uuid": "fce7fb9f-c1a0-46e3-a671-f134662d8d74",
       "type": "domain",
       "value": "promotion-musk.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "dc8e945d-c440-47ca-ab06-4dd331506b38",
+      "uuid": "2d652be9-acc4-4f5e-9873-913a15e9776c",
       "type": "domain",
       "value": "promo-buerin.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "bebef7fb-131a-40b1-8b3c-2e6f942165eb",
+      "uuid": "1e7a7c8f-3936-48d8-9f1e-e11abac2958f",
       "type": "domain",
       "value": "otheresidemeta.xyz",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "80f9c862-9077-474f-8b9f-4b530842b1dd",
+      "uuid": "38b751c0-50cf-460e-a303-9dd23aead914",
       "type": "domain",
       "value": "mcstrategy.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "10dacd5b-f4c0-4642-98b5-cdaa9c93ed24",
+      "uuid": "e2ad1fab-0866-441a-bcd1-04cd900ebda4",
       "type": "domain",
       "value": "mcgregorcash.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "ea686622-13e3-4bf7-9d23-b7275fbae647",
+      "uuid": "111f069b-1539-4be9-b5a4-7ace91e62bd5",
       "type": "domain",
       "value": "mcconorcash.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "5cf656fe-482a-4a4a-b8cc-bbced63955db",
+      "uuid": "d70b94df-6cda-4b16-bece-bd2c422abaed",
       "type": "domain",
       "value": "kanye-elon.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-10-20"
+      "date": "2022-10-20T00:00:00Z"
     },
     {
-      "uuid": "98cc7860-9cdd-4b93-9221-dfbefa25761b",
+      "uuid": "f993ffe6-16c4-45a6-8397-8a400ea507b6",
       "type": "domain",
       "value": "kanye-elon.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "a23c1eaf-f8ca-4c50-b0ea-b534a4c9ec5d",
+      "uuid": "09867e21-ab1b-4990-b2a8-f32f0dd77f95",
       "type": "domain",
       "value": "investmstr.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "b67c2b5d-a3e7-4cf1-abff-150d61cfbd20",
+      "uuid": "3384ed0d-e9c0-40d5-9acb-f748dfa729ad",
       "type": "domain",
       "value": "gift2023.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "726b6470-eda9-4715-b9cc-26a78eb673bc",
+      "uuid": "1951c4b5-b823-41e3-8a43-2de9ddaf67c4",
       "type": "domain",
       "value": "gavin.gifts",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "9b601e15-4d3a-4875-9ffb-0ee34ddde8c1",
+      "uuid": "ddc61c0f-214e-4ad5-860d-2de7b22da12c",
       "type": "domain",
       "value": "forbesyt.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "7fe46ff0-c138-43fe-ae7c-edd27fdc577f",
+      "uuid": "7d3d7745-726a-4a35-b9ac-01dc961d7197",
       "type": "domain",
       "value": "eventx2ark.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "9be8ec39-ed16-4a56-b859-3df22ddbf782",
+      "uuid": "0fa523f2-5ecb-4b69-9f2a-86c29b7229e7",
       "type": "domain",
       "value": "event-musk.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "69636132-faff-4a52-bac6-ec7c3c9beb80",
+      "uuid": "864aedc9-da83-4ab8-a246-17b50ce96d0b",
       "type": "domain",
       "value": "ethergets.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "ab8b0320-2515-47b3-b085-e91e53cd145d",
+      "uuid": "82b60020-9f73-4490-a13a-33c792ca5ec0",
       "type": "domain",
       "value": "ethdrop.pro",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "cc35faaa-509c-4c8b-9945-084adb6428e8",
+      "uuid": "83ce91bc-fb69-4df5-93ee-b3e0a4f65872",
       "type": "domain",
       "value": "elonmusk-event.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "1b3381a3-024d-4ec7-b603-08e7c7a0a054",
+      "uuid": "efac8d11-239a-43db-b9bf-a65df9cab5ed",
       "type": "domain",
       "value": "elon-gives.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "587439c2-ff5d-43cc-8d4f-d976ac32db6f",
+      "uuid": "d7e0979d-6f0c-443e-809f-52a9ed66ce74",
       "type": "domain",
       "value": "cryptosdesignmoneybot.xyz",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "5aaa6548-31fc-4857-8320-0cd8bf4204e0",
+      "uuid": "1bf6bbb6-0a14-4c60-a02f-3a9448e2028b",
       "type": "domain",
       "value": "cryptosark.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "65ddb625-4da0-4dfc-8324-210b4aa94913",
+      "uuid": "50db5516-31cd-438a-b43e-5afaacf077ad",
       "type": "domain",
       "value": "cryptobottempl.xyz",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "a368c2d3-b0c0-4842-9013-177c9a7ded38",
+      "uuid": "2eae37bf-a5c1-4ad1-8d43-bc7429c71998",
       "type": "domain",
       "value": "ceotesla.pro",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "90d5e314-ed2e-45dd-8c81-9863faf52fcb",
+      "uuid": "c1a574d5-a3b1-41df-bbf9-1196ad5c95e0",
       "type": "domain",
       "value": "cardanovasil.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "1f41c3d3-d775-449a-bdd0-ce38bbd16d63",
+      "uuid": "eca0ba47-c40b-49c4-a941-a3cd8003fc1b",
       "type": "domain",
       "value": "cardanofork.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "ba2eaa0b-738a-42d8-b131-794615497d11",
+      "uuid": "c35c57f5-efae-45f2-a594-ec1fec7caa45",
       "type": "domain",
       "value": "cardano-get.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "de87c481-c390-4828-b62c-eb7aa694d863",
+      "uuid": "7ae43683-1326-415e-9cea-ddb925e90cad",
       "type": "domain",
       "value": "buterin-event.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e6d287d0-db3b-4450-8a53-803673850a61",
+      "uuid": "647d0f09-311a-4be0-970f-2a9ed2b506ae",
       "type": "domain",
       "value": "buterin-2x.promo",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "f407ed73-362b-4018-8153-1e28e756c2a1",
+      "uuid": "2012ead1-d9d9-4662-87ed-31ccad76aa3e",
       "type": "domain",
       "value": "brad-yt.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "5e86078a-dc3b-4536-a8c2-3998d0cf36fc",
+      "uuid": "066b797c-79ff-430b-b040-374de2b99ca5",
       "type": "domain",
       "value": "arkx2event.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "e2e30100-9225-46cd-a570-7aaabb906ff1",
+      "uuid": "86f1f00a-a948-4f59-a288-454cccb396e8",
       "type": "domain",
       "value": "arkhigh.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "2df85d83-56d1-427a-9945-067f2002ae03",
+      "uuid": "45e1d005-0792-44f0-bab7-b5defa5496d6",
       "type": "domain",
       "value": "tate-free23.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-05"
+      "date": "2023-04-05T00:00:00Z"
     },
     {
-      "uuid": "a41d20e2-1c21-47fc-a63c-ff808fce7ad4",
+      "uuid": "aa65f822-d989-4355-96b5-65b0f8033151",
       "type": "domain",
       "value": "telsabonus.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-03-24"
+      "date": "2023-03-24T00:00:00Z"
     },
     {
-      "uuid": "99584906-a2a6-4e39-8285-0780a16d8b06",
+      "uuid": "0efc1401-98b5-46f0-95df-387f06d79f06",
       "type": "domain",
       "value": "arkcrypt.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-11-01"
+      "date": "2022-11-01T00:00:00Z"
     },
     {
-      "uuid": "832e3955-4d54-46ce-bf79-77d9a30f9335",
+      "uuid": "619074ac-2312-41e7-9b1c-a59aaaf02360",
       "type": "domain",
       "value": "teslabonus23.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-01-09"
+      "date": "2023-01-09T00:00:00Z"
     },
     {
-      "uuid": "f25a5035-8040-4410-a737-5196148c618b",
+      "uuid": "8f98c399-4b2e-484a-ad9b-846a9c7925aa",
       "type": "domain",
       "value": "doge2022-elon.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-11-01"
+      "date": "2022-11-01T00:00:00Z"
     },
     {
-      "uuid": "785edb0d-5034-4707-b057-45314e0b845f",
+      "uuid": "80a754e6-4777-44cc-b75c-6cf85ccefc87",
       "type": "domain",
       "value": "crypto2023.xyz",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-01-05"
+      "date": "2023-01-05T00:00:00Z"
     },
     {
-      "uuid": "38fa4747-1439-449e-b1d0-76621ce86ae2",
+      "uuid": "5adafe0e-4322-45e0-bc17-5686d307466e",
       "type": "domain",
       "value": "conormccash.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-10-24"
+      "date": "2022-10-24T00:00:00Z"
     },
     {
-      "uuid": "125fb013-5845-412e-80ac-71171e883c2c",
+      "uuid": "211c62a3-c9d4-487d-b6cc-2f930d24c118",
       "type": "domain",
       "value": "ethereum-elon.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-11-13"
+      "date": "2022-11-13T00:00:00Z"
     },
     {
-      "uuid": "de8b9bcb-0e91-4cf1-8901-e367f0fbe292",
+      "uuid": "c740f390-3d84-49fb-8588-97be4ad2b1e6",
       "type": "domain",
       "value": "arkceo2022.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-11-18"
+      "date": "2022-11-18T00:00:00Z"
     },
     {
-      "uuid": "6f1f7918-8c85-4542-8a5e-f00ff1139ab1",
+      "uuid": "11c1b79e-59ea-4f34-bc8b-5224cc317781",
       "type": "domain",
       "value": "tesla22event.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-11-13"
+      "date": "2022-11-13T00:00:00Z"
     },
     {
-      "uuid": "76a87d88-f4d0-44a5-9f6b-f0bb75e06c84",
+      "uuid": "3c1ba864-0cac-4473-89b3-c4558fbb803e",
       "type": "domain",
       "value": "teslapromo23.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-03"
+      "date": "2023-04-03T00:00:00Z"
     },
     {
-      "uuid": "75967016-e7c1-434f-acbb-f254e712ad29",
+      "uuid": "93154238-8ff9-4dfb-ac69-17c5907670fc",
       "type": "domain",
       "value": "twitter-event.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-01-11"
+      "date": "2023-01-11T00:00:00Z"
     },
     {
-      "uuid": "101ed0fd-9563-40e9-99b1-3164678850b5",
+      "uuid": "d4b2bd53-e3fb-417d-be61-36a0ee89e9c2",
       "type": "domain",
       "value": "doubletesla.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-03-28"
+      "date": "2023-03-28T00:00:00Z"
     },
     {
-      "uuid": "c490e44b-4335-4000-8c3f-f44877b795e4",
+      "uuid": "7ac01b3e-0460-4bb8-9b3e-b075a86c31bd",
       "type": "domain",
       "value": "double-ethereum.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-10-18"
+      "date": "2022-10-18T00:00:00Z"
     },
     {
-      "uuid": "86257a97-4ee4-4d71-bb1f-caaff09fd468",
+      "uuid": "d377a6cd-fd4d-498d-aca0-b0dd022e32c9",
       "type": "domain",
       "value": "adidas-drop.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-11-20"
+      "date": "2022-11-20T00:00:00Z"
     },
     {
-      "uuid": "8a9bb25f-7c33-47a3-9a06-aa0dadd42cb7",
+      "uuid": "b4b1d6f7-241c-4412-aa56-93e3b2abfaa9",
       "type": "domain",
       "value": "chatgptbonus.live",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-03-20"
+      "date": "2023-03-20T00:00:00Z"
     },
     {
-      "uuid": "e333ec0d-8e19-4006-8fef-5fe4b35afcbd",
+      "uuid": "4bd662da-16eb-44cd-9d59-1ba76b41a5db",
       "type": "domain",
       "value": "algo2x.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "2274fa05-ba72-44ec-bdc7-717c4a2d754a",
+      "uuid": "bc664f0e-b060-4ad8-bf85-33cc1d0e35f0",
       "type": "domain",
       "value": "algo2x.store",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "60ffb66a-2c28-48e7-ac2a-fc005a4bf56b",
+      "uuid": "b8b62d4d-5930-48af-a0a3-e23bcd9c2748",
       "type": "domain",
       "value": "aptosx2.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "e45c1c1c-a1a8-492f-acca-be225829247d",
+      "uuid": "d50fca83-8bc6-4e83-9945-4159792fd4fd",
       "type": "domain",
       "value": "bittrex2x.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "f3897291-8327-4f62-bf1e-ac7d5b0be933",
+      "uuid": "1847a26a-c737-41cc-9c65-a0f3a6173059",
       "type": "domain",
       "value": "bittrex2x.store",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "22d39d38-71e1-4602-9798-632c1b4b3ed7",
+      "uuid": "8cf531e9-b165-43ee-b40a-94e5505d4383",
       "type": "domain",
       "value": "btcmicro.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "280554d4-26b3-4a2e-86b6-c0028b159aa8",
+      "uuid": "16813939-b529-4700-9c04-0aab608b1428",
       "type": "domain",
       "value": "buterin23.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "d4f4ebe2-5df9-4033-9e25-f5cfdb735f8d",
+      "uuid": "418ece18-8553-4c09-b0a5-41d6a6dd7a83",
       "type": "domain",
       "value": "cardanolive.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "8c538e77-7de9-44a9-8c0d-f819318cb9de",
+      "uuid": "b0ba90d4-f0be-4872-b5ce-ef79e7e59769",
       "type": "domain",
       "value": "cardanoyt.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "3db56d72-4451-4953-92e4-073c9102d6e6",
+      "uuid": "50d74bbc-1de0-48bf-bd2c-2735c4b7febd",
       "type": "domain",
       "value": "chess2x.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "369d875a-a62e-4fa6-a63c-d5fd07d58a88",
+      "uuid": "81fbd0d9-73c7-48a5-9649-b4344e4120e3",
       "type": "domain",
       "value": "chess2x.store",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "20c75ce8-8087-4383-91aa-793c36692657",
+      "uuid": "2980c965-fbb1-4620-80fd-24166af0af8b",
       "type": "domain",
       "value": "doublexrp.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "e636e4fa-747a-44ea-859b-b5060b857b65",
+      "uuid": "b256798e-e30c-4260-b879-d198df5834b8",
       "type": "domain",
       "value": "elon2023double.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "16f7fa58-c219-4dc9-8774-bf230e8886e4",
+      "uuid": "e849fe11-b432-4409-9086-d1170a5addd4",
       "type": "domain",
       "value": "elon2double.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "42e40980-c346-4454-8bda-d8b4af537295",
+      "uuid": "846517e6-71ed-4b60-b089-72c6817007ff",
       "type": "domain",
       "value": "elon2drop.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "6d72d308-de67-477c-a81f-04e9cec0687b",
+      "uuid": "f8da9d8b-8d1c-420a-91b3-a51aabbe993f",
       "type": "domain",
       "value": "elon2drop.store",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "0361f129-ebdf-4307-98b0-72bb2763e5ee",
+      "uuid": "7b454b40-145e-493d-8cc9-ace4a5d13813",
       "type": "domain",
       "value": "elon2xdrop.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "04e7e92e-87f9-4753-8a40-5e4ee2e7a3b5",
+      "uuid": "7832e58e-6dfc-476e-aa1e-fa25437ac214",
       "type": "domain",
       "value": "elonbtc2x.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "318e8229-df69-4732-9051-013a41824019",
+      "uuid": "7d699658-6dd7-4fb0-ab44-bdb8dbff18b0",
       "type": "domain",
       "value": "elondouble23.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "27053b35-0f5e-4906-8fe0-a572311b04c0",
+      "uuid": "16f1f916-b87c-4f5b-9c55-83b833ece862",
       "type": "domain",
       "value": "elondrop2x.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "72a912d8-8fad-4b95-9161-d6df3c027e1f",
+      "uuid": "08ab1519-64b6-4631-af4c-12cfb8fb35f7",
       "type": "domain",
       "value": "elonlive2x.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "56fbd1e2-a3e1-4213-af26-5d3259f76b7b",
+      "uuid": "7c9aaccd-56c9-4368-8c6b-cba8c158d8b6",
       "type": "domain",
       "value": "elonlive2x.store",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "0ca244d2-375c-4b0d-a80f-3327cbeb4b66",
+      "uuid": "ff6e7887-e0a3-4190-a051-f10b3587fea9",
       "type": "domain",
       "value": "elonmusk2x.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "56df2ecb-738f-4bdb-98a6-a950bd0eefea",
+      "uuid": "657923bb-7101-4e09-a82d-9dee6e6e009f",
       "type": "domain",
       "value": "ethdrop2x.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "f147f829-3887-4b61-bd93-73033d3e6291",
+      "uuid": "616d908d-21d3-4285-88b4-e76c0460d038",
       "type": "domain",
       "value": "ethdrop2x.store",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "9b3ddec9-ceaa-4a53-9aae-3010be491879",
+      "uuid": "27b8b074-e7d0-4390-bac0-b6ccd5e25f47",
       "type": "domain",
       "value": "exgold.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "ddf9a6b7-bfee-4c35-8124-add2f3fa0fdd",
+      "uuid": "70235a39-c923-4b47-973f-7f82012f1b3a",
       "type": "domain",
       "value": "microdouble.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "68281e55-3d05-46d8-9aba-d13c389d98f8",
+      "uuid": "e94ab947-caab-4eaf-9ba4-5c308f0afb05",
       "type": "domain",
       "value": "msaylor2x.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "1302c6c4-e2f4-4b82-937c-514bf6e03553",
+      "uuid": "7a0da492-4ebe-4258-a737-8d2b885b86b6",
       "type": "domain",
       "value": "msaylor2x.store",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "ef6c4231-1ca2-4861-81ba-184d8a20ca15",
+      "uuid": "5f52d91a-026e-4e32-97c5-2665f72fbbf2",
       "type": "domain",
       "value": "muskdrop2x.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "ee4c11f4-8d44-42b1-a4ae-5bf30fb84d59",
+      "uuid": "c7800006-7308-449e-ba45-f7c993605345",
       "type": "domain",
       "value": "muskdrop2x.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "37d51326-88f2-448e-a759-a72dabf2ca7a",
+      "uuid": "a4dbacde-c481-4c3d-a852-56ae09726a55",
       "type": "domain",
       "value": "musknew.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "8a29d246-afd0-4977-afe6-70f225542452",
+      "uuid": "18ba9cd6-abd1-4f88-9bb4-5939f753b65b",
       "type": "domain",
       "value": "new23tesla.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "5e5bf8a8-69af-4d65-91c6-d995ee7ee54b",
+      "uuid": "08399f3f-fc28-4bed-9525-435b4db5d14f",
       "type": "domain",
       "value": "newtesla.pro",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "a0c1ff4b-8db2-41b1-9ba1-a61a32521607",
+      "uuid": "21c5366f-2b5b-4ca5-a322-605319b946d6",
       "type": "domain",
       "value": "newtesla23.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "79898797-ecc7-4e05-9282-ea9bcf2e6546",
+      "uuid": "aee52cea-7736-455d-a7d1-80f37d8ea675",
       "type": "domain",
       "value": "newtesla23.pro",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "c0168341-f668-437d-b1e5-0bda8959bb81",
+      "uuid": "c58a4dcd-e3a6-4121-9d8d-905b61475f88",
       "type": "domain",
       "value": "newteslapump.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "4d8b5712-a266-4c22-ac29-304ea59805ca",
+      "uuid": "3048523f-6661-44e3-bea2-8bef7a619270",
       "type": "domain",
       "value": "newunipump.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "88b0fe6d-af87-4fb5-b0ad-c05e02db74a5",
+      "uuid": "6979f0f0-ba46-4ac1-8f19-d00bed2623cb",
       "type": "domain",
       "value": "newuniswap.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "33d011f1-928a-472c-8de4-3817fbf67b9d",
+      "uuid": "30ea2b3a-8e19-47bf-baec-5d92dc7d33cd",
       "type": "domain",
       "value": "openai45.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "162eb2db-bf15-4b14-8b83-0b438fb5c3ac",
+      "uuid": "a2247e2e-4666-4c15-a369-27e7d05807a7",
       "type": "domain",
       "value": "openai45.store",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "dd8f8e12-f830-4915-b0cf-49590bcb479b",
+      "uuid": "fe9d0bbd-ec44-458f-9c71-a30379332f9b",
       "type": "domain",
       "value": "openaibtc.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "03727863-4f30-4915-8496-e88d4a15c12e",
+      "uuid": "09f21b38-eef4-42c3-8f60-011aec5fb941",
       "type": "domain",
       "value": "pumpspace.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "9fa4c934-9086-4d24-9ff7-c206ea17432c",
+      "uuid": "c0b8e8bd-33ab-4c6f-8546-2a4e26164c0c",
       "type": "domain",
       "value": "ripple23drop.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "3a5fb4e1-0a8d-4cfc-891e-cf4aa543a62f",
+      "uuid": "610c19c1-faf5-4de3-bb60-8845e4ecac1e",
       "type": "domain",
       "value": "ripple2x.tech",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "edd865e8-15a5-4d18-95e1-7eb799b28f7f",
+      "uuid": "7291792c-c36c-4b8a-8c07-8a15f3c36fcf",
       "type": "domain",
       "value": "rlpple.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "d1a46769-f4d4-4cbe-be16-174c343c7fc5",
+      "uuid": "aadc915e-5b6c-46a0-b9cf-092e07b2f6ed",
       "type": "domain",
       "value": "rlpple.pro",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "9b8b9476-459a-4227-8678-754d120a0dba",
+      "uuid": "9770a40b-305d-437d-a47f-f2845715d6fe",
       "type": "domain",
       "value": "sapcexlaunch.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "95b5f21c-828e-4212-883a-f538f457f605",
+      "uuid": "f8da0f11-f455-4f37-a232-a6541b87cfce",
       "type": "domain",
       "value": "sapcexlaunch.store",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "c2f29c8a-c3e3-400e-8a10-59b958a4bce7",
+      "uuid": "97b9b93b-a43f-43e8-a631-3c48023012b3",
       "type": "domain",
       "value": "softbyware.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "297e83bb-5c3d-426b-a372-e74fdfeedb75",
+      "uuid": "d3b19114-00a7-4351-b6e2-002a8a7b8af1",
       "type": "domain",
       "value": "spacecoins.info",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "8d006560-2df0-4637-8ad3-2e24a98e8677",
+      "uuid": "8809080a-54e0-4706-b7fb-0017408b991f",
       "type": "domain",
       "value": "spacelives.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "2d9ccabc-351f-412a-b84b-fc5e2d915b1c",
+      "uuid": "0f3bba71-617e-40fb-8991-2f81e59f85e0",
       "type": "domain",
       "value": "spacex-live.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "a0d2c38c-2d5c-4b1d-b5ef-5e9850616e73",
+      "uuid": "5d68b62f-01ce-4c54-9288-54a9a856426c",
       "type": "domain",
       "value": "spacex23drop.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "e6ee5376-39b9-4c16-bc47-e06f52e0a188",
+      "uuid": "e1fba516-9635-46b3-afdc-8c106fa5f0fe",
       "type": "domain",
       "value": "spacex2live.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "c0c26591-f07e-434f-bbce-265b3aebe266",
+      "uuid": "3b256ca7-d654-4588-aea5-c0e4ccc6c5f1",
       "type": "domain",
       "value": "spacex2live.store",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "a03b05a9-7931-47e7-b94b-ad15f1dd58e2",
+      "uuid": "b8e15718-56b7-487a-af72-5c0aa87aab35",
       "type": "domain",
       "value": "spacexbtc.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "a121d64c-ab79-4dac-8909-d40f8dbf2ef8",
+      "uuid": "fdbf3bc2-83b0-4065-ae88-6f7aeafc6a89",
       "type": "domain",
       "value": "spacexlive23.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "1e4c0487-2add-44f3-9e6b-429685e044a9",
+      "uuid": "a8777fc8-73de-4db2-9336-894ab8496568",
       "type": "domain",
       "value": "spacexlive23.store",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "f31c6f9e-b1ee-4d37-8273-945cf6fc93ba",
+      "uuid": "9c30600b-9aa5-45fb-b549-74c732ef618b",
       "type": "domain",
       "value": "spacexlive2x.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "07bdc85c-d4cc-4718-92b2-44a8c8170a75",
+      "uuid": "f565ba52-c3dd-4d04-8832-ab50f5ecc0b6",
       "type": "domain",
       "value": "spacexlive2x.store",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "55ab10ce-c4b1-452a-bf4d-7a912b7ac2b9",
+      "uuid": "6e8ebc83-9fb7-4086-a219-a9e4f240b9d7",
       "type": "domain",
       "value": "spacexlives.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "83ddbfde-9509-4e77-8400-c3d638d212a5",
+      "uuid": "5c9def32-c08c-4204-a49f-1859c9a18d99",
       "type": "domain",
       "value": "spacexlives.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "6b28daea-9541-41d8-9c5b-9dfb0767ad4a",
+      "uuid": "762655ab-074b-4d6c-91b8-5f4da630085a",
       "type": "domain",
       "value": "spacexlives.store",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "4ed783a6-2747-4066-ad4e-ee16c02e7ab4",
+      "uuid": "d1feb769-1ed2-480a-a971-9c3c55f119ec",
       "type": "domain",
       "value": "spacexonthemoon.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "3875af9f-81a4-4c40-bebf-88ef720c32ae",
+      "uuid": "219cbdd6-6fa2-454e-b7b9-50d7c4803635",
       "type": "domain",
       "value": "spacexpump.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "76c03b53-fbd2-419d-8ac0-5f67444104ab",
+      "uuid": "3ded2e7c-71de-4e43-a263-ccafb937a221",
       "type": "domain",
       "value": "spacexpump23.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "915ca8f9-b607-4204-a2f4-615bf5b36290",
+      "uuid": "5f3d5cea-d9dc-4020-8261-bd370eb2a70d",
       "type": "domain",
       "value": "tatecrypto2x.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "16891efa-54ae-47f6-a0f7-e411dbf3c5c3",
+      "uuid": "9bc45f5f-28f0-4ec8-8191-b5df13dff116",
       "type": "domain",
       "value": "tatelive23.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "898bf81e-d326-4b81-b96d-40d5e1318157",
+      "uuid": "6111ebf1-09ff-4ed2-80b4-71ed043b99d3",
       "type": "domain",
       "value": "tatelive23.store",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "43d6b6be-48e1-49dc-aa1a-223015ab9d96",
+      "uuid": "3a5acf24-fe4c-4d80-9ae9-dbcbd65a771a",
       "type": "domain",
       "value": "tesla23drop.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "937053a6-a757-438a-a5d1-7c15c627227d",
+      "uuid": "9eab0fdf-57cd-4128-a44e-2a0b420c160f",
       "type": "domain",
       "value": "tesla23drop.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "d11d4d25-b795-4506-92e2-075fffc1be40",
+      "uuid": "47d70ec2-1445-4499-9a6c-12f55fd7c653",
       "type": "domain",
       "value": "tesla23live.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "2fc3a8d5-8db6-4fc4-ad52-0d562450e924",
+      "uuid": "c86942cc-eaf3-44b6-92df-62b5ec59b8b9",
       "type": "domain",
       "value": "tesla23new.pro",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "b51c0238-4ce9-407d-a7e3-83805f459e8e",
+      "uuid": "b5371ec5-7c17-45fc-a1da-46b1695344f9",
       "type": "domain",
       "value": "tesla2live.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "9e424d3d-12df-4024-89c8-0d32cd6220f9",
+      "uuid": "084e14b7-371c-4e93-93b5-9d37ef4e153a",
       "type": "domain",
       "value": "tesla2xdrop.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "456168d9-f85a-4174-bc8a-b060352fa4b7",
+      "uuid": "4bfa4cbc-5aa3-4d7a-9006-886f4a7465de",
       "type": "domain",
       "value": "tesla2xdrop.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "bb1c90dd-1764-4ea8-8fe4-303ebfa70f86",
+      "uuid": "b159cc9c-0040-4222-90b0-65d58933848c",
       "type": "domain",
       "value": "teslachess24.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "c8e0009f-a4e8-4ec8-8866-a35216e023be",
+      "uuid": "ac56bfe6-737d-4eaa-96ae-316ca244479a",
       "type": "domain",
       "value": "tesladrop2x.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "d3a8f2a7-ee30-4273-b998-d00258392809",
+      "uuid": "b05e5e77-8cf7-4c35-8005-7402e4f321ec",
       "type": "domain",
       "value": "tesladrop2x.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "2858148a-7d68-4214-ace9-247b7db980bd",
+      "uuid": "e15bf483-a701-4ce5-bbbd-5a043d6faaba",
       "type": "domain",
       "value": "teslalive23.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "b2036856-b8d9-4e4f-a5a0-85116d7aa488",
+      "uuid": "aa1ef709-572f-4c0c-866c-965995a2c50d",
       "type": "domain",
       "value": "teslanew.pro",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "64c6b033-ee58-49ad-9a49-a7f58c9f8fff",
+      "uuid": "ff53ee08-8844-417b-9742-bcbaa73c4c0b",
       "type": "domain",
       "value": "teslanew23.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "c6cb918a-3e16-4ecc-8365-c601ae5c0cbc",
+      "uuid": "217cda16-eef9-42ff-87ac-71819191efdf",
       "type": "domain",
       "value": "ukraine23help.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "8a5aaf05-da2b-471d-92a6-83657d546e56",
+      "uuid": "c41922ef-02b6-4faa-a101-0c178971e05c",
       "type": "domain",
       "value": "ukraine23help.store",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "e6cafb2d-0819-4348-9857-32607dc1a4d0",
+      "uuid": "c019d0c8-f10a-4973-8100-893e97654b3b",
       "type": "domain",
       "value": "ukraine2x.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "bc0e649f-f16d-4290-8921-6160fa20e162",
+      "uuid": "c11f2907-89e5-4f13-8bdb-d4cb9867ee1c",
       "type": "domain",
       "value": "ukraine2x.store",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "56ee0bb5-10a5-4927-8013-7cbd2c571356",
+      "uuid": "0c56cb89-91c3-4ce3-9b29-c27d187c7004",
       "type": "domain",
       "value": "x2ada.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "efdf379a-5872-44fd-983f-23fad5ea3a7f",
+      "uuid": "d140ef75-c557-478f-a467-e7d43000cb66",
       "type": "domain",
       "value": "x2droptesla.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "e77db62d-01f4-402d-8399-eac24369cbeb",
+      "uuid": "a8ade0ca-7c75-430e-8fa0-dadb8fe32b10",
       "type": "domain",
       "value": "x2elonmusk.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "5ef1de84-8ce1-4352-bb3b-beb2c6a881e6",
+      "uuid": "c3d5a699-6f89-4480-a15d-9af4c666c61d",
       "type": "domain",
       "value": "x2flare.org",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "4bf9554c-ab1a-4bc9-972b-b41fc979afe5",
+      "uuid": "b42491da-ad5a-4438-81cd-de5542c11bd2",
       "type": "domain",
       "value": "x2teslapump.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-02-06"
+      "date": "2023-02-06T00:00:00Z"
     },
     {
-      "uuid": "454c5e89-ffcb-435f-bc93-23a6f99dd337",
+      "uuid": "9fe95690-0077-448d-a365-0e6aaceeda47",
       "type": "domain",
       "value": "xrpdouble23.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     },
     {
-      "uuid": "c2f3b34c-d96f-4df5-90b1-1d6e80562216",
+      "uuid": "b0746b33-824d-447b-9bd6-e082d8d32e97",
       "type": "domain",
       "value": "xrpdouble23.store",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-28"
+      "date": "2023-04-28T00:00:00Z"
     }
   ],
   "Orgc": {

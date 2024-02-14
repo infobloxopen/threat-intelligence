@@ -1,266 +1,266 @@
 {
-  "uuid": "825482f2-54b7-4917-9b47-b48a0f3398bc",
+  "uuid": "6e854b85-7c77-4fda-abcf-60d555652fc8",
   "Attribute": [
     {
-      "uuid": "1120d7d0-b11e-4bf0-bc09-54c4bd826228",
+      "uuid": "cd9880d3-2e31-49a3-a27f-b7114524e2ca",
       "type": "domain",
       "value": "ads-tm-glb.click",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2022-11-25"
+      "date": "2022-11-25T00:00:00Z"
     },
     {
-      "uuid": "664c94b9-e45e-4b36-8a64-275b31bc24a8",
+      "uuid": "a8d20f53-29d3-40a7-817f-974944db6b7e",
       "type": "domain",
       "value": "allowlisted.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-07"
+      "date": "2023-04-07T00:00:00Z"
     },
     {
-      "uuid": "736a9353-aa31-4062-8976-164c60d456a1",
+      "uuid": "52f4ff67-eb72-451a-8d56-baa669c2488f",
       "type": "domain",
       "value": "atlas-upd.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-03-15"
+      "date": "2023-03-15T00:00:00Z"
     },
     {
-      "uuid": "7a5a5751-c17c-4082-8ff7-88616bb96bb5",
+      "uuid": "e92bc24a-c311-4955-bd05-dc3bb88a50db",
       "type": "domain",
       "value": "cbox4.ignorelist.com",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-07"
+      "date": "2023-04-07T00:00:00Z"
     },
     {
-      "uuid": "a8ca911e-ced9-4567-aa6a-423fc45bf8d6",
+      "uuid": "a3e115e2-4d87-4ba4-ac21-a52ef1ce4dd1",
       "type": "domain",
       "value": "claudfront.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-02-08"
+      "date": "2023-02-08T00:00:00Z"
     },
     {
-      "uuid": "f8190edb-28c1-4bf7-b1ae-16290221b56f",
+      "uuid": "31e7011d-c2c6-40ee-95b9-714ea34db5e2",
       "type": "domain",
       "value": "hsdps.cc",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-11"
+      "date": "2023-04-11T00:00:00Z"
     },
     {
-      "uuid": "0f441df6-e7c1-4be7-8d80-fda2cbc99b56",
+      "uuid": "4f2ef8f3-f752-4bd7-80e4-cc45f77df1f0",
       "type": "domain",
       "value": "j2update.cc",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-15"
+      "date": "2023-04-15T00:00:00Z"
     },
     {
-      "uuid": "103f1cac-9748-4597-9ffa-be93a91303bf",
+      "uuid": "e5667177-9094-42b7-bc7b-91ea43d3eb69",
       "type": "domain",
       "value": "maxpatrol.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-17"
+      "date": "2023-04-17T00:00:00Z"
     },
     {
-      "uuid": "2d09a4d7-5007-45e5-b6af-e01ddf32fada",
+      "uuid": "bb6b3acc-2f6b-462b-8bdb-821a81ba0179",
       "type": "domain",
       "value": "nsdps.cc",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-15"
+      "date": "2023-04-15T00:00:00Z"
     },
     {
-      "uuid": "10eef309-ac1e-4c41-b4ba-2145aad57a64",
+      "uuid": "7e68e25c-07ac-46f5-ba31-66ade4a6788a",
       "type": "domain",
       "value": "rcsmf100.net",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-06-01"
+      "date": "2023-06-01T00:00:00Z"
     },
     {
-      "uuid": "d6fdd707-2a9f-49f2-972d-e2d22ca6c1ab",
+      "uuid": "22c81a8f-afaa-45e0-82ba-b4589bf3ce69",
       "type": "ip-dst",
       "value": "13.248.169.48",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-07-14"
+      "date": "2023-07-14T00:00:00Z"
     },
     {
-      "uuid": "f53035cb-8998-444a-80b5-4a8f0f2fd769",
+      "uuid": "4193e817-3409-4551-b34d-8f23a6f9241f",
       "type": "ip-dst",
       "value": "156.154.132.200",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-07-14"
+      "date": "2023-07-14T00:00:00Z"
     },
     {
-      "uuid": "205f743c-1f76-4694-bab3-e48401faff5e",
+      "uuid": "ad3c97a4-fae2-451d-b32a-c78a27a958c2",
       "type": "ip-dst",
       "value": "194.31.55.85",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-07-14"
+      "date": "2023-07-14T00:00:00Z"
     },
     {
-      "uuid": "e08334fe-7d84-4ed6-91be-af9d31876491",
+      "uuid": "c988eeb7-0c9e-4a73-b3b2-96f2f0104078",
       "type": "ip-dst",
       "value": "5.199.173.4",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-20"
+      "date": "2023-04-20T00:00:00Z"
     },
     {
-      "uuid": "1b3f8c6f-fac7-4009-8e78-8a27c70329e7",
+      "uuid": "0c34485a-cf0a-4067-b055-534395393b4e",
       "type": "ip-dst",
       "value": "5.252.176.63",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-12"
+      "date": "2023-04-12T00:00:00Z"
     },
     {
-      "uuid": "8e6f8d1d-fa7e-464d-aafa-c442cb24b28c",
+      "uuid": "2d89e533-6ccf-4480-b8a3-70b31f1ff23d",
       "type": "ip-dst",
       "value": "5.252.176.22",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-19"
+      "date": "2023-04-19T00:00:00Z"
     },
     {
-      "uuid": "54535fb1-6a09-44f7-b586-69fd22816663",
+      "uuid": "07eaaee5-7c4e-462d-b416-e47618bc7e52",
       "type": "ip-dst",
       "value": "5.252.179.18",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-19"
+      "date": "2023-04-19T00:00:00Z"
     },
     {
-      "uuid": "8f65e9ff-b3f3-4011-a004-72d40a840314",
+      "uuid": "35c80f0f-ddb7-4f73-98fe-bcf033199e30",
       "type": "ip-dst",
       "value": "67.220.81.190",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-07-14"
+      "date": "2023-07-14T00:00:00Z"
     },
     {
-      "uuid": "ac3699f3-9526-44c9-b48d-eee3e9ea36c8",
+      "uuid": "857d75a7-e414-4987-9385-048ddec90422",
       "type": "ip-dst",
       "value": "69.65.50.194",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-07-14"
+      "date": "2023-07-14T00:00:00Z"
     },
     {
-      "uuid": "95149d70-d65f-41a7-8984-9ffc46add560",
+      "uuid": "4a6cbb4e-6d92-4550-9fdd-a214e9ee23f2",
       "type": "ip-dst",
       "value": "69.65.50.223",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-07-14"
+      "date": "2023-07-14T00:00:00Z"
     },
     {
-      "uuid": "38b71729-4d31-4518-8792-b6c99b99141d",
+      "uuid": "075c70d8-1e22-4f71-9c16-44e7dd39a9ee",
       "type": "ip-dst",
       "value": "70.39.97.253",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-07-14"
+      "date": "2023-07-14T00:00:00Z"
     },
     {
-      "uuid": "40bf7830-5c25-40d3-86a9-011a043bc04d",
+      "uuid": "7a2463c9-d2f6-4668-9441-8f70c65b1560",
       "type": "ip-dst",
       "value": "83.166.240.52",
       "category": "Network activity",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-04-19"
+      "date": "2023-04-19T00:00:00Z"
     },
     {
-      "uuid": "0b740067-b3d2-4d02-b1e0-72d2ef177e48",
+      "uuid": "063e7cca-e73a-4871-a722-fdf00bc84db2",
       "type": "sha256",
       "value": "4996180b2fa1045aab5d36f46983e91dadeebfd4f765d69fa50eba4edf310acf",
       "category": "Payload delivery",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-07-14"
+      "date": "2023-07-14T00:00:00Z"
     },
     {
-      "uuid": "74c88989-be90-4d0d-a00e-ed9b9d33a221",
+      "uuid": "1a4be860-8b8a-479e-b756-8625898b0349",
       "type": "sha256",
       "value": "ab8e333ef9bc5c5a7d1ed4cab08335861e150b0639d3d0ca4c30b7def5cdccde",
       "category": "Payload delivery",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-07-14"
+      "date": "2023-07-14T00:00:00Z"
     },
     {
-      "uuid": "16891018-6c29-42aa-8a79-5686446dfeb0",
+      "uuid": "fce11a90-3518-4a9f-bea2-ce5dbfa1f4f1",
       "type": "sha256",
       "value": "ad186df91282cf78394ef3bd60f04d859bcacccbcdcbfb620cc73f19ec0cec64",
       "category": "Payload delivery",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-07-14"
+      "date": "2023-07-14T00:00:00Z"
     },
     {
-      "uuid": "e939536f-678c-4a33-b21c-1bdd9eea136d",
+      "uuid": "edd2b93a-c676-4bd3-8b8f-1b83fdbf7ff7",
       "type": "sha256",
       "value": "6c8f413111f1abfee788dad4ee7cca37e0c2597cca66d155af958c535faf55cc",
       "category": "Payload delivery",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-07-14"
+      "date": "2023-07-14T00:00:00Z"
     },
     {
-      "uuid": "a3aa76ad-09c9-4b01-ac3f-227263515494",
+      "uuid": "0f601d4f-18cf-46b2-b491-71df8e5cf39a",
       "type": "sha256",
       "value": "6c8f413111f1abfee788dad4ee7cca37e0c2597cca66d155af958c535faf55cc",
       "category": "Payload delivery",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-07-14"
+      "date": "2023-07-14T00:00:00Z"
     },
     {
-      "uuid": "8580151e-98d3-4d02-b216-c5cfcdf51e12",
+      "uuid": "78c60d14-cf6f-4f4d-bf78-a7731a94237f",
       "type": "sha256",
       "value": "0375f4b3fe011b35e6575133539441009d015ebecbee78b578c3ed04e0f22568",
       "category": "Payload delivery",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-07-14"
+      "date": "2023-07-14T00:00:00Z"
     },
     {
-      "uuid": "92383fce-1577-4599-aaa8-7a72159dd7c9",
+      "uuid": "ed1bc307-ffd8-497e-9f91-4f0fd08c5cfd",
       "type": "filename|sha256",
       "value": "t1fde0f101c9395f39ecd16430b41041a59107c73c904087309fb8d0e8d87e0077129f3f",
       "category": "Payload delivery",
       "to_ids": true,
       "disable_correlation": false,
-      "date": "2023-07-14"
+      "date": "2023-07-14T00:00:00Z"
     }
   ],
   "Orgc": {
