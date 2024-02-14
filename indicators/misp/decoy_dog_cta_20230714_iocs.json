@@ -1,8 +1,8 @@
 {
-  "uuid": "f75f2af9-d86c-4a44-bfa3-4081f7af5d35",
+  "uuid": "9823a671-d367-4cc0-982a-8d0093ff041d",
   "Attribute": [
     {
-      "uuid": "6339a07d-8f9a-46d8-960d-a5e698b0c405",
+      "uuid": "060bf824-150c-47a6-9efe-dcafc52c80c8",
       "type": "domain",
       "value": "ads-tm-glb.click",
       "category": "Network activity",
@@ -10,7 +10,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c6983779-a116-4714-99c9-5912f8d0697b",
+      "uuid": "e1eed7f0-d5dd-4d5e-98e4-d41ff32073a7",
       "type": "domain",
       "value": "allowlisted.net",
       "category": "Network activity",
@@ -18,7 +18,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "50115cd8-89da-45d9-8f56-9b9ba430e6d5",
+      "uuid": "70fc73d7-c2bc-4a1b-b530-8f7e76792dd0",
       "type": "domain",
       "value": "atlas-upd.com",
       "category": "Network activity",
@@ -26,7 +26,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "57f9268e-23c4-4b5a-afda-79b1a3e9da84",
+      "uuid": "ad5550db-0dd6-4359-a939-25195b00032e",
       "type": "domain",
       "value": "cbox4.ignorelist.com",
       "category": "Network activity",
@@ -34,7 +34,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e60dee9b-3804-423c-a4e0-ee08303a8094",
+      "uuid": "4357d84c-bdb9-4834-bb0c-eac9d1203b28",
       "type": "domain",
       "value": "claudfront.net",
       "category": "Network activity",
@@ -42,7 +42,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "ba552a99-b9eb-4c92-b089-8f5e010ec612",
+      "uuid": "b041ca28-b62b-4f36-aad7-c653159a7b81",
       "type": "domain",
       "value": "hsdps.cc",
       "category": "Network activity",
@@ -50,7 +50,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "00175181-8931-497d-beb6-162d39b5619a",
+      "uuid": "52bb0c4f-023e-4aeb-aa93-4403efc7bf05",
       "type": "domain",
       "value": "j2update.cc",
       "category": "Network activity",
@@ -58,7 +58,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "9100b823-a16f-4dd9-a688-4cc9605ec195",
+      "uuid": "9e6d1687-1a16-45eb-82f7-e4df2ece0a06",
       "type": "domain",
       "value": "maxpatrol.net",
       "category": "Network activity",
@@ -66,7 +66,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "cb5c84fd-e418-4ab7-9812-1788b49f725a",
+      "uuid": "c85492e1-c85b-4681-9bdd-2dc2c6cc532a",
       "type": "domain",
       "value": "nsdps.cc",
       "category": "Network activity",
@@ -74,7 +74,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "d4716b08-2548-45f8-b6cf-9a3446d9a1ed",
+      "uuid": "8116c10d-1337-4879-9200-08f41f4f4861",
       "type": "domain",
       "value": "rcsmf100.net",
       "category": "Network activity",
@@ -82,7 +82,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c0f0ee4d-23f5-45c7-8860-d3dee91b7c4b",
+      "uuid": "f5503078-aba1-4c76-8a5a-0ecb166245a1",
       "type": "ip-dst",
       "value": "13.248.169.48",
       "category": "Network activity",
@@ -90,7 +90,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "4caddffe-0db4-43d3-ac7c-851014254cf7",
+      "uuid": "d9109f64-66c2-4da1-86cb-1973649a17b6",
       "type": "ip-dst",
       "value": "156.154.132.200",
       "category": "Network activity",
@@ -98,7 +98,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "6927e434-dc59-4224-a3b6-71a58ccfeb93",
+      "uuid": "7a9812bf-b26c-4078-8d33-bb562c49f162",
       "type": "ip-dst",
       "value": "194.31.55.85",
       "category": "Network activity",
@@ -106,7 +106,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "ff6aff6c-6953-46b0-8d06-37ca9394783c",
+      "uuid": "398ee995-1946-40d2-8818-34c2c6738040",
       "type": "ip-dst",
       "value": "5.199.173.4",
       "category": "Network activity",
@@ -114,7 +114,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "8e38efea-dc27-4f72-9d16-359ce1e44e5f",
+      "uuid": "fe69c05f-b356-4c6f-afde-2b6f5ee65ccc",
       "type": "ip-dst",
       "value": "5.252.176.63",
       "category": "Network activity",
@@ -122,7 +122,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "388b31f1-9ead-45f6-97b6-0d0470bd0e3f",
+      "uuid": "392c111f-efb3-4ef4-a547-2268b3693ddb",
       "type": "ip-dst",
       "value": "5.252.176.22",
       "category": "Network activity",
@@ -130,7 +130,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "cd0799d6-3e89-4c47-987f-4cec5510396e",
+      "uuid": "040e8c3c-454e-4c51-abf6-91df020a9ef8",
       "type": "ip-dst",
       "value": "5.252.179.18",
       "category": "Network activity",
@@ -138,7 +138,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "15d0b1d4-f201-4629-bae0-973b6985f8d2",
+      "uuid": "02f0a7f1-71d3-4779-b718-08c1bbbbb802",
       "type": "ip-dst",
       "value": "67.220.81.190",
       "category": "Network activity",
@@ -146,7 +146,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "5a7945ef-168f-4624-9395-cf8d8d45dc72",
+      "uuid": "9f77a3d4-69d6-4195-b3a7-c07f07d3400b",
       "type": "ip-dst",
       "value": "69.65.50.194",
       "category": "Network activity",
@@ -154,7 +154,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "f19991e8-12b1-41c0-9784-72b92cf64cef",
+      "uuid": "1ac9a10a-39de-43c5-94c2-4eb86b7cdb3f",
       "type": "ip-dst",
       "value": "69.65.50.223",
       "category": "Network activity",
@@ -162,7 +162,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "df1cea16-c7fa-4a64-9d45-75fdac0f1942",
+      "uuid": "0f04f5ee-c951-4b2c-a5b1-f24835ea9d7b",
       "type": "ip-dst",
       "value": "70.39.97.253",
       "category": "Network activity",
@@ -170,7 +170,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "f5df7ee8-1a8e-492c-9095-4fb903d2bfcf",
+      "uuid": "db36756e-b5f3-47e1-8f39-8393dbe4c766",
       "type": "ip-dst",
       "value": "83.166.240.52",
       "category": "Network activity",
@@ -178,7 +178,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "347bae35-19d6-4a71-b1e1-95c9d02ddf25",
+      "uuid": "aa8f4337-8bfd-48c0-acb5-1d6ff2f73962",
       "type": "sha256",
       "value": "4996180b2fa1045aab5d36f46983e91dadeebfd4f765d69fa50eba4edf310acf",
       "category": "Payload delivery",
@@ -186,7 +186,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "4f6b6fa1-d4d2-4b76-b336-309a97650a2d",
+      "uuid": "acb97822-7e50-4ebf-acd5-c9d32a09cbb6",
       "type": "sha256",
       "value": "ab8e333ef9bc5c5a7d1ed4cab08335861e150b0639d3d0ca4c30b7def5cdccde",
       "category": "Payload delivery",
@@ -194,7 +194,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "2237a545-6e30-4bcb-94b6-3ba2a259a49f",
+      "uuid": "6c578e5b-7a1b-4e34-9e15-08a5101ec909",
       "type": "sha256",
       "value": "ad186df91282cf78394ef3bd60f04d859bcacccbcdcbfb620cc73f19ec0cec64",
       "category": "Payload delivery",
@@ -202,7 +202,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "8edd85f7-4dc8-4d42-a302-f737766f9248",
+      "uuid": "dae8af4e-f767-4730-83dd-9dffedcb4890",
       "type": "sha256",
       "value": "6c8f413111f1abfee788dad4ee7cca37e0c2597cca66d155af958c535faf55cc",
       "category": "Payload delivery",
@@ -210,7 +210,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "aa62da96-de6d-443b-9bbb-19328fe8cfce",
+      "uuid": "e2c11676-5347-4cbd-95b6-15c06aa89d4e",
       "type": "sha256",
       "value": "6c8f413111f1abfee788dad4ee7cca37e0c2597cca66d155af958c535faf55cc",
       "category": "Payload delivery",
@@ -218,7 +218,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "be818b7f-fad7-4bd4-bfb8-7a8b60649283",
+      "uuid": "cc44df51-06e2-414e-85e3-1457a8ebd2b2",
       "type": "sha256",
       "value": "0375f4b3fe011b35e6575133539441009d015ebecbee78b578c3ed04e0f22568",
       "category": "Payload delivery",
@@ -226,7 +226,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "0551fc98-d8f6-4f2c-ad63-f9c0bc2dfe58",
+      "uuid": "fd3d2ba0-29f8-4658-b4af-525a7b9ddee5",
       "type": "filename|sha256",
       "value": "t1fde0f101c9395f39ecd16430b41041a59107c73c904087309fb8d0e8d87e0077129f3f",
       "category": "Payload delivery",
@@ -237,5 +237,6 @@
   "Orgc": {
     "name": "Infoblox",
     "orgc": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
-  }
+  },
+  "info": "decoy_dog_cta_20230714_iocs"
 }

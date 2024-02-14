@@ -1,8 +1,8 @@
 {
-  "uuid": "5e54e71d-78e3-41d2-833a-0819870af410",
+  "uuid": "84df9885-c978-4dd1-ad8d-26bf7decb7a6",
   "Attribute": [
     {
-      "uuid": "3f700003-1d4f-4e89-9700-d9bf5478d375",
+      "uuid": "ac3366f7-a29c-4cd6-9175-67f9ea5958a5",
       "type": "domain",
       "value": "yikilanbinalar.com.tr",
       "category": "Network activity",
@@ -10,7 +10,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "346b027c-859e-4ce3-97a6-2c31ed5166e6",
+      "uuid": "782006d7-aa92-4380-9749-d43579301f51",
       "type": "domain",
       "value": "enkazbildirim.org",
       "category": "Network activity",
@@ -18,7 +18,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "35179139-c3b2-4c31-99e6-47c25b6089a5",
+      "uuid": "785442e6-38bd-47be-917c-d78127f993b1",
       "type": "domain",
       "value": "howtohelpturkey-syriaearthquakevictims.org",
       "category": "Network activity",
@@ -26,7 +26,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c578e74f-46ae-4bea-bd7d-70a9098810cb",
+      "uuid": "a44c353d-14b2-4fac-91cd-3bd3a4e25e10",
       "type": "domain",
       "value": "hepsiemlak.com",
       "category": "Network activity",
@@ -34,7 +34,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "be065b95-d5e4-4dfd-b2cd-0711281c2b19",
+      "uuid": "4c4d364e-528f-40dd-9a74-1973eed97b9c",
       "type": "domain",
       "value": "kizilay.org.tr",
       "category": "Network activity",
@@ -42,7 +42,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "77b5073d-0b06-479e-8250-8db5e7b66cde",
+      "uuid": "71de8b2e-e6f6-4710-8c69-d77648f3009f",
       "type": "domain",
       "value": "misafirimol.trair.com.tr",
       "category": "Network activity",
@@ -50,7 +50,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "d6e7840b-06f6-46cf-9cf1-f33683e6e9ec",
+      "uuid": "148ec98f-7592-4da5-9902-1ddcf9d96f70",
       "type": "domain",
       "value": "depremihtiyac.com",
       "category": "Network activity",
@@ -58,7 +58,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "18ead1bc-8012-4b1b-a9c3-d5627612d260",
+      "uuid": "850197d5-169b-4dfc-b405-0b77303e4739",
       "type": "domain",
       "value": "akut.org.tr",
       "category": "Network activity",
@@ -66,7 +66,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "11dec7a5-dc50-4c61-b9d6-a73a40816480",
+      "uuid": "93fc6596-eea8-4a75-94cd-b4b76ddc2ec7",
       "type": "domain",
       "value": "adresdeprem.com",
       "category": "Network activity",
@@ -74,7 +74,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "04c3b5a6-c2ac-4ae6-aae0-6e1468704087",
+      "uuid": "a6c3add8-68fc-433c-af1a-f6e48c908544",
       "type": "domain",
       "value": "earthquaketurkey.com",
       "category": "Network activity",
@@ -82,7 +82,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "069fbb93-cbb0-429b-ac9a-55c57b34e751",
+      "uuid": "d1f84f09-653a-4b9e-954c-ab7d6753cb00",
       "type": "domain",
       "value": "depremyardim.com",
       "category": "Network activity",
@@ -90,7 +90,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "7de25e18-e424-4a45-88d4-0bb4fe1ec69d",
+      "uuid": "402dce58-e357-4ea3-a863-dada12b53f6b",
       "type": "domain",
       "value": "ahbap.org",
       "category": "Network activity",
@@ -98,7 +98,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e68e9d51-bb8d-47a9-9d10-328a54ac554e",
+      "uuid": "a86c665c-7d97-4b5b-b00a-d3bd1ce8c64c",
       "type": "domain",
       "value": "yakinimibul.net",
       "category": "Network activity",
@@ -106,7 +106,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "8f40b1de-e798-4b13-979a-8c356ccf4d6a",
+      "uuid": "aeb9378d-fb8d-4eff-b48b-a59f8638ea69",
       "type": "domain",
       "value": "afad.gov.tr",
       "category": "Network activity",
@@ -114,7 +114,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "ab2bf670-617d-4912-aa8b-f731d80e3db1",
+      "uuid": "25d9f789-302e-495c-aabd-0bc060f8048d",
       "type": "domain",
       "value": "magdur.com",
       "category": "Network activity",
@@ -122,7 +122,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "ef90da88-5966-4f5b-be94-80298bc09898",
+      "uuid": "add91c2f-cf22-452b-bb1c-319f8c08029e",
       "type": "domain",
       "value": "deprem.basarsoft.com.tr",
       "category": "Network activity",
@@ -130,7 +130,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c288413f-4d51-4d0c-9922-4c07606c4035",
+      "uuid": "1c47efcd-42ca-4b2c-8ace-4b3629381dad",
       "type": "domain",
       "value": "ihtiyacharitasi.org",
       "category": "Network activity",
@@ -138,7 +138,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "5b2a1885-4019-43cf-a237-34eb43ee6f76",
+      "uuid": "53fbe53f-0dc1-49b7-8047-7048b77d7081",
       "type": "domain",
       "value": "beniyiyim.com",
       "category": "Network activity",
@@ -146,7 +146,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "036e945e-33f5-4bdf-b37b-8fef220bb6fb",
+      "uuid": "047bebaa-cca6-461e-8d1a-54b383613ee2",
       "type": "domain",
       "value": "jotform.com",
       "category": "Network activity",
@@ -154,7 +154,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "24c4d5f0-c6f2-4553-bf3a-8507f4d437fd",
+      "uuid": "5fe63ee7-bbe2-47bc-aa15-4510f0a339c2",
       "type": "domain",
       "value": "afetharita.com",
       "category": "Network activity",
@@ -162,7 +162,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "56716b2e-a8e2-43bb-bc27-b9e9111bccde",
+      "uuid": "c9a52c92-761f-452f-99b9-0bbf87cf73ca",
       "type": "domain",
       "value": "stream.epctex.com",
       "category": "Network activity",
@@ -170,7 +170,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "7fa325b9-1aed-42de-a955-cb2e231808bd",
+      "uuid": "3c252fa5-f6fc-4f99-80bb-177a6b25384c",
       "type": "domain",
       "value": "afetbilgi.com",
       "category": "Network activity",
@@ -178,7 +178,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "bdfea7d2-6584-4702-b257-8ed3c47046d9",
+      "uuid": "798db78e-ddca-4a1a-a744-6b48a4a2de62",
       "type": "domain",
       "value": "deprem.io",
       "category": "Network activity",
@@ -186,7 +186,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "31daddf2-2c14-4855-9cb9-809421860641",
+      "uuid": "55949664-8438-451a-ab18-f517cb671430",
       "type": "domain",
       "value": "depremyardim.org",
       "category": "Network activity",
@@ -197,5 +197,6 @@
   "Orgc": {
     "name": "Infoblox",
     "orgc": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
-  }
+  },
+  "info": "turkiye_earthquake_legitimate_iocs"
 }

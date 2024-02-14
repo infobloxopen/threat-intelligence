@@ -72,6 +72,9 @@ for csv_filepath in csv_files:
     # misp_event.info = 'Your event info'  # Set the event info
     misp_event.orgc = misp_org  # Set organization
 
+    # Set MISP event attributes
+    misp_event.info = os.path.basename(csv_filepath)[:-4]
+
     # Iterate over each row in the CSV data and add attributes to the MISP event
     for index, row in csv_data.iterrows():
         # attribute = pymisp.MISPAttribute()
@@ -90,14 +93,6 @@ for csv_filepath in csv_files:
     json_path = os.path.join(output_subfolder, os.path.splitext(csv_filename)[0] + '.json')
     with open(json_path, 'w') as misp_json_file:
         misp_json_file.write(misp_event.to_json(indent=2))
-
-# COMMAND ----------
-
-output_subfolder
-
-# COMMAND ----------
-
-json_file
 
 # COMMAND ----------
 

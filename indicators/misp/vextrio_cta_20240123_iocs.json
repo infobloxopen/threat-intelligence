@@ -1,8 +1,8 @@
 {
-  "uuid": "68d0392b-dd73-4d25-be36-57551f7771d6",
+  "uuid": "8d1c0835-210e-4b0d-9724-224d7d1c8aaa",
   "Attribute": [
     {
-      "uuid": "a24499ba-a8d1-4250-8896-e63625a9e86e",
+      "uuid": "cb5ef26e-d917-4a05-bf70-262c38f92bef",
       "type": "domain",
       "value": "womanflirting.life",
       "category": "Network activity",
@@ -10,7 +10,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "11565a70-928a-4546-91a1-dad741ec4adf",
+      "uuid": "cc2f856d-0e0b-4342-ac87-b0b522d525b7",
       "type": "domain",
       "value": "bonustop-price.life",
       "category": "Network activity",
@@ -18,7 +18,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "4b5fa6c2-aadc-409b-9c7a-5f447dccfaf6",
+      "uuid": "44ba87d8-d687-4ca3-954d-fc35d728a983",
       "type": "domain",
       "value": "allprizeshub.life",
       "category": "Network activity",
@@ -26,7 +26,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "f679d1ed-541c-422d-b908-1cded63ccf55",
+      "uuid": "b4facd06-d832-48a8-a66f-c56c626a7642",
       "type": "domain",
       "value": "greatbonushere.top",
       "category": "Network activity",
@@ -34,7 +34,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e3e1eb26-f279-4168-9473-3dbbb68bfc66",
+      "uuid": "7738389e-36ec-45fd-961c-0ba7f6482f08",
       "type": "domain",
       "value": "prizes-topwin.life",
       "category": "Network activity",
@@ -42,7 +42,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "5f77d102-3066-4986-9cfb-3a78acc0b532",
+      "uuid": "5c228f8a-4370-4168-9478-246f1a99c0fa",
       "type": "domain",
       "value": "a.crystalcraft.top",
       "category": "Network activity",
@@ -50,7 +50,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "305122a6-6f15-4601-a577-394a103ccbba",
+      "uuid": "f2f540fe-d8b8-4a8f-9efb-e25802440f5e",
       "type": "domain",
       "value": "logsmetrics.com",
       "category": "Network activity",
@@ -58,7 +58,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "1f55c183-a50e-4e0a-9504-6f4edbf9e273",
+      "uuid": "f5e95f5d-a0b8-4df1-aa38-68fd2ce10da4",
       "type": "domain",
       "value": "webdatatrace.com",
       "category": "Network activity",
@@ -66,7 +66,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "db30c4ce-0974-4515-ac67-ecda0851aac0",
+      "uuid": "010a27fd-6628-469c-be06-41a549078761",
       "type": "domain",
       "value": "marybskitchen.com",
       "category": "Network activity",
@@ -74,7 +74,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "5188a43d-a78e-45b9-a5b8-f88743554cbe",
+      "uuid": "b03b3ef0-ea86-4420-9b9f-227dbcef2e19",
       "type": "domain",
       "value": "prom-gg.com",
       "category": "Network activity",
@@ -82,7 +82,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "8c258fb9-e87c-4d30-bac5-b476712b3ea8",
+      "uuid": "b5ed8ac8-5c92-429b-8b31-325e0dbcc432",
       "type": "domain",
       "value": "go.clicksme.org",
       "category": "Network activity",
@@ -90,7 +90,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "fca1babf-ae66-47db-9cdf-7adfdc730f10",
+      "uuid": "24b12ef8-42eb-43c0-bbfa-d7766dfd8f26",
       "type": "domain",
       "value": "machinetext.org",
       "category": "Network activity",
@@ -98,7 +98,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "eb591232-9bb6-48fe-8883-18f1dfc8316f",
+      "uuid": "76854caf-eb3f-4c68-baf5-e9b92e4c6a0d",
       "type": "domain",
       "value": "getquery.org",
       "category": "Network activity",
@@ -106,7 +106,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e86195e6-4656-427e-82be-db6ea03dae91",
+      "uuid": "26a3404a-1ba6-4743-8b04-74eb30ab2282",
       "type": "domain",
       "value": "quaryget.org",
       "category": "Network activity",
@@ -114,7 +114,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "ac64b89b-dcbf-4aa4-b98e-c06b1159056b",
+      "uuid": "af3948a5-289f-4039-be08-371a89787612",
       "type": "domain",
       "value": "greenpapers.org",
       "category": "Network activity",
@@ -122,7 +122,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "0b170f0e-3970-4cee-bf33-012eb0ed290f",
+      "uuid": "c0f22692-065e-42bf-8db9-f0753c2c890a",
       "type": "domain",
       "value": "dailytickyclock.org",
       "category": "Network activity",
@@ -130,7 +130,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "f676ba34-bda3-46ea-ab3e-3be1552f6628",
+      "uuid": "54e7c4ad-baaa-4fba-b02b-43deb9b671c6",
       "type": "domain",
       "value": "tiktok.megastok.top",
       "category": "Network activity",
@@ -138,7 +138,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "f41a4aa4-5f93-487f-addc-476dac02c9ba",
+      "uuid": "697e269c-36b5-43e0-a582-ce59e37b8c53",
       "type": "domain",
       "value": "tiktok.supersbows.us",
       "category": "Network activity",
@@ -146,7 +146,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "6fa98bbf-14a4-49ad-b80b-aa3802bd8ba8",
+      "uuid": "f397fb9b-be6d-41e3-994e-6dfaf413d528",
       "type": "domain",
       "value": "tiktok.tomorrows.top",
       "category": "Network activity",
@@ -154,7 +154,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "434ea8f7-733d-4398-af2f-3abda7d7fcaf",
+      "uuid": "4aaf159f-9718-4e69-af0f-a8b8ba7b4293",
       "type": "domain",
       "value": "tiktok.superbowsm.top",
       "category": "Network activity",
@@ -162,7 +162,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "02642685-6bc0-48fb-b8c8-6cdd8cebd1a1",
+      "uuid": "07a32bfc-1840-4d61-8c31-5e6f9ccaef82",
       "type": "url",
       "value": "https://tinyurl.com/2ykfey8v",
       "category": "Network activity",
@@ -170,7 +170,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "7162fb89-fac2-4d0e-acf1-688a6501449b",
+      "uuid": "450ae348-6297-40c4-98b5-8c380f9d3473",
       "type": "url",
       "value": "https://tinyurl.com/288tobvb",
       "category": "Network activity",
@@ -178,7 +178,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "27c3be12-d917-4b4a-bf08-3a4c90442f4a",
+      "uuid": "79f1171e-16d5-4765-a424-aacefb810224",
       "type": "url",
       "value": "https://t.co/YbupnnMAtX",
       "category": "Network activity",
@@ -186,7 +186,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "68917058-6b32-4b82-b64f-4e955ce6cf25",
+      "uuid": "b88c38ab-ff5f-42d1-82be-fe005f56c2c8",
       "type": "url",
       "value": "https://t.co/MmMkTCn6Kd",
       "category": "Network activity",
@@ -194,7 +194,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "1ef6dc0f-228c-49cc-a90b-fbf418b37598",
+      "uuid": "0050f117-f0d7-47eb-a803-ae72b7a51f66",
       "type": "url",
       "value": "https://is.gd/l3S7qf",
       "category": "Network activity",
@@ -202,7 +202,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "91858cfc-ef12-47ef-9bba-1bfb701f98b9",
+      "uuid": "6f3f4330-8c21-4b38-90e1-e8a756ffc49f",
       "type": "domain",
       "value": "antibotcloud.com",
       "category": "Network activity",
@@ -210,7 +210,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "676fc92d-0f85-4e18-a8a6-5a4ce8766b95",
+      "uuid": "c060eeb4-9129-4c8b-9e7c-0ac0e8af6d17",
       "type": "domain",
       "value": "hixastump.com",
       "category": "Network activity",
@@ -218,7 +218,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "8e03680c-0cdb-4da4-af1a-1c35856563d6",
+      "uuid": "c2466cb3-16ae-49eb-a11d-3500a87ac136",
       "type": "domain",
       "value": "d.strouchridun.top",
       "category": "Network activity",
@@ -229,5 +229,6 @@
   "Orgc": {
     "name": "Infoblox",
     "orgc": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
-  }
+  },
+  "info": "vextrio_cta_20240123_iocs"
 }

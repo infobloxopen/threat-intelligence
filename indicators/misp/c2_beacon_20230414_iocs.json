@@ -1,8 +1,8 @@
 {
-  "uuid": "136f27c8-34a6-4fe2-8811-1ac45d908a03",
+  "uuid": "9ee60897-610a-408d-8fa5-0510e8110406",
   "Attribute": [
     {
-      "uuid": "dd7aef3f-2a52-41f5-8dac-17536bb91b67",
+      "uuid": "fbf55a22-e45b-4abb-b574-59a59c01dfd8",
       "type": "domain",
       "value": "claudfront.net",
       "category": "Network activity",
@@ -10,7 +10,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "63331706-6daa-4770-b3cd-604ba3ab6bc1",
+      "uuid": "d2d497c8-75b0-4970-ace0-a21edc533d1a",
       "type": "domain",
       "value": "allowlisted.net",
       "category": "Network activity",
@@ -18,7 +18,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "b0e976d3-e740-4407-83de-d8c7db500906",
+      "uuid": "bfbfb61d-f39b-4436-b439-6a9f7352c1ee",
       "type": "domain",
       "value": "atlas-upd.com",
       "category": "Network activity",
@@ -26,7 +26,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "25f18ede-f1df-4058-ae11-f682615126b4",
+      "uuid": "67b264dd-4c43-498e-8280-93665f5d8aa0",
       "type": "domain",
       "value": "ads-tm-glb.click",
       "category": "Network activity",
@@ -34,7 +34,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "8ab95220-00e1-4f5d-9f26-4fee09d26756",
+      "uuid": "ba2fb350-e2a8-4826-a7ca-d6d6c0eca205",
       "type": "domain",
       "value": "cbox4.ignorelist.com",
       "category": "Network activity",
@@ -42,7 +42,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c9ead943-e824-4cc8-84fc-f251251fe82a",
+      "uuid": "04364c74-e5e5-4082-b2cb-0ddedbcc8799",
       "type": "domain",
       "value": "hsdps.cc",
       "category": "Network activity",
@@ -53,5 +53,6 @@
   "Orgc": {
     "name": "Infoblox",
     "orgc": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
-  }
+  },
+  "info": "c2_beacon_20230414_iocs"
 }

@@ -1,8 +1,8 @@
 {
-  "uuid": "5e3acea1-bf0d-416c-89a9-1adf6ede169d",
+  "uuid": "ed25fd91-e4b3-44d6-b036-8dc58605c43d",
   "Attribute": [
     {
-      "uuid": "b177c04f-087d-4de8-a544-0058685b7496",
+      "uuid": "f340c608-f25b-4639-acc0-f99c1781a1fa",
       "type": "domain",
       "value": "wordpress.agrupem.com",
       "category": "Network activity",
@@ -10,7 +10,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "a38f4f1b-8f94-4876-ac75-03ce99bb9086",
+      "uuid": "3e33087d-0da6-4f74-9182-9b00380c8c60",
       "type": "domain",
       "value": "3dstudioa.com.br",
       "category": "Network activity",
@@ -18,7 +18,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "d7a8db51-a8c5-4041-82ad-2354a36711f1",
+      "uuid": "7afd8dfd-9a63-485f-a887-3454b914ece5",
       "type": "domain",
       "value": "dscaluya.6te.net",
       "category": "Network activity",
@@ -26,7 +26,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "0d205018-14fa-4275-9198-6ccf26d536aa",
+      "uuid": "fc11898f-b929-4d61-bfdd-10b51726c760",
       "type": "domain",
       "value": "akuntansi.itny.ac.id",
       "category": "Network activity",
@@ -34,7 +34,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "8d4d83da-2602-41e7-819a-73e30368042e",
+      "uuid": "e7b007bd-5190-44b4-bee5-ce473305ebfd",
       "type": "domain",
       "value": "app.virapad.ir",
       "category": "Network activity",
@@ -42,7 +42,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "32e13bc2-e72b-4973-9568-b97b87b4f2ae",
+      "uuid": "9ffea57e-b319-458f-ad54-d9d165d87971",
       "type": "domain",
       "value": "appyhorsey.com",
       "category": "Network activity",
@@ -50,7 +50,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "fb8a72c3-b0ca-4f35-8615-649ce5973a92",
+      "uuid": "1f3c04b0-da21-41ef-b744-d7a4af0da770",
       "type": "domain",
       "value": "astrogurusunilbarmola.com",
       "category": "Network activity",
@@ -58,7 +58,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "9de44d8f-9a02-4d3e-bdf8-56c1ff96db3f",
+      "uuid": "fa88b883-bbf8-4be0-a468-3904f73cdb8a",
       "type": "domain",
       "value": "atperson.com",
       "category": "Network activity",
@@ -66,7 +66,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "5864d79d-0d0c-4ab4-aadb-955809fb27be",
+      "uuid": "6ec5b273-5399-4620-9535-7c2c3fa23c0f",
       "type": "domain",
       "value": "balticcontrolbd.com",
       "category": "Network activity",
@@ -74,7 +74,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "4924cdec-8710-4708-81fe-34886088b61b",
+      "uuid": "6f27b393-c7bf-42d7-adcc-db94efc3cc12",
       "type": "domain",
       "value": "blessingsource.com",
       "category": "Network activity",
@@ -82,7 +82,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "5b59738a-d9c9-4292-8828-0c2cfae54d05",
+      "uuid": "8343848a-6e19-49b1-ac78-ac93260f49b6",
       "type": "domain",
       "value": "borntobefree.org.za",
       "category": "Network activity",
@@ -90,7 +90,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e6f7b836-13bb-498a-a573-02e2ca5e96a4",
+      "uuid": "c73271a7-76de-4ad8-9533-5d1f220bc66c",
       "type": "domain",
       "value": "brittknight.com",
       "category": "Network activity",
@@ -98,7 +98,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "6b0d67b7-cbbf-4f12-a5ef-f82b5a609a4a",
+      "uuid": "093fde75-dfa1-4d5d-a7ad-f6412c333242",
       "type": "domain",
       "value": "bruidsfotografie-breda.nl",
       "category": "Network activity",
@@ -106,7 +106,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "1da5806f-80bf-482b-b230-220ddecc413a",
+      "uuid": "47b12f2e-e65d-4fbc-875e-7500a18b84c0",
       "type": "domain",
       "value": "deadcode200.c1.biz",
       "category": "Network activity",
@@ -114,7 +114,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "011a7326-941d-4397-a339-b7151afe8661",
+      "uuid": "cd5b6f53-e885-43a7-a4d9-96790c4232c5",
       "type": "domain",
       "value": "cashmailsystem.com",
       "category": "Network activity",
@@ -122,7 +122,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "84160868-d9df-4fcf-b818-7c3f9cb74361",
+      "uuid": "10f81149-af17-44dc-839f-4d80dd40cd2d",
       "type": "domain",
       "value": "chainandpyle.com",
       "category": "Network activity",
@@ -130,7 +130,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "91f333eb-8234-4445-acdb-79ec2d8da63b",
+      "uuid": "e7b11f6d-0273-407e-868e-426f3ba085c9",
       "type": "domain",
       "value": "chaledooleo.com.br",
       "category": "Network activity",
@@ -138,7 +138,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "564cc851-51d4-4d97-900a-144a3a19aa49",
+      "uuid": "322d4441-fbc6-4fe2-9516-3452a6b7df9e",
       "type": "domain",
       "value": "charmslovespells.com",
       "category": "Network activity",
@@ -146,7 +146,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "a5a0b874-e8d7-4c0f-a4bc-431996ba5810",
+      "uuid": "43ea0461-74f9-4161-87e9-23bc5b45b083",
       "type": "domain",
       "value": "collabsolutions.co.za",
       "category": "Network activity",
@@ -154,7 +154,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "7d80c825-3533-4a3b-bcc1-b842188d25d0",
+      "uuid": "a2191e5f-a4e4-425b-bd63-2f13e8e88845",
       "type": "domain",
       "value": "comecebem.com",
       "category": "Network activity",
@@ -162,7 +162,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "b3a05a99-4402-4432-a4ff-3e8bd1db1cac",
+      "uuid": "3feabfef-5e5d-4f2f-87dc-d636afd4a9d0",
       "type": "domain",
       "value": "contabilidadeplenus.com.br",
       "category": "Network activity",
@@ -170,7 +170,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "81b6560e-02e4-4e8f-a2af-bc7ba70c79ae",
+      "uuid": "d7a7fcbf-7e60-4f5b-9cdb-40892cdf66ec",
       "type": "domain",
       "value": "corporateissolutions.com",
       "category": "Network activity",
@@ -178,7 +178,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "23bce673-c88c-4692-a36f-c833323e7f48",
+      "uuid": "860a4563-c89e-48db-b8c8-f8e3e4f1d74e",
       "type": "domain",
       "value": "cs14productions.com",
       "category": "Network activity",
@@ -186,7 +186,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "b3740655-6202-4a88-8384-6f56ce1dbfd3",
+      "uuid": "f7363769-f9b8-493b-b22c-448ab4deb32b",
       "type": "domain",
       "value": "cupsolution.com",
       "category": "Network activity",
@@ -194,7 +194,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "467afd26-279f-447c-b599-cd7738e7a1eb",
+      "uuid": "10ac8cc3-a900-4dbf-a491-3af02553d045",
       "type": "domain",
       "value": "decorusfinancial.com",
       "category": "Network activity",
@@ -202,7 +202,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e7e90abb-3575-4a20-9047-3b95f7602be7",
+      "uuid": "c63249ad-04b6-4c8e-97fa-ec82ff59f2ed",
       "type": "domain",
       "value": "dencker.info",
       "category": "Network activity",
@@ -210,7 +210,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "896a474e-3e7a-453b-ad2b-7b512ca0a19a",
+      "uuid": "b9c0aded-0b21-45b5-9a21-de72feddec33",
       "type": "domain",
       "value": "djunreal.co.uk",
       "category": "Network activity",
@@ -218,7 +218,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "eee5b67d-2c7b-471c-9b1c-0dfe652141c0",
+      "uuid": "59b7652d-883d-4aef-a379-852b94fc3240",
       "type": "domain",
       "value": "dl.choobingroup.ir",
       "category": "Network activity",
@@ -226,7 +226,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "95fb9d80-2239-4451-b4ab-5703c05b5e64",
+      "uuid": "66c3bd79-d8b6-422e-8637-e8b7cc25c284",
       "type": "domain",
       "value": "dotcompany.com.br",
       "category": "Network activity",
@@ -234,7 +234,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "96209adf-233a-4f23-a53b-9f7dcfa40b6a",
+      "uuid": "4b69ab79-c0e1-48c6-ab69-1727d36202dd",
       "type": "domain",
       "value": "clotizen.dothome.co.kr",
       "category": "Network activity",
@@ -242,7 +242,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "27ec837b-2f35-4cab-8d1c-779f134ade1e",
+      "uuid": "e674a429-c91c-4ae1-b125-1fef29b0cc7e",
       "type": "domain",
       "value": "gmhealthcare.dothome.co.kr",
       "category": "Network activity",
@@ -250,7 +250,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "ed98b758-f3ed-4135-81ae-2abe0b270f02",
+      "uuid": "cc3806e1-2c58-4420-865e-9fd51127ed94",
       "type": "domain",
       "value": "kwinglobal.dothome.co.kr",
       "category": "Network activity",
@@ -258,7 +258,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "f261f698-25fb-4055-84f9-c67cc6466d5d",
+      "uuid": "42f2194b-7e59-4dc9-9382-e43c14d18650",
       "type": "domain",
       "value": "withvac001.dothome.co.kr",
       "category": "Network activity",
@@ -266,7 +266,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "4b4457c5-9f86-4f8a-a966-c6be7dfc1d35",
+      "uuid": "9bcaa59f-ff8b-4f8c-a754-821b560fe621",
       "type": "domain",
       "value": "onepieceark.dothome.co.kr",
       "category": "Network activity",
@@ -274,7 +274,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "dde96f2a-565d-4aea-90bf-6a35826d785b",
+      "uuid": "21b104bb-e8f1-4646-a78e-dc938cebd490",
       "type": "domain",
       "value": "drviniciusterra.com.br",
       "category": "Network activity",
@@ -282,7 +282,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "97e1b082-5906-46c3-bac1-676b769f6312",
+      "uuid": "dfbf11fc-55e0-4aa4-b08c-e2571de1ee58",
       "type": "domain",
       "value": "dusangerzicgera.com",
       "category": "Network activity",
@@ -290,7 +290,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "3a57891e-6a4a-4f0f-bc08-3e323db82117",
+      "uuid": "e0900a04-31d8-4976-898b-d67dc692f985",
       "type": "domain",
       "value": "earthmach.co.za",
       "category": "Network activity",
@@ -298,7 +298,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "1a49309e-5562-42cb-90de-700eec0830df",
+      "uuid": "a7367f44-be74-4d6b-8919-10fec7784151",
       "type": "domain",
       "value": "educacionsanvicentefundacion.com",
       "category": "Network activity",
@@ -306,7 +306,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "72bd9a20-d49c-4be0-8585-7d75108d48e8",
+      "uuid": "9ab9ae0d-c5df-4938-afdc-a54aac70adbe",
       "type": "domain",
       "value": "erp.pinaken.com",
       "category": "Network activity",
@@ -314,7 +314,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "d4bb3be1-48f7-45a2-ac78-ca2c6dfcf4f1",
+      "uuid": "f910d3d7-ed12-4caa-a351-e4ba8811a587",
       "type": "domain",
       "value": "wp.eryaz.net",
       "category": "Network activity",
@@ -322,7 +322,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "f6ae561b-2a95-49e1-a799-3e67ae1eb47f",
+      "uuid": "04a60a85-7693-4e45-897b-a62e41347c32",
       "type": "domain",
       "value": "evashopping.thietkewebsitechuanseo.com",
       "category": "Network activity",
@@ -330,7 +330,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "2f1bee77-e6d8-4dbb-9260-407b7b7b8527",
+      "uuid": "bcaacfdc-70eb-489a-9d70-fe8e0eed7cee",
       "type": "domain",
       "value": "ewingconsulting.com",
       "category": "Network activity",
@@ -338,7 +338,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "eb808310-058c-44b4-bf86-422f654e22e9",
+      "uuid": "6262ae3f-df32-4d85-ab02-46a2a0cc6b30",
       "type": "domain",
       "value": "fashionbyprincessmelodicaah.com",
       "category": "Network activity",
@@ -346,7 +346,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "bdf84bef-bb39-4ae0-b66d-29ec9fae2d99",
+      "uuid": "c91caf45-162c-4d64-839d-dbd9d3262abf",
       "type": "domain",
       "value": "fisika.mipa.uns.ac.id",
       "category": "Network activity",
@@ -354,7 +354,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "a2dad84f-57ee-48d5-9d69-90cfb797a3e7",
+      "uuid": "7d46407f-7e06-4758-9e51-dbe026163af5",
       "type": "domain",
       "value": "fontecmobile.com",
       "category": "Network activity",
@@ -362,7 +362,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "78fce3be-7933-4fc1-a1c4-b1273ec0568f",
+      "uuid": "ed11ece2-72b1-4529-9b06-1a9b40e972d0",
       "type": "domain",
       "value": "francite.net",
       "category": "Network activity",
@@ -370,7 +370,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "2c155707-b912-4ec0-a615-629ed286269e",
+      "uuid": "1ac5ca31-268c-4010-af3d-381fd5140dd5",
       "type": "domain",
       "value": "frascona.com.ar",
       "category": "Network activity",
@@ -378,7 +378,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "ceb53cd6-c7b0-4ff4-a07a-9c8ac1c54816",
+      "uuid": "2414e090-37d2-4e71-b914-113c36bb72ca",
       "type": "domain",
       "value": "gedebey-tvradio.info",
       "category": "Network activity",
@@ -386,7 +386,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "306bb47e-a430-4d88-a02b-8ae71a35a253",
+      "uuid": "0b30adfd-1b08-4a0e-a5ce-462a4b560447",
       "type": "domain",
       "value": "greenlizard.co.za",
       "category": "Network activity",
@@ -394,7 +394,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "6c6333e0-38f7-489d-b4f6-28ba2858a261",
+      "uuid": "2a9517fe-b172-4279-9867-43a5d20a8c94",
       "type": "domain",
       "value": "greycoconut.com",
       "category": "Network activity",
@@ -402,7 +402,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "bf13cc2b-57c0-4b0a-a1d6-d186aa547f94",
+      "uuid": "038169d7-e6a0-47a9-b958-a5fc6e21cd83",
       "type": "domain",
       "value": "grouprobust.com",
       "category": "Network activity",
@@ -410,7 +410,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "cc8498ab-f174-41f6-af4b-d60601c345ae",
+      "uuid": "d672b991-c776-4273-8796-d2a008219141",
       "type": "domain",
       "value": "haircutbar.com",
       "category": "Network activity",
@@ -418,7 +418,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "37c30858-cf8d-438f-b152-4fd78cad87de",
+      "uuid": "3091535b-5454-47e3-be8d-8bff61cc05cd",
       "type": "domain",
       "value": "harleyqueretaro.com",
       "category": "Network activity",
@@ -426,7 +426,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "0e6ddd96-5158-41ed-a631-f59a076bb666",
+      "uuid": "64d64133-0d76-4480-b735-3cc4657a5a97",
       "type": "domain",
       "value": "helmprecision.com",
       "category": "Network activity",
@@ -434,7 +434,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "8fc460c2-0e10-4039-9c89-900ac91cd4e6",
+      "uuid": "7b27fd94-263b-4ebe-afeb-0c91a62f7ee8",
       "type": "domain",
       "value": "jimlowry.com",
       "category": "Network activity",
@@ -442,7 +442,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "78c51eed-3e47-49ac-be85-0efdceb527dc",
+      "uuid": "d6ec18c9-ec68-44cc-980b-0fbbdd409a97",
       "type": "domain",
       "value": "kairaliagencies.com",
       "category": "Network activity",
@@ -450,7 +450,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "8da0ad38-957d-4ba0-bcdf-9a913a78deab",
+      "uuid": "cf8aeaf6-392a-4549-93f0-d8f7db2c9936",
       "type": "domain",
       "value": "kevinley.com",
       "category": "Network activity",
@@ -458,7 +458,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "75d5b081-aea6-478e-80f1-7f9e57af20f0",
+      "uuid": "04ee93f2-ab18-4726-85bf-d0fd1728469e",
       "type": "domain",
       "value": "nellydwiputri.co.id",
       "category": "Network activity",
@@ -466,7 +466,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "46f4c4af-043e-450f-a56f-82261e24c4f4",
+      "uuid": "a3e2619a-527c-4546-b360-d715944f353c",
       "type": "domain",
       "value": "peicovich.com",
       "category": "Network activity",
@@ -474,7 +474,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c29a0744-a65f-432a-aaed-6a9b6474c830",
+      "uuid": "fda93003-8e2b-4289-bf1b-8546b1e73844",
       "type": "domain",
       "value": "starluckycentre.com",
       "category": "Network activity",
@@ -482,7 +482,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "bf8c2e08-a886-4492-a049-660886e316b2",
+      "uuid": "c3ebebaf-3d86-4384-a0b1-c581bb47660f",
       "type": "domain",
       "value": "weboculta.com",
       "category": "Network activity",
@@ -490,7 +490,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "2705f2d6-8417-4780-aa29-7db40cbca1d0",
+      "uuid": "4b60ce27-1213-4af3-aab4-fe1e6f1e869c",
       "type": "domain",
       "value": "wmwifbajxxbcxmucxmlc.com",
       "category": "Network activity",
@@ -498,7 +498,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "d4753254-5f79-4563-8f57-12de18877757",
+      "uuid": "3691f9ee-f702-408b-9abf-4fd382630125",
       "type": "domain",
       "value": "www.aseguradosaldia.com",
       "category": "Network activity",
@@ -506,7 +506,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "5b02311b-db3b-427b-a1a1-11b6cff590cb",
+      "uuid": "185e0694-e7c7-418d-9bae-61ede3046205",
       "type": "domain",
       "value": "www.berekethaber.com",
       "category": "Network activity",
@@ -514,7 +514,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "4f1e650a-a2fb-4ed0-b34a-6e2f3b4389f5",
+      "uuid": "09b17cd5-4843-48cd-a156-a5c2d5dc740f",
       "type": "domain",
       "value": "www.boraintercambios.com.br",
       "category": "Network activity",
@@ -522,7 +522,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "5399054d-0142-4904-af71-674389c3b636",
+      "uuid": "c69be20e-e8a7-4028-8341-e8ebf710b586",
       "type": "domain",
       "value": "www.cicerosd.com",
       "category": "Network activity",
@@ -530,7 +530,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "8905cbda-c590-4b48-846c-7b9ae178e7dd",
+      "uuid": "d95bcfc3-14c7-49ba-afd3-c0bf210e5245",
       "type": "domain",
       "value": "www.clasite.com",
       "category": "Network activity",
@@ -538,7 +538,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "3d82de59-5316-41b5-ab98-81d6ba9bdc22",
+      "uuid": "09cad1d7-8a6a-44c6-a47a-d1f283997580",
       "type": "domain",
       "value": "www.clinicaportalpsicologia.com.br",
       "category": "Network activity",
@@ -546,7 +546,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "17a892e1-6ed5-48e2-a4a6-327c76c6c943",
+      "uuid": "b8e6f786-b959-426a-a710-b9eb9e34bb89",
       "type": "domain",
       "value": "www.concivilpa.com.py",
       "category": "Network activity",
@@ -554,7 +554,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "12b8f2cf-e761-48ed-b2a3-40954652a180",
+      "uuid": "b5082d7d-77af-4b23-b715-cfcf6483ab77",
       "type": "domain",
       "value": "www.controlnetworks.com.au",
       "category": "Network activity",
@@ -562,7 +562,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "92707890-1ce9-4421-be59-45bcdf9247da",
+      "uuid": "76c81c96-d2e4-4430-9041-6728b9f39b9b",
       "type": "domain",
       "value": "www.dl5.zahra-media.ir",
       "category": "Network activity",
@@ -570,7 +570,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c2f3362d-30d8-46ff-b156-2f62cea2b5fd",
+      "uuid": "2031f23c-17d0-4cd0-9e1b-01daac0d7e9e",
       "type": "domain",
       "value": "www.drcno.sk",
       "category": "Network activity",
@@ -578,7 +578,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c47a5af4-dd36-4c4d-8961-be67dfa64250",
+      "uuid": "f72138d7-8914-40cb-a32b-4db39826ebf7",
       "type": "domain",
       "value": "www.druck-grafik.at",
       "category": "Network activity",
@@ -586,7 +586,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "f91b6891-6900-4f2a-a435-4462eef36a1e",
+      "uuid": "f19cb9d9-78d3-4766-b77b-1ec652c76e81",
       "type": "domain",
       "value": "www.ergbox.com",
       "category": "Network activity",
@@ -594,7 +594,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "0f4768d1-c986-47ee-93ca-3305ba817e8d",
+      "uuid": "91fb6ba5-5baa-46a1-ab5f-a12efac29384",
       "type": "domain",
       "value": "www.escueladecinemza.com.ar",
       "category": "Network activity",
@@ -602,7 +602,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "7a1e623a-be87-4458-a4f8-42a577528c23",
+      "uuid": "dbbf53fc-273a-4188-abb0-f0ff93a3a85c",
       "type": "domain",
       "value": "www.evosp.com.br",
       "category": "Network activity",
@@ -610,7 +610,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "825c2618-3ff6-4887-bd17-47463d77acbe",
+      "uuid": "7a7ef0cf-c1f9-4ffa-abec-86a91e9cc347",
       "type": "domain",
       "value": "www.fcstradesolutions.com",
       "category": "Network activity",
@@ -618,7 +618,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "6ca41651-9a1f-4efe-bada-fa98ddf85b27",
+      "uuid": "bdd2f4f4-060c-4624-baa9-3e1652b981eb",
       "type": "domain",
       "value": "www.forensisbilisim.com",
       "category": "Network activity",
@@ -626,7 +626,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "0e40b255-a030-4fec-ac95-29018a139048",
+      "uuid": "1b70b561-40c7-4d33-91c6-2a35ac92f153",
       "type": "domain",
       "value": "www.fullwiz.com.br",
       "category": "Network activity",
@@ -634,7 +634,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "9f8c3d8e-f059-4252-8b62-acf4f8bf468c",
+      "uuid": "ef7f9e89-12f1-4ac0-ac17-d803292a7d4b",
       "type": "domain",
       "value": "www.guedala.com.br",
       "category": "Network activity",
@@ -642,7 +642,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "a77c2eaf-81b7-4c08-93d1-c3cfd155202f",
+      "uuid": "040bd9d8-c9b0-4400-9562-febf6c499715",
       "type": "domain",
       "value": "www.hayalkatibi.com",
       "category": "Network activity",
@@ -650,7 +650,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "9c47d60f-f5de-4c54-87b0-f861655e9ece",
+      "uuid": "f0a81956-5958-4037-b4e7-ef7e0de0f2d2",
       "type": "domain",
       "value": "www.joburg.org.za",
       "category": "Network activity",
@@ -658,7 +658,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "f713c744-c90e-4473-9523-dec6bb037b6b",
+      "uuid": "7bf0edd2-9fe4-40dd-b3df-3d44e8b7cdf5",
       "type": "domain",
       "value": "www.lakor.ch",
       "category": "Network activity",
@@ -666,7 +666,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "816a0195-9238-46b2-95fa-0552c8e2c08f",
+      "uuid": "bb3bf383-7031-4b7a-ae36-0fbbbee15dc5",
       "type": "domain",
       "value": "www.llev.com.br",
       "category": "Network activity",
@@ -674,7 +674,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e3666425-c99f-47fd-957d-fc3be53235e1",
+      "uuid": "e0dd459d-defc-475f-821d-0f0b2d0bce4b",
       "type": "domain",
       "value": "www.megakonferans.com",
       "category": "Network activity",
@@ -682,7 +682,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "3856cb32-3f57-4f1b-953f-dd0e1b6a0d9d",
+      "uuid": "29de5d1a-c7b1-49de-86a2-83994805cbc4",
       "type": "domain",
       "value": "www.mobiles-photostudio.com",
       "category": "Network activity",
@@ -690,7 +690,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "8d291329-c249-420a-8f52-64ea4144e6c9",
+      "uuid": "1991a212-2927-49c6-89a1-89d6dd50743e",
       "type": "domain",
       "value": "www.nomatenalmono.org",
       "category": "Network activity",
@@ -698,7 +698,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "b436786a-5013-4099-8135-3f1354cbe1ac",
+      "uuid": "b89af96c-928e-4f77-b0b8-df5ae6b05e3f",
       "type": "domain",
       "value": "www.olsav.sk",
       "category": "Network activity",
@@ -706,7 +706,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "0c5afac9-6f43-4d88-93fa-5d3750464796",
+      "uuid": "54e21153-4b26-419f-9dd1-14e415c87c6a",
       "type": "domain",
       "value": "www.visionsfantastic.com",
       "category": "Network activity",
@@ -714,7 +714,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "feeff88b-8d6d-4b16-9918-e96512dc272d",
+      "uuid": "d5732ac5-50f9-4c4e-967d-95af98918ac1",
       "type": "domain",
       "value": "www.zvdesign.info",
       "category": "Network activity",
@@ -722,7 +722,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "373b272a-9fa7-4a19-8f7a-1c21aff80409",
+      "uuid": "c53228ba-9031-441b-b135-1458238bb42e",
       "type": "domain",
       "value": "ybp.rpmediateam.com",
       "category": "Network activity",
@@ -730,7 +730,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "3fbbe52a-b795-409e-a30a-b95bdf1b1e1d",
+      "uuid": "5d549c77-90f7-4bc0-b1f3-6d55e0872c06",
       "type": "ip-dst",
       "value": "62.171.178.147",
       "category": "Network activity",
@@ -738,7 +738,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "1f678c5b-aef1-4d1a-8f3c-857ac58fe925",
+      "uuid": "4e40e6af-47ad-42a5-a3bf-613e64a34707",
       "type": "ip-dst",
       "value": "54.37.106.167",
       "category": "Network activity",
@@ -746,7 +746,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "598e00de-6d3f-43cd-89ba-0bcb4320b35e",
+      "uuid": "4e8c074c-2da3-4ee9-868d-c58c8591990c",
       "type": "ip-dst",
       "value": "78.47.204.80",
       "category": "Network activity",
@@ -754,7 +754,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "3f7468fc-571b-4012-9c5f-626f89937009",
+      "uuid": "ac0cdb7d-4ba0-4737-95cf-f6f23d4780dd",
       "type": "ip-dst",
       "value": "202.28.34.99",
       "category": "Network activity",
@@ -762,7 +762,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "1c501d92-4bd6-49f2-bbc7-e28a52eaaae0",
+      "uuid": "8b6bce5b-a74a-4224-b8c7-3336345d576b",
       "type": "ip-dst",
       "value": "210.57.209.142",
       "category": "Network activity",
@@ -770,7 +770,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "5aeb9da4-0fba-4e54-b7ff-76b7f3eff989",
+      "uuid": "30a523b1-8be8-40a5-8ee8-cfbfe4339168",
       "type": "ip-dst",
       "value": "118.98.72.86",
       "category": "Network activity",
@@ -778,7 +778,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "017cd34f-867f-477e-a80e-5c8977e49de0",
+      "uuid": "2b73c46b-a9c2-4dc7-8d6a-e2504496f681",
       "type": "ip-dst",
       "value": "37.44.244.177",
       "category": "Network activity",
@@ -786,7 +786,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "58f4adfd-471a-4959-93b0-97643a3373f9",
+      "uuid": "0d3e0a25-c347-48f2-9f61-ec26a204c038",
       "type": "ip-dst",
       "value": "196.44.98.190",
       "category": "Network activity",
@@ -794,7 +794,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "cc28dc64-1de3-4dbc-bbe5-d99f5c1f0c14",
+      "uuid": "c54248be-0037-4422-8848-c30cea9e9bbe",
       "type": "ip-dst",
       "value": "195.77.239.39",
       "category": "Network activity",
@@ -802,7 +802,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "63e9c0ee-e3c6-4697-b4b0-151cea8a1d5e",
+      "uuid": "8d13e373-eb52-4092-94cd-3faaa77abeb9",
       "type": "ip-dst",
       "value": "139.196.72.155",
       "category": "Network activity",
@@ -810,7 +810,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "ea0be487-37f3-4802-bd52-8f465dc4e996",
+      "uuid": "6bf0c944-8901-41c5-8395-58408c86b34c",
       "type": "ip-dst",
       "value": "54.37.228.122",
       "category": "Network activity",
@@ -818,7 +818,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "8a6e407c-e9d4-4b16-b49c-d785aa29d265",
+      "uuid": "c6a1663e-4d47-40e8-a178-3fc41e56911c",
       "type": "ip-dst",
       "value": "202.134.4.210",
       "category": "Network activity",
@@ -826,7 +826,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c406e3a6-ecd0-463d-911a-bda70ae22409",
+      "uuid": "5f44908f-64f9-4c86-8a8a-b849a86a448c",
       "type": "ip-dst",
       "value": "85.214.67.203",
       "category": "Network activity",
@@ -834,7 +834,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "1c755d63-80a5-4e48-891d-f12fea747bc6",
+      "uuid": "970ea3dd-2ee2-4f00-8913-20341140df86",
       "type": "ip-dst",
       "value": "93.104.209.107",
       "category": "Network activity",
@@ -842,7 +842,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "93ef3ed8-b065-4e7f-8506-12941bb21275",
+      "uuid": "6b27d8a8-a3a5-4b9b-b235-563ae5384b3b",
       "type": "ip-dst",
       "value": "88.217.172.165",
       "category": "Network activity",
@@ -850,7 +850,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "faa57b78-b63a-4a75-b54e-1a678090f924",
+      "uuid": "56856579-4b08-47c9-90b0-811b6cfaee0e",
       "type": "ip-dst",
       "value": "103.41.204.169",
       "category": "Network activity",
@@ -858,7 +858,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "4b9b066e-7f23-4d52-bab2-dfdaf72e5df9",
+      "uuid": "82c6caad-7f32-4e0f-8418-4230dea58cea",
       "type": "ip-dst",
       "value": "87.106.97.83",
       "category": "Network activity",
@@ -866,7 +866,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "db6935b9-049d-458d-8925-5b866f272bfa",
+      "uuid": "71a4d22e-7b90-4b14-bea1-b80d96dd36ca",
       "type": "ip-dst",
       "value": "85.25.120.45",
       "category": "Network activity",
@@ -874,7 +874,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "a83745a7-c96f-4fa3-8d06-9db2ea1f0d85",
+      "uuid": "dd2adb37-fc4b-4979-b67b-be5dd9b35603",
       "type": "ip-dst",
       "value": "202.29.239.162",
       "category": "Network activity",
@@ -882,7 +882,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "ea9cd3e6-d2ca-435c-8780-2a324340628c",
+      "uuid": "2226b654-a454-4dd2-8117-306df36370b7",
       "type": "ip-dst",
       "value": "36.67.23.59",
       "category": "Network activity",
@@ -890,7 +890,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "538d1c7c-09fa-46e4-b46f-125a9557da15",
+      "uuid": "32d00f11-004b-4999-89ee-80d57f1284a8",
       "type": "ip-dst",
       "value": "175.126.176.79",
       "category": "Network activity",
@@ -898,7 +898,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "f397d6ba-60f1-4405-aa63-489de745bf85",
+      "uuid": "13a27d24-d68c-4ebd-b6e4-2f18533d5171",
       "type": "ip-dst",
       "value": "103.56.149.105",
       "category": "Network activity",
@@ -906,7 +906,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "1c5b96ca-c305-44be-a32a-a8fe39f4ec77",
+      "uuid": "982f8ef6-a4a7-4588-a429-657580140270",
       "type": "ip-dst",
       "value": "178.62.112.199",
       "category": "Network activity",
@@ -914,7 +914,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "25f59c8b-f755-4a2e-b2f0-10a38d68a107",
+      "uuid": "dc84725e-12f8-4ba6-b41e-d93d16ffc0d1",
       "type": "ip-dst",
       "value": "104.248.225.227",
       "category": "Network activity",
@@ -922,7 +922,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "05554fb0-84a9-4b90-8358-71fa9f35f962",
+      "uuid": "602db94a-604f-447b-90a7-851564df59ef",
       "type": "ip-dst",
       "value": "188.225.32.231",
       "category": "Network activity",
@@ -930,7 +930,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "cbe9b10b-b68c-48b1-bec8-48654e3de239",
+      "uuid": "42f45b64-2ea1-4ac2-8a06-12393ff3f36e",
       "type": "ip-dst",
       "value": "103.85.95.4",
       "category": "Network activity",
@@ -938,7 +938,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "36a059de-cb35-4f10-9fa8-09873ca12ddb",
+      "uuid": "cd11ef87-acb9-494d-bd33-6c166aa8eb09",
       "type": "ip-dst",
       "value": "104.244.79.94",
       "category": "Network activity",
@@ -946,7 +946,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "bb59b1f2-52ce-41ac-a5d3-0ed0f9ed2e25",
+      "uuid": "0a442eac-5a7d-48a7-bec5-04a94190ac22",
       "type": "ip-dst",
       "value": "157.230.99.206",
       "category": "Network activity",
@@ -954,7 +954,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c6d602ff-0fa7-41a7-9ad0-b3289635db1b",
+      "uuid": "45fa74a5-dafa-4527-9c7b-7f727d3405ce",
       "type": "ip-dst",
       "value": "103.126.216.86",
       "category": "Network activity",
@@ -962,7 +962,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e1f7ec83-6df0-4400-ada0-e92c997d754e",
+      "uuid": "2afe1ea0-f571-4533-b3d4-f1a5d7fe42a7",
       "type": "ip-dst",
       "value": "157.245.111.0",
       "category": "Network activity",
@@ -973,5 +973,6 @@
   "Orgc": {
     "name": "Infoblox",
     "orgc": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
-  }
+  },
+  "info": "emotet_cta_20221006_iocs"
 }

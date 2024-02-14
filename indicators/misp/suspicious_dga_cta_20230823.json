@@ -1,8 +1,8 @@
 {
-  "uuid": "885f01fc-624f-4986-a234-260c508b382c",
+  "uuid": "4b740bcf-2386-4bf8-ac5a-77caef4a3470",
   "Attribute": [
     {
-      "uuid": "ba2f2bb3-36bd-476d-a838-de4e2644e313",
+      "uuid": "4845f138-1a7d-4f9b-8d20-e04d27adb892",
       "type": "domain",
       "value": "aaaaa655.com",
       "category": "Network activity",
@@ -10,7 +10,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "fad92927-50a0-42bf-b7ca-5830164f6a99",
+      "uuid": "46f0b984-2063-4015-82ba-1e32ac0f3d71",
       "type": "domain",
       "value": "uu5512uu.com",
       "category": "Network activity",
@@ -18,7 +18,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "7d16a34a-17ed-4f7b-8978-46457a48dffa",
+      "uuid": "2014d1f9-2dab-4868-9653-ef6ad3218598",
       "type": "domain",
       "value": "uu2722uu.com",
       "category": "Network activity",
@@ -26,7 +26,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "7f97bb9c-c177-49d4-a8eb-a6aa460de56b",
+      "uuid": "11bf6c77-eb61-4b2d-8827-b184aa0e4997",
       "type": "domain",
       "value": "aaaaa866.com",
       "category": "Network activity",
@@ -34,7 +34,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e4af7583-0acd-444b-8c56-068a186840b7",
+      "uuid": "ba7890ca-94a9-48e9-9cac-b87797329805",
       "type": "domain",
       "value": "aaaaa366.com",
       "category": "Network activity",
@@ -42,7 +42,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "9d6ae5ef-d11d-4637-acd1-b9008dd643a3",
+      "uuid": "5db4040e-4bfd-4f80-9649-b2914725a75e",
       "type": "domain",
       "value": "aaaaa13677.com",
       "category": "Network activity",
@@ -50,7 +50,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "46978c88-f3ae-471c-959b-19253f369f5d",
+      "uuid": "20a1869a-071b-4764-98e7-8cdc660f9bd5",
       "type": "domain",
       "value": "bbbbb13677.com",
       "category": "Network activity",
@@ -58,7 +58,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "9a1bea2c-e33a-43c0-a1d3-e1c621b56365",
+      "uuid": "8483fe4d-cf94-4688-8a10-c36e62765d6c",
       "type": "domain",
       "value": "ccccc13677.com",
       "category": "Network activity",
@@ -66,7 +66,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "7eea2ded-7021-4416-a8c2-5ab9e974cb17",
+      "uuid": "b4cd4911-fe58-4d53-af29-25f574cc11fc",
       "type": "domain",
       "value": "ddddd13677.com",
       "category": "Network activity",
@@ -74,7 +74,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "878d0691-f47f-4ac8-8145-d9ebaa706714",
+      "uuid": "e1c04cb7-5cc6-4c3b-ad73-77a1d3225ba7",
       "type": "domain",
       "value": "eeeee13677.com",
       "category": "Network activity",
@@ -82,7 +82,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e0ebd110-1d54-4b26-b405-c985671d4cfd",
+      "uuid": "1efb6292-1d5a-490e-b600-0b2e4d9c29d2",
       "type": "domain",
       "value": "fffff13677.com",
       "category": "Network activity",
@@ -90,7 +90,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "37b91354-6a27-4de6-8a72-66d0f1c4d3a2",
+      "uuid": "add26c71-bc41-4d32-8a02-7d7bc1005377",
       "type": "domain",
       "value": "ggggg13677.com",
       "category": "Network activity",
@@ -98,7 +98,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "2cb825eb-e099-44f2-948e-b2614c387af4",
+      "uuid": "9eac9e9c-7e19-4058-8f2d-be9dfaa82ce6",
       "type": "domain",
       "value": "hhhhh13677.com",
       "category": "Network activity",
@@ -106,7 +106,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e52210cb-0bca-4ef0-a1cc-b816de36957c",
+      "uuid": "553003d6-0705-4abe-a903-109ba279f44a",
       "type": "domain",
       "value": "iiiii13677.com",
       "category": "Network activity",
@@ -114,7 +114,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "f78a6c17-25fa-496a-a244-6a8487a39d9c",
+      "uuid": "0b61676c-763c-4747-a93f-6aa2e2a29d86",
       "type": "domain",
       "value": "jjjjj13677.com",
       "category": "Network activity",
@@ -122,7 +122,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "30d7e2ae-433e-40d9-8f00-5419301e2a8a",
+      "uuid": "ae33aaef-4cb3-45a8-b0bb-858f617f1684",
       "type": "domain",
       "value": "kkkkk13677.com",
       "category": "Network activity",
@@ -130,7 +130,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "bc8f2e76-ffe1-45e9-a384-43df1919d1cd",
+      "uuid": "116e3993-d933-42c8-b4a1-4160a8771c21",
       "type": "domain",
       "value": "lllll13677.com",
       "category": "Network activity",
@@ -138,7 +138,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "6950a48c-7ac9-42b3-9fba-56c7222eec21",
+      "uuid": "cec41ad7-85cd-456f-9b93-7e78f4323fc8",
       "type": "domain",
       "value": "mmmmm13677.com",
       "category": "Network activity",
@@ -146,7 +146,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c768cd30-5866-4bb8-9f68-ac745b5f8c8d",
+      "uuid": "c123fc98-0d6d-4136-a5c1-72f629263538",
       "type": "domain",
       "value": "nnnnn13677.com",
       "category": "Network activity",
@@ -154,7 +154,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "3e072c19-062e-46ba-b700-6e843826c9fd",
+      "uuid": "eef1028d-ca1e-4f59-b642-5165d2ef4ffa",
       "type": "domain",
       "value": "ooooo13677.com",
       "category": "Network activity",
@@ -162,7 +162,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "ef71ca72-99f5-49a7-93a7-32e882fbdc16",
+      "uuid": "019993c3-695e-4bbb-acd8-f2484e90dc75",
       "type": "domain",
       "value": "ppppp13677.com",
       "category": "Network activity",
@@ -170,7 +170,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "b289f10a-ca28-4670-8b90-888b8b49af14",
+      "uuid": "ba423f02-4337-47e8-9813-f3e89514bc80",
       "type": "domain",
       "value": "qqqqq13677.com",
       "category": "Network activity",
@@ -178,7 +178,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "2d812a02-02b0-4c00-9296-74471f03f5db",
+      "uuid": "f4a4c9a8-65a7-458e-9de8-12a90e6f3b6e",
       "type": "domain",
       "value": "rrrrr13677.com",
       "category": "Network activity",
@@ -186,7 +186,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "bcc8512c-8857-4589-8cbc-95b958a677b7",
+      "uuid": "41546512-499e-4001-bcd7-9d6d730faefe",
       "type": "domain",
       "value": "sssss13677.com",
       "category": "Network activity",
@@ -194,7 +194,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "4b805ba0-3f65-4a8b-ad92-881312ba0c6d",
+      "uuid": "0c1018a3-81dd-4b3f-8d7b-0e890272ec2b",
       "type": "domain",
       "value": "ttttt13677.com",
       "category": "Network activity",
@@ -202,7 +202,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "aade2c90-f259-48e2-a8df-eaae9f6781a4",
+      "uuid": "840c5360-a145-421f-bd5e-ccdb0b7a22e1",
       "type": "domain",
       "value": "uuuuu13677.com",
       "category": "Network activity",
@@ -210,7 +210,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "1e9dee84-bda4-458a-bafc-03facb404cbe",
+      "uuid": "95e58a9d-e7e5-47ad-ad82-ecc7f6dc8d62",
       "type": "domain",
       "value": "vvvvv13677.com",
       "category": "Network activity",
@@ -218,7 +218,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "fcaad48d-69d1-4dbb-af67-e8b62c55ba23",
+      "uuid": "d467cd1b-ff79-4508-a5b9-610c6a976e2c",
       "type": "domain",
       "value": "wwwww13677.com",
       "category": "Network activity",
@@ -226,7 +226,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "46aea842-2b63-4392-99b0-5e33c4c42bdc",
+      "uuid": "668cf639-1890-407c-8cdd-b59ca635badf",
       "type": "domain",
       "value": "xxxxx13677.com",
       "category": "Network activity",
@@ -234,7 +234,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "95b2cd4a-64c6-4f85-998c-01fed8e2dba8",
+      "uuid": "f3b6deca-e77a-4dff-9fb5-93a88038c6b9",
       "type": "domain",
       "value": "yyyyy13677.com",
       "category": "Network activity",
@@ -242,7 +242,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "5ee7f0d5-537d-40a1-b364-276260ebde91",
+      "uuid": "accb9096-d4da-4768-898a-29683019fd31",
       "type": "domain",
       "value": "zzzzz13677.com",
       "category": "Network activity",
@@ -250,7 +250,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "51451df6-ba7e-402d-9ec9-881b95678c2e",
+      "uuid": "f820220f-0dbd-4c03-8bc9-4028d09a9910",
       "type": "domain",
       "value": "aaaaa558.com",
       "category": "Network activity",
@@ -258,7 +258,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e85f2e3c-ea52-4d17-bb11-632fe1526232",
+      "uuid": "00d8cad7-052c-40c0-a3af-98218cbb8797",
       "type": "domain",
       "value": "aaaaa288.com",
       "category": "Network activity",
@@ -266,7 +266,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "6f08a200-2e91-45e5-bfd5-93fa0443df57",
+      "uuid": "fbf308c6-0dbb-4070-b7a7-2b8fe0ab6adc",
       "type": "domain",
       "value": "aaaaa266.com",
       "category": "Network activity",
@@ -274,7 +274,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e2376ef5-370e-4165-92a1-3f260824f2d1",
+      "uuid": "1f845a75-4b5d-47d3-9366-0c7a64d05e18",
       "type": "domain",
       "value": "aaaaa299.com",
       "category": "Network activity",
@@ -282,7 +282,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "41b3fd20-c96b-4ae7-9465-8a1ec466ff6e",
+      "uuid": "f12c6fe7-22e2-4b91-bb24-843981c76960",
       "type": "domain",
       "value": "aaaaa388.com",
       "category": "Network activity",
@@ -290,7 +290,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "9371aa5d-16b3-4b26-9f3c-c606766d7bac",
+      "uuid": "9265efe3-cbd5-4dc2-bdcf-92b01efcb440",
       "type": "domain",
       "value": "aaaaa399.com",
       "category": "Network activity",
@@ -298,7 +298,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "40d523c7-f68d-4051-b3fc-ffcbf16eb9ea",
+      "uuid": "3b88d9f5-4a4b-49a5-96c3-1475120fad4a",
       "type": "domain",
       "value": "aaaaa556.com",
       "category": "Network activity",
@@ -306,7 +306,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "f44ef86b-4fcc-4ade-99cc-591870a14ca9",
+      "uuid": "be2e9919-4bde-4fb1-a405-b33fbe7dcde4",
       "type": "domain",
       "value": "aaaaa559.com",
       "category": "Network activity",
@@ -314,7 +314,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "4262f818-c56f-44d6-bff1-716660d3b2a2",
+      "uuid": "780b2697-10e4-425b-b613-2f067c009dfe",
       "type": "domain",
       "value": "aaaaa566.com",
       "category": "Network activity",
@@ -322,7 +322,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c2e05e45-de59-4ce0-b6b9-3a7507ecb1fa",
+      "uuid": "6b98e403-ed6a-436f-88d8-9fa9cec4e693",
       "type": "domain",
       "value": "aaaaa661.com",
       "category": "Network activity",
@@ -330,7 +330,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "fc277f74-14b0-4cda-b035-736c828d57f2",
+      "uuid": "3697e4d8-659c-4277-a8f1-f8f1052fd1e5",
       "type": "domain",
       "value": "aaaaa662.com",
       "category": "Network activity",
@@ -338,7 +338,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "ce504eea-cc3e-4d30-b18c-0bb52da2de00",
+      "uuid": "32e9e62a-b32c-4334-a387-ab338b997381",
       "type": "domain",
       "value": "aaaaa663.com",
       "category": "Network activity",
@@ -346,7 +346,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "674291c2-39fe-4500-a710-9bf9eabd4f26",
+      "uuid": "ac6dbf8a-e1d9-4f44-a282-765edf1b9221",
       "type": "domain",
       "value": "aaaaa666.com",
       "category": "Network activity",
@@ -354,7 +354,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "85dc1e4b-a989-4223-a54e-d2ebe561a983",
+      "uuid": "9288eb1f-2e65-40ee-9847-50bd48d27dce",
       "type": "domain",
       "value": "aaaaa669.com",
       "category": "Network activity",
@@ -362,7 +362,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "f8071596-1a7b-4cbe-af20-49df10aad49c",
+      "uuid": "132a63a4-9e4f-471d-aac1-19ae473eecef",
       "type": "domain",
       "value": "aaaaa699.com",
       "category": "Network activity",
@@ -370,7 +370,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "22abc335-d41f-4b1f-b0de-257ad55001e5",
+      "uuid": "7a0f9c50-065c-47c3-8a19-f66667c3ee39",
       "type": "domain",
       "value": "aaaaa766.com",
       "category": "Network activity",
@@ -378,7 +378,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "8cdc5942-865b-4477-a11e-f233fe3155ec",
+      "uuid": "57e57304-299b-43b9-a75f-c6007178da8e",
       "type": "domain",
       "value": "aaaaa799.com",
       "category": "Network activity",
@@ -386,7 +386,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "03abf489-8cfb-4cf3-af48-f7c8aa98e0f5",
+      "uuid": "20c8d33c-999f-4701-bd23-f34c64c8e265",
       "type": "domain",
       "value": "aaaaa855.com",
       "category": "Network activity",
@@ -394,7 +394,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "d1321748-33b7-4c52-b252-e5f42b8aac4e",
+      "uuid": "00b7910f-a842-4fc8-bf56-63573aa64cae",
       "type": "domain",
       "value": "aaaaa883.com",
       "category": "Network activity",
@@ -402,7 +402,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "6f9a4404-302e-49fa-bd34-c167421e0b91",
+      "uuid": "99f8e45c-7b05-4c6d-8ea5-7c5a157697c1",
       "type": "domain",
       "value": "aaaaa188.com",
       "category": "Network activity",
@@ -410,7 +410,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "06e500eb-1202-4623-a2c7-c184fcfa4fee",
+      "uuid": "1e2e9fed-fa95-4523-85f5-6024be65e6de",
       "type": "domain",
       "value": "aaaaa557.com",
       "category": "Network activity",
@@ -418,7 +418,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c7540493-73bd-4a89-96b7-485d176dccc2",
+      "uuid": "57342409-04f5-4f34-a517-d88b402427ec",
       "type": "domain",
       "value": "aaaaa588.com",
       "category": "Network activity",
@@ -426,7 +426,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "170dd66f-60e1-4cb0-8b9d-ef8cdbd87666",
+      "uuid": "d18f4204-2c92-47de-91d7-816f9e9ade4d",
       "type": "domain",
       "value": "aaaaa599.com",
       "category": "Network activity",
@@ -434,7 +434,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "8a772c3b-d963-4ee4-a511-9e461804aecf",
+      "uuid": "34784341-74b2-4b8d-aeb9-d4a521eec195",
       "type": "domain",
       "value": "aaaaa668.com",
       "category": "Network activity",
@@ -442,7 +442,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "be0ae371-d423-4770-9485-a59c795b4516",
+      "uuid": "b906ab55-1bad-4a9d-ac52-f8ea62cb13fc",
       "type": "domain",
       "value": "aaaaa882.com",
       "category": "Network activity",
@@ -450,7 +450,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "f54407e2-ed85-413e-bd83-774c49e77e85",
+      "uuid": "cc6683f3-dee4-4562-af6b-f01ec93fc6ce",
       "type": "domain",
       "value": "aaaaa885.com",
       "category": "Network activity",
@@ -458,7 +458,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "53f5c243-501f-4d4f-9c40-a3d8caa47ec3",
+      "uuid": "c2444ace-d0ad-4b89-a714-8346377dff25",
       "type": "domain",
       "value": "aaaaa886.com",
       "category": "Network activity",
@@ -466,7 +466,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "421873e5-8142-4365-aa8d-7cee7697d0a9",
+      "uuid": "7eb7e70c-57d7-4fd1-88e7-44177e9ee5ce",
       "type": "domain",
       "value": "tzxmhi.com",
       "category": "Network activity",
@@ -474,7 +474,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e3f03e0d-8a78-4ba2-9460-0a5a9f699ac4",
+      "uuid": "720e5275-4c81-4181-8762-431ddeaffe10",
       "type": "domain",
       "value": "qczuqw8.com",
       "category": "Network activity",
@@ -482,7 +482,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "8111a39f-b9a8-472d-b3d2-88aa07e3d12f",
+      "uuid": "80ec1cc0-06c3-40fa-9496-614970617373",
       "type": "domain",
       "value": "qbyyvg3.com",
       "category": "Network activity",
@@ -490,7 +490,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "f4e91234-7c53-46c5-96d5-507f7ac11aa4",
+      "uuid": "a9b6d1b2-7e8c-4331-bf99-40e4c24098f1",
       "type": "domain",
       "value": "ntvxbf7.com",
       "category": "Network activity",
@@ -498,7 +498,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "a1c66170-521d-4168-bd71-1f7091302152",
+      "uuid": "a798c4e8-a2c4-4e8d-baf9-5d6b8769fe89",
       "type": "domain",
       "value": "n5319.com",
       "category": "Network activity",
@@ -506,7 +506,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "b650abec-661f-4325-ad5c-821b8346f772",
+      "uuid": "abf3ea39-e9f7-448f-8268-6b4e65f2b582",
       "type": "domain",
       "value": "kqvkvc3.com",
       "category": "Network activity",
@@ -514,7 +514,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e70034da-f4e2-4f30-a134-f5e50f3a4867",
+      "uuid": "f6617d22-dd31-4f20-b241-65457f37d884",
       "type": "domain",
       "value": "kmrcum2.com",
       "category": "Network activity",
@@ -522,7 +522,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c23063f5-fd8d-4326-ae05-c9eb9e7b6497",
+      "uuid": "d863067b-f749-4637-ac3f-2875fd85dc63",
       "type": "domain",
       "value": "dfwskw7.com",
       "category": "Network activity",
@@ -530,7 +530,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e534f412-b87b-49d5-9e56-855556bec3c1",
+      "uuid": "5e6ff873-c3a2-41b2-800d-fe4ee57e9047",
       "type": "domain",
       "value": "79181531227.com",
       "category": "Network activity",
@@ -538,7 +538,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "11d11bc7-0c2f-46d0-b45c-80dafd1fbac5",
+      "uuid": "b54a82cd-e41f-484e-a303-a7a7542ae7a4",
       "type": "domain",
       "value": "5951835ccc.com",
       "category": "Network activity",
@@ -546,7 +546,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "4e92844b-21e0-47f8-9cdb-4eb5876a66f9",
+      "uuid": "57e416df-b787-430f-b356-37fd516c0a24",
       "type": "domain",
       "value": "hh778899hh.com",
       "category": "Network activity",
@@ -554,7 +554,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "0a3f0e88-6e3d-4a4c-9a79-dd707d62ea9b",
+      "uuid": "6c4a4250-8d08-472f-8beb-31e0a53d48b1",
       "type": "domain",
       "value": "gg778899gg.com",
       "category": "Network activity",
@@ -562,7 +562,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "f7910191-514b-441e-9ddc-875fe11a12ea",
+      "uuid": "61154ddd-2de8-4691-85fd-9c059b3b94f8",
       "type": "domain",
       "value": "bb778899bb.com",
       "category": "Network activity",
@@ -570,7 +570,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e955ad93-9e7e-4c15-9679-aabcfe169df9",
+      "uuid": "b3c06373-f540-4f0a-9135-b6e4fa8b8eb8",
       "type": "domain",
       "value": "aa559955aa.com",
       "category": "Network activity",
@@ -578,7 +578,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "6fa045c1-5333-4e68-9411-b21cb1292629",
+      "uuid": "659cf25b-0781-487b-afc9-da33358d1254",
       "type": "domain",
       "value": "aa665577aa.com",
       "category": "Network activity",
@@ -586,7 +586,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "d07f092f-8303-4b41-9e40-dd9dc19410c1",
+      "uuid": "61e904a0-808d-4101-99c8-38a08a856fd6",
       "type": "domain",
       "value": "95659331957.com",
       "category": "Network activity",
@@ -594,7 +594,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "95b071de-4a5b-4ec0-9c74-a9acf6394d89",
+      "uuid": "1c5df756-1e87-438e-90ab-a89ffd7b5ebf",
       "type": "domain",
       "value": "5336767ccc.com",
       "category": "Network activity",
@@ -602,7 +602,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "89d9de07-bebc-4fc3-9bd3-7b43f011d572",
+      "uuid": "644ca2c0-97dd-4edb-82a6-ec28caa74a9d",
       "type": "domain",
       "value": "585227ybn.com",
       "category": "Network activity",
@@ -610,7 +610,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "1c35f0ee-15ca-4865-89a1-71f5958d066a",
+      "uuid": "5f18e340-29ad-4021-8a07-f5ec6b3bed86",
       "type": "domain",
       "value": "dd12345zz.com",
       "category": "Network activity",
@@ -618,7 +618,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "58d4314a-040c-4c5f-8269-b2a72c39fae6",
+      "uuid": "c2d2bb71-a253-4749-a68b-955aa750c52d",
       "type": "domain",
       "value": "dd12345cc.com",
       "category": "Network activity",
@@ -626,7 +626,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "b6df78a4-fd94-45ed-9fb5-2cb8f3fe6117",
+      "uuid": "47df0e7d-8eef-4c6e-ac5a-381a61606ab2",
       "type": "domain",
       "value": "dd12345bb.com",
       "category": "Network activity",
@@ -634,7 +634,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "21b34d2a-0686-4038-beeb-3593da01136d",
+      "uuid": "78d813c5-8a5f-44fd-b83d-9dab1dfe3a0e",
       "type": "domain",
       "value": "cc12345yy.com",
       "category": "Network activity",
@@ -642,7 +642,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c62b148b-525a-40a3-9c74-da89418bf7a2",
+      "uuid": "3e514491-c8ff-4dd8-81e5-6d7a7ac54d60",
       "type": "domain",
       "value": "bb12345yy.com",
       "category": "Network activity",
@@ -650,7 +650,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "9f0c2823-6ded-422c-90bf-c15ee21f28a2",
+      "uuid": "10003625-e8d2-4ef4-9ad4-d94c70a4d900",
       "type": "domain",
       "value": "bb12345bb.com",
       "category": "Network activity",
@@ -658,7 +658,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "b7458c32-6e00-444b-ad4e-4e3d360a0391",
+      "uuid": "ecc45d0e-16ee-4a41-8c2d-15b9513a05e7",
       "type": "domain",
       "value": "935676yfc.com",
       "category": "Network activity",
@@ -666,7 +666,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e06350bd-e02d-44d8-8d37-f928cad5eb03",
+      "uuid": "44881aaa-1d45-445c-8a4a-60d9a58ea6ad",
       "type": "domain",
       "value": "dd12345aa.com",
       "category": "Network activity",
@@ -674,7 +674,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "ddf68892-a654-4316-a0ff-2e7a06ca901b",
+      "uuid": "ee318fbf-fb6d-4f85-b9bd-3a369be7456f",
       "type": "domain",
       "value": "n5632.com",
       "category": "Network activity",
@@ -682,7 +682,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "4531bc25-7e2a-4af0-9b90-9aa3349d8909",
+      "uuid": "d45383da-6493-43a3-80d5-e3a4c7b2cfd0",
       "type": "domain",
       "value": "ff12345aa.com",
       "category": "Network activity",
@@ -690,7 +690,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "b4e1f652-9db2-4ede-99b8-fdc837eb82d7",
+      "uuid": "70bcb33f-f2c5-490e-8710-c9a905fe5be7",
       "type": "domain",
       "value": "n8537.com",
       "category": "Network activity",
@@ -698,7 +698,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "75a29ebf-62ac-464e-bb91-36d27a0842f1",
+      "uuid": "12cad270-1a9d-45c2-b795-a899627743de",
       "type": "domain",
       "value": "8889519.com",
       "category": "Network activity",
@@ -706,7 +706,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "579f1c3a-82ef-4aac-abe3-100742111b05",
+      "uuid": "324d6f0f-0683-4750-af23-7305ee168f95",
       "type": "domain",
       "value": "aa12345yy.com",
       "category": "Network activity",
@@ -714,7 +714,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "91e795a3-6a6e-43a3-9c43-93ee771fa3ff",
+      "uuid": "8ab0ff5a-f580-43d3-bbf2-144983e14484",
       "type": "domain",
       "value": "aa12345xx.com",
       "category": "Network activity",
@@ -722,7 +722,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "b7dc0099-3a77-4556-98f5-8ee79ab98cb8",
+      "uuid": "2a72667f-e908-4a98-9a5d-65edecaea15f",
       "type": "domain",
       "value": "aa12345dd.com",
       "category": "Network activity",
@@ -730,7 +730,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "7a58af4e-a242-4e24-9ac0-9b02bea74c5b",
+      "uuid": "4b604a1a-50f5-4a31-aad8-3f86a4f9e420",
       "type": "domain",
       "value": "3718896ccc.com",
       "category": "Network activity",
@@ -738,7 +738,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "a43fe784-eb01-4f76-a727-d81c7e146501",
+      "uuid": "0f5b84e1-4bd0-4e94-b3a5-be6f83311813",
       "type": "domain",
       "value": "xox9226.com",
       "category": "Network activity",
@@ -746,7 +746,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c16fdf2a-f919-4fe6-8d21-9735411d70cc",
+      "uuid": "6387115f-a03f-4018-8de8-ab304f1e42d5",
       "type": "domain",
       "value": "jsoctn9.com",
       "category": "Network activity",
@@ -754,7 +754,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "9c7ca244-e174-47cc-b173-e0ec8defe6b8",
+      "uuid": "8dd3e379-99cf-49de-b016-f0b710b8dfbd",
       "type": "domain",
       "value": "99888aaa.com",
       "category": "Network activity",
@@ -762,7 +762,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "a279ab59-b782-4cee-8168-3e85d3b1c34e",
+      "uuid": "0139f1ad-8b9c-4b26-95d0-d62d01c41699",
       "type": "domain",
       "value": "897263tqs.com",
       "category": "Network activity",
@@ -770,7 +770,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "83462690-f2d8-4104-af15-4496616d9bcc",
+      "uuid": "6e9e0a9a-77c3-4eca-8dcb-31753968cdc9",
       "type": "domain",
       "value": "8823ddd.com",
       "category": "Network activity",
@@ -778,7 +778,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "bf6517bc-b000-4378-b75f-7f73d83a8ff2",
+      "uuid": "ee121c70-4b82-467d-998d-b7b58b06994a",
       "type": "domain",
       "value": "nkfgsm8.com",
       "category": "Network activity",
@@ -786,7 +786,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "70da85cd-eacc-4376-87a6-9a9b3f599252",
+      "uuid": "806c6ed3-75e3-4e5b-9336-a1c78efdeecb",
       "type": "domain",
       "value": "99887aaa.com",
       "category": "Network activity",
@@ -794,7 +794,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "4d6d178d-bdf0-4ea3-bace-02e25c9c3956",
+      "uuid": "e5c272a6-17bf-4ccd-a08a-ef8a93048549",
       "type": "domain",
       "value": "8822ddd.com",
       "category": "Network activity",
@@ -802,7 +802,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "97401615-286e-4b10-ab82-e4b57fdae11c",
+      "uuid": "ecafe668-74a2-45f9-8cbe-6c13bb198a56",
       "type": "domain",
       "value": "93261587768.com",
       "category": "Network activity",
@@ -810,7 +810,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "9626bfeb-b131-4c06-9359-aabeb2443c0f",
+      "uuid": "4df6769a-f254-44c5-b464-43c047dd6202",
       "type": "domain",
       "value": "88995aaa.com",
       "category": "Network activity",
@@ -818,7 +818,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "adad0631-59aa-4483-bca8-0876e167a884",
+      "uuid": "4655aac8-4645-4e4b-8281-5050635fd97d",
       "type": "domain",
       "value": "xox8956.com",
       "category": "Network activity",
@@ -826,7 +826,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "7a9fa534-3868-4d9f-b0bf-048aa5a6d9f3",
+      "uuid": "5ff0f240-7433-43cc-8c42-1d23efeb5788",
       "type": "domain",
       "value": "88889aaa.com",
       "category": "Network activity",
@@ -834,7 +834,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "fd69876a-22d7-4e7c-abe5-06aabb554867",
+      "uuid": "48dbd9e8-d698-4638-af32-8a857c015fff",
       "type": "domain",
       "value": "rgjeow3.com",
       "category": "Network activity",
@@ -842,7 +842,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "42591613-81d2-4003-bc11-ecaaf314b2fd",
+      "uuid": "d9f051f0-4850-45f3-ac69-eb6b194f6e21",
       "type": "domain",
       "value": "n5891.com",
       "category": "Network activity",
@@ -850,7 +850,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "82828d06-0919-4710-9231-59a40fabdcca",
+      "uuid": "a4a8b84e-4208-4328-8507-de9766c2b50a",
       "type": "domain",
       "value": "gxexpq8.com",
       "category": "Network activity",
@@ -858,7 +858,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "faadd592-ef24-44fe-96d8-569e5c53b513",
+      "uuid": "fb6459f9-4feb-489a-a856-02c97cc872c8",
       "type": "domain",
       "value": "bob4885.com",
       "category": "Network activity",
@@ -866,7 +866,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "2512d8f1-49f5-46b3-95cf-66db792482ed",
+      "uuid": "1e2181ff-9c45-404b-a104-4965f0aa3bfc",
       "type": "domain",
       "value": "66888aaa.com",
       "category": "Network activity",
@@ -874,7 +874,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e6ab1dc5-9d60-4d7d-98b6-2b4334cfeea1",
+      "uuid": "cfc39b2d-9e40-4dbb-83fa-7cb51d520cca",
       "type": "domain",
       "value": "n6515.com",
       "category": "Network activity",
@@ -882,7 +882,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "6c783220-36ae-4c1a-9e74-86ef5657b825",
+      "uuid": "1e8f29a2-a759-40ef-bf6f-3dd763762744",
       "type": "domain",
       "value": "n6321.com",
       "category": "Network activity",
@@ -890,7 +890,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e4abb8f6-244f-41bc-a204-0e15c6a917e8",
+      "uuid": "9d2bc6d2-ecee-4927-8ae9-5975bdec1c2b",
       "type": "domain",
       "value": "9913ddd.com",
       "category": "Network activity",
@@ -898,7 +898,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "9513545d-85f7-4cb2-9b52-50ac09f1a4ab",
+      "uuid": "109f1950-de7b-47c4-9d67-d78670bfbe7c",
       "type": "domain",
       "value": "88883aaa.com",
       "category": "Network activity",
@@ -906,7 +906,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "0f7e9f2c-0108-4f7d-8aa0-7f30c2e6a732",
+      "uuid": "cb3212d2-2fdd-4252-a894-9b4399081c10",
       "type": "domain",
       "value": "6627ddd.com",
       "category": "Network activity",
@@ -914,7 +914,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "86544667-2af9-4539-9f8e-d0ae198ae77b",
+      "uuid": "d860ddc7-560f-4ee2-983a-9900d9e6ed3f",
       "type": "domain",
       "value": "n3731.com",
       "category": "Network activity",
@@ -922,7 +922,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "d5f4fbfe-01ea-4d29-8a27-3db627e17a2c",
+      "uuid": "c49d35da-737a-4700-ba12-2b62bab0eab9",
       "type": "domain",
       "value": "66377311795.com",
       "category": "Network activity",
@@ -930,7 +930,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "220628f8-16f2-48a5-92dc-ddcea62f59c0",
+      "uuid": "3c7402f9-3556-49e7-87ef-b7be8d404c8c",
       "type": "domain",
       "value": "n6327.com",
       "category": "Network activity",
@@ -938,7 +938,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "b0b60679-04dd-4e71-8c21-5c3d69e1b59b",
+      "uuid": "f68cbfc6-8710-4843-ab13-faf0963bd483",
       "type": "domain",
       "value": "n3839.com",
       "category": "Network activity",
@@ -946,7 +946,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "4703b495-37c5-4865-ad4a-31c5e68fd56e",
+      "uuid": "f8b75fec-3fc0-403d-969d-cc596b2da5db",
       "type": "domain",
       "value": "n3762.com",
       "category": "Network activity",
@@ -954,7 +954,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "2d2e8402-634b-452b-82bf-1b1ee951d930",
+      "uuid": "5425b154-eaf4-49ca-aade-38d86e4a5453",
       "type": "domain",
       "value": "aa889977aa.com",
       "category": "Network activity",
@@ -962,7 +962,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c243695f-f0e2-4f82-a9f0-2049be5fff6b",
+      "uuid": "5b4291f5-9de4-4dbd-9784-74e02c25772a",
       "type": "domain",
       "value": "veugcz8.com",
       "category": "Network activity",
@@ -970,7 +970,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "45685df2-6ab7-490c-bca9-2171d875e6c6",
+      "uuid": "cc41c9b9-2975-4651-bd0d-ae6571561aa3",
       "type": "domain",
       "value": "8889513.com",
       "category": "Network activity",
@@ -978,7 +978,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "7e0e80ae-cdda-4fe3-b626-989c8a33a12d",
+      "uuid": "e63d4645-3e8c-4776-9e72-912d4226c401",
       "type": "domain",
       "value": "66665aaa.com",
       "category": "Network activity",
@@ -986,7 +986,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "078ee12c-3dfb-40c3-8652-33b1c6dee708",
+      "uuid": "b52cfa94-a860-4edf-a685-83f6340eceab",
       "type": "domain",
       "value": "n7328.com",
       "category": "Network activity",
@@ -994,7 +994,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "b1800ce0-c8cb-4033-a03c-400f70b0a2d7",
+      "uuid": "2d85fede-fb8e-46f8-ad40-a16bb0bd05e9",
       "type": "domain",
       "value": "vxxtxb8.com",
       "category": "Network activity",
@@ -1002,7 +1002,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "a58fcd2d-eea2-4d8a-af81-c972e56382cb",
+      "uuid": "a74e9d26-9cb3-4a35-bf1c-156b6e58ab39",
       "type": "domain",
       "value": "88888aaa.com",
       "category": "Network activity",
@@ -1010,7 +1010,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "b862bed9-97f4-4dd4-be99-4cd28d376771",
+      "uuid": "78a992f0-47cc-498f-8e33-31c5f0ae919f",
       "type": "domain",
       "value": "8688qq.com",
       "category": "Network activity",
@@ -1018,7 +1018,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "887f3173-d6a2-4615-8e8b-701a5c7cb4c5",
+      "uuid": "e7668854-c7e0-4649-a27e-18256bc68c1f",
       "type": "domain",
       "value": "jqaaua8.com",
       "category": "Network activity",
@@ -1026,7 +1026,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "cf6b8a5e-5973-4c39-9e0f-74a73abe445d",
+      "uuid": "95f19412-5052-4c56-900f-7096ca92e15f",
       "type": "domain",
       "value": "bob5858.com",
       "category": "Network activity",
@@ -1034,7 +1034,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "3bb45e60-4877-41c6-aebb-f2cb3f9cb350",
+      "uuid": "a0c218df-4da7-42b1-889e-5a53cc596804",
       "type": "domain",
       "value": "zmhmaz8.com",
       "category": "Network activity",
@@ -1042,7 +1042,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "06e0afe2-f0fd-4d57-a184-57353a23a47f",
+      "uuid": "19abbdfe-0e76-4e43-b00b-6bf641db7840",
       "type": "domain",
       "value": "uu3531uu.com",
       "category": "Network activity",
@@ -1050,7 +1050,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "fdc29998-27a3-4dcc-a188-e9214bd79da5",
+      "uuid": "764fb7fe-e9ff-4f40-b813-73ceceea9e65",
       "type": "domain",
       "value": "n8123.com",
       "category": "Network activity",
@@ -1058,7 +1058,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "5a2b265f-0669-4bf1-9768-4c2a3f9d11e1",
+      "uuid": "7990dca5-9786-4f2d-8e17-5214b0b34ab5",
       "type": "domain",
       "value": "aa889966aa.com",
       "category": "Network activity",
@@ -1066,7 +1066,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e4b7d565-c114-4e9d-84d0-6ac16418bedd",
+      "uuid": "ccbcabc8-1850-4cba-90b1-13c7caa7b116",
       "type": "domain",
       "value": "9917ddd.com",
       "category": "Network activity",
@@ -1074,7 +1074,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e8236199-8232-441a-9a5f-10d50e371b19",
+      "uuid": "d9d70f24-924d-44b5-a25b-2914bbc40257",
       "type": "domain",
       "value": "9916ddd.com",
       "category": "Network activity",
@@ -1082,7 +1082,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "1f51aecc-28c5-4bd2-b1e6-1c6a44bee62e",
+      "uuid": "d8dca0fe-297b-4f67-9ed9-374d1876e1c3",
       "type": "domain",
       "value": "328858prw.com",
       "category": "Network activity",
@@ -1090,7 +1090,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "bde2c201-0c28-499e-99b3-87c66e5de912",
+      "uuid": "e92f1130-2cf6-4614-ae2f-93cef557c9f2",
       "type": "domain",
       "value": "8813ddd.com",
       "category": "Network activity",
@@ -1098,7 +1098,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "9a2e8a71-8332-4dcd-bf56-178bc8d1ae3f",
+      "uuid": "b57004ab-138c-443a-ae62-aec0fbd8c71f",
       "type": "domain",
       "value": "287335kmu.com",
       "category": "Network activity",
@@ -1106,7 +1106,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "4de1caa0-bb81-4b20-b3ae-d8c35879095f",
+      "uuid": "19c22353-a7e6-4562-b00e-4037c787acbd",
       "type": "domain",
       "value": "223969ufy.com",
       "category": "Network activity",
@@ -1114,7 +1114,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "47e0c700-cf2f-4e4c-84b5-b0792b3dac11",
+      "uuid": "08f16ca5-c7ca-4abd-b77d-59751b5c28ba",
       "type": "domain",
       "value": "8355156ccc.com",
       "category": "Network activity",
@@ -1122,7 +1122,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "b48817c4-3a83-45b9-94ad-eec334cd7b48",
+      "uuid": "c77ccff4-fe1b-4743-9583-688875881535",
       "type": "domain",
       "value": "uu6689uu.com",
       "category": "Network activity",
@@ -1130,7 +1130,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "daeb2269-5962-4b5a-850b-58e8765cc393",
+      "uuid": "62d1c3cf-5dec-4f53-8e03-7601d97b98e4",
       "type": "domain",
       "value": "n8589.com",
       "category": "Network activity",
@@ -1138,7 +1138,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "03d8def2-7ddb-4905-b042-22acc0404c3d",
+      "uuid": "8e876be2-cbf6-486b-bc6b-497000cf4657",
       "type": "domain",
       "value": "n6371.com",
       "category": "Network activity",
@@ -1146,7 +1146,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "c234eb52-fd83-4b0b-bafe-e208a31a058d",
+      "uuid": "057316db-8cc4-4ac8-8516-8f04edee9aa4",
       "type": "domain",
       "value": "bob4943.com",
       "category": "Network activity",
@@ -1154,7 +1154,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "2ee4dfb7-b2ac-4cbf-9da5-07d99e704571",
+      "uuid": "28513646-6fe8-4c7f-94c4-faccc470eb97",
       "type": "domain",
       "value": "785bbb.us",
       "category": "Network activity",
@@ -1162,7 +1162,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "2e9d1f4a-2747-4a4d-87dd-1badc8d578f3",
+      "uuid": "2c93f736-cdc8-43b8-84fb-1433e8e1f13b",
       "type": "domain",
       "value": "uu6967uu.com",
       "category": "Network activity",
@@ -1170,7 +1170,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "9ea5d8c6-1984-4a77-9405-eced22128f91",
+      "uuid": "f48b8b29-24cc-482c-af37-4109c39d6bcf",
       "type": "domain",
       "value": "673bbb.us",
       "category": "Network activity",
@@ -1178,7 +1178,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e5aca61b-64bd-4f3a-9737-a6362d31916b",
+      "uuid": "9dd07b7f-d68f-40f6-ab99-c70f33ad3708",
       "type": "domain",
       "value": "xox9298.com",
       "category": "Network activity",
@@ -1186,7 +1186,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "539253cc-e2c7-4bc0-a053-2b00cd05b41d",
+      "uuid": "eff95bf2-78d8-4122-9720-a565615cd460",
       "type": "domain",
       "value": "uu7227uu.com",
       "category": "Network activity",
@@ -1194,7 +1194,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "14cdf75a-0aa5-43e4-a8e9-68c0364c829e",
+      "uuid": "ab9d8a37-b007-494f-9687-3f0d701d4423",
       "type": "domain",
       "value": "633bbb.us",
       "category": "Network activity",
@@ -1202,7 +1202,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "8ea34eb7-8dfb-480d-bf22-ccc44aa87a05",
+      "uuid": "ef690806-8e0e-4337-b830-b876a0d87e3b",
       "type": "domain",
       "value": "8885ddd.com",
       "category": "Network activity",
@@ -1210,7 +1210,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "751477fa-084c-4f0c-bbe8-cf8a59182708",
+      "uuid": "44c384e8-e3ed-4a3e-8b71-f094f4f1f3fd",
       "type": "domain",
       "value": "uu2772uu.com",
       "category": "Network activity",
@@ -1218,7 +1218,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "e90723e1-8331-483c-9681-2860a5047ef3",
+      "uuid": "b338af34-350a-45c5-bdbc-44626803ef09",
       "type": "domain",
       "value": "yagnqq8.com",
       "category": "Network activity",
@@ -1226,7 +1226,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "d6f2ed5f-5859-4407-8b7f-4b4e209b3242",
+      "uuid": "3ad5df0c-32d3-44cf-805b-4b0c5474aff4",
       "type": "domain",
       "value": "kcpapy8.com",
       "category": "Network activity",
@@ -1234,7 +1234,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "b7f9319f-b97e-4334-b725-be3e40492fbc",
+      "uuid": "54d9d485-7ff2-4517-8070-7178bfaf1c14",
       "type": "domain",
       "value": "uu3233uu.com",
       "category": "Network activity",
@@ -1242,7 +1242,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "632fb772-7877-4c77-9454-4b09d6bf8d8a",
+      "uuid": "67a475a8-2fbf-4882-b391-4376eb334e84",
       "type": "domain",
       "value": "956bbb.us",
       "category": "Network activity",
@@ -1250,7 +1250,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "1ba716ce-602f-4b17-8520-c883500d6319",
+      "uuid": "88e0bb9e-a519-4071-9336-427c535b07a8",
       "type": "domain",
       "value": "729bbb.us",
       "category": "Network activity",
@@ -1258,7 +1258,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "45b20c47-f0dd-4b20-9ebc-a2b273b85bea",
+      "uuid": "f62b86d7-1f7d-4299-8f61-d678d1785e94",
       "type": "domain",
       "value": "uu3192uu.com",
       "category": "Network activity",
@@ -1266,7 +1266,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "b9472a1c-58a8-42ea-bc29-c1c59ef492b3",
+      "uuid": "3077cd01-3917-457f-a610-2ad5e8a77dc3",
       "type": "domain",
       "value": "988bbb.us",
       "category": "Network activity",
@@ -1274,7 +1274,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "d08bffc6-1e48-429f-b483-45b1169aac86",
+      "uuid": "2e723696-4d07-4fba-afc1-ead06f0f7dea",
       "type": "domain",
       "value": "952bbb.us",
       "category": "Network activity",
@@ -1282,7 +1282,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "75da5314-6844-4af5-bbe4-41d2f0138744",
+      "uuid": "0804adf1-6b4e-4b1d-bf7e-4e152550d1a8",
       "type": "domain",
       "value": "8889197.com",
       "category": "Network activity",
@@ -1290,7 +1290,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "bb5df613-b6a0-4a8b-855c-5c8319d7e04e",
+      "uuid": "e212a1fc-e3f0-45e6-ab62-d8f9b573a0ca",
       "type": "domain",
       "value": "8887738.com",
       "category": "Network activity",
@@ -1298,7 +1298,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "cf5da0f4-a501-4194-a21c-393c0c01ca44",
+      "uuid": "550c2424-ffa1-4ab0-9efd-526af60b4f90",
       "type": "domain",
       "value": "799aaa.us",
       "category": "Network activity",
@@ -1306,7 +1306,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "cec600af-a1a4-4c9f-8f06-00616ff66bc7",
+      "uuid": "683f8dab-cf04-41f9-b807-fe11f9baa462",
       "type": "domain",
       "value": "791bbb.us",
       "category": "Network activity",
@@ -1314,7 +1314,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "858a0977-9601-4fb9-911f-e35224ad488f",
+      "uuid": "9e320272-55ff-4c5b-af03-e0028aa8334b",
       "type": "domain",
       "value": "761bbb.us",
       "category": "Network activity",
@@ -1322,7 +1322,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "f9445c4d-80df-458c-a4a6-f9ab6cba287e",
+      "uuid": "2621d115-07ad-4bf3-8b2d-5e108eb30212",
       "type": "domain",
       "value": "738bbb.us",
       "category": "Network activity",
@@ -1330,7 +1330,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "d9c49fef-5136-4111-852b-34c4cc6f7142",
+      "uuid": "8f4dad83-f432-4c39-bc39-6fc19979110f",
       "type": "domain",
       "value": "699aaa.us",
       "category": "Network activity",
@@ -1338,7 +1338,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "d4bec6f1-3619-4f83-8e7f-2fd54e8e3d83",
+      "uuid": "bed47473-aa36-4e62-8774-0ac1b9d22866",
       "type": "domain",
       "value": "668aaa.us",
       "category": "Network activity",
@@ -1346,7 +1346,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "303070ed-ec0a-4c14-9b9d-356b26cf03db",
+      "uuid": "a5494611-d6a4-4bf4-8e67-ab96b37db723",
       "type": "domain",
       "value": "666aaa.us",
       "category": "Network activity",
@@ -1354,7 +1354,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "328e6604-b57a-42aa-83ff-e682a90d08f0",
+      "uuid": "fa5b611e-a587-4b8d-a594-2d76197af3ac",
       "type": "domain",
       "value": "655aaa.us",
       "category": "Network activity",
@@ -1362,7 +1362,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "0bba362b-4cd5-4883-8cba-4c16398304f2",
+      "uuid": "7abb72c9-de86-411e-9309-b6ace1437e44",
       "type": "domain",
       "value": "599aaa.us",
       "category": "Network activity",
@@ -1370,7 +1370,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "2dc57425-32ae-488c-9860-ea76978f91fa",
+      "uuid": "026a098b-6a4c-4602-868b-f1e61e3d9759",
       "type": "domain",
       "value": "555aaa.us",
       "category": "Network activity",
@@ -1378,7 +1378,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "54263e7d-602f-461e-bd66-3ed92a3d9a35",
+      "uuid": "63f2eeff-d500-41ee-866f-d258ee20c311",
       "type": "domain",
       "value": "552aaa.us",
       "category": "Network activity",
@@ -1386,7 +1386,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "319d70ad-9aa3-412d-bb6f-cca707ea4095",
+      "uuid": "74440a5c-6583-4b7e-85f3-a86b79c00368",
       "type": "domain",
       "value": "3338653.com",
       "category": "Network activity",
@@ -1394,7 +1394,7 @@
       "disable_correlation": false
     },
     {
-      "uuid": "64057653-56aa-4dab-8d53-42d58f0ed4de",
+      "uuid": "e13cc01f-f090-47ad-9ea6-a00db9a75b2d",
       "type": "domain",
       "value": "3338631.com",
       "category": "Network activity",
@@ -1405,5 +1405,6 @@
   "Orgc": {
     "name": "Infoblox",
     "orgc": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
-  }
+  },
+  "info": "suspicious_dga_cta_20230823"
 }
