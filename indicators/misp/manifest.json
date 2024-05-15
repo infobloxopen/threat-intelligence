@@ -1,0 +1,477 @@
+{
+  "dad88707-beb8-4a14-94e2-5ffecf5a5f85": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "c2_beacon_20230414_iocs",
+    "date": "2023-04-14",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767121
+  },
+  "2a73824b-ede0-4d9c-b8fc-8535ad64aca2": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "prolific_puma_20231031",
+    "date": "2023-10-31",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767123
+  },
+  "6c1c6c4f-5cde-474f-bb69-8e5b8b041f81": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "decoy_dog_cta_20230420_iocs",
+    "date": "2023-04-20",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767124
+  },
+  "0472809b-1582-4dde-88a9-d82848e9e660": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "suspicious_dga_cta_20230823",
+    "date": "2023-08-23",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767125
+  },
+  "27dceb7d-92bd-4848-bfbd-8570e86de7de": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "emotet_cta_20221006_iocs",
+    "date": "2022-10-06",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767127
+  },
+  "a8e1cb59-c17b-474f-9403-00a186e0f248": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "ameli_cta_20221118_iocs",
+    "date": "2022-11-18",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767128
+  },
+  "7706424f-51dd-4873-a103-af5dbcf42fbd": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "smishing_cta_20220408_iocs",
+    "date": "2022-04-08",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767130
+  },
+  "249c67e1-3587-4981-b400-c37de2b6938a": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "ukraine_russia_malicous_suspicious_iocs",
+    "date": "2024-05-15",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767131
+  },
+  "3493a2df-8c62-451b-99bf-312292104994": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "vextrio_cta_20220606_iocs",
+    "date": "2022-06-06",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767136
+  },
+  "aacc7574-34ba-40fa-b39c-b682cea1387b": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "vextrio_cta_20240123_iocs",
+    "date": "2024-01-23",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767139
+  },
+  "8c8ec60d-d6f4-461a-9427-dbe1b5d504ac": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "open_tangle_cta_20231012_iocs",
+    "date": "2023-10-12",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767140
+  },
+  "339f715f-cce7-4769-99f9-9e76157f403f": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "cryptdesignbot_cta_20230518_iocs",
+    "date": "2023-05-18",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767141
+  },
+  "1733d613-f09f-43ec-8e6a-3926f75e5fa4": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "metacoin_cta_20221109_iocs",
+    "date": "2022-11-09",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767142
+  },
+  "2e124918-7c10-4d8c-b554-b9e953fb09a7": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "omnatuor_cta_20220815_iocs",
+    "date": "2022-08-15",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767144
+  },
+  "297007d2-3e2d-408a-bf50-75e961f49176": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "usps_cta_20231219",
+    "date": "2023-12-19",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767147
+  },
+  "97269275-4abd-4bfd-80e3-2685e23e0160": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "lookalikes_malicious_rmm_ccb_20230131_iocs",
+    "date": "2023-01-31",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767148
+  },
+  "afcd2e24-0a22-47f4-9e82-890cc4f85899": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "savvy_seahorse_20240228_iocs",
+    "date": "2024-02-28",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767149
+  },
+  "5e9c35b9-5e5c-4221-9e27-313127fc1f02": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "turkiye_earthquake_malicious_suspicious_iocs",
+    "date": "2024-05-15",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767150
+  },
+  "68f58844-4aa6-4e1c-8ee5-cfb58eb6665e": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:white",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "decoy_dog_cta_20230714_iocs",
+    "date": "2023-07-14",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1715767151
+  }
+}
