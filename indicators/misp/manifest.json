@@ -473,5 +473,55 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1715767151
+  },
+  "768aec5a-8e1e-4a7c-bbce-39ce7ce458d4": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "rdga_20240717",
+    "date": "2024-07-17",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1721261554
+  },
+  "454d994e-c027-4fb1-9be0-b58d815bdf3a": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "rdga_20240717_iocs",
+    "date": "2024-07-17",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1721266499
   }
 }
