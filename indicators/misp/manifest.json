@@ -523,5 +523,30 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1721266499
+  },
+  "6981d484-d332-48ab-a6b6-38a89c65a6ee": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "vigorish_viper_20240722_iocs",
+    "date": "2024-07-22",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1721412020
   }
 }
