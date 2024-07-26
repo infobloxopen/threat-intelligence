@@ -548,5 +548,30 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1721412020
+  },
+  "ad8cbc0d-a3ae-4040-a12c-0562afbf6d1b": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "crowdstrike_lookalike_20240725_iocs",
+    "date": "2024-07-25",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1721951645
   }
 }

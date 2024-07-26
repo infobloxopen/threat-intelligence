@@ -1,4 +1,92 @@
 type,indicator,classification,detected_date
+domain,crowdstrikefix.co,suspicious,2024-07-23
+domain,crowdstrike-bsod.co,suspicious,2024-07-23
+domain,cloudstrike.website,suspicious,2024-07-23
+domain,crowdstrikebluescreen.com,phishing,2024-07-19
+domain,crowdstrikefix.com,phishing,2024-07-19
+domain,crowdstrikelawsuit.com,phishing,2024-07-21
+domain,crowdstrikeupdate.com,phishing,2024-07-21
+domain,crowdstrikereport.com,phishing,2024-07-21
+domain,crowdstrikekernelcar.com,phishing,2024-07-24
+domain,fix-crowdstrike-apocalypse.com,phishing,2024-07-20
+domain,crowdstrikeglitch.com,phishing,2024-07-21
+domain,microsoftcrowdstrike.com,phishing,2024-07-21
+domain,crowdstrikefix.zip,phishing,2024-07-21
+domain,whatiscrowdstrike.com,phishing,2024-07-21
+domain,supportcrowdstrike.lol,phishing,2024-07-23
+domain,fixcrowdstrike.com,phishing,2024-07-23
+domain,crowdstrikebug.com,phishing,2024-07-21
+domain,crowdstriketoken.com,phishing,2024-07-19
+domain,fix-crowdstrike-bsod.com,phishing,2024-07-19
+domain,crowdstrikebsod.com,phishing,2024-07-20
+domain,crowdstrikeclassaction.com,phishing,2024-07-21
+domain,crowdstrikedown.com,phishing,2024-07-19
+domain,crowdstrikefail.com,phishing,2024-07-21
+domain,crowdstrikeoutage.com,phishing,2024-07-21
+domain,crowdstrikedown.site,phishing,2024-07-21
+domain,crowdstrikedoomsday.com,phishing,2024-07-19
+domain,isitcrowdstrike.com,phishing,2024-07-21
+domain,crowdstrike0day.com,phishing,2024-07-19
+domain,crowdstrikeoutage.info,phishing,2024-07-21
+domain,crowdstrike.fail,phishing,2024-07-21
+domain,crowdstrikeoopsie.com,phishing,2024-07-21
+domain,crowdstrikeblueteam.com,phishing,2024-07-21
+domain,crowdstrikeclaim.com,phishing,2024-07-21
+domain,crowdstrikeodayl.com,phishing,2024-07-21
+domain,microsoftoutagescrowdstrike.com,phishing,2024-07-23
+domain,howtofixcrowdstrikeissue.com,phishing,2024-07-24
+domain,crowdstrikeeventshub.com,phishing,2024-07-24
+domain,crowdstrikesuporte.com,phishing,2024-07-24
+domain,crowdstrikerecovery.com,phishing,2024-07-24
+domain,clownstrike.co.uk,phishing,2024-07-24
+domain,crowdstrikezeroday.com,phishing,2024-07-24
+domain,crowdstrikeclaims.com,phishing,2024-07-24
+domain,suportecrowdstrike.com,phishing,2024-07-24
+domain,iscrowdstrikedown.com,phishing,2024-07-24
+domain,clownstrike.co,phishing,2024-07-24
+domain,crowdstrikeyou.xyz,phishing,2024-07-24
+domain,crowdstrikeout.com,phishing,2024-07-24
+domain,crowdstrikeoops.com,phishing,2024-07-24
+domain,crowdstrikesucks.com,phishing,2024-07-24
+domain,crowdstrike.cam,phishing,2024-07-24
+domain,crowdstrike.bot,phishing,2024-07-24
+domain,crowdstrikefix.in,phishing,2024-07-24
+domain,crowdstrikeoptimizer.com,phishing,2024-07-24
+domain,crowdstrikeold.com,phishing,2024-07-24
+domain,crowdstrike.ee,phishing,2024-07-24
+domain,crowdstrikewindowsoutage.com,phishing,2024-07-24
+domain,crowdstrikeconnectingevents.com,phishing,2024-07-24
+domain,crowdstrike.blue,phishing,2024-07-24
+domain,crowdstrikepatch.com,phishing,2024-07-24
+domain,crowdstrikecure.com,phishing,2024-07-24
+domain,crowdstrikefixer.com,phishing,2024-07-24
+domain,crowdstrikebsod.co,phishing,2024-07-23
+domain,crowdstrike.site,malicious,2024-07-20
+domain,crowdstrike.es,malicious,2024-07-21
+domain,crowdstrikesupport.info,malicious,2024-07-23
+domain,crowdstrikefix.co,malicious,2024-07-23
+domain,crowdstrikeconnects.com,malicious,2024-07-24
+domain,crowdstrikeeventsplus.com,malicious,2024-07-24
+domain,crowdstrikeeventsplatform.com,malicious,2024-07-24
+domain,crowdstroke.io,malicious,2024-07-24
+domain,crowdstrike.us.org,malicious,2024-07-24
+domain,crowdstrikesettlement.com,malicious,2024-07-24
+domain,crowdstrike.fun,malicious,2024-07-24
+domain,crowdstrike.technology,malicious,2024-07-24
+domain,crowdstrikehelp.com,malicious,2024-07-24
+domain,crowdstrikeplatform.info,malicious,2024-07-24
+domain,crowstrike.org,malicious,2024-07-24
+domain,crowdstrife.com,malicious,2024-07-24
+domain,thecrowdstrike.com,malicious,2024-07-24
+domain,crowdstrikewhisper.com,malicious,2024-07-24
+domain,crowdstrikeevents.com,malicious,2024-07-24
+domain,crowdstrikeplatform.com,malicious,2024-07-24
+domain,fuckcrowdstrike.com,malicious,2024-07-24
+domain,crowdstrike.help,malicious,2024-07-24
+domain,crowdstrike.com.vc,malicious,2024-07-24
+domain,crowstrike.net,malicious,2024-07-24
+domain,iscrowdstrikestilldown.com,malicious,2024-07-24
+domain,iscrowdstrikefixed.com,malicious,2024-07-24
 domain,21cloudcoin.com,scam,2024-02-13
 domain,21cloudesk.com,scam,2024-02-13
 domain,21coincloud.com,scam,2024-02-13
@@ -6,7 +94,6 @@ domain,nbtsupp0rt2.com,malicious,2023-08-23
 domain,americanfirstsupporrts69.com,malicious,2023-08-04
 domain,nbtsupp0rt1.com,malicious,2023-08-22
 domain,nbtsupp0rt07.com,malicious,2023-08-25
-domain,mtbsuportz385.com,malicious,2023-07-24
 domain,zdmb.link,malicious,2023-08-21
 domain,evnw.link,malicious,2023-08-21
 domain,alhq.info,malicious,2023-08-25
@@ -40,15 +127,12 @@ domain,qkyj.me,malicious,2023-08-16
 domain,xi3.us,malicious,2023-07-31
 domain,g0w.us,malicious,2023-08-04
 domain,psvr.me,malicious,2023-08-17
-domain,ej9.us,malicious,2023-07-25
 domain,f5s.us,malicious,2023-08-19
 domain,idzs.me,malicious,2023-08-17
 domain,sjgu.info,malicious,2023-09-07
 domain,d6c.us,malicious,2023-08-21
 domain,ndcg.me,malicious,2023-08-17
 domain,e6v.us,malicious,2023-08-04
-domain,g8o.us,malicious,2023-07-25
-domain,tycn.me,malicious,2023-07-23
 domain,rq9.us,malicious,2023-08-07
 domain,lsbf.website,malicious,2023-09-07
 domain,iqai.me,malicious,2023-08-17
@@ -84,7 +168,6 @@ domain,4nq.us,malicious,2023-09-07
 domain,vq0.us,malicious,2023-08-03
 domain,am7.us,malicious,2023-08-04
 domain,nrqa.website,malicious,2023-09-07
-domain,2yg.us,malicious,2023-07-24
 domain,hb7.us,malicious,2023-08-07
 domain,yqmw.me,malicious,2023-08-17
 domain,1mt.us,malicious,2023-08-12
@@ -118,7 +201,6 @@ domain,z7b.us,malicious,2023-08-07
 domain,9wr.us,malicious,2023-08-07
 domain,ml0.us,malicious,2023-08-27
 domain,aoim.me,malicious,2023-08-17
-domain,enha.cc,malicious,2023-07-23
 domain,x1y.us,malicious,2023-08-25
 domain,7ou.us,malicious,2023-08-17
 domain,uvql.me,malicious,2023-08-17
@@ -152,7 +234,6 @@ domain,8cw.us,malicious,2023-08-11
 domain,vtvz.info,malicious,2023-09-07
 domain,nyol.website,malicious,2023-09-07
 domain,7ef.us,malicious,2023-08-21
-domain,np0.us,malicious,2023-07-25
 domain,mq2.us,malicious,2023-08-24
 domain,hj3.us,malicious,2023-08-07
 domain,d6e.us,malicious,2023-08-15
@@ -162,9 +243,7 @@ domain,iiqe.us,malicious,2023-08-20
 domain,me0.us,malicious,2023-08-05
 domain,dj8.us,malicious,2023-08-19
 domain,zc5.us,malicious,2023-08-07
-domain,1ju.us,malicious,2023-07-24
 domain,0vg.us,malicious,2023-08-16
-domain,u1q.us,malicious,2023-07-23
 domain,0ar.us,malicious,2023-07-28
 domain,0ju.us,malicious,2023-07-28
 domain,0kj.us,malicious,2023-07-28
@@ -179,7 +258,6 @@ domain,1xl.us,malicious,2023-07-28
 domain,2lf.us,malicious,2023-07-28
 domain,2mw.us,malicious,2023-07-28
 domain,30j.us,malicious,2023-07-28
-domain,3jt.us,malicious,2023-07-24
 domain,3nr.us,malicious,2023-07-28
 domain,4br.us,malicious,2023-07-28
 domain,4lo.us,malicious,2023-07-28
@@ -270,7 +348,6 @@ domain,8su.us,malicious,2023-08-07
 domain,8xg.us,malicious,2023-08-07
 domain,8zu.us,malicious,2023-08-07
 domain,9as.us,malicious,2023-08-07
-domain,9fc.us,malicious,2023-07-23
 domain,9hu.us,malicious,2023-08-07
 domain,9ij.us,malicious,2023-08-07
 domain,9pn.us,malicious,2023-08-07
@@ -301,7 +378,6 @@ domain,jg9.us,malicious,2023-08-07
 domain,jt0.us,malicious,2023-08-07
 domain,k0i.us,malicious,2023-08-07
 domain,k3d.us,malicious,2023-08-07
-domain,k3r.us,malicious,2023-07-23
 domain,k4t.us,malicious,2023-08-07
 domain,ki8.us,malicious,2023-08-07
 domain,kl1.us,malicious,2023-08-07
@@ -411,7 +487,6 @@ domain,fr7.us,malicious,2023-08-07
 domain,ig3.us,malicious,2023-08-17
 domain,r6o.us,malicious,2023-08-07
 domain,sd7.us,malicious,2023-08-07
-domain,t9r.us,malicious,2023-07-23
 domain,uh5.us,malicious,2023-08-04
 domain,uy0.us,malicious,2023-08-04
 domain,z4h.us,malicious,2023-08-05
@@ -483,13 +558,11 @@ domain,8js.us,malicious,2023-08-25
 domain,v2q.us,malicious,2023-08-07
 domain,rz6.us,malicious,2023-08-07
 domain,9vr.us,malicious,2023-08-04
-domain,7cu.us,malicious,2023-07-23
 domain,5ud.us,malicious,2023-08-14
 domain,7kx.us,malicious,2023-07-28
 domain,o0n.us,malicious,2023-08-23
 domain,0pj.us,malicious,2023-08-06
 domain,o3m.us,malicious,2023-08-05
-domain,u8x.us,malicious,2023-07-23
 domain,r1l.us,malicious,2023-08-21
 domain,k8z.us,malicious,2023-08-17
 domain,wv5.us,malicious,2023-08-02
@@ -503,7 +576,6 @@ domain,0lk.us,malicious,2023-07-28
 domain,vi7.us,malicious,2023-08-07
 domain,gw7.us,malicious,2023-08-04
 domain,f5f.us,malicious,2023-08-07
-domain,9oi.us,malicious,2023-07-23
 domain,n5p.us,malicious,2023-07-28
 domain,e0v.us,malicious,2023-08-19
 domain,9uv.us,malicious,2023-08-19
@@ -570,7 +642,6 @@ domain,2lz.us,malicious,2023-08-25
 domain,vrna.us,malicious,2023-08-20
 domain,9nd.us,malicious,2023-07-28
 domain,9jp.us,malicious,2023-08-07
-domain,rm0.us,malicious,2023-07-24
 domain,e5w.us,malicious,2023-08-09
 domain,a0r.us,malicious,2023-08-07
 domain,4vt.us,malicious,2023-08-17
@@ -628,7 +699,6 @@ domain,4qb.us,malicious,2023-08-14
 domain,y7g.us,malicious,2023-08-17
 domain,0yc.us,malicious,2023-08-06
 domain,3ys.us,malicious,2023-08-18
-domain,za3.us,malicious,2023-07-24
 domain,6sk.us,malicious,2023-08-23
 domain,gm3.us,malicious,2023-08-07
 domain,9ds.us,malicious,2023-07-28
@@ -659,7 +729,6 @@ domain,0fd.us,malicious,2023-07-28
 domain,k0j.us,malicious,2023-08-23
 domain,a7r.us,malicious,2023-08-14
 domain,0tj.us,malicious,2023-07-28
-domain,9nt.us,malicious,2023-07-24
 domain,k5c.us,malicious,2023-08-07
 domain,k7y.us,malicious,2023-08-27
 domain,5tm.us,malicious,2023-08-17
@@ -829,7 +898,6 @@ domain,pa5.us,malicious,2023-08-02
 domain,4eq.us,malicious,2023-08-21
 domain,ds7.us,malicious,2023-08-07
 domain,6qp.us,malicious,2023-07-28
-domain,9za.us,malicious,2023-07-25
 domain,7yn.us,malicious,2023-08-16
 domain,nq0.us,malicious,2023-08-17
 domain,il6.us,malicious,2023-08-04
@@ -840,7 +908,6 @@ domain,1zy.us,malicious,2023-08-14
 domain,oo3.us,malicious,2023-08-07
 domain,ze7.us,malicious,2023-07-28
 domain,l5v.us,malicious,2023-08-17
-domain,zl3.us,malicious,2023-07-24
 domain,8fr.us,malicious,2023-08-10
 domain,x2b.us,malicious,2023-08-04
 domain,fz7.us,malicious,2023-08-19
@@ -882,7 +949,6 @@ domain,6as.us,malicious,2023-07-28
 domain,6eo.us,malicious,2023-07-28
 domain,3jx.us,malicious,2023-07-28
 domain,p2n.us,malicious,2023-07-28
-domain,9bp.us,malicious,2023-07-24
 domain,9tu.us,malicious,2023-08-04
 domain,5dw.us,malicious,2023-08-17
 domain,qe3.us,malicious,2023-08-07
@@ -907,7 +973,6 @@ domain,1sx.us,malicious,2023-08-21
 domain,kz0.us,malicious,2023-10-02
 domain,lf2.us,malicious,2023-08-10
 domain,w1b.us,malicious,2023-07-27
-domain,l0i.us,malicious,2023-07-23
 domain,v7c.us,malicious,2023-08-21
 domain,a5j.us,malicious,2023-08-14
 domain,1qu.us,malicious,2023-08-21
@@ -942,7 +1007,6 @@ domain,xw7.us,malicious,2023-10-03
 domain,rj6.us,malicious,2023-07-26
 domain,ie6.us,malicious,2023-08-21
 domain,tb2.us,malicious,2023-07-27
-domain,f5q.us,malicious,2023-07-25
 domain,2dx.us,malicious,2023-08-14
 domain,b6j.us,malicious,2023-08-06
 domain,nj9.us,malicious,2023-08-21
@@ -972,8 +1036,6 @@ domain,k9f.us,malicious,2023-08-10
 domain,q5f.us,malicious,2023-08-14
 domain,dvwk.us,malicious,2023-10-03
 domain,8ey.us,malicious,2023-07-26
-domain,e3b.us,malicious,2023-07-25
-domain,1ob.us,malicious,2023-07-25
 domain,h1f.us,malicious,2023-07-26
 domain,8dz.us,malicious,2023-08-21
 domain,4su.us,malicious,2023-08-10
@@ -1103,16 +1165,8 @@ domain,5fj.us,malicious,2023-10-27
 domain,e7f.us,malicious,2023-10-27
 domain,c6z.us,malicious,2023-10-27
 domain,ow6.us,malicious,2023-10-27
-domain,mcbw.info,malicious,2023-07-23
-domain,ojqx.me,malicious,2023-07-23
-domain,qmgm.info,malicious,2023-07-23
-domain,vrzr.me,malicious,2023-07-24
-domain,ynms.link,malicious,2023-07-24
-domain,xope.link,malicious,2023-07-24
-domain,bkhk.link,malicious,2023-07-24
 domain,omzf.cc,malicious,2023-07-26
 domain,lqqj.cc,malicious,2023-07-26
-domain,1gw.us,malicious,2023-07-25
 domain,argz.me,malicious,2023-08-09
 domain,jntq.info,malicious,2023-07-27
 domain,kzep.info,malicious,2023-07-27
@@ -2181,7 +2235,6 @@ domain,2rc.us,malicious,2023-10-07
 domain,g4c.us,malicious,2023-08-04
 domain,ni5.us,malicious,2023-09-26
 domain,k2v.us,malicious,2023-08-17
-domain,eh9.us,malicious,2023-07-24
 domain,cozk.me,malicious,2023-10-27
 domain,bqtrq.com,malicious,2023-10-27
 domain,9wu.us,malicious,2023-08-07
@@ -2365,7 +2418,6 @@ domain,6rxm.us,malicious,2023-10-08
 domain,rz3.us,malicious,2023-08-15
 domain,lo9.us,malicious,2023-10-07
 domain,2jx.us,malicious,2023-07-28
-domain,6by.us,malicious,2023-07-23
 domain,6yl.us,malicious,2023-08-24
 domain,5ip.us,malicious,2023-08-07
 domain,9sy.us,malicious,2023-08-07
@@ -2408,7 +2460,6 @@ domain,ttqxh.com,malicious,2023-10-12
 domain,zokr.us,malicious,2023-09-26
 domain,srrlb.com,malicious,2023-10-23
 domain,de9.us,malicious,2023-10-04
-domain,5hl.us,malicious,2023-07-24
 domain,0il.us,malicious,2023-07-28
 domain,pyxt.us,malicious,2023-09-26
 domain,locj.us,malicious,2023-08-31
@@ -2445,7 +2496,6 @@ domain,zv5.us,malicious,2023-08-07
 domain,pgyo.link,malicious,2023-09-08
 domain,asgf.us,malicious,2023-08-24
 domain,7ga.us,malicious,2023-08-11
-domain,w5e.us,malicious,2023-07-23
 domain,wl8.us,malicious,2023-08-06
 domain,7ge.us,malicious,2023-08-07
 domain,w7x.us,malicious,2023-08-17
@@ -2487,8 +2537,6 @@ domain,cyus.link,malicious,2023-10-12
 domain,rorj.us,malicious,2023-09-26
 domain,8xt.us,malicious,2023-09-02
 domain,z0t.us,malicious,2023-08-30
-domain,0dz.us,malicious,2023-07-24
-domain,uw4.us,malicious,2023-07-24
 domain,k8d.us,malicious,2023-08-07
 domain,9kh.us,malicious,2023-08-07
 domain,tfxys.com,malicious,2023-09-21
@@ -2660,7 +2708,6 @@ domain,cesn.info,malicious,2023-10-27
 domain,kmkw.link,malicious,2023-09-11
 domain,daxr.me,malicious,2023-10-19
 domain,lz7.us,malicious,2023-09-03
-domain,r9v.us,malicious,2023-07-24
 domain,zyufr.com,malicious,2023-10-22
 domain,vohv.me,malicious,2023-10-12
 domain,d8q.us,malicious,2023-08-04
@@ -2885,7 +2932,6 @@ domain,pogu.cc,malicious,2023-08-30
 domain,fkni.us,malicious,2023-09-26
 domain,dinalan.net,malicious,2023-10-13
 domain,8sr.us,malicious,2023-08-07
-domain,ivzh.link,malicious,2023-07-23
 domain,e5x.us,malicious,2023-07-31
 domain,9dh.us,malicious,2023-07-28
 domain,ufls.link,malicious,2023-10-22
@@ -2908,7 +2954,6 @@ domain,coqzl.com,malicious,2023-10-22
 domain,cjbi.link,malicious,2023-10-09
 domain,oxky.link,malicious,2023-10-16
 domain,r1b.us,malicious,2023-10-24
-domain,gj8.us,malicious,2023-07-24
 domain,dpst.me,malicious,2023-10-22
 domain,xu1.us,malicious,2023-08-07
 domain,9ag.us,malicious,2023-07-28
@@ -2974,7 +3019,6 @@ domain,x6v.us,malicious,2023-08-04
 domain,0q2.us,malicious,2023-08-02
 domain,as8.us,malicious,2023-08-04
 domain,v7m.us,malicious,2023-08-17
-domain,xkei.link,malicious,2023-07-23
 domain,4ke.us,malicious,2023-08-25
 domain,ezck.link,malicious,2023-10-12
 domain,6zc.us,malicious,2023-08-05
@@ -2983,7 +3027,6 @@ domain,yzoww.com,malicious,2023-10-27
 domain,vj7.us,malicious,2023-07-27
 domain,t9k.us,malicious,2023-10-01
 domain,dw0.us,malicious,2023-08-07
-domain,mr9.us,malicious,2023-07-25
 domain,fqlm.us,malicious,2023-09-02
 domain,n6h.us,malicious,2023-09-26
 domain,8mw.us,malicious,2023-08-06
@@ -3005,7 +3048,6 @@ domain,4vj.us,malicious,2023-10-09
 domain,u5s.us,malicious,2023-10-18
 domain,idrne.com,malicious,2023-10-21
 domain,f6g.us,malicious,2023-08-07
-domain,v7x.us,malicious,2023-07-24
 domain,9ri.us,malicious,2023-09-02
 domain,0lj.us,malicious,2023-08-07
 domain,9sz.us,malicious,2023-09-25
@@ -3053,7 +3095,6 @@ domain,2nh.us,malicious,2023-07-28
 domain,7lz.us,malicious,2023-09-02
 domain,en0.us,malicious,2023-08-24
 domain,uekln.com,malicious,2023-10-04
-domain,ci9.us,malicious,2023-07-23
 domain,u7b.us,malicious,2023-09-06
 domain,0ib.us,malicious,2023-10-02
 domain,l69.us,malicious,2023-09-22
@@ -3179,7 +3220,6 @@ domain,jx6.us,malicious,2023-10-16
 domain,tx9.us,malicious,2023-08-17
 domain,kl0.us,malicious,2023-09-14
 domain,k9o.us,malicious,2023-08-07
-domain,uj3.us,malicious,2023-07-24
 domain,9xw.us,malicious,2023-10-01
 domain,rj8.us,malicious,2023-09-04
 domain,6sw.us,malicious,2023-08-07
@@ -3221,7 +3261,6 @@ domain,9lj.us,malicious,2023-07-30
 domain,lz9.us,malicious,2023-08-24
 domain,h3f.us,malicious,2023-08-07
 domain,o6f.us,malicious,2023-07-31
-domain,s9f.us,malicious,2023-07-23
 domain,tp9.us,malicious,2023-10-03
 domain,oa9.us,malicious,2023-09-18
 domain,dauxl.com,malicious,2023-09-22
@@ -3268,7 +3307,6 @@ domain,wcou.link,malicious,2023-08-14
 domain,wj1.us,malicious,2023-10-23
 domain,8dw.us,malicious,2023-08-24
 domain,6lw.us,malicious,2023-08-15
-domain,jvwh.info,malicious,2023-07-23
 domain,2dr.us,malicious,2023-08-24
 domain,qkwk.us,malicious,2023-08-24
 domain,rpexh.com,malicious,2023-10-22
@@ -3308,7 +3346,6 @@ domain,27cvs.com,malicious,2023-10-27
 domain,zbrd.us,malicious,2023-10-27
 domain,m4k.us,malicious,2023-08-20
 domain,uiee.us,malicious,2023-10-24
-domain,7ox.us,malicious,2023-07-23
 domain,yk6.us,malicious,2023-10-17
 domain,veej.us,malicious,2023-10-27
 domain,ys5.us,malicious,2023-09-01
@@ -3380,19 +3417,15 @@ domain,wdexd.com,malicious,2023-10-23
 domain,ujtey.com,malicious,2023-09-24
 domain,4fp.us,malicious,2023-08-24
 domain,5zh.us,malicious,2023-10-27
-domain,yu7.us,malicious,2023-07-24
 domain,iapr.us,malicious,2023-10-12
 domain,ssjda.com,malicious,2023-10-09
 domain,waug.link,malicious,2023-10-09
-domain,jy9.us,malicious,2023-07-24
 domain,am8.us,malicious,2023-08-07
 domain,p7g.us,malicious,2023-10-07
-domain,d0o.us,malicious,2023-07-25
 domain,bsvh.me,malicious,2023-10-12
 domain,olfw.website,malicious,2023-09-13
 domain,izsy.me,malicious,2023-09-20
 domain,1hd.us,malicious,2023-10-23
-domain,vxeu.link,malicious,2023-07-23
 domain,fd6.us,malicious,2023-08-04
 domain,jsqx.link,malicious,2023-09-25
 domain,mtcke.com,malicious,2023-10-19
@@ -3453,7 +3486,6 @@ domain,7lr.us,malicious,2023-08-02
 domain,ortqm.com,malicious,2023-10-22
 domain,6ap.us,malicious,2023-08-07
 domain,sd9.us,malicious,2023-08-04
-domain,5za.us,malicious,2023-07-24
 domain,joux.us,malicious,2023-10-27
 domain,vhtc.link,malicious,2023-09-17
 domain,f1i.us,malicious,2023-09-27
@@ -3462,13 +3494,11 @@ domain,4qh.us,malicious,2023-07-28
 domain,y2u.us,malicious,2023-09-30
 domain,zexo.link,malicious,2023-10-27
 domain,eu4.us,malicious,2023-10-07
-domain,uj8.us,malicious,2023-07-25
 domain,gn4.us,malicious,2023-10-07
 domain,ztwua.com,malicious,2023-09-13
 domain,wl5.us,malicious,2023-08-04
 domain,z9s.us,malicious,2023-10-12
 domain,2jr.us,malicious,2023-08-24
-domain,v0z.us,malicious,2023-07-24
 domain,qnqwr.com,malicious,2023-10-27
 domain,6zy.us,malicious,2023-09-22
 domain,um1.us,malicious,2023-10-27
@@ -3485,7 +3515,6 @@ domain,wmne.info,malicious,2023-08-21
 domain,7yg.us,malicious,2023-08-07
 domain,6nq.us,malicious,2023-08-07
 domain,v3h.us,malicious,2023-08-28
-domain,o5r.us,malicious,2023-07-23
 domain,ktmcz.com,malicious,2023-10-07
 domain,9vw.us,malicious,2023-08-25
 domain,1wy.us,malicious,2023-10-20
@@ -3520,7 +3549,6 @@ domain,yglg.link,malicious,2023-10-16
 domain,ir8.us,malicious,2023-08-07
 domain,zhlm.us,malicious,2023-09-26
 domain,mq0.us,malicious,2023-08-04
-domain,2qg.us,malicious,2023-07-24
 domain,ijyfe.com,malicious,2023-10-21
 domain,oe2.us,malicious,2023-10-23
 domain,zzaxr.com,malicious,2023-08-17
@@ -3542,7 +3570,6 @@ domain,xudq.me,malicious,2023-10-20
 domain,h0s.us,malicious,2023-10-18
 domain,kz6.us,malicious,2023-10-25
 domain,tpxbv.com,malicious,2023-10-21
-domain,9xu.us,malicious,2023-07-24
 domain,yssh.link,malicious,2023-10-02
 domain,clclx.com,malicious,2023-10-22
 domain,z6o.us,malicious,2023-10-08
@@ -3604,7 +3631,6 @@ domain,6xp.us,malicious,2023-07-28
 domain,8er.us,malicious,2023-08-25
 domain,xd1.us,malicious,2023-08-04
 domain,tl0.us,malicious,2023-09-24
-domain,5oj.us,malicious,2023-07-24
 domain,nhrb.us,malicious,2023-09-01
 domain,hgts.us,malicious,2023-08-25
 domain,uxbd.info,malicious,2023-10-07
@@ -3655,7 +3681,6 @@ domain,7te.us,malicious,2023-09-08
 domain,yi3.us,malicious,2023-08-07
 domain,xogz.link,malicious,2023-10-12
 domain,aryzb.com,malicious,2023-10-22
-domain,2ur.us,malicious,2023-07-24
 domain,zi5.us,malicious,2023-08-02
 domain,v8b.us,malicious,2023-09-21
 domain,czct.us,malicious,2023-10-27
@@ -3774,7 +3799,6 @@ domain,egrz.us,malicious,2023-10-27
 domain,6gj.us,malicious,2023-08-31
 domain,o9k.us,malicious,2023-09-08
 domain,3ze.us,malicious,2023-08-12
-domain,u7u.us,malicious,2023-07-24
 domain,3af.us,malicious,2023-09-20
 domain,w2f.us,malicious,2023-09-25
 domain,xz5.us,malicious,2023-08-16
@@ -3888,7 +3912,6 @@ domain,v1d.us,malicious,2023-08-07
 domain,of3.us,malicious,2023-07-27
 domain,0ty.us,malicious,2023-10-03
 domain,4qn.us,malicious,2023-10-22
-domain,3nf.us,malicious,2023-07-24
 domain,sbzt.us,malicious,2023-10-27
 domain,i1b.us,malicious,2023-08-14
 domain,0gq.us,malicious,2023-08-17
@@ -3969,7 +3992,6 @@ domain,q9o.us,malicious,2023-08-19
 domain,aohj.link,malicious,2023-09-04
 domain,kthqq.com,malicious,2023-10-27
 domain,ce6.us,malicious,2023-07-26
-domain,oy3.us,malicious,2023-07-23
 domain,tb9.us,malicious,2023-09-02
 domain,ukwzd.com,malicious,2023-09-27
 domain,yw4.us,malicious,2023-08-07
@@ -3986,7 +4008,6 @@ domain,wgnw.info,malicious,2023-08-09
 domain,v8p.us,malicious,2023-08-07
 domain,m6o.us,malicious,2023-08-17
 domain,jcof.us,malicious,2023-08-25
-domain,xrgs.link,malicious,2023-07-24
 domain,l3p.us,malicious,2023-08-24
 domain,fokm.site,malicious,2023-10-27
 domain,a9m.us,malicious,2023-08-24
@@ -4006,7 +4027,6 @@ domain,u5e.us,malicious,2023-08-16
 domain,tygz.link,malicious,2023-10-14
 domain,ciyr.us,malicious,2023-08-24
 domain,z1j.us,malicious,2023-08-25
-domain,3wn.us,malicious,2023-07-24
 domain,r7i.us,malicious,2023-10-18
 domain,bzeh.us,malicious,2023-09-26
 domain,q5o.us,malicious,2023-08-04
@@ -4043,7 +4063,6 @@ domain,hkps.me,malicious,2023-10-26
 domain,b5w.us,malicious,2023-10-26
 domain,lgtf.link,malicious,2023-09-11
 domain,uc8.us,malicious,2023-08-07
-domain,rv0.us,malicious,2023-07-23
 domain,ov8.us,malicious,2023-10-13
 domain,yvfj.us,malicious,2023-10-27
 domain,g6v.us,malicious,2023-09-26
@@ -4121,10 +4140,8 @@ domain,b5h.us,malicious,2023-07-27
 domain,vl8.us,malicious,2023-10-27
 domain,v5f.us,malicious,2023-07-30
 domain,j7m.us,malicious,2023-10-23
-domain,3ol.us,malicious,2023-07-24
 domain,eksht.com,malicious,2023-10-16
 domain,ndud.link,malicious,2023-10-09
-domain,6my.us,malicious,2023-07-24
 domain,o3b.us,malicious,2023-08-07
 domain,ghbjp.com,malicious,2023-10-16
 domain,iw0.us,malicious,2023-09-30
@@ -4174,7 +4191,6 @@ domain,dlhp.us,malicious,2023-10-27
 domain,vj4.us,malicious,2023-10-07
 domain,ohozp.com,malicious,2023-09-28
 domain,afwrm.com,malicious,2023-10-16
-domain,z7e.us,malicious,2023-07-24
 domain,8sz.us,malicious,2023-08-05
 domain,fmkl.me,malicious,2023-10-19
 domain,xoil.me,malicious,2023-10-13
@@ -4190,7 +4206,6 @@ domain,b7d.us,malicious,2023-08-07
 domain,yj6.us,malicious,2023-09-23
 domain,y5i.us,malicious,2023-10-17
 domain,g8b.us,malicious,2023-10-04
-domain,2ug.us,malicious,2023-07-23
 domain,l89.us,malicious,2023-09-18
 domain,xe4.us,malicious,2023-09-22
 domain,vuou.me,malicious,2023-10-17
@@ -4250,7 +4265,6 @@ domain,y0o.us,malicious,2023-07-31
 domain,a7k.us,malicious,2023-10-27
 domain,jnnvz.com,malicious,2023-10-27
 domain,sqhe.me,malicious,2023-09-20
-domain,w9b.us,malicious,2023-07-24
 domain,nm3.us,malicious,2023-08-07
 domain,6ut.us,malicious,2023-10-08
 domain,yglg.cc,malicious,2023-09-07
@@ -4319,7 +4333,6 @@ domain,7tn.us,malicious,2023-08-16
 domain,cxjs.us,malicious,2023-09-26
 domain,tclt.link,malicious,2023-10-15
 domain,gqgy.link,malicious,2023-07-28
-domain,bqqu.info,malicious,2023-07-23
 domain,wiij.us,malicious,2023-08-24
 domain,l6h.us,malicious,2023-10-04
 domain,grzp.link,malicious,2023-10-22
@@ -4343,7 +4356,6 @@ domain,k7d.us,malicious,2023-08-07
 domain,skqov.com,malicious,2023-10-27
 domain,r9j.us,malicious,2023-08-30
 domain,n2m.us,malicious,2023-08-07
-domain,p7x.us,malicious,2023-07-23
 domain,tzsm.info,malicious,2023-10-08
 domain,uy4.us,malicious,2023-09-02
 domain,vlth.link,malicious,2023-10-02
@@ -4430,7 +4442,6 @@ domain,sdkg.us,malicious,2023-10-27
 domain,ibkmk.com,malicious,2023-10-27
 domain,iddzm.com,malicious,2023-10-22
 domain,n4q.us,malicious,2023-10-09
-domain,0lz.us,malicious,2023-07-25
 domain,txcm.info,malicious,2023-10-27
 domain,wk5.us,malicious,2023-10-25
 domain,gs6.us,malicious,2023-10-03
@@ -4487,7 +4498,6 @@ domain,ycyk.us,malicious,2023-08-07
 domain,ftmvm.com,malicious,2023-10-21
 domain,kvgk.link,malicious,2023-10-23
 domain,vt6.us,malicious,2023-10-27
-domain,9lc.us,malicious,2023-07-24
 domain,vh6.us,malicious,2023-07-30
 domain,jkto.us,malicious,2023-09-26
 domain,ko5.us,malicious,2023-08-07
@@ -4496,7 +4506,6 @@ domain,nsar.us,malicious,2023-08-24
 domain,fy9.us,malicious,2023-10-14
 domain,q2m.us,malicious,2023-08-15
 domain,qi0.us,malicious,2023-08-04
-domain,p7s.us,malicious,2023-07-23
 domain,o1j.us,malicious,2023-10-27
 domain,yu0.us,malicious,2023-10-02
 domain,nv6.us,malicious,2023-08-07
@@ -4606,7 +4615,6 @@ domain,fk0.us,malicious,2023-08-07
 domain,bdmj.in,malicious,2023-08-03
 domain,hb3.us,malicious,2023-09-23
 domain,eb8.us,malicious,2023-08-04
-domain,l0b.us,malicious,2023-07-23
 domain,o7s.us,malicious,2023-10-12
 domain,cfmn.info,malicious,2023-09-13
 domain,qbns.us,malicious,2023-09-26
@@ -4644,7 +4652,6 @@ domain,o6z.us,malicious,2023-10-07
 domain,kwmmb.com,malicious,2023-09-22
 domain,sxkoa.com,malicious,2023-08-30
 domain,c9j.us,malicious,2023-10-06
-domain,zv2.us,malicious,2023-07-24
 domain,j3o.us,malicious,2023-09-27
 domain,k4l.us,malicious,2023-08-07
 domain,b5k.us,malicious,2023-10-21
@@ -5034,18 +5041,6 @@ domain,dmdi.us,malicious,2023-08-24
 domain,5ag.us,malicious,2023-08-24
 domain,4hn.us,malicious,2023-08-18
 domain,5uo.us,malicious,2023-08-18
-domain,tasv.info,malicious,2023-07-23
-domain,hxiv.info,malicious,2023-07-23
-domain,zs4.us,malicious,2023-07-24
-domain,wqgw.link,malicious,2023-07-24
-domain,panq.me,malicious,2023-07-24
-domain,iqix.link,malicious,2023-07-24
-domain,tmpx.link,malicious,2023-07-24
-domain,apkj.me,malicious,2023-07-24
-domain,wibv.link,malicious,2023-07-24
-domain,yojc.link,malicious,2023-07-24
-domain,ihsa.link,malicious,2023-07-24
-domain,qtzz.me,malicious,2023-07-24
 domain,pgui.in,malicious,2023-07-26
 domain,sv0.us,malicious,2023-07-26
 domain,njzt.info,malicious,2023-07-27
@@ -5070,14 +5065,6 @@ domain,rsxa.link,malicious,2023-07-31
 domain,lrrv.link,malicious,2023-07-31
 domain,ylpt.link,malicious,2023-07-31
 domain,emaj.cc,malicious,2023-07-31
-domain,zgkp.info,malicious,2023-07-23
-domain,njmt.link,malicious,2023-07-24
-domain,rpee.link,malicious,2023-07-24
-domain,rhsd.me,malicious,2023-07-24
-domain,tocj.link,malicious,2023-07-24
-domain,kwyr.link,malicious,2023-07-24
-domain,axxd.link,malicious,2023-07-24
-domain,jbzu.me,malicious,2023-07-24
 domain,xqar.me,malicious,2023-07-26
 domain,kiyd.me,malicious,2023-07-26
 domain,wbra.me,malicious,2023-08-09
@@ -5151,16 +5138,13 @@ domain,lk1.us,malicious,2023-08-07
 domain,v1h.us,malicious,2023-08-25
 domain,k1u.us,malicious,2023-08-15
 domain,rovg.me,malicious,2023-08-17
-domain,g8f.us,malicious,2023-07-25
 domain,eu7.us,malicious,2023-08-09
 domain,fvqg.me,malicious,2023-08-17
-domain,w3k.us,malicious,2023-07-24
 domain,zh6.us,malicious,2023-08-09
 domain,pn9.us,malicious,2023-08-25
 domain,llza.me,malicious,2023-08-17
 domain,0mj.us,malicious,2023-08-25
 domain,9dt.us,malicious,2023-08-24
-domain,c1z.us,malicious,2023-07-25
 domain,df0.us,malicious,2023-08-07
 domain,cqgh.us,malicious,2023-08-24
 domain,y4o.us,malicious,2023-08-11
@@ -5184,26 +5168,21 @@ domain,jh4.us,malicious,2023-08-04
 domain,ksje.me,malicious,2023-07-30
 domain,fr0.us,malicious,2023-08-20
 domain,qwcf.cc,malicious,2023-08-09
-domain,q6w.us,malicious,2023-07-24
 domain,w5p.us,malicious,2023-08-07
 domain,nfhr.me,malicious,2023-08-17
-domain,9oj.us,malicious,2023-07-24
 domain,cx7.us,malicious,2023-07-30
 domain,0aj.us,malicious,2023-08-07
 domain,ja8.us,malicious,2023-08-23
-domain,tplz.us,malicious,2023-07-25
 domain,zgwd.website,malicious,2023-09-07
 domain,oncp.us,malicious,2023-08-20
 domain,qn3.us,malicious,2023-08-06
 domain,okyk.me,malicious,2023-08-17
 domain,0fv.us,malicious,2023-08-11
-domain,vk1.us,malicious,2023-07-25
 domain,pjqu.me,malicious,2023-08-17
 domain,e3f.us,malicious,2023-08-23
 domain,iqvx.info,malicious,2023-09-07
 domain,8gd.us,malicious,2023-08-06
 domain,yovf.website,malicious,2023-09-07
-domain,x7h.us,malicious,2023-07-25
 domain,gxad.me,malicious,2023-08-17
 domain,et7.us,malicious,2023-08-09
 domain,e0s.us,malicious,2023-08-07
@@ -5257,7 +5236,6 @@ domain,9iy.us,malicious,2023-08-25
 domain,jfhf.us,malicious,2023-08-19
 domain,otuh.me,malicious,2023-08-17
 domain,7zc.us,malicious,2023-08-19
-domain,u6i.us,malicious,2023-07-23
 domain,0bi.us,malicious,2023-07-28
 domain,0ms.us,malicious,2023-07-28
 domain,0tv.us,malicious,2023-07-28
@@ -5266,7 +5244,6 @@ domain,1hy.us,malicious,2023-07-28
 domain,1jz.us,malicious,2023-07-28
 domain,1x6.us,malicious,2023-07-28
 domain,27v.us,malicious,2023-07-28
-domain,2ky.us,malicious,2023-07-24
 domain,2ls.us,malicious,2023-07-28
 domain,3aw.us,malicious,2023-07-28
 domain,3js.us,malicious,2023-07-28
@@ -5281,7 +5258,6 @@ domain,6rc.us,malicious,2023-07-28
 domain,6re.us,malicious,2023-07-28
 domain,6sv.us,malicious,2023-07-28
 domain,6xi.us,malicious,2023-07-28
-domain,6zb.us,malicious,2023-07-24
 domain,7vh.us,malicious,2023-07-28
 domain,8ph.us,malicious,2023-07-28
 domain,8w6.us,malicious,2023-07-28
@@ -5348,7 +5324,6 @@ domain,5ax.us,malicious,2023-07-28
 domain,5cf.us,malicious,2023-07-28
 domain,5nl.us,malicious,2023-07-28
 domain,5sw.us,malicious,2023-07-28
-domain,5uf.us,malicious,2023-07-24
 domain,5ya.us,malicious,2023-07-28
 domain,6jd.us,malicious,2023-07-28
 domain,74z.us,malicious,2023-08-07
@@ -5408,7 +5383,6 @@ domain,l6c.us,malicious,2023-08-07
 domain,l8j.us,malicious,2023-08-07
 domain,l9c.us,malicious,2023-08-07
 domain,lh3.us,malicious,2023-08-07
-domain,ly0.us,malicious,2023-07-23
 domain,m7u.us,malicious,2023-08-07
 domain,mj0.us,malicious,2023-08-07
 domain,mz5.us,malicious,2023-08-07
@@ -5516,7 +5490,6 @@ domain,yjvj.me,malicious,2023-09-11
 domain,jynk.me,malicious,2023-09-12
 domain,boan.website,malicious,2023-09-08
 domain,bcmw.cc,malicious,2023-09-08
-domain,0jh.us,malicious,2023-07-23
 domain,0sc.us,malicious,2023-07-28
 domain,3gz.us,malicious,2023-07-28
 domain,5p5.us,malicious,2023-08-03
@@ -5583,11 +5556,9 @@ domain,yn7.us,malicious,2023-08-23
 domain,a0n.us,malicious,2023-08-07
 domain,b6u.us,malicious,2023-08-17
 domain,el0.us,malicious,2023-08-24
-domain,7vx.us,malicious,2023-07-24
 domain,d8w.us,malicious,2023-08-07
 domain,3fr.us,malicious,2023-07-28
 domain,zhjk.me,malicious,2023-08-17
-domain,ij6.us,malicious,2023-07-24
 domain,1zc.us,malicious,2023-08-05
 domain,ixbu.us,malicious,2023-08-20
 domain,f4o.us,malicious,2023-08-15
@@ -5620,7 +5591,6 @@ domain,nwnn.me,malicious,2023-08-17
 domain,icoh.me,malicious,2023-08-17
 domain,y6y.us,malicious,2023-08-12
 domain,m0w.us,malicious,2023-08-17
-domain,n2x.us,malicious,2023-07-24
 domain,f5v.us,malicious,2023-08-18
 domain,9yn.us,malicious,2023-08-03
 domain,zm7.us,malicious,2023-07-31
@@ -5669,7 +5639,6 @@ domain,u3z.us,malicious,2023-08-23
 domain,m6f.us,malicious,2023-08-02
 domain,0lr.us,malicious,2023-08-12
 domain,j1z.us,malicious,2023-08-25
-domain,ty9.us,malicious,2023-07-24
 domain,rz5.us,malicious,2023-08-19
 domain,ejvp.me,malicious,2023-08-17
 domain,aqnu.me,malicious,2023-08-17
@@ -5681,7 +5650,6 @@ domain,rfkh.me,malicious,2023-08-17
 domain,tq0.us,malicious,2023-08-07
 domain,xj3.us,malicious,2023-08-19
 domain,qx8.us,malicious,2023-08-25
-domain,gd9.us,malicious,2023-07-25
 domain,0bg.us,malicious,2023-07-28
 domain,0e5.us,malicious,2023-07-28
 domain,0jv.us,malicious,2023-07-28
@@ -5736,7 +5704,6 @@ domain,en6.us,malicious,2023-08-07
 domain,er5.us,malicious,2023-08-07
 domain,f4h.us,malicious,2023-08-07
 domain,f8u.us,malicious,2023-08-07
-domain,fg9.us,malicious,2023-07-25
 domain,0ii.us,malicious,2023-08-07
 domain,0rx.us,malicious,2023-07-28
 domain,0ya.us,malicious,2023-07-28
@@ -5764,7 +5731,6 @@ domain,6qa.us,malicious,2023-07-28
 domain,6vk.us,malicious,2023-07-28
 domain,6xb.us,malicious,2023-08-04
 domain,6yh.us,malicious,2023-07-28
-domain,7ac.us,malicious,2023-07-24
 domain,7l1.us,malicious,2023-08-07
 domain,7pb.us,malicious,2023-07-28
 domain,7pq.us,malicious,2023-07-28
@@ -5845,7 +5811,6 @@ domain,rs0.us,malicious,2023-08-07
 domain,rv8.us,malicious,2023-08-07
 domain,s3t.us,malicious,2023-08-07
 domain,s5n.us,malicious,2023-08-07
-domain,s7i.us,malicious,2023-07-23
 domain,sa5.us,malicious,2023-08-07
 domain,se0.us,malicious,2023-08-07
 domain,st2.us,malicious,2023-08-07
@@ -5909,7 +5874,6 @@ domain,l0m.us,malicious,2023-09-10
 domain,vspl.me,malicious,2023-09-11
 domain,pung.cc,malicious,2023-09-08
 domain,zhgh.us,malicious,2023-09-13
-domain,2er.us,malicious,2023-07-24
 domain,2ro.us,malicious,2023-07-28
 domain,4ew.us,malicious,2023-07-28
 domain,5jh.us,malicious,2023-07-28
@@ -5919,7 +5883,6 @@ domain,kh0.us,malicious,2023-08-04
 domain,nzqf.cc,malicious,2023-08-17
 domain,uikz.website,malicious,2023-09-07
 domain,ul0.us,malicious,2023-08-04
-domain,uy2.us,malicious,2023-07-23
 domain,kkul.me,malicious,2023-08-28
 domain,yf7.us,malicious,2023-08-10
 domain,gkor.me,malicious,2023-08-02
@@ -7102,19 +7065,9 @@ domain,uspostcheckio.shop,suspicious,2023-08-15
 domain,uspostcheckver.shop,suspicious,2023-08-15
 domain,usposttracsr.shop,malicious,2023-08-11
 domain,vipvsps.buzz,malicious,2023-08-07
-domain,usp-ps.pics,malicious,2023-07-23
-domain,usp.autos,malicious,2023-07-24
-domain,uspnzr.top,malicious,2023-07-25
 domain,uspgaa.top,malicious,2023-08-10
-domain,usp-ps.autos,malicious,2023-07-23
-domain,uspps.co,malicious,2023-07-23
-domain,uspps.autos,malicious,2023-07-23
-domain,usp.pics,malicious,2023-07-23
-domain,usp-ps.lol,malicious,2023-07-24
 domain,uslss.us,malicious,2023-07-26
 domain,ususem.top,malicious,2023-08-10
-domain,usp-ps.top,malicious,2023-07-23
-domain,usprom.top,malicious,2023-07-25
 domain,u-s-pus.autos,malicious,2023-07-26
 domain,owe-usps.top,malicious,2023-08-10
 domain,usposttrackar.shop,malicious,2023-08-11
@@ -8076,17 +8029,9 @@ domain,uspostcheckpo.shop,suspicious,2023-08-15
 domain,uspostcheckxyz.shop,suspicious,2023-08-15
 domain,usps-py.top,malicious,2023-09-12
 domain,usposttrackps.shop,malicious,2023-08-11
-domain,usp-ps.homes,malicious,2023-07-23
-domain,usp-ps.monster,malicious,2023-07-24
-domain,uspybo.top,malicious,2023-07-25
 domain,u-s-pus.buzz,malicious,2023-07-27
 domain,usptrackbg.top,malicious,2023-09-12
-domain,uspps.pics,malicious,2023-07-23
-domain,usp.mom,malicious,2023-07-23
-domain,usbps.pics,malicious,2023-07-24
 domain,uspybo.xyz,malicious,2023-07-26
-domain,usp-ps.one,malicious,2023-07-23
-domain,usp-ps.buzz,malicious,2023-07-23
 domain,checkusps.us,malicious,2023-07-27
 domain,usposttrackp.shop,malicious,2023-08-11
 domain,uspostchecktu.top,malicious,2023-08-26
@@ -8715,7 +8660,6 @@ domain,uspslose-hctjsy.com,malicious,2023-10-24
 domain,uspslose-fhgkju.com,malicious,2023-10-24
 domain,uspslose-hgdshk.com,malicious,2023-10-24
 domain,uspsdoc.top,malicious,2023-10-11
-domain,query-usps.shop,malicious,2023-07-23
 domain,usussr.top,malicious,2023-09-08
 domain,ususups.top,malicious,2023-09-08
 domain,ususvnh.top,malicious,2023-09-08
@@ -9485,7 +9429,6 @@ domain,usgvs.top,malicious,2023-09-27
 domain,uspkrds.top,malicious,2023-10-31
 domain,usptdsa.top,malicious,2023-11-16
 domain,uspklas.top,malicious,2023-10-30
-domain,be-postbe.top,malicious,2023-07-23
 domain,usprsus.top,malicious,2023-11-08
 domain,usafg.top,malicious,2023-10-20
 domain,usggcs.top,malicious,2023-10-25
@@ -9652,7 +9595,6 @@ domain,usdwb.top,malicious,2023-11-28
 domain,uszbasm.top,malicious,2023-10-12
 domain,usqvmlv.top,malicious,2023-10-17
 domain,usptx.top,malicious,2023-10-25
-domain,ttlk.shop,malicious,2023-07-23
 domain,xuangsaubao.xyz,malicious,2023-08-26
 domain,uspoosv.top,malicious,2023-10-28
 domain,usocute.top,malicious,2023-10-12
@@ -10017,7 +9959,6 @@ domain,uspvw.top,malicious,2023-08-17
 domain,huphs.com,malicious,2023-09-01
 domain,uspsteese.top,malicious,2023-10-06
 domain,uspsxc.com,malicious,2023-11-11
-domain,updh.top,malicious,2023-07-23
 domain,usps-team.space,malicious,2023-09-01
 domain,usppo.top,malicious,2023-08-18
 domain,uspzu.top,malicious,2023-08-18
@@ -10049,7 +9990,6 @@ domain,bxav.top,malicious,2023-08-16
 domain,uspuf.top,malicious,2023-08-19
 domain,dqfkenl.cn,malicious,2023-09-06
 domain,uspsmc.us,malicious,2023-08-11
-domain,h14i.top,malicious,2023-07-25
 domain,uspspd.us,malicious,2023-08-06
 domain,koxw.top,malicious,2023-08-07
 domain,uspsrcnt.top,malicious,2023-08-28
@@ -10061,7 +10001,6 @@ domain,uspxg.top,malicious,2023-08-17
 domain,uspsfv.us,malicious,2023-08-09
 domain,uspem.shop,malicious,2023-09-01
 domain,fast-usps.us,malicious,2023-09-03
-domain,aggq.top,malicious,2023-07-23
 domain,lxximus.cn,malicious,2023-09-06
 domain,usps-redelivery.site,malicious,2023-09-01
 domain,usuuki.top,malicious,2023-09-04
@@ -10084,7 +10023,6 @@ domain,uskrfd.top,malicious,2023-09-04
 domain,uspsra.lat,malicious,2023-08-23
 domain,orex-loisirs.com,malicious,2023-09-07
 domain,waxk.top,malicious,2023-08-03
-domain,a78p.top,malicious,2023-07-23
 domain,uspvz.top,malicious,2023-08-17
 domain,uspsjn.us,malicious,2023-08-09
 domain,uspsqd.us,malicious,2023-08-10
@@ -10136,7 +10074,6 @@ domain,usussn.top,malicious,2023-08-13
 domain,check-0rder.com,malicious,2023-09-07
 domain,df1u.org,malicious,2023-10-16
 domain,uspzn.top,malicious,2023-08-18
-domain,uspsvs.net,malicious,2023-07-23
 domain,uspsstt.top,malicious,2023-08-13
 domain,smbc-bak2.top,malicious,2023-09-07
 domain,usmkd.top,malicious,2023-09-07
@@ -10308,7 +10245,6 @@ domain,usps.posntei.top,malicious,2023-09-06
 domain,posntei.top,malicious,2023-09-02
 domain,ususmx.top,malicious,2023-08-13
 domain,uskmgj.top,malicious,2023-09-04
-domain,b4vt.top,malicious,2023-07-25
 domain,ususyb.top,malicious,2023-08-13
 domain,uspoef.top,malicious,2023-08-10
 domain,uspsqc.us,malicious,2023-08-10
@@ -10414,7 +10350,6 @@ domain,nisl0.top,malicious,2023-08-13
 domain,uspar.top,malicious,2023-08-13
 domain,uspuy.top,malicious,2023-08-19
 domain,ussukt.top,malicious,2023-09-04
-domain,connmbak.vip,malicious,2023-07-24
 domain,uspxv.top,malicious,2023-08-17
 domain,uspea.top,malicious,2023-08-14
 domain,l9mf.top,malicious,2023-08-07
@@ -10455,7 +10390,6 @@ domain,2-track.net,malicious,2023-09-07
 domain,uspskm.us,malicious,2023-08-10
 domain,ususda.top,malicious,2023-08-13
 domain,wu1rn.top,malicious,2023-10-16
-domain,query-usps.top,malicious,2023-07-23
 domain,usmhdc.top,malicious,2023-09-05
 domain,usmheq.top,malicious,2023-09-05
 domain,ussukc.top,malicious,2023-09-04
@@ -10480,7 +10414,6 @@ domain,kcx1i.top,malicious,2023-08-29
 domain,uspcz.top,malicious,2023-08-14
 domain,edi8.top,malicious,2023-09-10
 domain,uspew.top,malicious,2023-08-14
-domain,vjya.top,malicious,2023-07-25
 domain,ususuuk.top,malicious,2023-08-13
 domain,uspspostr.top,malicious,2023-08-10
 domain,usppi.top,malicious,2023-08-18
@@ -10584,7 +10517,6 @@ domain,im3ls.top,malicious,2023-10-16
 domain,uspsqw.com,malicious,2023-08-07
 domain,3guf.top,malicious,2023-08-04
 domain,usplb.top,malicious,2023-08-13
-domain,uspsvz.com,malicious,2023-07-23
 domain,inforcheck.cyou,malicious,2023-08-13
 domain,vgeq.top,malicious,2023-08-03
 domain,usps-redelivery.work,malicious,2023-09-01
@@ -10769,7 +10701,6 @@ domain,uspswh.com,malicious,2023-08-05
 domain,usythp.top,malicious,2023-09-03
 domain,uspsdv.us,malicious,2023-08-09
 domain,6pjj.top,malicious,2023-08-11
-domain,jhi7.top,malicious,2023-07-23
 domain,ustryf.top,malicious,2023-09-03
 domain,wangduoyu.me,malicious,2023-09-01
 domain,uspscq.top,malicious,2023-08-20
@@ -10787,7 +10718,6 @@ domain,uspoh.shop,malicious,2023-09-07
 domain,uspsrv.us,malicious,2023-08-08
 domain,uspzj.top,malicious,2023-08-18
 domain,uspssl.pw,malicious,2023-09-01
-domain,mytrack-usps.shop,malicious,2023-07-23
 domain,ixva.top,malicious,2023-10-16
 domain,usmheu.top,malicious,2023-09-05
 domain,uspstz.us,malicious,2023-08-28
@@ -10847,7 +10777,6 @@ domain,uspsaiq.top,malicious,2023-08-20
 domain,usps.sending-address.com,malicious,2023-09-06
 domain,ustryx.top,malicious,2023-09-03
 domain,uskmgt.top,malicious,2023-09-04
-domain,7at3.top,malicious,2023-07-23
 domain,1obs.top,malicious,2023-08-03
 domain,uskmgc.top,malicious,2023-09-04
 domain,usmhdi.top,malicious,2023-09-05
@@ -10855,7 +10784,6 @@ domain,uspyo.top,malicious,2023-08-14
 domain,uspsnk.us,malicious,2023-08-11
 domain,zua9.top,malicious,2023-09-13
 domain,uspuz.top,malicious,2023-08-19
-domain,i73o.top,malicious,2023-07-23
 domain,qexy.top,malicious,2023-08-11
 domain,uskmgy.top,malicious,2023-09-04
 domain,2xlb.top,malicious,2023-08-07
@@ -10896,8 +10824,6 @@ domain,usrqs.top,malicious,2023-09-07
 domain,uspyf.top,malicious,2023-08-16
 domain,uspyr.top,malicious,2023-08-16
 domain,uspvo.top,malicious,2023-08-17
-domain,w3ot.top,malicious,2023-07-23
-domain,akq4.top,malicious,2023-07-25
 domain,usmhda.top,malicious,2023-09-05
 domain,usmhdu.top,malicious,2023-09-05
 domain,send-packing.com,malicious,2023-08-24
@@ -11059,7 +10985,6 @@ domain,usust.top,malicious,2023-09-04
 domain,uspxb.top,malicious,2023-08-17
 domain,uspoa.top,malicious,2023-08-14
 domain,usps.press,malicious,2023-09-01
-domain,uspsvos.com,malicious,2023-07-23
 domain,nml1.org,malicious,2023-10-16
 domain,ususvj.top,malicious,2023-08-13
 domain,zhadmin.top,malicious,2023-07-30
@@ -11124,13 +11049,11 @@ domain,uspcp.top,malicious,2023-08-13
 domain,comnmbank.vip,malicious,2023-08-02
 domain,usps.send-packing.com,malicious,2023-09-06
 domain,uspck.top,malicious,2023-08-14
-domain,aqty.top,malicious,2023-07-25
 domain,uspsjf.us,malicious,2023-08-11
 domain,usps-serve.online,malicious,2023-09-01
 domain,uspsvu.top,malicious,2023-08-10
 domain,uspsmj.top,malicious,2023-08-13
 domain,uspszs-com.top,malicious,2023-08-13
-domain,rddsf.shop,malicious,2023-07-25
 domain,uspscer.top,malicious,2023-08-10
 domain,9cau.top,malicious,2023-08-11
 domain,usplw.top,malicious,2023-08-13
@@ -11252,7 +11175,6 @@ domain,uspoqq.top,malicious,2023-08-10
 domain,uspsbuvy.top,malicious,2023-08-30
 domain,usppa.top,malicious,2023-08-19
 domain,uspoxdd.top,malicious,2023-08-13
-domain,uspsxm.com,malicious,2023-07-23
 domain,uskjhzg.top,malicious,2023-09-03
 domain,awx1.top,malicious,2023-08-27
 domain,uskmgn.top,malicious,2023-09-04
@@ -11676,7 +11598,6 @@ domain,uspssx.lol,malicious,2023-08-24
 domain,nmservice-usps.shop,malicious,2023-08-26
 domain,uzsps.top,malicious,2023-10-09
 domain,usps3.cc,malicious,2023-09-29
-domain,uspsox.com,malicious,2023-07-23
 domain,uspsgx.top,malicious,2023-09-21
 domain,uspsct.top,malicious,2023-08-20
 domain,notify941.life,malicious,2023-10-19
@@ -12149,7 +12070,6 @@ domain,usps-messageservice.com,malicious,2023-10-26
 domain,usps-delivery.pro,malicious,2023-09-01
 domain,usps-fix.top,malicious,2023-10-03
 domain,uspsl.vip,malicious,2023-09-03
-domain,uspsux.com,malicious,2023-07-23
 domain,uspsod1.com,malicious,2023-08-05
 domain,usps9.cc,malicious,2023-09-29
 domain,recompose.shop,malicious,2023-11-09
