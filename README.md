@@ -1,6 +1,6 @@
 # threat-intelligence
 
-Infoblox's [Threat Intelligence Group (TIG)](https://www.infoblox.com/cyber-threat-intelligence/) detects, curates, and
+Infoblox's [Threat Intelligence Group (TIG)](https://www.infoblox.com/threat-intel/) detects, curates, and
 publishes threat intelligence data pertaining to relevant cyber campaigns. TIG is sharing indicators of compromise (IOCs)
 related to threats that are of high interest to the cyber security community through this public repository.
 The following contains descriptions about the contents of each dataset (i.e data folder). The folders within this repository
@@ -58,6 +58,8 @@ The indicators in this repo include those relevant to our publications on the th
 [Prolific Puma: Shadowy Link Shortening Service Enables Cybercrime](https://blogs.infoblox.com/cyber-threat-intelligence/prolific-puma-shadowy-link-shortening-service-enables-cybercrime/)
 
 [Open Tangle Creates a Phishing Net for Consumers](https://blogs.infoblox.com/cyber-threat-intelligence/open-tangle-creates-a-phishing-net-for-consumers/)
+
+[VIGORISH VIPER: A VENOMOUS BET](https://www.infoblox.com/threat-intel/threat-actors/vigorish-viper/)
 
 ### Additional Information
 
