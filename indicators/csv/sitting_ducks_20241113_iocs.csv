@@ -1,0 +1,57 @@
+type,indicator,classification,detected_date
+domain,successbusinesspages[.]com,malicious,2023-12-21
+domain,mstouchenaturals[.]com,malicious,2024-05-31
+domain,mpinc[.]com,malicious,2023-12-22
+domain,mcpennsylvania[.]com,malicious,2024-06-18
+domain,tmsec[.]com,malicious,2023-12-20
+domain,missouri[.]com,malicious,2024-06-21
+domain,jmnet[.]com,malicious,2023-12-20
+domain,ncbtv[.]com,malicious,2023-12-20
+domain,mosaicmedicalsupply[.]com,malicious,2024-06-18
+domain,clickermediacorp[.]com,malicious,2024-01-07
+domain,aphecalenterprises[.]com,malicious,2024-10-17
+domain,agbizwichita[.]org,malicious,2024-10-17
+domain,iccps[.]org,malicious,2023-12-22
+domain,uni-t[.]com,malicious,2024-01-28
+domain,mbhs[.]com,malicious,2023-12-28
+domain,thebagshelf[.]com,malicious,2024-06-26
+domain,antibot[.]cloud,malicious,2024-08-20
+domain,antibotcloud[.]com,malicious,2024-01-09
+domain,alhej[.]com,malicious,2024-06-18
+domain,covidianmuseum[.]com,malicious,2024-09-30
+domain,oil-poland[.]site,malicious,2023-05-18
+domain,playroom8[.]site,malicious,2024-10-21
+domain,adventsales[.]co[.]uk,malicious,2024-05-28
+domain,aventodesigns[.]com,malicious,2024-06-21
+domain,afcmanager[.]net,malicious,2024-09-17
+domain,twilliroll[.]com,malicious,2024-10-24
+domain,amikamobile[.]com,malicious,2024-05-28
+domain,affixio[.]com,malicious,2024-05-28
+domain,adztrk[.]com,malicious,2024-05-28
+domain,afarm[.]net,malicious,2024-05-28
+domain,affiliatebash[.]com,malicious,2024-06-18
+domain,vipshopevent[.]su,malicious,2024-11-12
+domain,amn[.]net,malicious,2024-10-19
+domain,avxl[.]com,malicious,2023-08-11
+domain,chargd[.]com,malicious,2023-12-22
+domain,corrc[.]com,malicious,2024-10-07
+domain,dragoncards[.]net,malicious,2024-06-18
+domain,efayn[.]com,malicious,2023-12-20
+domain,ehss[.]com,malicious,2023-12-28
+domain,antibotcloudapi[.]com,suspicious,2024-10-23
+domain,tewksenterprises[.]com,suspicious,2024-07-31
+domain,sauda-pati[.]com,suspicious,2024-07-31
+domain,xiangmanlou[.]com,suspicious,2024-07-31
+domain,fixedsights[.]com,suspicious,2024-07-31
+domain,ummatie[.]com,suspicious,2024-07-31
+domain,alonbyacarian[.]com,suspicious,2024-07-31
+domain,mygemcon[.]com,suspicious,2024-10-23
+domain,ipv4[.]mikifox[.]com ,suspicious,2024-10-23
+domain,ipv6[.]mikifox[.]com ,suspicious,2024-10-23
+domain,admin[.]mikifox[.]com ,suspicious,2024-10-23
+url,balticpipe[.]playroom8[.]site ,malicious,2024-10-21
+url,hXXps://ecole-artcom[.]com/wdown/ ,suspicious,2024-10-23
+url,hXXps://www[.]mediasimulasi[.]com/wazxd ,suspicious,2024-10-23
+url,hXXps://wercosliuhqgheirn[.]com/ ,suspicious,2024-04-21
+url,hXXps://moarhofhechtl[.]at/wp-content/plugins/image-hover-effects-addon-for-elementor/download[.]php ,suspicious,2024-10-23
+url,hXXps://antibotcloudapi[.]com/9.php ,suspicious,2024-10-23

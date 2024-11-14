@@ -623,5 +623,30 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1726562636
+  },
+  "bf89f592-eaf5-4e0e-b4dc-b0003f3e437d": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "sitting_ducks_20241113_iocs",
+    "date": "2024-11-13",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1731596606
   }
 }
