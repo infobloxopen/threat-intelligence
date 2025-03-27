@@ -648,5 +648,30 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1731596606
+  },
+  "af55d3cb-93ce-49a5-9204-dc9f98d571b6": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "morphing_meerkat_20250327",
+    "date": "2025-03-27",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1743100601
   }
 }
