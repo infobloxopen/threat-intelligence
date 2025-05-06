@@ -673,5 +673,30 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1743100601
+  },
+  "f02183b6-33a0-4a69-bc22-7a0d5b034ab6": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "pig_butchering_20250506_iocs",
+    "date": "2025-05-06",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1746481329
   }
 }
