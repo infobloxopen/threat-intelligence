@@ -37,7 +37,7 @@ share via our publications. We normally distribute our code samples under the GN
 | Field          | Description                                                                                                                                  |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | type           | The data type of the IOC. Possible options: domain, ip, url, sha256, and email.                                                              |
-| indicator      | Also known as an IOC, this analysis artifact is a piece of forensic data related to online activities regarding the Russia-Ukraine conflict. |
+| indicator      | Also known as an IOC, this analysis artifact is a piece of forensic data related to online activities. |
 | classification | Descriptive labels that explain the nature of the IOC.                                                                                       |
 | detected_date  | The value is formatted in ISO 8601 and is the date when we detected the IOC.                                                                 |
 
@@ -53,13 +53,53 @@ The indicators in this repo include those relevant to our publications on the th
 
 [Scammers First on the Scene for Türkiye's “Disaster of the Century”](https://blogs.infoblox.com/cyber-threat-intelligence/scammers-first-on-the-scene-for-turkiyes-disaster-of-the-century/)
 
-[Cybercrime Central: VexTrio Operates Massive Criminal Affiliate Program](https://blogs.infoblox.com/cyber-threat-intelligence/cybercrime-central-vextrio-operates-massive-criminal-affiliate-program/)
+[The Smish is Coming from Inside the House](https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/the-smish-is-coming-from-inside-the-house/)
 
-[Prolific Puma: Shadowy Link Shortening Service Enables Cybercrime](https://blogs.infoblox.com/cyber-threat-intelligence/prolific-puma-shadowy-link-shortening-service-enables-cybercrime/)
+[VexTrio DDGA Domains Spread Adware, Spyware, and Scam Web Forms](https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/vextrio-ddga-domains-spread-adware-spyware-and-scam-web-forms/)
+
+[Vast Malvertising Network Hijacks Browser Settings to Spread Riskware](https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/vast-malvertising-network-hijacks-browser-settings-to-spread-riskware/)
+
+[Emotet: A Malware Family That Keeps Going](https://blogs.infoblox.com/cyber-threat-intelligence/emotet-a-malware-family-that-keeps-going/)
+
+[Scams Using Fake Celebrity Endorsements Target EU Countries](https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/scams-using-fake-celebrity-endorsements-target-eu-countries/)
+
+[French Smishing Campaign Uses Fake Social Security Portal](https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/french-smishing-campaign-uses-fake-social-security-portal/)
+
+[Don’t Dial that Number! Distribution of Phishing Lookalikes through Fake Support Calls](https://blogs.infoblox.com/cyber-threat-intelligence/cyber-campaign-briefs/dont-dial-that-number-distribution-of-phishing-lookalikes-through-fake-support-calls/)
+
+[Dog Hunt: Finding Decoy Dog Toolkit via Anomalous DNS Traffic](https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/dog-hunt-finding-decoy-dog-toolkit-via-anomalous-dns-traffic/)
+
+[Decoy Dog is No Pupy (Indicators of Compromise)](https://blogs.infoblox.com/cyber-threat-intelligence/decoy-dog-is-no-ordinary-pupy-distinguishing-malware-via-dns/)
+
+[Decoy Dog is No Ordinary Pupy (Whitepaper)](https://www.infoblox.com/resources/whitepaper/decoy-dog-is-no-ordinary-pupy-distinguishing-malware-via-dns)
+
+[Suspicious DGA Domains, Discovered in DNS, Turn up in Malware Campaigns](https://blogs.infoblox.com/cyber-threat-intelligence/suspicious-dga-domains-discovered-in-dns-turn-up-in-malware-campaigns/)
 
 [Open Tangle Creates a Phishing Net for Consumers](https://blogs.infoblox.com/cyber-threat-intelligence/open-tangle-creates-a-phishing-net-for-consumers/)
 
+[Prolific Puma: Shadowy Link Shortening Service Enables Cybercrime](https://blogs.infoblox.com/cyber-threat-intelligence/prolific-puma-shadowy-link-shortening-service-enables-cybercrime/)
+
+[Your Package Can’t Be Delivered: Identifying USPS Smishing Infrastructure](https://blogs.infoblox.com/cyber-threat-intelligence/phishers-weather-the-storm-the-dns-landscape-of-us-postal-smishing-attacks/)
+
+[Cybercrime Central: VexTrio Operates Massive Criminal Affiliate Program](https://blogs.infoblox.com/cyber-threat-intelligence/cybercrime-central-vextrio-operates-massive-criminal-affiliate-program)
+
+[Beware the Shallow Waters: Savvy Seahorse Lures Victims to Fake Investment Platforms Through Facebook Ads](https://blogs.infoblox.com/cyber-threat-intelligence/beware-the-shallow-waters-savvy-seahorse-lures-victims-to-fake-investment-platforms-through-facebook-ads/)
+
+[RDGAs: The Next Chapter In Domain Generation Algorithms](https://blogs.infoblox.com/threat-intelligence/rdgas-the-next-chapter-in-domain-generation-algorithms/)
+
 [VIGORISH VIPER: A VENOMOUS BET](https://www.infoblox.com/threat-intel/threat-actors/vigorish-viper/)
+
+[LET'S BE CAREFUL OUT THERE](https://blogs.infoblox.com/threat-intelligence/lets-be-careful-out-there/)
+
+[NO, ELON MUSK WAS NOT IN THE U.S. PRESIDENTIAL DEBATE](https://blogs.infoblox.com/threat-intelligence/no-elon-musk-was-not-in-the-us-presidential-debate/)
+
+[DNS PREDATORS ATTACK: VIPERS AND HAWKS HIJACK SITTING DUCKS DOMAINS](https://insights.infoblox.com/resources-research-report/infoblox-research-report-dns-predators-attack-vipers-hawks-hijack-sitting-ducks-domains)
+
+[A PHISHING TALE OF DOH AND DNS MX ABUSE](https://blogs.infoblox.com/threat-intelligence/a-phishing-tale-of-doh-and-dns-mx-abuse/)
+
+[TELEGRAM TANGO: DANCING WITH A SCAMMER](https://blogs.infoblox.com/threat-intelligence/telegram-tango-dancing-with-a-scammer/)
+
+[CLOUDY WITH A CHANCE OF HIJACKING. FORGOTTEN DNS RECORDS ENABLE SCAN ACTORS](https://blogs.infoblox.com/threat-intelligence/cloudy-with-a-chance-of-hijacking-forgotten-dns-records-enable-scam-actor/)
 
 ### Additional Information
 
