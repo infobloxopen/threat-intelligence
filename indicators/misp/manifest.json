@@ -698,5 +698,30 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1746481329
+  },
+  "8fdc25b2-be01-4f81-86fd-90342f78c4cf": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "hazy_hawk_20250520_iocs",
+    "date": "2025-05-20",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1747749868
   }
 }
