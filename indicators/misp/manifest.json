@@ -723,5 +723,30 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1747749868
+  },
+  "46fe4d4c-c036-4f67-838f-4f7ae78ee6c8": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "malicious_adtech_20250612_iocs",
+    "date": "2025-06-12",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1749747994
   }
 }
