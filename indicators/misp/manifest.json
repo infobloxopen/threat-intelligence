@@ -798,5 +798,30 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1757722303
+  },
+  "d83c5966-efe8-45c2-92e4-e9eb1b9fb8fd": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "detour_dog_20250930_iocs",
+    "date": "2025-09-30",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1759180721
   }
 }
