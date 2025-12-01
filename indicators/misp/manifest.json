@@ -848,5 +848,30 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1760018196
+  },
+  "a8a516f1-613c-4f74-abc0-1f9abb615af7": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "evilginx_20251201",
+    "date": "2025-12-01",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1764612438
   }
 }
