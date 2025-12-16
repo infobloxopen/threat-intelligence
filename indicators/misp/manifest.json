@@ -873,5 +873,30 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1764612438
+  },
+  "c166c077-13fc-4265-86c4-731dee06ad8a": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "decoy_parking_20251216_iocs",
+    "date": "2025-12-16",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1765843082
   }
 }
