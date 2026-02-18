@@ -101,6 +101,8 @@ The indicators in this repo include those relevant to our publications on the th
 
 [CLOUDY WITH A CHANCE OF HIJACKING. FORGOTTEN DNS RECORDS ENABLE SCAN ACTORS](https://blogs.infoblox.com/threat-intelligence/cloudy-with-a-chance-of-hijacking-forgotten-dns-records-enable-scam-actor/)
 
+[BANNERS, BOTS AND BUTCHERS: AN AUTOMATED LONG CON TARGETING JAPAN, ASIA, AND BEYOND](https://www.infoblox.com/blog/threat-intelligence/banners-bots-and-butchers-an-automated-long-con-targeting-japan-asia-and-beyond/)
+
 ### Additional Information
 
 Infoblox customers can find additional detailed information about the decision criteria for a given indicator in the `notes`
