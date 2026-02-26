@@ -898,5 +898,55 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1765843082
+  },
+  "9ffe100e-899f-455d-9c73-476c8dad5b21": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "banners_bots_butchers_20260217",
+    "date": "2026-02-17",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1771345559
+  },
+  "9fafa7da-11b5-4b72-80ed-e9c2bdffdafd": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "abusing_arpa_20260226",
+    "date": "2026-02-26",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1772042741
   }
 }
