@@ -948,5 +948,30 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1772523572
+  },
+  "3315ed57-0ad9-4d80-8940-bbdd9cb19098": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "keitaro_abuse_20260319",
+    "date": "2026-03-19",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1773876615
   }
 }
