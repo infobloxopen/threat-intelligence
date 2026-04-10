@@ -101,7 +101,19 @@ The indicators in this repo include those relevant to our publications on the th
 
 [CLOUDY WITH A CHANCE OF HIJACKING. FORGOTTEN DNS RECORDS ENABLE SCAN ACTORS](https://blogs.infoblox.com/threat-intelligence/cloudy-with-a-chance-of-hijacking-forgotten-dns-records-enable-scam-actor/)
 
-[BANNERS, BOTS AND BUTCHERS: AN AUTOMATED LONG CON TARGETING JAPAN, ASIA, AND BEYOND](https://www.infoblox.com/blog/threat-intelligence/banners-bots-and-butchers-an-automated-long-con-targeting-japan-asia-and-beyond/)
+[Deniability by Design: DNS-Driven Insights into a Malicious Ad Network](https://www.infoblox.com/blog/threat-intelligence/deniability-by-design-dns-driven-insights-into-a-malicious-ad-network/)
+
+[Banners, Bots and Butchers: The Automated Long Con Targeting Japan, Asia, and Beyond](https://www.infoblox.com/blog/threat-intelligence/banners-bots-and-butchers-an-automated-long-con-targeting-japan-asia-and-beyond/)
+
+[Abusing .arpa: The TLD That Isn’t Supposed to Host Anything](https://www.infoblox.com/blog/threat-intelligence/abusing-arpa-the-tld-that-isnt-supposed-to-host-anything/)
+
+[Inside Keitaro Abuse: A Persistent Stream of AI-Driven Investment Scams](https://www.infoblox.com/blog/threat-intelligence/inside-keitaro-abuse-a-persistent-stream-of-ai-driven-investment-scams/)
+
+[No Reach, No Risk: The Keitaro Abuse in Modern Cybercrime Distribution](https://www.infoblox.com/blog/threat-intelligence/no-reach-no-risk-the-keitaro-abuse-in-modern-cybercrime-distribution/)
+
+[Patterns, Pirates, and Provider Action: What We Learned Working with Keitaro](https://www.infoblox.com/blog/threat-intelligence/patterns-pirates-and-provider-action-what-we-learned-working-with-keitaro/)
+
+[Scams, Slaves and (Malware-as-a) Service: Tracking a Trojan to Cambodia’s Scam Centers](https://www.infoblox.com/blog/threat-intelligence/scams-slaves-and-malware-as-a-service-tracking-a-trojan-to-cambodias-scam-centers/)
 
 ### Additional Information
 
