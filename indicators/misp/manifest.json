@@ -998,5 +998,30 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1774930714
+  },
+  "ad30bc11-6266-4e59-b602-244ef92bbc9b": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "apac_banking_trojan_20260410",
+    "date": "2026-04-10",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1775793064
   }
 }
