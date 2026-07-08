@@ -1123,5 +1123,30 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1782753728
+  },
+  "0985427f-ab14-4acb-b62f-d56529114048": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "lurking_lizard_20260707_iocs",
+    "date": "2026-07-07",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1783434180
   }
 }
