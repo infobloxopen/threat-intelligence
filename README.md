@@ -119,6 +119,8 @@ The indicators in this repo include those relevant to our publications on the th
 
 [From San Pedro To Salinas: How A Chinese Framework "DCloud Uni-App" Powers A Global Scam Economy](https://www.infoblox.com/blog/threat-intelligence/from-san-pedro-to-salinas-how-a-chinese-framework-dcloud-uni-app-powers-a-global-scam-economy/)
 
+[Fake Installers, Fake Reviews, Fake Services - Real Proxies, Real Victims](https://www.infoblox.com/blog/threat-intelligence/fake-installers-fake-reviews-fake-services-real-proxies-real-victims/)
+
 ### Additional Information
 
 Infoblox customers can find additional detailed information about the decision criteria for a given indicator in the `notes`
