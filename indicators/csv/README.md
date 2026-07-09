@@ -2,6 +2,7 @@ Infoblox produces Cyber Threat Advisories to provide analysis of significant thr
 
 This folder contains IOCs related to our publications [here](https://blogs.infoblox.com/category/cyber-threat-intelligence/cyber-threat-advisory/).
 
+Adding a new CSV here? See [`docs/HOW-TO-GUIDE.md`](../../docs/HOW-TO-GUIDE.md) — you'll also need to add a row below and a link in the top-level [`README.md`](../../README.md) in the same PR (enforced by CI).
 
 ###### Publications
 | Date (YYYY-MM-DD) | Title                                                                                                     | Paper URL                                                                                                                                                    | Data File                                                                                                             |
