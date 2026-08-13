@@ -123,6 +123,8 @@ The indicators in this repo include those relevant to our publications on the th
 
 [$7 Million in Expired Domains Fuel a Streaming Empire with a Malware Secret](https://www.infoblox.com/blog/threat-intelligence/7-million-in-expired-domains-fuel-a-streaming-empire-with-a-malware-secret/)
 
+[Dropcatch Scavengers: Expired Malicious Domains Become Cash Cows](https://www.infoblox.com/blog/threat-intelligence/dropcatch-scavengers-expired-malicious-domains-become-cash-cows/)
+
 ### Additional Information
 
 Infoblox customers can find additional detailed information about the decision criteria for a given indicator in the `notes`
