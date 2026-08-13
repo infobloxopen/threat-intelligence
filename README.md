@@ -121,6 +121,8 @@ The indicators in this repo include those relevant to our publications on the th
 
 [Fake Installers, Fake Reviews, Fake Services - Real Proxies, Real Victims](https://www.infoblox.com/blog/threat-intelligence/fake-installers-fake-reviews-fake-services-real-proxies-real-victims/)
 
+[$7 Million in Expired Domains Fuel a Streaming Empire with a Malware Secret](https://www.infoblox.com/blog/threat-intelligence/7-million-in-expired-domains-fuel-a-streaming-empire-with-a-malware-secret/)
+
 ### Additional Information
 
 Infoblox customers can find additional detailed information about the decision criteria for a given indicator in the `notes`

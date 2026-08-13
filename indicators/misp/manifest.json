@@ -474,31 +474,6 @@
     "threat_level_id": 1,
     "timestamp": 1715767151
   },
-  "768aec5a-8e1e-4a7c-bbce-39ce7ce458d4": {
-    "Orgc": {
-      "name": "Infoblox",
-      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
-    },
-    "Tag": [
-      {
-        "colour": "#ffffff",
-        "local": false,
-        "name": "tlp:clear",
-        "relationship_type": ""
-      },
-      {
-        "colour": "#ff00ff",
-        "local": false,
-        "name": "infoblox",
-        "relationship_type": ""
-      }
-    ],
-    "info": "rdga_20240717",
-    "date": "2024-07-17",
-    "analysis": 2,
-    "threat_level_id": 1,
-    "timestamp": 1721261554
-  },
   "454d994e-c027-4fb1-9be0-b58d815bdf3a": {
     "Orgc": {
       "name": "Infoblox",
@@ -949,31 +924,6 @@
     "threat_level_id": 1,
     "timestamp": 1772523572
   },
-  "3315ed57-0ad9-4d80-8940-bbdd9cb19098": {
-    "Orgc": {
-      "name": "Infoblox",
-      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
-    },
-    "Tag": [
-      {
-        "colour": "#ffffff",
-        "local": false,
-        "name": "tlp:clear",
-        "relationship_type": ""
-      },
-      {
-        "colour": "#ff00ff",
-        "local": false,
-        "name": "infoblox",
-        "relationship_type": ""
-      }
-    ],
-    "info": "keitaro_abuse_20260319",
-    "date": "2026-03-19",
-    "analysis": 2,
-    "threat_level_id": 1,
-    "timestamp": 1773876615
-  },
   "9e1c2676-a131-46c1-8e28-e2ab8a0b3cb8": {
     "Orgc": {
       "name": "Infoblox",
@@ -1148,5 +1098,30 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1783434180
+  },
+  "89fdd1a2-f731-40ca-9d13-8572fa3c4d81": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "sable_squirrel_20260813_iocs",
+    "date": "2026-08-13",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1786635924
   }
 }
