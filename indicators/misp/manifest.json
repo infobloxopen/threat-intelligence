@@ -1123,5 +1123,30 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1786635924
+  },
+  "2e259cec-4fdb-4f25-88de-c51c4c18c854": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "drop_catch_iii_20260813",
+    "date": "2026-08-13",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1786640225
   }
 }
