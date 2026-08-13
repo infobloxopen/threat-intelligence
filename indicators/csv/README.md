@@ -2,6 +2,7 @@ Infoblox produces Cyber Threat Advisories to provide analysis of significant thr
 
 This folder contains IOCs related to our publications [here](https://blogs.infoblox.com/category/cyber-threat-intelligence/cyber-threat-advisory/).
 
+Adding a new CSV here? See [`docs/HOW-TO-GUIDE.md`](../../docs/HOW-TO-GUIDE.md) — you'll also need to add a row below and a link in the top-level [`README.md`](../../README.md) in the same PR (enforced by CI).
 
 ###### Publications
 | Date (YYYY-MM-DD) | Title                                                                                                     | Paper URL                                                                                                                                                    | Data File                                                                                                             |
@@ -44,3 +45,4 @@ This folder contains IOCs related to our publications [here](https://blogs.infob
 | 2026-04-23        | HOLD THE PHONE! INTERNATIONAL REVENUE SHARE FRAUD DRIVEN BY FAKE CAPTCHAS                                               | https://www.infoblox.com/blog/threat-intelligence/hold-the-phone-international-revenue-share-fraud-driven-by-fake-captchas/ | https://github.com/infobloxopen/threat-intelligence/tree/main/indicators/csv/fake_captcha_20260423_iocs.csv |
 | 2026-06-29        | FIRST REAL VOLTASTEALER MALWARE SAMPLE DISCOVERED IN THE WILD                                               | https://infosec.exchange/@InfobloxThreatIntel/116834079630750727 | https://github.com/infobloxopen/threat-intelligence/tree/main/indicators/csv/volta_stealer_20260629_iocs.csv |
 | 2026-07-07        | FAKE INSTALLERS, FAKE REVIEWS, FAKE SERVICES - REAL PROXIES, REAL VICTIMS                                               | https://www.infoblox.com/blog/threat-intelligence/fake-installers-fake-reviews-fake-services-real-proxies-real-victims/ | https://github.com/infobloxopen/threat-intelligence/tree/main/indicators/csv/lurking_lizard_20260707_iocs.csv |
+| 2026-08-13        | $7 MILLION IN EXPIRED DOMAINS FUEL A STREAMING EMPIRE WITH A MALWARE SECRET                                               | https://www.infoblox.com/blog/threat-intelligence/7-million-in-expired-domains-fuel-a-streaming-empire-with-a-malware-secret/ | https://github.com/infobloxopen/threat-intelligence/tree/main/indicators/csv/sable_squirrel_20260813_iocs.csv |
