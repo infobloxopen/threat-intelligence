@@ -15,11 +15,11 @@ domain,appcasino[.]online ,malicious
 domain,summer138[.]fit ,malicious
 domain,storebet77[.]support ,malicious
 domain,realz[.]com ,malicious
-domain,vip311[.]cc – Decoy domain ,malicious
+domain,vip311[.]cc,malicious
 domain,cache-cdn[.]org ,malicious
 domain,cache-mcp[.]com ,malicious
 domain,mcp-source[.]online ,malicious
-domain,asg78[.]com – Decoy domain ,malicious
+domain,asg78[.]com,malicious
 domain,githubassets[.]net ,malicious
 IP,157[.]185[.]143[.]150 ,malicious
 IP,146[.]103[.]91[.]133 ,malicious
