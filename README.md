@@ -125,6 +125,8 @@ The indicators in this repo include those relevant to our publications on the th
 
 [Dropcatch Scavengers: Expired Malicious Domains Become Cash Cows](https://www.infoblox.com/blog/threat-intelligence/dropcatch-scavengers-expired-malicious-domains-become-cash-cows/)
 
+[Inside Help TDS: Hotejka, Cloudflare Pages, and Predictive Detection](https://www.infoblox.com/blog/threat-intelligence/inside-help-tds-hotejka-cloudflare-pages-and-predictive-detection/)
+
 ### Additional Information
 
 Infoblox customers can find additional detailed information about the decision criteria for a given indicator in the `notes`
