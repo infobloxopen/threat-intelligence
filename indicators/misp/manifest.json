@@ -1148,5 +1148,30 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1786640225
+  },
+  "1d8d0670-4144-4c1b-a3a9-2010ee714291": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "help_tds_hotejka_20261015_iocs",
+    "date": "2026-10-15",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1792072579
   }
 }
