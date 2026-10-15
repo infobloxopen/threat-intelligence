@@ -127,6 +127,8 @@ The indicators in this repo include those relevant to our publications on the th
 
 [Inside Help TDS: Hotejka, Cloudflare Pages, and Predictive Detection](https://www.infoblox.com/blog/threat-intelligence/inside-help-tds-hotejka-cloudflare-pages-and-predictive-detection/)
 
+[How Money Laundering, Scams, and Espionage Hide in a Web Full of Casino Garbage](https://www.infoblox.com/blog/threat-intelligence/how-money-laundering-scams-and-espionage-hide-in-a-web-full-of-casino-garbage/)
+
 ### Additional Information
 
 Infoblox customers can find additional detailed information about the decision criteria for a given indicator in the `notes`
