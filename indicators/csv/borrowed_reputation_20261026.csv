@@ -1,0 +1,10 @@
+type,indicator,classification,detected_date
+domain,mikale[.]me,malicious,2026-10-26
+domain,hinkale[.]me,malicious,2026-10-26
+domain,imgmahasuhu[.]io,malicious,2026-10-26
+domain,imghaxor[.]io,malicious,2026-10-26
+domain,imgstore[.]io,malicious,2026-10-26
+domain,d9d9t8dndf89z[.]cloudfront[.]net,malicious,2026-10-26
+domain,search-maharashtra-gov-in[.]b-cdn[.]net,malicious,2026-10-26
+domain,games-maharashtra-gov-in[.]b-cdn[.]net,malicious,2026-10-26
+domain,maharashtra-gov-in[.]b-cdn[.]net,malicious,2026-10-26
