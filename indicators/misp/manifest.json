@@ -1223,5 +1223,30 @@
     "analysis": 2,
     "threat_level_id": 1,
     "timestamp": 1793025275
+  },
+  "a349c9a5-6177-4844-b33e-1a9b5ef54d21": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "d1c6a726-f132-4ddc-8180-ce3a5b778e65"
+    },
+    "Tag": [
+      {
+        "colour": "#ffffff",
+        "local": false,
+        "name": "tlp:clear",
+        "relationship_type": ""
+      },
+      {
+        "colour": "#ff00ff",
+        "local": false,
+        "name": "infoblox",
+        "relationship_type": ""
+      }
+    ],
+    "info": "ultra_trail_20261030_iocs",
+    "date": "2026-10-30",
+    "analysis": 2,
+    "threat_level_id": 1,
+    "timestamp": 1793393099
   }
 }
