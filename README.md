@@ -129,6 +129,8 @@ The indicators in this repo include those relevant to our publications on the th
 
 [How Money Laundering, Scams, and Espionage Hide in a Web Full of Casino Garbage](https://www.infoblox.com/blog/threat-intelligence/how-money-laundering-scams-and-espionage-hide-in-a-web-full-of-casino-garbage/)
 
+[Borrowed Reputation: Domain Shadowing and Gambling SEO](https://www.infoblox.com/blog/threat-intelligence/borrowed-reputation-domain-shadowing-and-gambling-seo/)
+
 ### Additional Information
 
 Infoblox customers can find additional detailed information about the decision criteria for a given indicator in the `notes`
