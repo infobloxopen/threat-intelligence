@@ -131,6 +131,8 @@ The indicators in this repo include those relevant to our publications on the th
 
 [Borrowed Reputation: Domain Shadowing and Gambling SEO](https://www.infoblox.com/blog/threat-intelligence/borrowed-reputation-domain-shadowing-and-gambling-seo/)
 
+[Dark Side of the PhaaS: The Backend Services Powering Stolen Device Unlocks](https://www.infoblox.com/blog/threat-intelligence/2026/11/dark-side-of-the-phaas-the-backend-services-powering-stolen-device-unlocks)
+
 ### Additional Information
 
 Infoblox customers can find additional detailed information about the decision criteria for a given indicator in the `notes`

@@ -1,0 +1,4 @@
+type,indicator,classification,detected_date
+domain,qbcares[.]com,malicious,2026-10-30
+sha256,28f046d9f985e58cbc8b245b54d4179feacecc12f41e2f6594306867ce3e8727,malicious,2026-10-30
+sha256,9e1a679ca45a149d2bd681cbb8ec3b1cc3d271fad51b092a3db5e5642eb6676b,malicious,2026-10-30
